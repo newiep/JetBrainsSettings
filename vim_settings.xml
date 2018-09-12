@@ -72,7 +72,7 @@
         <mark key="." line="171" column="75" />
       </file>
       <file name="$USER_HOME$/Works/shequ.admin/htdocs/index.php" timestamp="1536655491106" />
-      <file name="$USER_HOME$/Works/wengweng/www2011/htdocs/weng/api.php" timestamp="1536741548411">
+      <file name="$USER_HOME$/Works/wengweng/www2011/htdocs/weng/api.php" timestamp="1536744241263">
         <mark key="[" line="261" column="0" />
         <mark key="]" line="261" column="0" />
         <mark key="." line="261" column="0" />
@@ -121,9 +121,17 @@
       <file name="$USER_HOME$/Works/user/www2011/include/wo/CWoApp.php" timestamp="1536739345078" />
       <file name="$USER_HOME$/Works/wengs/facade/inner/Home.php" timestamp="1536637947638" />
       <file name="$USER_HOME$/Works/wengs/weng/Dao.php" timestamp="1536664387491" />
+      <file name="$USER_HOME$/Works/wengweng/deprecated_api_log.md" timestamp="1536744531696">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Works/wengs/weng/ExtApi.php" timestamp="1536652497960" />
       <file name="$USER_HOME$/Works/wengs/Conf.php" timestamp="1536653153094" />
       <file name="$USER_HOME$/Works/ko/tool/Adapter.php" timestamp="1536717387825" />
+      <file name="$USER_HOME$/Works/wengweng/www2011/htdocs/weng/ajax_weng_album.php" timestamp="1536744305823">
+        <mark key="[" line="49" column="5" />
+        <mark key="]" line="49" column="5" />
+        <mark key="." line="49" column="5" />
+      </file>
       <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/weng/detail.php" timestamp="1536729471137">
         <mark key="[" line="2" column="40" />
       </file>
@@ -273,8 +281,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CgkgICAgLy91cmwgOiB3d3cubWFmZW5nd28uY24v</text>
       </register>
       <register name="-" type="4">
         <text>echo 1;die;</text>
@@ -285,8 +293,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2lkJyAgICAgICAgICAgPT4gWyd0eXBlJyA9PiAnaW50ZWdlciddLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgkgICAgLy91cmwgOiB3d3cubWFmZW5nd28uY24v</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -297,28 +305,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
-      <register name="4" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCgkgICAgXGFwcHNcd2VuZ3NcTUZhY2FkZV9Ub29sOjpsb2dUcmFjZSgpOwo9PT09PT09</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCgo9PT09PT09CiAgICAgICAgCj4+Pj4+Pj4gU3Rhc2hlZCBjaGFuZ2VzCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">PT09PT09PQogICAgICAgIFxhcHBzXHdlbmdzXE1GYWNhZGVfVG9vbDo6bG9nVHJhY2UoKTsKPj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL+a3u+WKoOaOpeWPo+iwg+eUqOaXpeW/lwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAgICAvL+a3u+WKoOaOpeWPo+iwg+eUqOaXpeW/lwo=</text>
+        <text encoding="base64">ICAgICAgICAvL+a3u+WKoOaOpeWPo+iwg+eUqOaXpeW/lwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
