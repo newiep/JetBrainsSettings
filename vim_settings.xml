@@ -17,18 +17,20 @@
         <mark key="]" line="38" column="43" />
         <mark key="." line="38" column="43" />
       </file>
-      <file name="$USER_HOME$/Works/outdated/www2011/conf/site/all.ini" timestamp="1536755080914" />
+      <file name="$USER_HOME$/Works/outdated/www2011/conf/site/all.ini" timestamp="1536801571529" />
+      <file name="$USER_HOME$/Works/outdated/www2011/include/autoload.php" timestamp="1536803336654" />
       <file name="$USER_HOME$/Works/wengs/user/HomeApi.php" timestamp="1536644965108" />
       <file name="$USER_HOME$/Works/shequ/www2011/include/shequ/menu/Api.php" timestamp="1536656826292" />
       <file name="$USER_HOME$/Works/wengs/admin/htdocs/audit.php" timestamp="1536634429614" />
       <file name="$USER_HOME$/Works/wengs/weng/Api.php" timestamp="1536653095210" />
       <file name="$USER_HOME$/Works/wengs/admin/Admin.php" timestamp="1536644761561" />
       <file name="$USER_HOME$/Works/wengs/multimedia/Api.php" timestamp="1536661793126" />
-      <file name="$USER_HOME$/Works/ko/busi/Api.php" timestamp="1536655704962" />
+      <file name="$USER_HOME$/Works/ko/busi/Api.php" timestamp="1536802157746" />
       <file name="$USER_HOME$/Works/ko/tool/Debug.php" timestamp="1536635237955" />
       <file name="$USER_HOME$/Works/wengs/Container.php" timestamp="1536637918968" />
+      <file name="$USER_HOME$/Works/ko/ko.class.php" timestamp="1536804208160" />
       <file name="$USER_HOME$/Works/ko/tool/Logger.php" timestamp="1536634986128" />
-      <file name="$USER_HOME$/Works/ko/tool/Object.php" timestamp="1536663702076" />
+      <file name="$USER_HOME$/Works/ko/tool/Object.php" timestamp="1536804720574" />
       <file name="$USER_HOME$/Works/ko/tool/Option.php" timestamp="1536719236256" />
       <file name="$USER_HOME$/Works/codehook/conf/pathmap.php" timestamp="1536754776058" />
       <file name="$USER_HOME$/Works/wengs/proxy/Log.php" timestamp="1536645296036" />
@@ -45,7 +47,8 @@
       <file name="$USER_HOME$/Works/msg/www2011/include/msg/Facade.php" timestamp="1536654081766" />
       <file name="$USER_HOME$/Works/wengs/user/WengApi.php" timestamp="1536638007140" />
       <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/weng/ajax_mdd_wengs.php" timestamp="1536749663390" />
-      <file name="$USER_HOME$/Works/ko/busi/Func.php" timestamp="1536663548547" />
+      <file name="$USER_HOME$/Works/ko/busi/Func.php" timestamp="1536802167569" />
+      <file name="$USER_HOME$/Works/wengweng/www2011/template/weng/index.html" timestamp="1536805301771" />
       <file name="$USER_HOME$/Works/wengs/log/event/Runtime.php" timestamp="1536645702137" />
       <file name="$USER_HOME$/Works/shequ.admin/htdocs/system/ajax.php" timestamp="1536656864534" />
       <file name="$USER_HOME$/Works/msg/www2011/include/msg/msgSpecialMergeApi.php" timestamp="1536654285825" />
@@ -65,6 +68,7 @@
       <file name="$USER_HOME$/Works/wengs/mapi/Mdd.php" timestamp="1536649127730" />
       <file name="$USER_HOME$/Works/ko/web/Bootstrap.php" timestamp="1536730728908" />
       <file name="$USER_HOME$/Works/ko/tool/Singleton.php" timestamp="1536635069599" />
+      <file name="$USER_HOME$/Works/user/www2011/include/friend/friendApi.php" timestamp="1536805121576" />
       <file name="$USER_HOME$/Works/wengweng/apps/weng/universal/topic/recommend/facade/MddApi.php" timestamp="1536722113484" />
       <file name="$USER_HOME$/Works/ko/tool/Module.php" timestamp="1536730982198" />
       <file name="$USER_HOME$/Works/wengs/facade/Queue.php" timestamp="1536714510490" />
@@ -80,13 +84,14 @@
         <mark key="]" line="171" column="75" />
         <mark key="." line="171" column="75" />
       </file>
+      <file name="$USER_HOME$/Works/outdated/www2011/include/CFriend.php" timestamp="1536804900385" />
       <file name="$USER_HOME$/Works/shequ.admin/htdocs/index.php" timestamp="1536655491106" />
       <file name="$USER_HOME$/Works/wengweng/www2011/htdocs/weng/api.php" timestamp="1536747450538">
         <mark key="[" line="725" column="0" />
         <mark key="]" line="725" column="0" />
         <mark key="." line="725" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/wengweng/www2011/htdocs/weng/index.php" timestamp="1536800513735">
+      <file name="$USER_HOME$/Works/wengweng/www2011/htdocs/weng/index.php" timestamp="1536805401044">
         <mark key="[" line="36" column="5" />
       </file>
       <file name="$USER_HOME$/Works/wengs/facade/inner/InfoFlow.php" timestamp="1536644638300" />
@@ -104,6 +109,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Works/wengweng/www2011/template/weng/nav.html" timestamp="1536805365244" />
       <file name="$USER_HOME$/Works/wengs/admin/htdocs/majia.php" timestamp="1536630865983" />
       <file name="$USER_HOME$/Works/ko/web/Route.php" timestamp="1536731013968" />
       <file name="$USER_HOME$/Works/message/model/Dao.php" timestamp="1536628633296" />
@@ -123,9 +129,10 @@
       <file name="$USER_HOME$/Works/wengweng/www2011/htdocs/weng/notice.php" timestamp="1536741858901" />
       <file name="$USER_HOME$/Works/wengs/admin/Music.php" timestamp="1536629082112" />
       <file name="$USER_HOME$/Works/wengs/weng/ContentApi.php" timestamp="1536651568266" />
-      <file name="/PHP Console" timestamp="1536800509436">
+      <file name="/PHP Console" timestamp="1536805882533">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Works/user/www2011/include/friend/Dao.php" timestamp="1536804888712" />
       <file name="$USER_HOME$/Works/outdated/www2011/include/CBaseApp.php" timestamp="1536733224734" />
       <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/weng/happening.php" timestamp="1536754611093" />
       <file name="$USER_HOME$/Works/ko/tool/Log.php" timestamp="1536634849653" />
@@ -136,7 +143,7 @@
         <mark key="]" line="86" column="48" />
         <mark key="." line="86" column="48" />
       </file>
-      <file name="$USER_HOME$/Works/user/www2011/include/wo/CWoApp.php" timestamp="1536739345078" />
+      <file name="$USER_HOME$/Works/user/www2011/include/wo/CWoApp.php" timestamp="1536805558669" />
       <file name="$USER_HOME$/Works/wengs/facade/inner/Home.php" timestamp="1536637947638" />
       <file name="$USER_HOME$/Works/wengs/weng/Dao.php" timestamp="1536664387491" />
       <file name="$USER_HOME$/Works/wengweng/deprecated_api_log.md" timestamp="1536744531696">
@@ -153,15 +160,9 @@
       <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/weng/detail.php" timestamp="1536755095509">
         <mark key="[" line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/Works/wengweng/www2011/htdocs/weng/detail.php" timestamp="1536746886255">
-        <mark key="[" line="211" column="0" />
-        <mark key="]" line="211" column="0" />
-        <mark key="." line="211" column="0" />
-      </file>
       <file name="$USER_HOME$/Works/wengs/weng/DataApi.php" timestamp="1536663684198" />
       <file name="$USER_HOME$/Works/wengs/admin/htdocs/dalao.php" timestamp="1536664938495" />
       <file name="$USER_HOME$/Works/shequ/www2011/include/shequ/menu/Dao.php" timestamp="1536656631749" />
-      <file name="$USER_HOME$/Works/wengweng/www2011/template/ww/weng.tpl" timestamp="1536745546179" />
       <file name="$USER_HOME$/Works/wengweng/mobile/template/ww/header.tpl" timestamp="1536747528173" />
       <file name="$USER_HOME$/Works/ko/dao/Factory.php" timestamp="1536733463364">
         <mark key="[" line="31" column="5" />
