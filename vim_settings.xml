@@ -4,9 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Works/manual-script/201804/sales/coupon/CountCouponUser.php" timestamp="1536632906798" />
-      <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/admin/add_weng_tag.v1.php" timestamp="1536818813399">
-        <mark key="[" line="9" column="29" />
-      </file>
       <file name="$USER_HOME$/Works/wengs/base/Log.php" timestamp="1537147772594" />
       <file name="$USER_HOME$/Works/wengs/admin/htdocs/edit.php" timestamp="1536650807924" />
       <file name="$USER_HOME$/Works/rss/App.php" timestamp="1537166424406" />
@@ -21,6 +18,7 @@
       <file name="$USER_HOME$/Works/wengs/multimedia/Api.php" timestamp="1536661793126" />
       <file name="$USER_HOME$/Works/wengs/Container.php" timestamp="1536637918968" />
       <file name="$USER_HOME$/Works/ko/ko.class.php" timestamp="1536804208160" />
+      <file name="$USER_HOME$/Works/wengs/weng/SelectionApi.php" timestamp="1537243965594" />
       <file name="$USER_HOME$/Works/ko/tool/Logger.php" timestamp="1536634986128" />
       <file name="$USER_HOME$/Works/wengs/tag/Item.php" timestamp="1537172993875" />
       <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/signature/upload_user_signature.v1.php" timestamp="1536819663816">
@@ -56,6 +54,7 @@
         <mark key="." line="11" column="54" />
       </file>
       <file name="$USER_HOME$/Works/wengs/common/Dao.php" timestamp="1536663097787" />
+      <file name="$USER_HOME$/Works/wengs/mapi/User.php" timestamp="1537244000625" />
       <file name="$USER_HOME$/Works/wengs/rest/weng_exp/publish/publish_weng.v1.php" timestamp="1536715339862" />
       <file name="$USER_HOME$/Works/outdated/www2011/include/CAjaxMobileApp.php" timestamp="1537154932457" />
       <file name="$USER_HOME$/Works/ko/tool/Utils.php" timestamp="1536656730523" />
@@ -104,7 +103,11 @@
       <file name="$USER_HOME$/Works/message/model/Dao.php" timestamp="1536628633296" />
       <file name="$USER_HOME$/Works/shequ.admin/htdocs/sysloadlevel.php" timestamp="1536655605412" />
       <file name="$USER_HOME$/Works/ko/app/RoutePage.php" timestamp="1537174189118" />
-      <file name="$USER_HOME$/Works/wengs/rest/weng_exp/detail/get_detail.v1.php" timestamp="1537243212474" />
+      <file name="$USER_HOME$/Works/wengs/rest/weng_exp/detail/get_detail.v1.php" timestamp="1537244428947">
+        <mark key="[" line="32" column="35" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+      </file>
       <file name="$USER_HOME$/Works/ko/web/Request.php" timestamp="1536736415741" />
       <file name="$USER_HOME$/Works/wxapp/rest/tongji/item.php" timestamp="1537236628096" />
       <file name="$USER_HOME$/Works/wengweng/apps/weng/mfw/book/BookApi.php" timestamp="1536826628637" />
@@ -130,7 +133,7 @@
       <file name="$USER_HOME$/Works/wengs/admin/Music.php" timestamp="1536629082112" />
       <file name="$USER_HOME$/Works/wengs/tool/Time.php" timestamp="1537177588271" />
       <file name="$USER_HOME$/Works/ko/app/Rest.php" timestamp="1537238849357" />
-      <file name="$USER_HOME$/Works/wxapp/rest/weng/index.php" timestamp="1537242372197" />
+      <file name="$USER_HOME$/Works/wxapp/rest/weng/index.php" timestamp="1537243323892" />
       <file name="$USER_HOME$/Works/ko/app/Base.php" timestamp="1536822133554" />
       <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/signature/delete_user_signature.v1.php" timestamp="1536819637582">
         <mark key="[" line="9" column="58" />
@@ -155,6 +158,7 @@
         <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengs/mdd/WengApi.php" timestamp="1537169116197" />
+      <file name="$USER_HOME$/Works/wengs/rest/weng_exp/admin/get_detail.v1.php" timestamp="1537244187707" />
       <file name="$USER_HOME$/Works/wengs/facade/inner/Home.php" timestamp="1537172192507" />
       <file name="$USER_HOME$/Works/wengs/weng/Dao.php" timestamp="1537174373780" />
       <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww5/admin.php" timestamp="1536824957284">
@@ -205,6 +209,7 @@
       <file name="$USER_HOME$/Works/wengs/log/Operate.php" timestamp="1537169787154" />
       <file name="$USER_HOME$/Works/msg/www2011/include/msg/msgUserApi.php" timestamp="1536654087176" />
       <file name="$USER_HOME$/Works/wengweng/www2011/include/ww/wengreplyApi.php" timestamp="1537175854187" />
+      <file name="$USER_HOME$/Works/wengs/mapi/Weng.php" timestamp="1537244297486" />
       <file name="$USER_HOME$/Works/wxapp/facade/Login.php" timestamp="1537237039638" />
       <file name="$USER_HOME$/Works/ko/dao/DB.php" timestamp="1536730836304" />
       <file name="$USER_HOME$/Works/wengweng/www2011/htdocs/weng/pin_album.php" timestamp="1536740922507">
@@ -212,6 +217,7 @@
         <mark key="]" line="38" column="43" />
         <mark key="." line="38" column="43" />
       </file>
+      <file name="$USER_HOME$/Works/wengs/weng/FavApi.php" timestamp="1537243950557" />
       <file name="$USER_HOME$/Works/outdated/www2011/include/autoload.php" timestamp="1536803336654" />
       <file name="$USER_HOME$/Works/wengs/user/HomeApi.php" timestamp="1536644965108" />
       <file name="$USER_HOME$/Works/shequ/www2011/include/shequ/menu/Api.php" timestamp="1536656826292" />
@@ -225,6 +231,7 @@
       <file name="$USER_HOME$/Works/wengs/proxy/Note.php" timestamp="1537243188609" />
       <file name="$USER_HOME$/Works/ko/busi/Api.php" timestamp="1537239340661" />
       <file name="$USER_HOME$/Works/ko/tool/Debug.php" timestamp="1536635237955" />
+      <file name="$USER_HOME$/Works/wengs/mapi/Tag.php" timestamp="1537243656369" />
       <file name="$USER_HOME$/Works/wengs/activity/Api.php" timestamp="1537173454350" />
       <file name="$USER_HOME$/Works/wxapp/service/facade/User.php" timestamp="1537239725730" />
       <file name="$USER_HOME$/Works/codehook/conf/pathmap.php" timestamp="1537242250352">
@@ -243,15 +250,12 @@
         <mark key="]" line="56" column="24" />
         <mark key="." line="56" column="24" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/base/controller/MApi.php" timestamp="1536818955291" />
-      <file name="$USER_HOME$/Works/wengs/user/WengApi.php" timestamp="1537173144953" />
+      <file name="$USER_HOME$/Works/wengs/base/controller/MApi.php" timestamp="1537244207886" />
+      <file name="$USER_HOME$/Works/wengs/user/WengApi.php" timestamp="1537243894103" />
       <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/home/get_weng_list.v1.php" timestamp="1536819276019">
         <mark key="[" line="9" column="53" />
         <mark key="]" line="9" column="53" />
         <mark key="." line="9" column="53" />
-      </file>
-      <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/watermark/signature.php" timestamp="1536819833078">
-        <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengweng/www2011/template/weng/index.html" timestamp="1536805301771" />
       <file name="$USER_HOME$/Works/wengs/log/event/Runtime.php" timestamp="1536645702137" />
@@ -283,9 +287,6 @@
       <file name="$USER_HOME$/Works/wengs/facade/Tool.php" timestamp="1536722071261" />
       <file name="$USER_HOME$/Works/ko/dao/Config.php" timestamp="1536632538319" />
       <file name="$USER_HOME$/Works/wengs/App.php" timestamp="1536634679478" />
-      <file name="/fragment.php" timestamp="1537238677482">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww5/dev.php" timestamp="1536824477278">
         <mark key="[" line="17" column="47" />
         <mark key="]" line="17" column="47" />
@@ -331,9 +332,6 @@
       </file>
       <file name="$USER_HOME$/Works/wengweng/www2011/template/weng/nav.html" timestamp="1536805365244" />
       <file name="$USER_HOME$/Works/wxapp/rest/qa/answer.php" timestamp="1537238661701" />
-      <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/admin/add_weng_select.v1.php" timestamp="1536818801756">
-        <mark key="[" line="5" column="5" />
-      </file>
       <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/admin/get_select_queue.v1.php" timestamp="1536819022972">
         <mark key="[" line="9" column="54" />
         <mark key="]" line="9" column="54" />
@@ -374,12 +372,6 @@
         <mark key="." line="127" column="41" />
       </file>
       <file name="$USER_HOME$/Works/wengweng/apps/weng/mfw/book/SetApi.php" timestamp="1536826656140" />
-      <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/movie/detail.php" timestamp="1536820044716">
-        <mark key="[" line="2" column="4" />
-      </file>
-      <file name="/PHP Console" timestamp="1537238751023">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Works/user/www2011/include/friend/Dao.php" timestamp="1536804888712" />
       <file name="$USER_HOME$/Works/wengs/mapi/dataprovider/Weng.php" timestamp="1537172356008" />
       <file name="$USER_HOME$/Works/ko/tool/Log.php" timestamp="1536634849653" />
@@ -395,9 +387,6 @@
         <mark key="[" line="2560" column="0" />
         <mark key="]" line="2560" column="0" />
         <mark key="." line="2560" column="0" />
-      </file>
-      <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/weng/tf24_new.php" timestamp="1536808710497">
-        <mark key="[" line="11" column="37" />
       </file>
       <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/activity/get_weng_activity_detail.v1.php" timestamp="1536818379979">
         <mark key="[" line="10" column="57" />
@@ -563,10 +552,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL3VybCBodHRwczovL20ubWFmZW5nd28uY24vd3c1L3Bvc3QucGhwCiAgICAgICAgXGFwcHNcd2VuZ3NcTUZhY2FkZV9Ub29sOjpsb2dUcmFjZSgpOwoK</text>
+        <text encoding="base64">ICAgICAgICBNYXBwOjpjcmVhdGVPYmplY3QoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">XEtvX1Rvb2xfVXRpbHM6OkFPYmpzMmlkcygkd2VuZ0Rhby0+YUdldExpc3QoJG9wdGlvbiksICd1aWQnKTs=</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -575,7 +564,7 @@
         <text encoding="base64">Ly8gICAgICAgICAgICAtPm9BbmQoJ2N0aW1lID49ID8nLCAkc3RhcnRUaW1lKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL3VybCBodHRwczovL20ubWFmZW5nd28uY24vd3c1L3Bvc3QucGhwCiAgICAgICAgXGFwcHNcd2VuZ3NcTUZhY2FkZV9Ub29sOjpsb2dUcmFjZSgpOwoK</text>
+        <text encoding="base64">ICAgICAgICBNYXBwOjpjcmVhdGVPYmplY3QoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -586,10 +575,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL3VybCBodHRwczovL20ubWFmZW5nd28uY24vd3c1L2dldC5waHA/dD1nZXRfZnJpZW5kc193ZW5nCiAgICAgICAgXGFwcHNcd2VuZ3NcTUZhY2FkZV9Ub29sOjpsb2dUcmFjZSgpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTVRvb2xfQXJyYXk6Om1HZXRWCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL3VybCBodHRwczovL20ubWFmZW5nd28uY24vd3c1L2dldC5waHA/dD1nZXRfZnJpZW5kc193ZW5nCiAgICAgICAgXGFwcHNcd2VuZ3NcTUZhY2FkZV9Ub29sOjpsb2dUcmFjZSgpOwoK</text>
+        <text encoding="base64">ICAgICAgICAvL3VybCBodHRwczovL20ubWFmZW5nd28uY24vd3c1L3Bvc3QucGhwCiAgICAgICAgXGFwcHNcd2VuZ3NcTUZhY2FkZV9Ub29sOjpsb2dUcmFjZSgpOwoK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAvL3VybCBodHRwczovL20ubWFmZW5nd28uY24vd3c1L2dldC5waHA/dD1nZXRfZnJpZW5kc193ZW5nCiAgICAgICAgXGFwcHNcd2VuZ3NcTUZhY2FkZV9Ub29sOjpsb2dUcmFjZSgpOwoK</text>
@@ -603,11 +592,11 @@
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAvL3VybCBodHRwczovL20ubWFmZW5nd28uY24vd3c1L2dldC5waHA/dD1nZXRfZnJpZW5kc193ZW5nCiAgICAgICAgXGFwcHNcd2VuZ3NcTUZhY2FkZV9Ub29sOjpsb2dUcmFjZSgpOwoK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIGFycmF5X2NvbHVtbigkcmVzdWx0LCAndWlkJyk7</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvL3VybCBodHRwczovL20ubWFmZW5nd28uY24vd3c1L2dldC5waHA/dD1nZXRfZnJpZW5kc193ZW5nCiAgICAgICAgXGFwcHNcd2VuZ3NcTUZhY2FkZV9Ub29sOjpsb2dUcmFjZSgpOwoK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIDs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvL3VybCBodHRwczovL20ubWFmZW5nd28uY24vd3c1L2dldC5waHA/dD1nZXRfZnJpZW5kc193ZW5nCiAgICAgICAgXGFwcHNcd2VuZ3NcTUZhY2FkZV9Ub29sOjpsb2dUcmFjZSgpOwoK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
