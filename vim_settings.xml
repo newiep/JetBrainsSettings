@@ -21,10 +21,10 @@
         <mark key="]" line="102" column="86" />
         <mark key="." line="102" column="86" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/facade/inner/WxApp.php" timestamp="1538114577554">
-        <mark key="[" line="37" column="5" />
-        <mark key="]" line="37" column="5" />
-        <mark key="." line="37" column="5" />
+      <file name="$USER_HOME$/Works/wengs/facade/inner/WxApp.php" timestamp="1538121952624">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Works/ko/mode/Rest.php" timestamp="1538119189408" />
       <file name="$USER_HOME$/Works/wengs/mapi/User.php" timestamp="1538017582765">
@@ -62,10 +62,10 @@
       </file>
       <file name="$USER_HOME$/Works/wengs/mdd/WengApi.php" timestamp="1538032874312" />
       <file name="$USER_HOME$/Works/ko/view/render/JSON.php" timestamp="1537950668333" />
-      <file name="$USER_HOME$/Works/wengs/mapi/dataprovider/WxApp.php" timestamp="1538120634762">
-        <mark key="[" line="36" column="24" />
-        <mark key="]" line="29" column="4" />
-        <mark key="." line="29" column="4" />
+      <file name="$USER_HOME$/Works/wengs/mapi/dataprovider/WxApp.php" timestamp="1538122325038">
+        <mark key="[" line="36" column="31" />
+        <mark key="]" line="49" column="42" />
+        <mark key="." line="49" column="42" />
       </file>
       <file name="$USER_HOME$/Works/wengs/tool/Array.php" timestamp="1538017847710" />
       <file name="$USER_HOME$/Works/ko/tool/Adapter.php" timestamp="1537959862864" />
@@ -102,7 +102,7 @@
       </file>
       <file name="$USER_HOME$/Works/user/mobile/htdocs/user/friends.php" timestamp="1537961366953" />
       <file name="$USER_HOME$/Works/user/apps/facade/user/Api.php" timestamp="1538115222878" />
-      <file name="$USER_HOME$/Works/wengs/admin/Operate.php" timestamp="1538102436598">
+      <file name="$USER_HOME$/Works/wengs/admin/Operate.php" timestamp="1538121980126">
         <mark key="[" line="157" column="68" />
         <mark key="]" line="158" column="0" />
         <mark key="." line="158" column="0" />
@@ -272,10 +272,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIHRyYW5zZm9ybVBvc3REYXRhKCkKICAgIHsKCiAgICB9</text>
+        <text>[</text>
       </register>
       <register name="-" type="4">
-        <text>\GuzzleHttp\</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
@@ -283,8 +283,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkYUNvdW50cnlNZGRpZHMgPSBNQXBwOjpjcmVhdGVPYmplY3QoTVByb3h5X01kZDo6Y2xhc3MpLT5hR2V0Q291bnRyeU1kZGlkcyhbJGFNZGRJZF0pOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIHRyYW5zZm9ybVBvc3REYXRhKCkKICAgIHsKCiAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXEtvX0V4Y2VwdGlvbgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -295,29 +295,29 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgJHRoaXMtPnRyYW5zZm9ybVBvc3REYXRhKCk7Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBmdW5jdGlvbiBpR2V0TWRkSWRCeVdlbmdJZCgkaWQpCiAgICB7CiAgICAgICAgJGFJbmZvID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1XZW5nX0RhdGFBcGk6OmNsYXNzKS0+YUdldCgkaWQpOwoKICAgICAgICByZXR1cm4gTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkYUluZm8sICdtZGRpZCcsIDApOwogICAgfQ==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICRfUE9TVCA9ICR0ZW1wOw==</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKCEkaVdlbmdJZCkgewogICAgICAgICAgICB0aHJvdyBuZXcgXEtvX0V4Y2VwdGlvbignaWQg5Y+C5pWw6ZSZ6K+vJyk7CiAgICAgICAgfQ==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICRfUE9TVCA9</text>
+        <text encoding="base64">CiAgICAgICAgJGlNZGRJZCA9IHN0YXRpYzo6aUdldE1kZElkQnlXZW5nSWQoJGlXZW5nSWQpOw==</text>
       </register>
       <register name="5" type="4">
-        <text>$_POST = json_decode($_POST['jsondata'], true);
-var_dump(\Ko_Web_Request::IPost('weng_id'));die;</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIHRyYW5zZm9ybVBvc3REYXRhKCkKICAgIHsKCiAgICB9</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgJHRoaXMtPnRyYW5zZm9ybVBvc3REYXRhKCk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgKSA=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICRfUE9TVCA9ICR0ZW1wOw==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICg=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICRfUE9TVCA9</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGlzc2V0KCR1cGRhdGVbJ2FjdGlvbiddKSAmJg==</text>
+        <text>$_POST = json_decode($_POST['jsondata'], true);
+var_dump(\Ko_Web_Request::IPost('weng_id'));die;</text>
       </register>
       <register name=":" type="4">
         <text>288</text>
