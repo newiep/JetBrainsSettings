@@ -43,11 +43,12 @@
         <mark key="." line="153" column="0" />
       </file>
       <file name="$USER_HOME$/Works/ko/data/DBPDO.php" timestamp="1538113785637" />
+      <file name="$USER_HOME$/Works/wengs/tool/Env.php" timestamp="1538212805098" />
       <file name="$USER_HOME$/Works/user/www2011/include/friend/friendApi.php" timestamp="1536805121576" />
       <file name="$USER_HOME$/Works/wxapp/www/htdocs/index.php" timestamp="1537238685145" />
       <file name="$USER_HOME$/Codes/PHP/doctrine/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php" timestamp="1538192013045" />
-      <file name="$USER_HOME$/Works/wengs/base/config/params.prod.php" timestamp="1538210893194">
-        <mark key="[" line="27" column="10" />
+      <file name="$USER_HOME$/Works/wengs/base/config/params.prod.php" timestamp="1538212453989">
+        <mark key="[" line="24" column="40" />
         <mark key="]" line="24" column="17" />
         <mark key="." line="24" column="17" />
       </file>
@@ -127,8 +128,8 @@
       <file name="$USER_HOME$/Works/ko/dao/DB.php" timestamp="1538200498904" />
       <file name="$USER_HOME$/Works/wengs/mapi/dataprovider/Reply.php" timestamp="1538020138681" />
       <file name="$USER_HOME$/Works/wengs/rest/weng_exp/like/weng_like.v1.php" timestamp="1537522661390" />
-      <file name="$USER_HOME$/Works/wengs/mapi/Tag.php" timestamp="1538210641670">
-        <mark key="[" line="11" column="0" />
+      <file name="$USER_HOME$/Works/wengs/mapi/Tag.php" timestamp="1538212943820">
+        <mark key="[" line="74" column="20" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
@@ -145,10 +146,10 @@
       <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/watermark/signature.php" timestamp="1536819833078">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/mapi/AppConf.php" timestamp="1538210857436">
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/Works/wengs/mapi/AppConf.php" timestamp="1538212936446">
+        <mark key="[" line="64" column="27" />
+        <mark key="]" line="64" column="27" />
+        <mark key="." line="64" column="27" />
       </file>
       <file name="$USER_HOME$/Codes/PHP/doctrine/cli-config.php" timestamp="1538191278969">
         <mark key="[" line="6" column="3" />
@@ -202,7 +203,7 @@
       <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/movie/detail.php" timestamp="1536820044716">
         <mark key="[" line="2" column="4" />
       </file>
-      <file name="/PHP Console" timestamp="1538208222883">
+      <file name="/PHP Console" timestamp="1538212084112">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengs/mapi/dataprovider/Weng.php" timestamp="1537172356008" />
@@ -350,11 +351,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>bIsBranpub()</text>
       </register>
       <register name="-" type="4">
-        <text>return $conf['link'];</text>
+        <text>bIsBranpub()</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
