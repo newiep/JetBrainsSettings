@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Works/wengs/mapi/RecommendStyle.php" timestamp="1539744948152">
+      <file name="$USER_HOME$/Works/wengs/mapi/RecommendStyle.php" timestamp="1539747989345">
         <mark key="[" line="34" column="90" />
       </file>
       <file name="$USER_HOME$/Works/wengs/proxy/Video.php" timestamp="1539681073318" />
@@ -54,7 +54,9 @@
       <file name="$USER_HOME$/Works/wengs/rest/weng_exp/activity/get_weng_list.v1.php" timestamp="1539656956190" />
       <file name="$USER_HOME$/Works/wengs/search/Api.php" timestamp="1539669543499" />
       <file name="$USER_HOME$/Works/outdated/apps/facade/log/Api.php" timestamp="1539743005311" />
-      <file name="$USER_HOME$/Works/mobile/www2011/include/mapi/url/SNS.php" timestamp="1539744963111" />
+      <file name="$USER_HOME$/Works/mobile/www2011/include/mapi/url/SNS.php" timestamp="1539747606815">
+        <mark key="[" line="142" column="5" />
+      </file>
       <file name="$USER_HOME$/Works/wengs/tool/Time.php" timestamp="1539740684682" />
       <file name="$USER_HOME$/Works/wengs/proxy/Weng.php" timestamp="1539743975880">
         <mark key="[" line="386" column="5" />
@@ -69,7 +71,7 @@
         <mark key="^" line="69" column="13" />
         <mark key="." line="70" column="25" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/proxy/Mobile.php" timestamp="1539681978282">
+      <file name="$USER_HOME$/Works/wengs/proxy/Mobile.php" timestamp="1539747631621">
         <mark key="[" line="81" column="5" />
       </file>
       <file name="$USER_HOME$/Works/wengs/mapi/Weng.php" timestamp="1539655909929">
@@ -84,10 +86,10 @@
       <file name="$USER_HOME$/Works/wengs/tag/Map.php" timestamp="1539744672841">
         <mark key="[" line="74" column="86" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/mapi/Tag.php" timestamp="1539745005886">
-        <mark key="[" line="85" column="66" />
-        <mark key="]" line="81" column="17" />
-        <mark key="." line="81" column="17" />
+      <file name="$USER_HOME$/Works/wengs/mapi/Tag.php" timestamp="1539748223248">
+        <mark key="[" line="85" column="79" />
+        <mark key="]" line="85" column="16" />
+        <mark key="." line="85" column="16" />
       </file>
       <file name="$USER_HOME$/Works/wengs/proxy/Log.php" timestamp="1539743054980">
         <mark key="[" line="27" column="76" />
@@ -316,11 +318,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1BcHA6OmNyZWF0ZU9iamVjdChNUHJveHlfU2VhcmNoOjpjbGFzcyktPgo=</text>
+      <register name="&quot;" type="4">
+        <text>apps\MFacade_Url_SNS::</text>
       </register>
       <register name="-" type="4">
-        <text>\apps\mes\MFacade_adminApi::</text>
+        <text>apps\MFacade_Url_SNS::</text>
       </register>
       <register name="/" type="4">
         <text>mapi</text>
