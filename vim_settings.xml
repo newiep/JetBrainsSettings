@@ -10,7 +10,7 @@
       <file name="/a.dummy" timestamp="1541555086863">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/base/Log.php" timestamp="1541677098704" />
+      <file name="$USER_HOME$/Works/wengs/base/Log.php" timestamp="1541679768817" />
       <file name="$USER_HOME$/Works/wengs/form/WengPublish.php" timestamp="1541638510867">
         <mark key="'" line="229" column="28" />
         <mark key="[" line="60" column="15" />
@@ -93,9 +93,9 @@
         <mark key="." line="124" column="68" />
       </file>
       <file name="$USER_HOME$/Works/wengs/facade/Queue.php" timestamp="1541141947258" />
-      <file name="$USER_HOME$/Works/wengs/form/Publish.php" timestamp="1541677516888">
+      <file name="$USER_HOME$/Works/wengs/form/Publish.php" timestamp="1541679932821">
         <mark key="'" line="136" column="8" />
-        <mark key="[" line="206" column="23" />
+        <mark key="[" line="84" column="42" />
         <mark key="]" line="167" column="34" />
         <mark key="^" line="110" column="32" />
         <mark key="." line="167" column="34" />
@@ -217,7 +217,7 @@
       <file name="$USER_HOME$/Works/mobile/www2011/include/rest/app/weng/user.php" timestamp="1541066231439">
         <mark key="[" line="266" column="45" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/tool/LongLog.php" timestamp="1541677102066" />
+      <file name="$USER_HOME$/Works/wengs/tool/LongLog.php" timestamp="1541679676577" />
       <file name="$USER_HOME$/Works/message/facade/message/Api.php" timestamp="1541571357503" />
       <file name="$USER_HOME$/Works/wengweng/apps/weng/universal/tag/facade/EtagApi.php" timestamp="1539743257801">
         <mark key="[" line="13" column="0" />
@@ -393,10 +393,10 @@
       <file name="$USER_HOME$/Works/wengs/WengBase.php" timestamp="1539668740831">
         <mark key="[" line="51" column="84" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/form/Modify.php" timestamp="1541677580208">
-        <mark key="[" line="165" column="15" />
-        <mark key="]" line="76" column="34" />
-        <mark key="." line="76" column="34" />
+      <file name="$USER_HOME$/Works/wengs/form/Modify.php" timestamp="1541679847652">
+        <mark key="[" line="159" column="60" />
+        <mark key="]" line="159" column="60" />
+        <mark key="." line="159" column="60" />
       </file>
     </filemarks>
     <jumps>
@@ -532,10 +532,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>嗡嗡同步后获取失败</text>
+        <text>, 'wengs:publish'</text>
       </register>
       <register name="-" type="4">
-        <text>嗡嗡同步后获取失败</text>
+        <text>, 'wengs:publish'</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
