@@ -80,10 +80,11 @@
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core.php" timestamp="1541474052485" />
       <file name="$USER_HOME$/Works/wengs/log/event/Api.php" timestamp="1542167255040" />
-      <file name="$USER_HOME$/Works/wengs/form/PublishParameter.php" timestamp="1542335106691">
-        <mark key="[" line="50" column="48" />
-        <mark key="]" line="50" column="48" />
-        <mark key="." line="50" column="48" />
+      <file name="$USER_HOME$/Works/wengs/form/PublishParameter.php" timestamp="1542338953020">
+        <mark key="[" line="50" column="46" />
+        <mark key="]" line="47" column="51" />
+        <mark key="." line="47" column="51" />
+        <mark key="^" line="47" column="51" />
       </file>
       <file name="$USER_HOME$/Works/wengs/form/WengCoordinate.php" timestamp="1541733412626">
         <mark key="[" line="10" column="26" />
@@ -180,10 +181,10 @@
       <file name="$USER_HOME$/Works/wengs/base/controller/Crontab.php" timestamp="1541142511503" />
       <file name="$USER_HOME$/Works/wengweng/www2011/include/ww/WengTopicApi.php" timestamp="1542101131886" />
       <file name="$USER_HOME$/Works/wengs/user/ExperienceApi.php" timestamp="1542094142272" />
-      <file name="$USER_HOME$/Works/wengs/weng/Editor.php" timestamp="1542337609471">
-        <mark key="[" line="466" column="25" />
-        <mark key="]" line="466" column="24" />
-        <mark key="." line="466" column="24" />
+      <file name="$USER_HOME$/Works/wengs/weng/Editor.php" timestamp="1542339133461">
+        <mark key="[" line="451" column="0" />
+        <mark key="]" line="451" column="0" />
+        <mark key="." line="451" column="0" />
       </file>
       <file name="$USER_HOME$/Works/ko/app/RoutePage.php" timestamp="1541061181957" />
       <file name="$USER_HOME$/Works/wengs/app/Task.php" timestamp="1541142587161" />
@@ -699,10 +700,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$fileId, ['file']</text>
+        <text encoding="base64">CiAgICAgICAgLy/ms6jlhaVsYnMg6Kej5p6Q57G7CiAgICAgICAgJG9QdWJsaXNoLT53ZW5nTGJzID0gbmV3IE1Gb3JtX1dlbmdMYnMoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>$fileId, ['file']</text>
+        <text encoding="base64">PyAkdGhpcy0+cHQ=</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
@@ -711,25 +712,25 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+dGlkcyAgPSBNVG9vbF9BcnJheTo6bUdldFZhbHVlKCRwYXJhbXMsICd0aWRzJywgW10pOwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICR0eXBlID0gID8gTU11bHRpbWVkaWFfQXBpOjpUWVBFX1dFTkdfREVGQVVMVCA6IE1NdWx0aW1lZGlhX0FwaTo6VFlQRV9XRU5HX1ZJREVPOwpk</text>
+        <text encoding="base64">CiAgICAgICAgLy/ms6jlhaVsYnMg6Kej5p6Q57G7CiAgICAgICAgJG9QdWJsaXNoLT53ZW5nTGJzID0gbmV3IE1Gb3JtX1dlbmdMYnMoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICRpbWFnZUZpbGVJZCA9ICR0eXBlID09IE1NdWx0aW1lZGlhX0FwaTo6VFlQRV9XRU5HX0RFRkFVTFQgPyAkcmF3TWVkaWFbJ2ltZ19wYXRoJ10gOiAkcmF3TWVkaWFbJ2NvdmVyX3BhdGgnXTsKICAgICAgICAgICAgJHJlc291cmNlID0gJHR5cGUgPT0gTU11bHRpbWVkaWFfQXBpOjpUWVBFX1dFTkdfREVGQVVMVCA/ICRyYXdNZWRpYVsnaW1nX3BhdGgnXSA6ICRyYXdNZWRpYVsnY292ZXJfcGF0aCddOw==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICR0eXBlID0gID8gTU11bHRpbWVkaWFfQXBpOjpUWVBFX1dFTkdfREVGQVVMVCA6IE1NdWx0aW1lZGlhX0FwaTo6VFlQRV9XRU5HX1ZJREVPOwpk</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuICR0aGlzLT5jbGllbnQgPT0gTUNvbmY6OkNMSUVOVF9JTVBPUlQ7</text>
+        <text encoding="base64">CiAgICAgICAgICAgICRpbWFnZUZpbGVJZCA9ICR0eXBlID09IE1NdWx0aW1lZGlhX0FwaTo6VFlQRV9XRU5HX0RFRkFVTFQgPyAkcmF3TWVkaWFbJ2ltZ19wYXRoJ10gOiAkcmF3TWVkaWFbJ2NvdmVyX3BhdGgnXTsKICAgICAgICAgICAgJHJlc291cmNlID0gJHR5cGUgPT0gTU11bHRpbWVkaWFfQXBpOjpUWVBFX1dFTkdfREVGQVVMVCA/ICRyYXdNZWRpYVsnaW1nX3BhdGgnXSA6ICRyYXdNZWRpYVsnY292ZXJfcGF0aCddOw==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuICR0aGlzLT5jbGllbnQgPT0gTUNvbmY6OkNMSUVOVF9JTVBPUlQ7</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAvKioKICAgICAqIEB2YXIgTUZvcm1fSW1wb3J0RXhwUGFyYW1ldGVyCiAgICAgKi8KICAgIHByb3RlY3RlZCAkcGFyYW1zTG9hZGVyOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBpbnQKICAgICAqIEB0aHJvd3MgXEV4Y2VwdGlvbgogICAgICovCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBpbnQKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBpbnQKICAgICAqIEB0aHJvd3MgXEV4Y2VwdGlvbgogICAgICovCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBpbnQKICAgICAqLwo=</text>
@@ -738,7 +739,7 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBpbnQKICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBmbG9hdAogICAgICovCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBpbnQKICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>13,39s/public/protected/</text>
