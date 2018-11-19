@@ -78,6 +78,9 @@
         <mark key="^" line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengs/facade/inner/WxApp.php" timestamp="1542356154550" />
+      <file name="$USER_HOME$/Works/wengs/form/TravelExpImportPublish.php" timestamp="1542628212366">
+        <mark key="[" line="6" column="3" />
+      </file>
       <file name="$USER_HOME$/Works/wengs/admin/Group.php" timestamp="1541129177213" />
       <file name="$USER_HOME$/Works/message/model/Producer.php" timestamp="1542090306302" />
       <file name="$USER_HOME$/Works/manual-script/201811/wengs/migrate_travel_report.php" timestamp="1542248541075">
@@ -150,7 +153,7 @@
         <mark key="." line="124" column="68" />
       </file>
       <file name="$USER_HOME$/Works/wengs/facade/Queue.php" timestamp="1542361141234" />
-      <file name="$USER_HOME$/Works/wengs/form/Publish.php" timestamp="1542626259356">
+      <file name="$USER_HOME$/Works/wengs/form/Publish.php" timestamp="1542628127231">
         <mark key="'" line="319" column="38" />
         <mark key="[" line="159" column="4" />
         <mark key="]" line="159" column="4" />
@@ -183,10 +186,10 @@
       <file name="$USER_HOME$/Works/search/apps/search/common/facade/SearchApi.php" timestamp="1542593934965" />
       <file name="$USER_HOME$/Works/ko/tool/scheme/Util.php" timestamp="1541412085450" />
       <file name="$USER_HOME$/Codes/PHP/propel_demo/vendor/propel/propel/src/Propel/Runtime/Collection/OnDemandCollection.php" timestamp="1542267222813" />
-      <file name="$USER_HOME$/Works/wengs/form/TravelExpLbs.php" timestamp="1542617761274">
-        <mark key="[" line="33" column="86" />
-        <mark key="]" line="33" column="86" />
-        <mark key="." line="33" column="86" />
+      <file name="$USER_HOME$/Works/wengs/form/TravelExpLbs.php" timestamp="1542628465479">
+        <mark key="[" line="56" column="16" />
+        <mark key="]" line="56" column="16" />
+        <mark key="." line="56" column="16" />
       </file>
       <file name="$USER_HOME$/Works/ko/data/IDMan.php" timestamp="1541989306137" />
       <file name="$USER_HOME$/Works/wengs/rest/weng_exp/publish/edit_weng.v1.php" timestamp="1542006004920">
@@ -330,7 +333,7 @@
       <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/weng/web/yearbook2017.php" timestamp="1540519611823">
         <mark key="[" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/form/TravelExpPublish.php" timestamp="1542620764976">
+      <file name="$USER_HOME$/Works/wengs/form/TravelExpPublish.php" timestamp="1542628427485">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="^" line="76" column="7" />
@@ -371,7 +374,7 @@
       </file>
       <file name="$USER_HOME$/Works/wengs/event/WengMod.php" timestamp="1542177746919" />
       <file name="$USER_HOME$/Works/wengs/log/event/Runtime.php" timestamp="1541140103300" />
-      <file name="$USER_HOME$/Works/wengs/form/TravelExpParameter.php" timestamp="1542620855983">
+      <file name="$USER_HOME$/Works/wengs/form/TravelExpParameter.php" timestamp="1542628136978">
         <mark key="[" line="46" column="33" />
         <mark key="]" line="78" column="54" />
         <mark key="." line="78" column="54" />
@@ -425,7 +428,7 @@
       </file>
       <file name="$USER_HOME$/Works/manual-script/longlive/flight/send_sms_worker.php" timestamp="1541142216457" />
       <file name="$USER_HOME$/Works/sales-ugc/exp_report/control/ReportApi.php" timestamp="1541149101491" />
-      <file name="$USER_HOME$/Works/wengs/facade/inner/TravelExp.php" timestamp="1542620625233">
+      <file name="$USER_HOME$/Works/wengs/facade/inner/TravelExp.php" timestamp="1542627865665">
         <mark key="[" line="29" column="29" />
         <mark key="]" line="104" column="0" />
         <mark key="^" line="26" column="59" />
@@ -746,11 +749,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGQoJG9OZWFyQnlQcm92aWRlcik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>!empty(</text>
       </register>
       <register name="-" type="4">
-        <text>self::SHOW_NEAR_NUM</text>
+        <text>!empty(</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
