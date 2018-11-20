@@ -78,10 +78,10 @@
         <mark key="^" line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengs/facade/inner/WxApp.php" timestamp="1542356154550" />
-      <file name="$USER_HOME$/Works/wengs/form/TravelExpImportPublish.php" timestamp="1542685419756">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="76" column="5" />
-        <mark key="." line="76" column="5" />
+      <file name="$USER_HOME$/Works/wengs/form/TravelExpImportPublish.php" timestamp="1542689143331">
+        <mark key="[" line="25" column="70" />
+        <mark key="]" line="78" column="5" />
+        <mark key="." line="78" column="5" />
       </file>
       <file name="$USER_HOME$/Works/wengs/admin/Group.php" timestamp="1541129177213" />
       <file name="$USER_HOME$/Works/message/model/Producer.php" timestamp="1542090306302" />
@@ -338,11 +338,11 @@
       <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/weng/web/yearbook2017.php" timestamp="1540519611823">
         <mark key="[" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/form/TravelExpPublish.php" timestamp="1542685798170">
-        <mark key="[" line="56" column="50" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/Works/wengs/form/TravelExpPublish.php" timestamp="1542689130286">
+        <mark key="[" line="96" column="60" />
+        <mark key="]" line="96" column="60" />
+        <mark key="^" line="112" column="23" />
+        <mark key="." line="96" column="60" />
       </file>
       <file name="$USER_HOME$/Works/mobile/mobile_api/htdocs/travelguide/wengweng.php" timestamp="1542012029689" />
       <file name="$USER_HOME$/Works/wengs/form/AbstractLbs.php" timestamp="1542279217613">
@@ -434,7 +434,7 @@
       </file>
       <file name="$USER_HOME$/Works/manual-script/longlive/flight/send_sms_worker.php" timestamp="1541142216457" />
       <file name="$USER_HOME$/Works/sales-ugc/exp_report/control/ReportApi.php" timestamp="1541149101491" />
-      <file name="$USER_HOME$/Works/wengs/facade/inner/TravelExp.php" timestamp="1542683332839">
+      <file name="$USER_HOME$/Works/wengs/facade/inner/TravelExp.php" timestamp="1542689044080">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -751,10 +751,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$params</text>
+        <text>uid</text>
       </register>
       <register name="-" type="4">
-        <text>$params</text>
+        <text>uid</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
