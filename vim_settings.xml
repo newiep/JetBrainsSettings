@@ -25,7 +25,7 @@
       <file name="$USER_HOME$/Works/wengs/form/MForm_LbsInterface.php" timestamp="1542279276333">
         <mark key="[" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/multimedia/FormatTool.php" timestamp="1543231901495" />
+      <file name="$USER_HOME$/Works/wengs/multimedia/FormatTool.php" timestamp="1543921275745" />
       <file name="$USER_HOME$/Works/wengs/weng/Api.php" timestamp="1543894441881" />
       <file name="$USER_HOME$/Works/wengs/multimedia/Api.php" timestamp="1543815851523">
         <mark key="[" line="86" column="48" />
@@ -153,7 +153,7 @@
         <mark key="." line="166" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengs/log/Operate.php" timestamp="1543894391092" />
-      <file name="$USER_HOME$/Works/wengs/mapi/Weng.php" timestamp="1543903043499">
+      <file name="$USER_HOME$/Works/wengs/mapi/Weng.php" timestamp="1543921190134">
         <mark key="[" line="453" column="86" />
         <mark key="]" line="453" column="86" />
         <mark key="." line="453" column="86" />
@@ -218,7 +218,7 @@
       <file name="$USER_HOME$/Works/wengs/user/Api.php" timestamp="1543804116656" />
       <file name="$USER_HOME$/Works/appconf/api/weng_exp/detail/get_recommend_list.v1.json" timestamp="1543288079456" />
       <file name="$USER_HOME$/Works/wengs/multimedia/VideoThumb.php" timestamp="1543572251987" />
-      <file name="$USER_HOME$/Works/wengs/controller/weng_exp/homepage/get_wengs.v1.php" timestamp="1543815218298" />
+      <file name="$USER_HOME$/Works/wengs/controller/weng_exp/homepage/get_wengs.v1.php" timestamp="1543921031180" />
       <file name="$USER_HOME$/Works/wengs/controller/admin/tag/suggest_conf.php" timestamp="1543914399997" />
       <file name="$USER_HOME$/Works/wengs/multimedia/CheckFunc.php" timestamp="1543219707699" />
       <file name="$USER_HOME$/Works/sales-ugc/exp_report/control/ReportApi.php" timestamp="1543556918794" />
@@ -256,14 +256,16 @@
         <mark key="." line="63" column="17" />
       </file>
       <file name="$USER_HOME$/Works/wengs/controller/weng_exp/admin/delete_weng.v1.php" timestamp="1543894310852" />
-      <file name="/PHP Console" timestamp="1543910690097">
+      <file name="/PHP Console" timestamp="1543921292384">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengs/interaction/Fav.php" timestamp="1543548904923" />
       <file name="$USER_HOME$/Works/mobile/www2011/include/rest/app/weng/index.php" timestamp="1541065970310">
         <mark key="[" line="91" column="92" />
       </file>
-      <file name="$USER_HOME$/Works/appconf/api/video/movie/get_designated_movie_list.v1.json" timestamp="1543919168303" />
+      <file name="$USER_HOME$/Works/appconf/api/video/movie/get_designated_movie_list.v1.json" timestamp="1543922448865">
+        <mark key="[" line="63" column="21" />
+      </file>
       <file name="$USER_HOME$/Works/wengs/proxy/User.php" timestamp="1543549053332" />
       <file name="$USER_HOME$/Works/mobile/www2011/include/mapi/user/Visit.php" timestamp="1543906954469" />
       <file name="$USER_HOME$/Works/appconf/scheme/weng_exp/weng.json" timestamp="1543825994079" />
@@ -276,6 +278,11 @@
       </file>
       <file name="$USER_HOME$/Works/wengs/tool/DelayQ.php" timestamp="1543220979460" />
       <file name="$USER_HOME$/Works/shequ/apps/ugcaudit/video/Api.php" timestamp="1543460146912" />
+      <file name="$USER_HOME$/Works/mobile/mobile_api/api/video/movie/get_designated_movie_list.v1.php" timestamp="1543922446612">
+        <mark key="[" line="61" column="12" />
+        <mark key="]" line="61" column="12" />
+        <mark key="." line="61" column="12" />
+      </file>
       <file name="$USER_HOME$/Works/wengs/form/TravelExpImportPublish.php" timestamp="1543497902709" />
       <file name="$USER_HOME$/Works/wengs/common/Dao.php" timestamp="1543829710134">
         <mark key="[" line="234" column="10" />
@@ -630,10 +637,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID8gJG9JbWFnZVByb3h5LT5zQnVpbGQoJHR5cGVJbWcpIDogJyc=</text>
+        <text encoding="base64">aWYgKCRvd25lciA9IE1Ub29sX0FycmF5OjptR2V0VmFsdWUoJG1vdmllLCBbJ2RhdGEnLCAnb3duZXInXSwgW10pKSB7CiAgICAgICAgICAgICAgICAkb3duZXJbJ29wZXJhdGlvbl9pbWFnZSddID0gJG9Qcm94eU1vYmlsZS0+YUdldENocmlzdG1hc0F2YXRhcigkb3duZXJbJ2lkJ10pID86IG51bGw7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgJG1vdmllWydkYXRhJ11bJ293bmVyJ10gPSAkb3duZXI7</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID8gJG9JbWFnZVByb3h5LT5zQnVpbGQoJHR5cGVJbWcpIDogJyc=</text>
+        <text>$owner</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
@@ -641,35 +648,35 @@
       <register name="0" type="2">
         <text encoding="base64">ZGVmaW5lZCgnV0VOR1NfUEFUSCcpIHx8IGRlZmluZSgnV0VOR1NfUEFUSCcsIGRpcm5hbWUoX19ESVJfXykpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">aWYgKCRvd25lciA9IE1Ub29sX0FycmF5OjptR2V0VmFsdWUoJG1vdmllLCBbJ2RhdGEnLCAnb3duZXInXSwgW10pKSB7CiAgICAgICAgICAgICAgICAkb3duZXJbJ29wZXJhdGlvbl9pbWFnZSddID0gJG9Qcm94eU1vYmlsZS0+YUdldENocmlzdG1hc0F2YXRhcigkb3duZXJbJ2lkJ10pID86IG51bGw7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgJG1vdmllWydkYXRhJ11bJ293bmVyJ10gPSAkb3duZXI7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICRyZXBseVsnb3duZXInXVsnb3BlcmF0aW9uX2ltYWdlJ10gPSAkYXZhdGFyOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICRhdmF0YXIgID0=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICRyZXBseVsnb3duZXInXVsnb3BlcmF0aW9uX2ltYWdlJ10gPSAkYXZhdGFyOw==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICRvd25lclsnb3BlcmF0aW9uX2ltYWdlJ10gPSAkb1Byb3h5TW9iaWxlLT5hR2V0Q2hyaXN0bWFzQXZhdGFyKCRvd25lclsnaWQnXSkgPzogbnVsbDs=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICRhdmF0YXIgID0=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgJHJlcGx5TGlzdCA9</text>
+        <text encoding="base64">CiAgICAgICAgICAgICRvd25lclsnb3BlcmF0aW9uX2ltYWdlJ10gPSAkb1Byb3h5TW9iaWxlLT5hR2V0Q2hyaXN0bWFzQXZhdGFyKCRvd25lclsnaWQnXSkgPzogbnVsbDs=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICR0b3BpY3MgPSA=</text>
+        <text encoding="base64">CiAgICAgICAgJHJlcGx5TGlzdCA9</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgJHRvcGljcyAgICA9IGFycmF5X2ZpbHRlcigkdG9waWNzKTs=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICR0b3BpY3MgPSA=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKCRwb2lJZCkgewogICAgICAgICAgICAkcG9pSWRzID0gWyRwb2lJZF07CiAgICAgICAgfSBlbHNlaWYgKCRtZGRJZCkgewogICAgICAgICAgICAkcG9pSWRzID0gJHRoaXMtPmdldFN1Z2dlc3RQb2lJZHMoJG1kZElkKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgJHRvcGljcyAgICA9IGFycmF5X2ZpbHRlcigkdG9waWNzKTs=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcG9pTGlzdCA9ICR0aGlzLT5nZXRGb3JtYXRQb2lMaXN0KCRwb2lJZHMpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKCRwb2lJZCkgewogICAgICAgICAgICAkcG9pSWRzID0gWyRwb2lJZF07CiAgICAgICAgfSBlbHNlaWYgKCRtZGRJZCkgewogICAgICAgICAgICAkcG9pSWRzID0gJHRoaXMtPmdldFN1Z2dlc3RQb2lJZHMoJG1kZElkKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>13,39s/public/protected/</text>
