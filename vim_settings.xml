@@ -106,10 +106,10 @@
         <mark key="[" line="10" column="18" />
       </file>
       <file name="$USER_HOME$/Works/appconf/api/weng/signature/get_signature_config.v1.json" timestamp="1544687489633" />
-      <file name="$USER_HOME$/Works/wengs/controller/admin/debug.php" timestamp="1544775921862">
-        <mark key="[" line="31" column="27" />
-        <mark key="]" line="31" column="27" />
-        <mark key="." line="31" column="27" />
+      <file name="$USER_HOME$/Works/wengs/controller/admin/debug.php" timestamp="1544784764384">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengs/base/config/params.prod.php" timestamp="1544779931229">
         <mark key="[" line="21" column="29" />
@@ -155,8 +155,8 @@
       </file>
       <file name="$USER_HOME$/Works/wengweng/apps/weng/universal/watermark/facade/SysSignatureApi.php" timestamp="1544434031630" />
       <file name="$USER_HOME$/Works/wengs/controller/weng_exp/detail/get_detail.php" timestamp="1544518858677" />
-      <file name="$USER_HOME$/Works/wengs/event/ChristmasHat.php" timestamp="1544779812749">
-        <mark key="[" line="43" column="21" />
+      <file name="$USER_HOME$/Works/wengs/event/ChristmasHat.php" timestamp="1544785349897">
+        <mark key="[" line="43" column="31" />
         <mark key="]" line="61" column="45" />
         <mark key="." line="61" column="45" />
       </file>
@@ -269,7 +269,7 @@
       </file>
       <file name="$USER_HOME$/Works/ko/tool/scheme/Matcher.php" timestamp="1544490359793" />
       <file name="$USER_HOME$/Works/wengs/activity/ActionApi.php" timestamp="1544770056700" />
-      <file name="$USER_HOME$/Works/wengs/proxy/Mdd.php" timestamp="1544775171158">
+      <file name="$USER_HOME$/Works/wengs/proxy/Mdd.php" timestamp="1544784162521">
         <mark key="[" line="166" column="0" />
         <mark key="]" line="166" column="0" />
         <mark key="." line="166" column="0" />
@@ -489,10 +489,10 @@
         <mark key="[" line="10" column="27" />
       </file>
       <file name="$USER_HOME$/Works/wengs/entity/RecommendProduct.php" timestamp="1544516821107" />
-      <file name="$USER_HOME$/Works/wengs/test.php" timestamp="1544779591217">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
+      <file name="$USER_HOME$/Works/wengs/test.php" timestamp="1544783725898">
+        <mark key="[" line="121" column="2" />
+        <mark key="]" line="121" column="2" />
+        <mark key="." line="121" column="2" />
       </file>
       <file name="$USER_HOME$/Works/mobile/mobile_api/engine/Application.php" timestamp="1544500039877" />
       <file name="$USER_HOME$/Works/wengs/form/LatLngInterface.php" timestamp="1542280014316">
@@ -524,7 +524,7 @@
         <mark key="[" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/Works/wengweng/apps/weng/universal/util/facade/Context.php" timestamp="1544438142834" />
-      <file name="/PHP Console" timestamp="1544780052901">
+      <file name="/PHP Console" timestamp="1544783687861">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/mobile/mobile_api/api/video/movie/get_movie_list.v2.php" timestamp="1544091422903">
@@ -696,11 +696,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgZGllOw==</text>
       </register>
       <register name="-" type="4">
-        <text>2018-12-17 00:00:00</text>
+        <text encoding="base64">JG9Qcm94eU1kZC0+YUdldE1kZEluZm9zKCRwYXJlbnRJZHMpOw==</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
@@ -708,37 +708,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYXNzZXRfdmVyc2lvbicgPT4gJzIwMTgxMjA2JywgLy/kuLTml7bniYjmnKzlj7cK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgZGllOw==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZWNobyBzdHJ0b3RpbWUoJycpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">JHNBcHBUcGwgPSA8PDxUUEwK5Lqy54ix55qEJXPvvJoK5oGt5Zac5L2g5oiQ5Yqf5Y+C5Yqg5LqGI+aItOmhtuWco+ivnuW4veeahOWXoeWXoea0u+WKqO+8jOS9oOWcqOmprOicgueqneWQhOWkhOeahOWktOWDj+W3sue7j+aItOS4iuS6huS4gOmhtui2hee6p+WPr+eIseeahOWco+ivnuW4ve+8gQpcYXBwc1xNRmFjYWRlX01vYmlsZV9NZXNzYWdlU3R5bGU6OlNKdW1wRWZmZWN0KCLotbbntKfljrvnnIvnnIs+Pj4+IikKVFBMOw==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnID0+ICdjaHJpc3RtYXMnLAo=</text>
+      <register name="3" type="4">
+        <text>亲爱的%s：
+恭喜你成功参加了#戴顶圣诞帽的嗡嗡活动，你的头像已经戴上了一顶超级可爱的圣诞帽</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIC8v5qOA5p+l5piv5ZCm5bey57uP5Y+R6YCB6L+HCiAgICAgICAgICAgICRsaW1pdEFjdGlvbiA9ICJwdWJsaXNoOnRvcGljOmFjdGl2aXR5OnskcnVsZVsnbmFtZSddfSI7CiAgICAgICAgICAgIGlmICghTVRvb2xfTGltaXQ6Om9DbGllbnQoKS0+YlByZUNoZWNrKCR1aWQsICRsaW1pdEFjdGlvbiwgMCwgMSkpIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgTVRvb2xfTGltaXQ6Om9DbGllbnQoKS0+YkNoZWNrKCR1aWQsIE1Db25mOjpUT1BJQ19BQ1RJVklUWV9DSFJJU1RNQVNfTElNSVQsIDAsIDEpOw==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgLy/mo4Dmn6XmmK/lkKblt7Lnu4/lj5HpgIHov4cKICAgICAgICBpZiAoCiAgICAgICAgIU1Ub29sX0xpbWl0OjpvQ2xpZW50KCktPmJQcmVDaGVjaygkdWlkLCBNQ29uZjo6VE9QSUNfQUNUSVZJVFlfQ0hSSVNUTUFTX0xJTUlULCAwLCAxKQogICAgICAgICkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTVRvb2xfTGltaXQ6Om9DbGllbnQoKS0+YkNoZWNrKCR1aWQsICRsaW1pdEFjdGlvbiwgMCwgMSk7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Ci8vZGQoJGRhdGEpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkbGltaXRBY3Rpb24gPSAicHVibGlzaDp0b3BpYzphY3Rpdml0eTpjaHJpc3RtYXM6bm90aWZpY2F0aW9uIjsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CmRkKCRvUHJveHlNZGQtPmFHZXROb3dNZGRUcmVlcygzOS45ODg4NDQsIDExNi40ODc2MTgpKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>if (!MTool_Time::bInTimeRange(date('Y-m-d H:i:s'), [$sTime, $eTime])) {
-                continue;
-            }</text>
+      <register name="8" type="2">
+        <text encoding="base64">TUZhY2FkZV9RdWV1ZTo6dkhhbmRsZUFmdGVyUHVibGlzaFdpdGhBY3Rpdml0eVRvcGljKDEyMywgWzYxNDc2M10pOwo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Ly9lY2hvIFxhcHBzXE1GYWNhZGVfTW9iaWxlX01lc3NhZ2VTdHlsZTo6U0p1bXBFZmZlY3QoIuaIs+i/memHjO+8jOmihuWPluS9oOeahOWchuaipue6ouWMheWQpz4+PiIpOwokYU1kZGlkcyA9ICRvUHJveHlNZGQtPmlHZXRNZGRCeUxicygzNi41ODM5NjcsIDEwOS40OTA4NTcpOwoKCmRkKCRhTWRkaWRzKTs=</text>
+        <text encoding="base64">CiAgICAgICAgJGxhdCA9IDM2LjU4NTQ5OTsKICAgICAgICAkbG5nID0gMTA5LjQ4OTk5ODsK</text>
       </register>
       <register name=":" type="4">
         <text>13,39s/public/protected/</text>
