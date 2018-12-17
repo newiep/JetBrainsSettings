@@ -225,10 +225,10 @@
       </file>
       <file name="$USER_HOME$/Works/wengs/base/Queue.php" timestamp="1544614007598" />
       <file name="$USER_HOME$/Codes/PHP/laravel/vendor/laravel/framework/src/Illuminate/Support/Str.php" timestamp="1544688623788" />
-      <file name="$USER_HOME$/Works/wengs/mapi/WengConfig.php" timestamp="1545013550527">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Works/wengs/mapi/WengConfig.php" timestamp="1545014287931">
+        <mark key="[" line="77" column="4" />
+        <mark key="]" line="77" column="4" />
+        <mark key="." line="77" column="4" />
       </file>
       <file name="$USER_HOME$/Works/wengs/event/Topic.php" timestamp="1544770431584">
         <mark key="[" line="16" column="18" />
@@ -264,10 +264,10 @@
         <mark key="[" line="16" column="89" />
       </file>
       <file name="$USER_HOME$/Works/wengs/weng/TagApi.php" timestamp="1544513585079" />
-      <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/filter/get_filter_config.v1.php" timestamp="1545011295654">
-        <mark key="[" line="70" column="47" />
-        <mark key="]" line="71" column="28" />
-        <mark key="." line="71" column="28" />
+      <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/filter/get_filter_config.v1.php" timestamp="1545014388813">
+        <mark key="[" line="72" column="31" />
+        <mark key="]" line="72" column="28" />
+        <mark key="." line="72" column="28" />
       </file>
       <file name="$USER_HOME$/Works/wengs/controller/admin/user/user.php" timestamp="1544409799630">
         <mark key="[" line="326" column="30" />
@@ -304,8 +304,8 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/signature/get_signature_config.v1.php" timestamp="1545011318622">
-        <mark key="[" line="33" column="47" />
+      <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/signature/get_signature_config.v1.php" timestamp="1545014406566">
+        <mark key="[" line="32" column="5" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
@@ -551,8 +551,8 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengweng/apps/weng/universal/watermark/facade/Api.php" timestamp="1544438278321" />
-      <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/watermark/get_watermark_config.v2.php" timestamp="1545011323853">
-        <mark key="[" line="29" column="47" />
+      <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/watermark/get_watermark_config.v2.php" timestamp="1545014390816">
+        <mark key="[" line="28" column="5" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
@@ -689,6 +689,13 @@
         <mark key="]" line="12" column="3" />
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
+      </file>
+      <file name="$USER_HOME$/Works/wengs/controller/weng_exp/topic/get_discovery_topics.v1.php" timestamp="1545014529891">
+        <mark key="'" line="42" column="25" />
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="175" column="34" />
+        <mark key="." line="175" column="34" />
+        <mark key="^" line="89" column="20" />
       </file>
       <file name="$USER_HOME$/Works/wengs/form/CoordinateInterface.php" timestamp="1541732962647">
         <mark key="[" line="12" column="30" />
@@ -850,10 +857,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0U2lnbmF0dXJlVmVyc2lvbigkdmVyc2lvbikKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnNldEVkaXRvckNvbmZpZygnc2lnbmF0dXJlX3ZlcnNpb24nLCAkdmVyc2lvbik7CiAgICB9Cg==</text>
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text>$watermarkVersion</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
