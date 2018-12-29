@@ -301,11 +301,10 @@
         <mark key="]" line="43" column="24" />
         <mark key="." line="43" column="24" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/mapi/Poi.php" timestamp="1546072538412">
-        <mark key="[" line="141" column="30" />
-        <mark key="]" line="131" column="8" />
-        <mark key="." line="131" column="8" />
-        <mark key="^" line="131" column="8" />
+      <file name="$USER_HOME$/Works/wengs/mapi/Poi.php" timestamp="1546075294396">
+        <mark key="[" line="154" column="22" />
+        <mark key="]" line="154" column="22" />
+        <mark key="." line="154" column="22" />
       </file>
       <file name="$USER_HOME$/Works/wengs/admin/Filter.php" timestamp="1545030832193" />
       <file name="$USER_HOME$/Works/ko/mode/Limit.php" timestamp="1544609725972" />
@@ -904,10 +903,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$aHotel['zh_address'] ? :</text>
+        <text>array_slice($poiList, 0, $iLength),</text>
       </register>
       <register name="-" type="4">
-        <text>$aHotel['zh_address'] ? :</text>
+        <text>array_slice($poiList, 0, $iLength),</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
@@ -916,34 +915,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJHNlYXJjaFR5cGVzID0gYXJyYXlfZGlmZigkc2VhcmNoVHlwZXMsIFtNQ29uZjo6UE9JX1RZUEVfSE9URUxdKTsK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">dGVzdDEoMSwgMiwgMyk7CgoKZnVuY3Rpb24gdGVzdDEoLi4uJHBhcmFtcykgewogICAgdGVzdCgkcGFyYW1zKTsKfQoKZnVuY3Rpb24gdGVzdCguLi4kcGFyYW0pIHsKICAgIGRkKCRwYXJhbSk7Cn0K</text>
+        <text encoding="base64">CiAgICAgICAgICAgICRob3RlbExpc3QgPSBNVG9vbF9BcnJheTo6YVNvcnRBcnJheUJ5KCRob3RlbExpc3QsIFsnbWF0Y2hfc2NvcmUnLCBTT1JUX0RFU0NdKTs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiRhcnJBID0gWydhJyA9PiAxLCAnYicgPT4gMl07CiRhcnJCID0gWydjJyA9PiBbM11dOwoKZGQoYXJyYXlfbWVyZ2UoJGFyckIsICRhcnJBKSk7Cg==</text>
+        <text encoding="base64">Ci8vICAgICAgICAkcG9pTGlzdCA9IE1Ub29sX0FycmF5OjphU29ydEFycmF5QnkoJHBvaUxpc3QsIFsnbWF0Y2hfc2NvcmUnLCBTT1JUX0RFU0NdKTs=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIFtdOw==</text>
+        <text encoding="base64">dGVzdDEoMSwgMiwgMyk7CgoKZnVuY3Rpb24gdGVzdDEoLi4uJHBhcmFtcykgewogICAgdGVzdCgkcGFyYW1zKTsKfQoKZnVuY3Rpb24gdGVzdCguLi4kcGFyYW0pIHsKICAgIGRkKCRwYXJhbSk7Cn0K</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">CiRhcnJBID0gWydhJyA9PiAxLCAnYicgPT4gMl07CiRhcnJCID0gWydjJyA9PiBbM11dOwoKZGQoYXJyYXlfbWVyZ2UoJGFyckIsICRhcnJBKSk7Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIFtdOw==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgYXJyYXlfdW5pcXVlKCk=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkcG9pTGlzdCA9ICRvUHJveHlQb2ktPmFHZXRQb2lMaXN0QnlLZXl3b3JkKCRzS2V5d29yZCwgJHNlYXJjaFR5cGVzLCAwLCAkZkxhdCwgJGZMbmcsICRpUmFkaXVzLCAkaUxlbmd0aCk7CiAgICAgICAgJHBvaUxpc3QgPSAkb1Byb3h5UG9pLT5hR2V0UG9pTGlzdEJ5S2V5d29yZCgkc0tleXdvcmQsICRzZWFyY2hUeXBlcywgMCwgJycsICcnLCAkaVJhZGl1cywgJGlMZW5ndGgpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGhvdGVsTGlzdCAgID0gJG9Qcm94eUhvdGVsLT5hR2V0UG9pTGlzdEJ5S2V5d29yZCgkc0tleXdvcmQsIDAsICcnLCAnJywgJGlSYWRpdXMsICRpTGVuZ3RoKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEVWRU5UX0NPREVfUFVCTElTSF9TRVJWSUNFID0gJ3N0YXR1c193ZW5nX3B1Ymxpc2hfc2V2aWNlJzsK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgJGFXZW5nSW5mbyA9IE1BcHA6OmNyZWF0ZU9iamVjdChNV2VuZ19EYXRhQXBpOjpjbGFzcyktPmFHZXQoJGlXZW5nSWQpOw==</text>
       </register>
       <register name=":" type="4">
         <text>13,39s/public/protected/</text>
