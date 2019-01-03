@@ -509,6 +509,7 @@
       </file>
       <file name="$USER_HOME$/Works/poi/apps/facade/poi/Api.php" timestamp="1546071242012" />
       <file name="$USER_HOME$/Works/appconf/scheme/weng_exp/weng.json" timestamp="1544516900426" />
+      <file name="$USER_HOME$/Works/wengs/weng/LbsFunc.php" timestamp="1546502338888" />
       <file name="$USER_HOME$/Works/movie-lib/controller/app/video/movie/get_designated_movie_list.v1.php" timestamp="1544094467199">
         <mark key="[" line="49" column="12" />
         <mark key="]" line="49" column="12" />
@@ -569,11 +570,10 @@
         <mark key="." line="241" column="9" />
       </file>
       <file name="$USER_HOME$/Works/mdd/www2011/include/mdd/base/Facade.php" timestamp="1545788745046" />
-      <file name="$USER_HOME$/Works/wengs/controller/weng_exp/detail/get_detail.v3.php" timestamp="1546499075249">
-        <mark key="[" line="49" column="79" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Works/wengs/controller/weng_exp/detail/get_detail.v3.php" timestamp="1546502751257">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="5" column="1" />
+        <mark key="." line="5" column="1" />
       </file>
       <file name="$USER_HOME$/Works/wengs/mapi/User.php" timestamp="1545185396821" />
       <file name="$USER_HOME$/Works/mobile/www2011/include/mapi/url/Api.php" timestamp="1545811026554" />
@@ -965,7 +965,7 @@
         <mark key="]" line="57" column="54" />
         <mark key="." line="57" column="54" />
       </file>
-      <file name="$USER_HOME$/Works/mobile/www2011/include/mapi/Request.php" timestamp="1546425938412" />
+      <file name="$USER_HOME$/Works/mobile/www2011/include/mapi/Request.php" timestamp="1546502229673" />
       <file name="$USER_HOME$/Works/wengs/WengBase.php" timestamp="1539668740831">
         <mark key="[" line="51" column="84" />
       </file>
@@ -1103,11 +1103,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICBjb25zdCBQQUdFX1dFTkdfREVUQUlMID0gJ3dlbmcuZGV0YWlsJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>elf::NOTIFY_FAIL</text>
+        <text encoding="base64">c2VsZjo6UEFHRV9XRU5HX0RFVEFJTCAuIA==</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
@@ -1115,35 +1115,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHNlYXJjaFR5cGVzID0gYXJyYXlfZGlmZigkc2VhcmNoVHlwZXMsIFtNQ29uZjo6UE9JX1RZUEVfSE9URUxdKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBjb25zdCBQQUdFX1dFTkdfREVUQUlMID0gJ3dlbmcuZGV0YWlsJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">TUFwcDo6JGFwcC0+bG9nLT5ydW50aW1lKCd3ZW5nX2Vzc2VuY2Vfc2VuZF9wcml2YXRlX21zZ19mYWlsJywgWwogICAgICAgICAgICAgICAgICAgICd3ZW5naWQnPT4gJGlXZW5nSWQsCiAgICAgICAgICAgICAgICAgICAgJ3VpZCcgPT4gJGlVaWQsCiAgICAgICAgICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICd3ZW5nIGlsbGVnYWwhJywKICAgICAgICAgICAgICAgIF0pOw==</text>
+        <text encoding="base64">CiAgICBjb25zdCBFUlJPUl9DT0RFID0gMTAwMDE7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgJHNQb2ludCA9IE1BcHA6OmNyZWF0ZU9iamVjdChNUHJveHlfUmVxdWVzdDo6Y2xhc3MpLT5hTGF0TG5nKCk7</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">TUFwcDo6JGFwcC0+bG9nLT5ydW50aW1lKCd3ZW5nX2Vzc2VuY2Vfc2VuZF9wcml2YXRlX21zZ19mYWlsJywgWwogICAgICAgICAgICAgICAgJ3dlbmdpZCc9PiAkaVdlbmdJZCwKICAgICAgICAgICAgICAgICd1aWQnID0+ICRpVWlkLAogICAgICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICd1c2VyIGluZm8gbm90IGV4aXN0IScsCiAgICAgICAgICAgIF0pOw==</text>
+        <text encoding="base64">CiAgICAgICAgTUFwcDo6JGFwcC0+cmVxdWVzdC0+</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgJHNQb2ludCA9IFskZkxhdCwgJGZMbmddOw==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">TUFwcDo6JGFwcC0+bG9nLT5ydW50aW1lKCd3ZW5nX2Vzc2VuY2Vfc2VuZF9wcml2YXRlX21zZ19mYWlsJywgWwogICAgICAgICAgICAgICAgJ3dlbmdpZCc9PiAkaVdlbmdJZCwKICAgICAgICAgICAgICAgICd1aWQnID0+ICRpVWlkLAogICAgICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICd3ZW5nIG5vdCBleGlzdCEnLAogICAgICAgICAgICBdKTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IE5PVElGWV9GQUlMICAgICAgICAgPSAnd2VuZ3Nfbm90aWZ5X2Vzc2VuY2VfZmFpbCc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IFJFTEFUSU9OX1dFTkdfTlVNID0gNjsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IE5PVElGWV9GQUlMICAgICAgICAgPSAnd2VuZ3Nfbm90aWZ5X2Vzc2VuY2VfZmFpbCc7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBjb25zdCBTSE9XX05FQVJfTEVBU1QgPSAzOyAvL+mZhOi/keWXoeWXoeiHs+WwkeaYvuekugogICAgY29uc3QgU0hPV19ORUFSX05VTSA9IDE1OyAgLy/pmYTov5Hll6Hll6HmnIDlpJrmmL7npLoKICAgIGNvbnN0IE9OX1RSSVBfRElTVEFOQ0UgPSA1MDsgLy/ljZXkvY0gS03vvIzliKTmlq3mmK/lkKbml4XooYzkuK3nmoTot53nprsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTUFwcDo6JGFwcC0+bG9nLT5ydW50aW1lKCd3ZWVrbHlfbXNnJywgJGFTdGF0KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>13,39s/public/protected/</text>
