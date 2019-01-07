@@ -3,9 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Works/wengs/mapi/dataprovider/DetailRecommend.php" timestamp="1546849894576">
+      <file name="$USER_HOME$/Works/wengs/mapi/dataprovider/DetailRecommend.php" timestamp="1546852254999">
         <mark key="'" line="288" column="51" />
-        <mark key="[" line="298" column="4" />
+        <mark key="[" line="82" column="66" />
         <mark key="]" line="298" column="4" />
         <mark key="." line="298" column="4" />
         <mark key="^" line="294" column="28" />
@@ -486,7 +486,11 @@
         <mark key="]" line="241" column="66" />
         <mark key="." line="241" column="66" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/controller/weng_exp/detail/get_recommend_list.v1.php" timestamp="1546849573026" />
+      <file name="$USER_HOME$/Works/wengs/controller/weng_exp/detail/get_recommend_list.v1.php" timestamp="1546852267840">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="22" />
+        <mark key="." line="80" column="0" />
+      </file>
       <file name="$USER_HOME$/Works/wengs/test.php" timestamp="1546826361895">
         <mark key="[" line="133" column="2" />
       </file>
@@ -805,7 +809,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNQXBwOjokYXBwLT5sb2ctPmxvZygkd2VuZ0lkVHlwZU1hcCwgJ2lkX3R5cGVfbWFwJywgJ2RlYnVnX3JlY29tbWVuZF9saXN0Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGxvZ2luVWlkLAo=</text>
       </register>
       <register name="-" type="4">
         <text>wengid</text>
@@ -817,36 +821,36 @@
         <text encoding="base64">ICAgICAgICAgICAgJHNlYXJjaFR5cGVzID0gYXJyYXlfZGlmZigkc2VhcmNoVHlwZXMsIFtNQ29uZjo6UE9JX1RZUEVfSE9URUxdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNQXBwOjokYXBwLT5sb2ctPmxvZygkd2VuZ0lkVHlwZU1hcCwgJ2lkX3R5cGVfbWFwJywgJ2RlYnVnX3JlY29tbWVuZF9saXN0Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGxvZ2luVWlkLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">JHdlbmdJZFR5cGVNYXAgPSBhcnJheV9tYXAoZnVuY3Rpb24oJGl0ZW0pIHsKICAgICAgICAgICAgJGtleSA9ICRpdGVtWydkYXRhJ11bJ3dlbmdpZCddOwogICAgICAgICAgICAkdHlwZURlc2MgPSBbMSA9PiAn44CQ55So5oi357qs5bqm44CRJywgMiA9PiAn44CQ5L2N572u57qs5bqm44CRJywgMyA9PiAn44CQ6L+Q6JCl57qs5bqm44CRJywgNCA9PiAn44CQ5YW06Laj57qs5bqm44CRJ107CiAgICAgICAgICAgICR0eXBlID0gJGl0ZW1bJ3R5cGUnXTsKICAgICAgICAgICAgJGRlc2MgPSAkdHlwZSA/ICR0eXBlRGVzY1skdHlwZV0gOiAnJzsKICAgICAgICAgICAgcmV0dXJuIFska2V5ID0+ICRkZXNjXTsKICAgICAgICB9LCAkd2VuZ0xpc3QpOw==</text>
+        <text encoding="base64">CiAgICAgICAgJGlzU2hvd1R5cGVEZXNjICA9ICR0aGlzLT5pcw==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiBbJGtleSA9PiAkZGVzY107</text>
+        <text>array_map(function ($item) {
+            return $item['data']['wengid'];
+        }, $wengList)</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiAkaXRlbVsnZGF0YSddWyd3ZW5naWQnXTs=</text>
+        <text encoding="base64">CiAgICAgICAgJHR5cGVEZXNjID0gWzEgPT4gJ+OAkOeUqOaIt+e6rOW6puOAkScsIDIgPT4gJ+OAkOS9jee9rue6rOW6puOAkScsIDMgPT4gJ+OAkOi/kOiQpee6rOW6puOAkScsIDQgPT4gJ+OAkOWFtOi2o+e6rOW6puOAkSddOw==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICByZXR1cm4gTU1BcGlfRGF0YVByb3ZpZGVyX0RldGFpbFJlY29tbWVuZDo6TU9ERV9VU0VSOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBNQXBwOjokYXBwLT5sb2ctPmxvZygkd2VuZ0lkVHlwZU1hcCwgJ2lkX3R5cGVfbWFwJywgJ2RlYnVnX3JlY29tbWVuZF9saXN0Jyk7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGlkVHlwZU1hcCgkd2VuZ0xpc3QpCiAgICB7CiAgICAgICAgJG1hcCA9IFtdOwogICAgICAgIC8vVE9ETyDkuLTml7bvvIwg5LiK57q/5YmN5Yig6ZmkCiAgICAgICAgJHR5cGUyRGVzYyA9IFsxID0+ICfnlKjmiLfnuqzluqYnLCAyID0+ICfkvY3nva7nuqzluqYnLCAzID0+ICfov5DokKXnu7TluqYnLCA0ID0+ICflhbTotqPnuqzluqYnXTsKICAgICAgICBmb3JlYWNoICgkd2VuZ0xpc3QgYXMgJHdlbmcpIHsKICAgICAgICAgICAgJGtleSAgICAgICA9ICR3ZW5nWydkYXRhJ11bJ3dlbmdpZCddOwogICAgICAgICAgICAkbWFwWyRrZXldID0gJHR5cGUyRGVzY1skd2VuZ1sndHlwZSddXTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuICRtYXA7CiAgICB9Cg==</text>
+        <text encoding="base64">JHdlbmdJZFR5cGVNYXAgPSBhcnJheV9tYXAoZnVuY3Rpb24oJGl0ZW0pIHsKICAgICAgICAgICAgJGtleSA9ICRpdGVtWydkYXRhJ11bJ3dlbmdpZCddOwogICAgICAgICAgICAkdHlwZURlc2MgPSBbMSA9PiAn44CQ55So5oi357qs5bqm44CRJywgMiA9PiAn44CQ5L2N572u57qs5bqm44CRJywgMyA9PiAn44CQ6L+Q6JCl57qs5bqm44CRJywgNCA9PiAn44CQ5YW06Laj57qs5bqm44CRJ107CiAgICAgICAgICAgICR0eXBlID0gJGl0ZW1bJ3R5cGUnXTsKICAgICAgICAgICAgJGRlc2MgPSAkdHlwZSA/ICR0eXBlRGVzY1skdHlwZV0gOiAnJzsKICAgICAgICAgICAgcmV0dXJuIFska2V5ID0+ICRkZXNjXTsKICAgICAgICB9LCAkd2VuZ0xpc3QpOw==</text>
       </register>
       <register name="7" type="4">
-        <text>//TODO 临时， 上线前删除
-            $wengItem['content'] = $type . $wengItem['content'];</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiBbJGtleSA9PiAkZGVzY107</text>
       </register>
       <register name="8" type="4">
-        <text>$type   = MTool_Array::mGetValue($idTypeMap, $wengid, '');
-            $type   = $type ? &quot;【{$type}】&quot; : &quot;&quot;;</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiAkaXRlbVsnZGF0YSddWyd3ZW5naWQnXTs=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">JGlkVHlwZU1hcCA9ICR0aGlzLT5pZFR5cGVNYXAoJHdlbmdMaXN0KTsKICAgICAgICAkd2VuZ0lkcyAgID0gYXJyYXlfa2V5cygkaWRUeXBlTWFwKTs=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICByZXR1cm4gTU1BcGlfRGF0YVByb3ZpZGVyX0RldGFpbFJlY29tbWVuZDo6TU9ERV9VU0VSOw==</text>
       </register>
       <register name=":" type="4">
         <text>13,39s/public/protected/</text>
