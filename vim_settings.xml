@@ -52,13 +52,13 @@
         <mark key="[" line="43" column="58" />
       </file>
       <file name="$USER_HOME$/Works/wengs/weng/Api.php" timestamp="1546916558953" />
-      <file name="$USER_HOME$/Works/wengs/multimedia/Api.php" timestamp="1547000403880">
-        <mark key="[" line="548" column="95" />
-        <mark key="]" line="383" column="18" />
-        <mark key="." line="383" column="18" />
+      <file name="$USER_HOME$/Works/wengs/multimedia/Api.php" timestamp="1547002028432">
+        <mark key="[" line="393" column="25" />
+        <mark key="]" line="394" column="43" />
+        <mark key="." line="394" column="43" />
       </file>
       <file name="$USER_HOME$/Works/wengs/app/test/publish_video.php" timestamp="1546912601959" />
-      <file name="$USER_HOME$/Works/mobile/mobile_api/api/system/file/image_upload.v1.php" timestamp="1546930562770" />
+      <file name="$USER_HOME$/Works/mobile/mobile_api/api/system/file/image_upload.v1.php" timestamp="1547001430267" />
       <file name="$USER_HOME$/Works/appconf/scheme/weng/weng_reply.json" timestamp="1544520482623">
         <mark key="[" line="26" column="81" />
       </file>
@@ -168,7 +168,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/multimedia/AudioApi.php" timestamp="1546999854040">
+      <file name="$USER_HOME$/Works/wengs/multimedia/AudioApi.php" timestamp="1547001260049">
         <mark key="[" line="48" column="15" />
         <mark key="]" line="48" column="40" />
         <mark key="." line="48" column="40" />
@@ -874,10 +874,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKAogICAgICAgICAgICAkYU1lZGlhWyd0eXBlJ10gPT0gc2VsZjo6VFlQRV9XRU5HX0RFRkFVTFQgfHwKICAgICAgICAgICAgIWlzc2V0KCRhTWVkaWFbJ2F1ZGlvJ10pIHx8CiAgICAgICAgICAgICRzUmVzb3VyY2UgPSBNVG9vbF9BcnJheTo6bUdldFZhbHVlKCRhTWVkaWEsIFsnYXVkaW8nLCAncmVzb3VyY2UnXSwgJycpCiAgICAgICAgKSB7CiAgICAgICAgICAgIHJldHVybiAnJzsKICAgICAgICB9CiAgICAgICAgcmV0dXJuICRzUmVzb3VyY2U7</text>
+        <text>, self::FLAG_DEFAULT</text>
       </register>
       <register name="-" type="4">
-        <text>if ($aParams['type'] == self::TYPE_WENG_DEFAULT) {</text>
+        <text>, self::FLAG_DEFAULT</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
