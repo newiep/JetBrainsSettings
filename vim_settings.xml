@@ -197,6 +197,7 @@
       <file name="$USER_HOME$/Works/wengs/event/Dispatcher.php" timestamp="1547194642461">
         <mark key="[" line="14" column="52" />
       </file>
+      <file name="$USER_HOME$/Works/wengs/controller/weng_exp/activity/get_weng_activity_detail.v1.php" timestamp="1547199088673" />
       <file name="$USER_HOME$/Works/wengs/mapi/dataprovider/Weng.php" timestamp="1546846625267">
         <mark key="[" line="337" column="8" />
         <mark key="]" line="337" column="8" />
@@ -216,10 +217,10 @@
         <mark key="." line="183" column="0" />
       </file>
       <file name="$USER_HOME$/Works/appconf/scheme/weng_exp/weng.json" timestamp="1547174893225" />
-      <file name="$USER_HOME$/Works/wengs/controller/weng_exp/detail/get_detail.v4.php" timestamp="1547197468908">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/Works/wengs/controller/weng_exp/detail/get_detail.v4.php" timestamp="1547199103158">
+        <mark key="[" line="501" column="46" />
+        <mark key="]" line="501" column="46" />
+        <mark key="." line="501" column="46" />
       </file>
       <file name="$USER_HOME$/Works/wengs/controller/admin/operate.php" timestamp="1546916544899">
         <mark key="[" line="504" column="51" />
@@ -370,11 +371,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL3VzZXJfam9pbl9hY3Rpdml0eQo=</text>
+      <register name="&quot;" type="4">
+        <text>$sTopic</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>$sTopic</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
