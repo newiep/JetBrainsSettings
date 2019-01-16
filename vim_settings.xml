@@ -26,8 +26,8 @@
       <file name="$USER_HOME$/Works/wengs/form/TravelExpImportAllInteraction.php" timestamp="1543491184526">
         <mark key="[" line="53" column="21" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/mapi/Weng.php" timestamp="1547624776852">
-        <mark key="[" line="452" column="70" />
+      <file name="$USER_HOME$/Works/wengs/mapi/Weng.php" timestamp="1547638214863">
+        <mark key="[" line="458" column="47" />
         <mark key="]" line="452" column="70" />
         <mark key="^" line="180" column="16" />
         <mark key="." line="452" column="70" />
@@ -133,6 +133,9 @@
       <file name="$USER_HOME$/Works/wengs/form/ModifyBak.php" timestamp="1541657029418">
         <mark key="[" line="10" column="18" />
       </file>
+      <file name="$USER_HOME$/Works/wengs/proxy/Poi.php" timestamp="1547638157416">
+        <mark key="[" line="90" column="22" />
+      </file>
       <file name="$USER_HOME$/Works/wengs/App.php" timestamp="1546411729028">
         <mark key="[" line="17" column="36" />
       </file>
@@ -188,6 +191,7 @@
       <file name="$USER_HOME$/Works/wengs/datapool/Infoflow.php" timestamp="1547119508576">
         <mark key="[" line="10" column="1" />
       </file>
+      <file name="$USER_HOME$/Works/poi/apps/poi/facade/Poi.php" timestamp="1547637906384" />
       <file name="$USER_HOME$/Works/wengs/facade/inner/InfoFlow.php" timestamp="1547622684952" />
       <file name="$USER_HOME$/Works/wengs/controller/admin/debug_bak.php" timestamp="1546400558501">
         <mark key="[" line="93" column="31" />
@@ -238,16 +242,17 @@
       <file name="$USER_HOME$/Works/wengweng/apps/weng/universal/counter/facade/Api.php" timestamp="1542853669388">
         <mark key="[" line="24" column="45" />
       </file>
+      <file name="$USER_HOME$/Works/hotel/apps/hotel/hotel/controller/BaseApi.php" timestamp="1547638135287" />
       <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/topic/get_topics.v2.php" timestamp="1547523206164">
         <mark key="[" line="15" column="67" />
       </file>
       <file name="$USER_HOME$/Works/wengs/facade/inner/Search.php" timestamp="1541401187392">
         <mark key="[" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/test.php" timestamp="1547622792681">
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
+      <file name="$USER_HOME$/Works/wengs/test.php" timestamp="1547637418673">
+        <mark key="[" line="129" column="43" />
+        <mark key="]" line="129" column="43" />
+        <mark key="." line="129" column="43" />
       </file>
       <file name="$USER_HOME$/Works/wengs/tests/test.php" timestamp="1544692425230">
         <mark key="[" line="6" column="3" />
@@ -294,7 +299,7 @@
         <mark key="[" line="326" column="30" />
       </file>
       <file name="$USER_HOME$/Works/wengs/controller/weng_exp/homepage/get_weng_list.v2.php" timestamp="1547630960585" />
-      <file name="/PHP Console" timestamp="1547622789508">
+      <file name="/PHP Console" timestamp="1547638175717">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengs/mapi/dataprovider/Weng.php" timestamp="1547537085727">
@@ -302,6 +307,7 @@
         <mark key="]" line="337" column="8" />
         <mark key="." line="337" column="8" />
       </file>
+      <file name="$USER_HOME$/Works/appconf/scheme/weng_exp/style/weng_detail/weng_detail_related_poi.json" timestamp="1547637143788" />
       <file name="$USER_HOME$/Works/mobile/mobile_api/api/video/movie/get_movie_list.v2.php" timestamp="1544091422903">
         <mark key="[" line="262" column="30" />
       </file>
@@ -331,7 +337,7 @@
         <mark key="]" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/controller/weng_exp/detail/get_detail.v4.php" timestamp="1547636321867">
+      <file name="$USER_HOME$/Works/wengs/controller/weng_exp/detail/get_detail.v4.php" timestamp="1547638205518">
         <mark key="[" line="287" column="27" />
         <mark key="]" line="287" column="27" />
         <mark key="." line="287" column="27" />
@@ -491,11 +497,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$bIncludeOffLine</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPmFHZXRSZWxhdGVkTm90ZSgkaVdlbmdJZCk=</text>
+        <text>$bIncludeOffLine</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
