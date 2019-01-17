@@ -29,6 +29,11 @@
       <file name="$USER_HOME$/Works/wengs/form/Test.php" timestamp="1541752721692">
         <mark key="[" line="16" column="18" />
       </file>
+      <file name="$USER_HOME$/Works/wengs/controller/template/admin/panel_config.tpl" timestamp="1547720425673">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+      </file>
       <file name="$USER_HOME$/Works/wengs/controller/admin/filter.php" timestamp="1545016798955">
         <mark key="[" line="31" column="7" />
       </file>
@@ -123,6 +128,7 @@
       <file name="$USER_HOME$/Works/wengs/form/ModifyBak.php" timestamp="1541657029418">
         <mark key="[" line="10" column="18" />
       </file>
+      <file name="$USER_HOME$/Works/wengs/controller/template/admin/tmp.tpl" timestamp="1547714489695" />
       <file name="$USER_HOME$/Works/wengs/proxy/Poi.php" timestamp="1547712344016">
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="0" />
@@ -202,7 +208,9 @@
       <file name="$USER_HOME$/Works/outdated/apps/facade/mapi/mdd/Map.php" timestamp="1545815484128">
         <mark key="[" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/controller/admin/tmp.php" timestamp="1547708685832" />
+      <file name="$USER_HOME$/Works/wengs/controller/admin/tmp.php" timestamp="1547715307365">
+        <mark key="[" line="61" column="5" />
+      </file>
       <file name="$USER_HOME$/Codes/PHP/orm_demo/Media.php" timestamp="1540279732484">
         <mark key="[" line="7" column="3" />
       </file>
@@ -239,7 +247,7 @@
       <file name="$USER_HOME$/Works/wengs/facade/inner/Search.php" timestamp="1541401187392">
         <mark key="[" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/test.php" timestamp="1547712092376">
+      <file name="$USER_HOME$/Works/wengs/test.php" timestamp="1547717154650">
         <mark key="[" line="129" column="0" />
         <mark key="]" line="180" column="27" />
         <mark key="." line="180" column="27" />
@@ -259,8 +267,8 @@
       <file name="$USER_HOME$/Works/mobile/www2011/include/mapi/url/SNS.php" timestamp="1539747606815">
         <mark key="[" line="142" column="5" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/proxy/File.php" timestamp="1547602026503">
-        <mark key="[" line="12" column="44" />
+      <file name="$USER_HOME$/Works/wengs/proxy/File.php" timestamp="1547716333544">
+        <mark key="[" line="14" column="18" />
       </file>
       <file name="$USER_HOME$/Works/wengs/weng/ContentApi.php" timestamp="1547035341581">
         <mark key="[" line="51" column="5" />
@@ -284,12 +292,17 @@
         <mark key="[" line="326" column="30" />
       </file>
       <file name="$USER_HOME$/Works/wengs/controller/weng_exp/homepage/get_weng_list.v2.php" timestamp="1547630960585" />
-      <file name="/PHP Console" timestamp="1547712109127">
+      <file name="/PHP Console" timestamp="1547719541362">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/appconf/scheme/weng_exp/style/weng_detail/weng_detail_related_poi.json" timestamp="1547637143788" />
       <file name="$USER_HOME$/Works/mobile/mobile_api/api/video/movie/get_movie_list.v2.php" timestamp="1544091422903">
         <mark key="[" line="262" column="30" />
+      </file>
+      <file name="$USER_HOME$/Works/outdated/www2011/htdocs/test/fenghua/upload_activity_pic.php" timestamp="1547719226781">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Works/manual-script/201811/wengs/fix_orderid_data.php" timestamp="1543840511748">
         <mark key="[" line="6" column="3" />
@@ -335,10 +348,11 @@
         <mark key="]" line="53" column="44" />
         <mark key="." line="53" column="44" />
       </file>
-      <file name="$USER_HOME$/Works/mobile/mobile_api/api/system/file/audio_upload.v1.php" timestamp="1547625687452">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Works/mobile/mobile_api/api/system/file/audio_upload.v1.php" timestamp="1547716555222">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="22" column="13" />
+        <mark key="." line="22" column="13" />
+        <mark key="^" line="22" column="13" />
       </file>
       <file name="$USER_HOME$/Works/wengs/form/PublishBak.php" timestamp="1541657033573">
         <mark key="[" line="10" column="19" />
@@ -476,48 +490,55 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgogICAgICAgIEVudiA9IE5VTEw7CiAgICAgICAgRW52LklNR19IT1NUID0gJ2ltYWdlcy5tYWZlbmd3by5uZXQnOwogICAgPC9zY3JpcHQ+</text>
       </register>
       <register name="-" type="4">
-        <text>$bIncludeOffLine</text>
+        <text>http://js.mafengwo.net/js/global/json2.js?1414480386</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAncHRpbWUnID0+IFsndHlwZScgPT4gJ3N0cmluZyddLAo=</text>
+      <register name="0" type="4">
+        <text>标题（为空则隐藏）</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      <register name="1" type="4">
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgogICAgICAgIEVudiA9IE5VTEw7CiAgICAgICAgRW52LklNR19IT1NUID0gJ2ltYWdlcy5tYWZlbmd3by5uZXQnOwogICAgPC9zY3JpcHQ+</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAgICAgICAgICAgICAnaWQnICAgICAgICAgICA9PiAkYUhvdGVsWydpZCddLAogICAgICAgICAgICAgICAgJ25hbWUnICAgICAgICAgPT4gJGFIb3RlbFsnbmFtZSddLAogICAgICAgICAgICAgICAgJ3poX25hbWUnICAgICAgPT4gJGFIb3RlbFsnemhfbmFtZSddLAogICAgICAgICAgICAgICAgJ2xvY2FsX25hbWUnICAgPT4gKHN0cmluZykkYUhvdGVsWydsb2NhbF9uYW1lJ10sCiAgICAgICAgICAgICAgICAnZm9yZWlnbl9uYW1lJyA9PiAkYUhvdGVsWydmb3JlaWduX25hbWUnXSwKICAgICAgICAgICAgICAgICd0eXBlJyAgICAgICAgID0+IGludHZhbCgkYVBvaXNbJGFIb3RlbFsnaWQnXV1bJ3R5cGVfaWQnXSksCiAgICAgICAgICAgICAgICAnbWRkaWQnICAgICAgICA9PiAkYUhvdGVsWydtZGRpZCddLAogICAgICAgICAgICAgICAgJ21kZCcgICAgICAgICAgPT4gWydpZCcgPT4gJGFIb3RlbFsnbWRkaWQnXSwgJ25hbWUnID0+ICRhTWRkSW5mb3NbJGFIb3RlbFsnbWRkaWQnXV1bJ25hbWUnXSA/OiAnJ10sCiAgICAgICAgICAgICAgICAnZmxhZycgICAgICAgICA9PiAkYUhvdGVsWydmbGFnJ10sCiAgICAgICAgICAgICAgICAncHJpY2UnICAgICAgICA9PiBpbnR2YWwoJGFIb3RlbFsncHJpY2UnXSksCiAgICAgICAgICAgICAgICAndGh1bWJuYWlsJyAgICA9PiAkb0ltYWdlUHJveHktPnNDcm9wU3RyZXRjaCgkYUhvdGVsWydpbWdfbGluayddLCA0MDAsIDQwMCksCiAgICAgICAgICAgICAgICAnYWRkcmVzcycgICAgICA9PiAkYUhvdGVsWydhZGRyZXNzJ10sCj09PT09PT0=</text>
+        <text encoding="base64">CiAgICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJodHRwOi8vanMubWFmZW5nd28ubmV0L2pzL00vTW9kdWxlLmpzPzE0MTE1MzU4ODgiPjwvc2NyaXB0PgogICAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cDovL2pzLm1hZmVuZ3dvLm5ldC9qcy9NL00uanM/MTQxNDQ4NzA5OCI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJodHRwOi8vanMubWFmZW5nd28ubmV0L2pzL00vTG9nLmpzPzE0MTQzODQ2MTQiPjwvc2NyaXB0PgogICAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cDovL2pzLm1hZmVuZ3dvLm5ldC9qcy9wbHVwbG9hZC5taW4uanMiPjwvc2NyaXB0Pg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Ci8vJG1kZEEgPSAkb1Byb3h5TWRkLT5pR2V0TWRkQnlMYnMoMzMuOTA2ODk1NTUxMjg5LCAxMDguNTQ0OTIxODc1KTsKLy8kbWRkVHJlZUEgPSAkb1Byb3h5TWRkLT5hR2V0Tm93TWRkVHJlZXMoMzMuOTA2ODk1NTUxMjg5LCAxMDguNTQ0OTIxODc1KTsKLy8KLy8kbWRkQiA9ICRvUHJveHlNZGQtPmlHZXRNZGRCeUxicygzNS4xNzM4MDgzMTgsIDk5LjQ5MjE4NzUpOwovLyRtZGRUcmVlQiA9ICRvUHJveHlNZGQtPmFHZXROb3dNZGRUcmVlcygzNS4xNzM4MDgzMTgsIDk5LjQ5MjE4NzUpOwovLwovLyRtZGRDID0gJG9Qcm94eU1kZC0+aUdldE1kZEJ5TGJzKDM3Ljg3MzUwMDgyMzk3NSwgMTEyLjU2MTk5NjQ1OTk2KTsKLy8kbWRkVHJlZUMgPSAkb1Byb3h5TWRkLT5hR2V0Tm93TWRkVHJlZXMoMzcuODczNTAwODIzOTc1LCAxMTIuNTYxOTk2NDU5OTYpOwoKJHNLZXl3b3JkID0gJ+WMl+S6rCc7CiRmTGF0ID0gMzkuOTg3NjA2OwokZkxuZyA9IDExNi40OTMyMjg7CgoKLy/orqHnrpfnm67nmoTlnLAgSUQKaWYgKCEkaU1kZGlkID0gJG9Qcm94eVBvaS0+aUdldFN1Z2dlc3RNZGRpZEJ5S2V5d29yZCh0cmltKCRzS2V5d29yZCkpICYmICRmTGF0ICYmICRmTG5nKSB7CiAgICAkaU1kZGlkID0gJG9Qcm94eU1kZC0+aUdldE1kZEJ5TGJzKCRmTGF0LCAkZkxuZyk7Cn0KCiRyZXEgPSAkX0dFVDsKCiRsYXQgICAgID0gTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkcmVxLCAnbGF0JywgMzkuODY3MDM3KTsKJGxuZyAgICAgPSBNVG9vbF9BcnJheTo6bUdldFZhbHVlKCRyZXEsICdsbmcnLCAxMTYuNDg4NDgwKTsKJG1kZGlkICAgPSBNVG9vbF9BcnJheTo6bUdldFZhbHVlKCRyZXEsICdtZGRpZCcsIDApOwoka2V5d29yZCA9IE1Ub29sX0FycmF5OjptR2V0VmFsdWUoJHJlcSwgJ2tleXdvcmQnLCAn5rW35bqV5o2eJyk7CiR0eXBlICAgID0gTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkcmVxLCAndHlwZScsICcxJyk7CiRyYWRpdXMgICAgPSBNVG9vbF9BcnJheTo6bUdldFZhbHVlKCRyZXEsICdyYWRpdXMnLCAzMDAwKTsKJG51bXMgICAgPSBNVG9vbF9BcnJheTo6bUdldFZhbHVlKCRyZXEsICdudW1zJywgMyk7CgokdHlwZXMgPSBbXTsKCmlmICgkdHlwZSkgewogICAgJHR5cGVzID0gZXhwbG9kZSgnLCcsICR0eXBlKTsKfQoKaWYgKCR0eXBlICYmIGluX2FycmF5KDIsICR0eXBlcykpIHsKICAgIGlmICgka2V5d29yZCkgewogICAgICAgICRyZXMgPSAkb1Byb3h5SG90ZWwtPmFHZXRQb2lMaXN0QnlLZXl3b3JkKCRrZXl3b3JkLCAkbWRkaWQsICRsYXQsICRsbmcsICRyYWRpdXMsICRudW1zKTsKICAgIH0gZWxzZSB7CiAgICAgICAgJHJlcyA9ICRvUHJveHlIb3RlbC0+YUdldFBvaUxpc3RCeVBvc2l0aW9uKCRsYXQsICRsbmcsICRyYWRpdXMsIDAsICRudW1zKTsKICAgIH0KfSBlbHNlIHsKICAgIGlmICgka2V5d29yZCkgewogICAgICAgICRyZXMgPSAkb1Byb3h5UG9pLT5hR2V0UG9pTGlzdEJ5S2V5d29yZCgka2V5d29yZCwgJHR5cGVzLCAkbWRkaWQsICRsYXQsICRsbmcsICRyYWRpdXMsICRudW1zKTsKICAgIH0gZWxzZSB7CiAgICAgICAgJHJlcyA9ICRvUHJveHlQb2ktPmFHZXRQb2lMaXN0QnlQb3NpdGlvbigkbGF0LCAkbG5nLCAkbWRkaWQsICR0eXBlcywgJHJhZGl1cywgMCwgJG51bXMpOwogICAgfQp9CgplY2hvIE1Ub29sX0pTT046OnNFbmNvZGUoJHJlcyk7</text>
+        <text encoding="base64">CiAgICA8dWwgaWQ9Im9wZXJhdGVfaW1nIj48L3VsPg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CgokbWVkaWEgPSBbCiAgICBbJ21pZCcgPT4gMSwgJ25hbWUnID0+ICcxJywgJ3ZvaWNlX2ZpbGVfaWQnID0+ICcnXSwKICAgIFsnbWlkJyA9PiAyLCAnbmFtZScgPT4gJzInLCAndm9pY2VfZmlsZV9pZCcgPT4gJ3Rlc3QyJ10sCiAgICBbJ21pZCcgPT4gMywgJ25hbWUnID0+ICczJywgJ3ZvaWNlX2ZpbGVfaWQnID0+ICd0ZXN0MyddLApdOwoKJHJlcyA9IGFycmF5X2NvbHVtbigkbWVkaWEsICd2b2ljZV9maWxlX2lkJyk7CgokcmVzID0gYXJyYXlfZmlsdGVyKCRyZXMpOwpkZCgkcmVzKTsK</text>
+        <text encoding="base64">CgogICAg</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">JF9HRVQgID0gWwogICAgJ2EnID0+IDEsCiAgICAnYicgPT4gMiwKICAgICdtZWRpYV90eXBlJyA9PiBudWxsLApdOwoKJG10ID0gXEtvX1dlYl9SZXF1ZXN0OjpTR2V0KCdtZWRpYV90eXBlJykgPzogMDsKZGQoJG10KTsKZGQoYXJyYXlfbWVyZ2UoWzEsIDJdLCBbMSwgM10pKTs=</text>
+        <text encoding="base64">CiAgICAgICAgPGxpPgogICAgICAgICAgICA8aW5wdXQgdHlwZT0iYnV0dG9uIiB2YWx1ZT0i5LiK5Lyg5Zu+54mHIiBpZD0idXBsb2FkYnRuIi8+CiAgICAgICAgPC9saT4=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIChhcnJheV9maWx0ZXIoJG1lZGlhRmlsZUlkcykpIHs=</text>
+        <text encoding="base64">CiAgICAgICAgaGVpZ2h0OiAzNTBweDs=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Zm9yZWFjaCAoJG1lZGlhRmlsZUlkcyBhcyAkZmlsZUlkKSB7CiAgICAgICAgICAgICAgICBpZiAoJGZpbGVJZCkgewogICAgICAgICAgICAgICAgICAgICRpVGlkID0gJG9UYWdBcGktPmlBZGRUYWcoJ+WjsOmfs+i0tOe6uCcpOwogICAgICAgICAgICAgICAgICAgICRhRXRpZHNbXSA9ICRpVGlkOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="4">
-        <text>/* @var MTag_Item $oTagApi */
-            $oTagApi = MApp::createObject(MTag_Item::class);</text>
+        <text>UploadProgress: function(up, file) {
+            //$('#progress').text(file.percent + &quot;%&quot;);
+        },
+        Error: function(up, err) {
+        },</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiRyZXMgPSAkb1Byb3h5UG9pLT5hR2V0UG9pQW5kSG90ZWxJbmZvcyhbMTU0OTIxXSwgdHJ1ZSk7CgpkZCgkcmVzKTsKCiRhSW5kZXhGbG93VGFncyA9ICRjb25mQXBpLT5hR2V0VGFnQ29uZkJ5Q2FjaGUoTUFkbWluX01kZDo6Q09ORl9NRERTSE9XX1RBRywgMCwgNSAqIDYwKTsKJHJlcyA9IGFycmF5X2NvbHVtbigkYUluZGV4Rmxvd1RhZ3MsICdpZCcpOwpkZCgkcmVzKTs=</text>
+        <text>$('body').on('focus', '._j_input', function(ev) {
+        setTimeout(function() {
+            $(ev.currentTarget).select();
+        }, 300);
+    });</text>
       </register>
       <register name=":" type="4">
         <text>13,39s/public/protected/</text>
