@@ -144,11 +144,11 @@
       <file name="$USER_HOME$/Works/wengs/rest/weng_exp/detail/get_detail.v1.php" timestamp="1542594295462">
         <mark key="[" line="227" column="55" />
       </file>
-      <file name="$USER_HOME$/Works/mobile/mobile_api/api/system/config/get_global_config.v2.php" timestamp="1548041153246">
-        <mark key="[" line="714" column="18" />
-        <mark key="]" line="715" column="52" />
+      <file name="$USER_HOME$/Works/mobile/mobile_api/api/system/config/get_global_config.v2.php" timestamp="1548042496276">
+        <mark key="[" line="53" column="53" />
+        <mark key="]" line="53" column="53" />
         <mark key="^" line="67" column="1" />
-        <mark key="." line="715" column="52" />
+        <mark key="." line="53" column="53" />
       </file>
       <file name="$USER_HOME$/Works/wengs/tests/test.php" timestamp="1544692425230">
         <mark key="[" line="6" column="3" />
@@ -306,6 +306,7 @@
         <mark key="[" line="9" column="2" />
       </file>
       <file name="$USER_HOME$/Works/wengs/log/event/Runtime.php" timestamp="1547690670395" />
+      <file name="$USER_HOME$/Works/wengweng/apps/weng/universal/watermark/Api.php" timestamp="1548042030020" />
       <file name="$USER_HOME$/Works/wengs/editor/EditorFactory.php" timestamp="1541393712299">
         <mark key="[" line="10" column="13" />
       </file>
@@ -341,11 +342,12 @@
       <file name="$USER_HOME$/Works/wengs/controller/admin/debug_bak.php" timestamp="1547711542941">
         <mark key="[" line="93" column="31" />
       </file>
-      <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/watermark/get_watermark_config.v2.php" timestamp="1548038201195">
+      <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/watermark/get_watermark_config.v2.php" timestamp="1548042360073">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
+      <file name="$USER_HOME$/Works/wengweng/apps/weng/universal/watermark/facade/Api.php" timestamp="1548041890617" />
       <file name="$USER_HOME$/Works/search/apps/search/weng/facade/TopicApi.php" timestamp="1547779015050" />
       <file name="$USER_HOME$/Works/wengs/tool/MCache.php" timestamp="1547173412468">
         <mark key="[" line="28" column="5" />
@@ -388,10 +390,10 @@
       <file name="$USER_HOME$/Works/wengs/facade/inner/Search.php" timestamp="1541401187392">
         <mark key="[" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/test.php" timestamp="1548035276238">
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
+      <file name="$USER_HOME$/Works/wengs/test.php" timestamp="1548042420028">
+        <mark key="[" line="127" column="2" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengs/form/LatLngInterface.php" timestamp="1542280014316">
         <mark key="[" line="12" column="29" />
@@ -414,7 +416,7 @@
       <file name="$USER_HOME$/Works/wengs/listeners/SendChristmasNotification.php" timestamp="1544679731521">
         <mark key="[" line="6" column="3" />
       </file>
-      <file name="/PHP Console" timestamp="1548035331959">
+      <file name="/PHP Console" timestamp="1548042474310">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengs/mapi/dataprovider/Weng.php" timestamp="1548033090184" />
@@ -579,10 +581,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>else {</text>
+        <text>$uid</text>
       </register>
       <register name="-" type="4">
-        <text>else {</text>
+        <text>$uid</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
