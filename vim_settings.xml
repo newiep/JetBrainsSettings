@@ -26,10 +26,10 @@
       <file name="$USER_HOME$/Works/wengs/base/Dispatcher.php" timestamp="1547696406555" />
       <file name="$USER_HOME$/Works/wengs/form/TravelExpImportPublish.php" timestamp="1547794383922" />
       <file name="$USER_HOME$/Works/wengs/facade/open/Info.php" timestamp="1548047138013" />
-      <file name="$USER_HOME$/Works/wengs/form/PublishParameter.php" timestamp="1548047278874">
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="." line="179" column="0" />
+      <file name="$USER_HOME$/Works/wengs/form/PublishParameter.php" timestamp="1548059449426">
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="4" />
+        <mark key="." line="41" column="4" />
       </file>
       <file name="$USER_HOME$/Works/wengs/controller/weng_exp/detail/get_detail.v3.php" timestamp="1548055718510">
         <mark key="[" line="243" column="51" />
@@ -52,7 +52,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/form/Publish.php" timestamp="1548057450719">
+      <file name="$USER_HOME$/Works/wengs/form/Publish.php" timestamp="1548060521838">
         <mark key="[" line="226" column="4" />
         <mark key="]" line="226" column="4" />
         <mark key="." line="226" column="4" />
@@ -115,12 +115,18 @@
         <mark key="." line="216" column="43" />
       </file>
       <file name="$USER_HOME$/Works/wengs/mapi/Weng.php" timestamp="1547710096742" />
+      <file name="$USER_HOME$/Works/wengs/form/ModifyParameter.php" timestamp="1548059258682">
+        <mark key="[" line="115" column="4" />
+        <mark key="]" line="115" column="4" />
+        <mark key="." line="115" column="4" />
+      </file>
       <file name="$USER_HOME$/Works/wengs/controller/template/admin/panel_config.tpl" timestamp="1547780136152">
         <mark key="[" line="3" column="72" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/form/TravelExpPublish.php" timestamp="1548050527703">
+      <file name="$USER_HOME$/Works/wengs/form/TravelExpModify.php" timestamp="1548059580429" />
+      <file name="$USER_HOME$/Works/wengs/form/TravelExpPublish.php" timestamp="1548059780998">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -128,6 +134,7 @@
       <file name="$USER_HOME$/Works/appconf/api/weng_exp/detail/get_detail.v4.json" timestamp="1547691359778" />
       <file name="$USER_HOME$/Works/wengs/facade/Bridge.php" timestamp="1547692229100" />
       <file name="$USER_HOME$/Works/wengs/facade/tag/EssenceTag.php" timestamp="1547696462605" />
+      <file name="$USER_HOME$/Works/wengs/mapi/Tag.php" timestamp="1548060479714" />
       <file name="$USER_HOME$/Works/wengs/mapi/Activity.php" timestamp="1547692778909" />
       <file name="$USER_HOME$/Works/wengs/controller/weng_exp/publish/get_editor_bottom_assets.v1.php" timestamp="1548053352900">
         <mark key="[" line="45" column="64" />
@@ -183,6 +190,7 @@
         <mark key="." line="223" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengs/mapi/dataprovider/Weng.php" timestamp="1548033090184" />
+      <file name="$USER_HOME$/Works/wengs/tag/TagUserMap.php" timestamp="1548060048068" />
       <file name="$USER_HOME$/Works/wengweng/apps/weng/universal/search/facade/TopicApi.php" timestamp="1547777683130" />
       <file name="$USER_HOME$/Works/wengs/controller/weng_exp/detail/get_detail.v4.php" timestamp="1548055854290">
         <mark key="[" line="246" column="41" />
@@ -190,10 +198,10 @@
         <mark key="^" line="387" column="31" />
         <mark key="." line="387" column="31" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/form/Modify.php" timestamp="1548039702668">
-        <mark key="[" line="211" column="102" />
-        <mark key="]" line="53" column="44" />
-        <mark key="." line="53" column="44" />
+      <file name="$USER_HOME$/Works/wengs/form/Modify.php" timestamp="1548059180043">
+        <mark key="[" line="342" column="4" />
+        <mark key="]" line="342" column="4" />
+        <mark key="." line="342" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -329,10 +337,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$weng['id']</text>
+        <text>protected</text>
       </register>
       <register name="-" type="4">
-        <text>$weng['id']</text>
+        <text>protected</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
