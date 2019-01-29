@@ -100,7 +100,7 @@
         <mark key="[" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/Works/wengs/controller/admin/rd.php" timestamp="1548655384152" />
-      <file name="$USER_HOME$/Works/manual-script/201901/wengs/data/source_data_1.php" timestamp="1548741400396" />
+      <file name="$USER_HOME$/Works/manual-script/201901/wengs/data/source_data_1.php" timestamp="1548744117086" />
       <file name="$USER_HOME$/Works/wengweng/apps/weng/facade/Func.php" timestamp="1539740769998">
         <mark key="[" line="16" column="0" />
       </file>
@@ -508,7 +508,7 @@
         <mark key="[" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/Works/wengs/base/EsQuery.php" timestamp="1548297198493" />
-      <file name="$USER_HOME$/Codes/PHP/format/source_data_1.php" timestamp="1548733527445">
+      <file name="$USER_HOME$/Codes/PHP/format/source_data_1.php" timestamp="1548745605537">
         <mark key="'" line="4" column="31" />
         <mark key="[" line="45827" column="1" />
         <mark key="]" line="1" column="6" />
@@ -554,11 +554,11 @@
       <file name="$USER_HOME$/Works/wengs/facade/inner/Search.php" timestamp="1541401187392">
         <mark key="[" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/test.php" timestamp="1548741345338">
-        <mark key="[" line="131" column="3" />
-        <mark key="]" line="131" column="0" />
-        <mark key="^" line="137" column="11" />
-        <mark key="." line="131" column="0" />
+      <file name="$USER_HOME$/Works/wengs/test.php" timestamp="1548743131690">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="^" line="143" column="11" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengs/form/LatLngInterface.php" timestamp="1542280014316">
         <mark key="[" line="12" column="29" />
@@ -588,15 +588,15 @@
       <file name="$USER_HOME$/Works/wengs/listeners/SendChristmasNotification.php" timestamp="1544679731521">
         <mark key="[" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Works/manual-script/201901/wengs/fixed_lbs_error.php" timestamp="1548741274542">
-        <mark key="[" line="86" column="12" />
-        <mark key="]" line="152" column="42" />
-        <mark key="." line="152" column="42" />
+      <file name="$USER_HOME$/Works/manual-script/201901/wengs/fixed_lbs_error.php" timestamp="1548745212200">
+        <mark key="[" line="64" column="72" />
+        <mark key="]" line="64" column="72" />
+        <mark key="." line="64" column="72" />
       </file>
       <file name="$USER_HOME$/Works/manual-script/201901/wengs/data/source_data_2.php" timestamp="1548741506278">
         <mark key="'" line="2036" column="25" />
       </file>
-      <file name="/PHP Console" timestamp="1548741324260">
+      <file name="/PHP Console" timestamp="1548743125791">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengs/mapi/dataprovider/Weng.php" timestamp="1548033090184" />
@@ -771,10 +771,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>var_dump</text>
+        <text>log_fixed_lbs_data</text>
       </register>
       <register name="-" type="4">
-        <text>var_dump</text>
+        <text>log_fixed_lbs_data</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
@@ -783,36 +783,36 @@
         <text>标题（为空则隐藏）</text>
       </register>
       <register name="1" type="4">
-        <text>[
-                    ''
-                ]</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBNQXBwOjokYXBwLT5sb2ctPmRsb2coJ2RlYnVnX2ZpeGVkX2xic19kYXRhJywgJHVwZGF0ZSk7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoKQogICAgewogICAgICAgICR0aGlzLT5kYXRhQXBpID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1XZW5nX0RhdGFBcGk6OmNsYXNzKTsKICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ21kZGlkJyA9PiAkd2VuZ0luZm9bJ21kZGlkJ10sCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgICAgICdtZGRpZCcgPT4gJG1kZElkLAogICAgICAgICAgICAgICAgICAgICdsYXQnID0+ICRsYnNJbmZvWydsYXQnXSwKICAgICAgICAgICAgICAgICAgICAnbG5nJyA9PiAkbGJzSW5mb1snbG5nJ10sCiAgICAgICAgICAgICAgICBd</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAkdXBkYXRlWyd3ZW5naWQnXSA9ICR3ZW5naWQ7</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICB2YXJfZHVtcCgkbGF0KTsKICAgIHZhcl9kdW1wKCRsbmcpO2RpZTs=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAkbmV3TGJzSW5mbyA9ICR3ZW5nTGJzLT5nZXRMYXRMbmcoJHJlcXVlc3RQYXJhbSk7CiAgICAgICAgICAgICAgICAv</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZWNobyBtZW1vcnlfZ2V0X3VzYWdlKCkgLiBQSFBfRU9MOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">L+aWsOaXp+mAu+i+keiuoeeul+e7j+e6rOW6pue7k+aenOS4gOagt++8jOi3s+i/hwogICAgICAgICAgICAgICAgaWYgKAogICAgICAgICAgICAgICAgICAgICRuZXdMYnNJbmZvWydsYXQnXSA9PSAkb2xkTGJzSW5mb1snbGF0J10gJiYKICAgICAgICAgICAgICAgICAgICAkbmV3TGJzSW5mb1snbG5nJ10gPT0gJG9sZExic0luZm9bJ2xuZyddCiAgICAgICAgICAgICAgICApIHsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZWNobyBtZW1vcnlfZ2V0X3VzYWdlKCkgLiBQSFBfRU9MOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICEkd2VuZ0luZm8gfHw=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">CmRkKDE2MjM0NTUxMjE0ODQ2NTYgPiAxNjIzNDIwNDUzNzM3MDY1ICYmIDE2MjM0NTUxMjE0ODQ2NTYgPCAxNjIzNjQ0MjQzODQxMTc1KTsK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGdldEFmZmVjdGVkV2VuZ0xpc3QoKQogICAgewoKICAgIH0K</text>
+        <text>[
+                    ''
+                ]</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">JHNvdXJjZUZpbGVOYW1lcyA9IFsnZGF0YS9zb3VyY2VfZGF0YV8yLnBocCcsICdkYXRhL3NvdXJjZV9kYXRhXzIucGhwJywgJ2RhdGEvc291cmNlX2RhdGFfMy5waHAnXTsKICAgICAgICBmb3JlYWNoICgkc291cmNlRmlsZU5hbWVzIGFzICRmaWxlTmFtZSkgewogICAgICAgICAgICAkc291cmNlRGF0YSA9IGluY2x1ZGUgJGZpbGVOYW1lOwogICAgICAgICAgICAKCiAgICAgICAgfQogICAgICAgICRhZmZlY3RlZFdlbmdMaXN0ID0gJHRoaXMtPmdldEFmZmVjdGVkV2VuZ0xpc3QoKTsKICAgICAgICBmb3JlYWNoICgkYWZmZWN0ZWRXZW5nTGlzdCBhcyAkd2VuZ0luZm8pIHsKICAgICAgICAgICAgaWYgKCR0aGlzLT5pc05lZWRGaXhlZExicygkd2VuZ0luZm8pKSB7CgogICAgICAgICAgICB9CiAgICAgICAgfWQ=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoKQogICAgewogICAgICAgICR0aGlzLT5kYXRhQXBpID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1XZW5nX0RhdGFBcGk6OmNsYXNzKTsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>13,39s/public/protected/</text>
