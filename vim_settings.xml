@@ -50,9 +50,6 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/open/Conf.php" timestamp="1549968936691">
-        <mark key="[" line="66" column="10" />
-      </file>
       <file name="$USER_HOME$/Works/wengs/open/Editor.php" timestamp="1549955875501">
         <mark key="[" line="52" column="16" />
         <mark key="]" line="21" column="33" />
@@ -167,13 +164,13 @@
         <mark key="[" line="121" column="53" />
       </file>
       <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/reply/get_reply_list.v1.php" timestamp="1549959459898" />
-      <file name="$USER_HOME$/Works/wengs/interaction/Reply.php" timestamp="1549968461188">
-        <mark key="[" line="171" column="53" />
-        <mark key="]" line="171" column="53" />
-        <mark key="." line="171" column="53" />
+      <file name="$USER_HOME$/Works/wengs/interaction/Reply.php" timestamp="1549969653073">
+        <mark key="[" line="173" column="26" />
+        <mark key="]" line="173" column="26" />
+        <mark key="." line="173" column="26" />
       </file>
       <file name="$USER_HOME$/Works/appconf/api/weng_exp/reply/delete_reply.v1.json" timestamp="1549882449421" />
-      <file name="$USER_HOME$/Works/wengs/mapi/Reply.php" timestamp="1549967671936" />
+      <file name="$USER_HOME$/Works/wengs/mapi/Reply.php" timestamp="1549969794236" />
       <file name="$USER_HOME$/Works/wengs/App.php" timestamp="1548920482442">
         <mark key="[" line="17" column="36" />
       </file>
@@ -269,11 +266,11 @@
       <file name="$USER_HOME$/Works/wengweng/apps/weng/universal/search/facade/TopicApi.php" timestamp="1549938534873">
         <mark key="[" line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/controller/weng_exp/detail/get_detail.v4.php" timestamp="1549968507439">
-        <mark key="[" line="340" column="25" />
-        <mark key="]" line="340" column="25" />
-        <mark key="^" line="398" column="31" />
-        <mark key="." line="340" column="25" />
+      <file name="$USER_HOME$/Works/wengs/controller/weng_exp/detail/get_detail.v4.php" timestamp="1549969740669">
+        <mark key="[" line="146" column="8" />
+        <mark key="]" line="146" column="8" />
+        <mark key="^" line="399" column="31" />
+        <mark key="." line="146" column="8" />
       </file>
       <file name="$USER_HOME$/Works/infoflow/src/interface/Reflect.php" timestamp="1549853731543" />
       <file name="$USER_HOME$/Works/wengweng/apps/weng/universal/home/Dao.php" timestamp="1549867332280" />
@@ -412,10 +409,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgJG9PcHRpb24tPm9PcmRlckJ5KCJpZCBkZXNjIik7</text>
+        <text encoding="base64">CiAgICAgICAgJG9SZXBseUFwaSA9IE1BcHA6OmNyZWF0ZU9iamVjdChNSW50ZXJhY3Rpb25fUmVwbHk6OmNsYXNzKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>MApp::createObject(MWeng_DataApi::class)</text>
+        <text>$iOffset</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
@@ -424,35 +421,35 @@
         <text>标题（为空则隐藏）</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgJG9PcHRpb24tPm9PcmRlckJ5KCJpZCBkZXNjIik7</text>
+        <text encoding="base64">CiAgICAgICAgJG9SZXBseUFwaSA9IE1BcHA6OmNyZWF0ZU9iamVjdChNSW50ZXJhY3Rpb25fUmVwbHk6OmNsYXNzKTs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKCRzRGlyZWN0aW9uID09ICd1cCcpIHsKICAgICAgICAgICAgJHJldFsnbGlzdCddID0gYXJyYXlfcmV2ZXJzZSgkcmV0WydkYXRhJ10pOwogICAgICAgIH0KICAgICAgICAkcmV0WyJ0b3RhbCJdID0gJG9PcHRpb24tPmlHZXRGb3VuZFJvd3MoKTsKICAgICAgICByZXR1cm4gJHJldDs=</text>
+        <text encoding="base64">CiAgICAgICAgJG9PcHRpb24tPm9PcmRlckJ5KCJpZCBkZXNjIik7</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgJGlMYXN0QXVkaXRJZCA9IE1BcHA6OmNyZWF0ZU9iamVjdChNUHJveHlfVWdjQXVkaXQ6OmNsYXNzKS0+aUdldExhc3RBdWRpdElkKCk7CiAgICAgICAgaWYgKCRpTGFzdEF1ZGl0SWQpIHsKICAgICAgICAgICAgJGlVaWQgPSBNQXBwOjokYXBwLT51c2VyLT5pZDsKICAgICAgICAgICAgaWYgKCRpVWlkKSB7CiAgICAgICAgICAgICAgICAkb09wdGlvbi0+b0FuZCgnaWQgPD0/IG9yIHVpZCA9ID8nLCAkaUxhc3RBdWRpdElkLCAkaVVpZCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAkb09wdGlvbi0+b0FuZCgnaWQgPD0/JywgJGlMYXN0QXVkaXRJZCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgJHJldCAgICAgICAgID0gYXJyYXkoKTs=</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKCRzRGlyZWN0aW9uID09ICd1cCcpIHsKICAgICAgICAgICAgJHJldFsnbGlzdCddID0gYXJyYXlfcmV2ZXJzZSgkcmV0WydkYXRhJ10pOwogICAgICAgIH0KICAgICAgICAkcmV0WyJ0b3RhbCJdID0gJG9PcHRpb24tPmlHZXRGb3VuZFJvd3MoKTsKICAgICAgICByZXR1cm4gJHJldDs=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">aWYgKCRpTmV4dFN0YXJ0SWQpIHsKICAgICAgICAgICAgaWYgKCRzRGlyZWN0aW9uID09ICd1cCcpIHsKICAgICAgICAgICAgICAgICRvT3B0aW9uLT5vQW5kKCdpZCA+ID8nLCAkaU5leHRTdGFydElkKTsKICAgICAgICAgICAgICAgICRvT3B0aW9uLT5vT3JkZXJCeSgiaWQgYXNjIik7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAkb09wdGlvbi0+b0FuZCgnaWQgPCA/JywgJGlOZXh0U3RhcnRJZCk7CiAgICAgICAgICAgICAgICAkb09wdGlvbi0+b09yZGVyQnkoImlkIGRlc2MiKTsKICAgICAgICAgICAgfQogICAgICAgIH0gZWxzZWlmICgkaVN0YXJ0SWQpIHsKICAgICAgICAgICAgJG9PcHRpb24tPm9BbmQoJ2lkIDw9ID8nLCAkaVN0YXJ0SWQpOwogICAgICAgICAgICAkb09wdGlvbi0+b09yZGVyQnkoImlkIGRlc2MiKTsKICAgICAgICB9IGVsc2Ugew==</text>
+        <text encoding="base64">CiAgICAgICAgJGlMYXN0QXVkaXRJZCA9IE1BcHA6OmNyZWF0ZU9iamVjdChNUHJveHlfVWdjQXVkaXQ6OmNsYXNzKS0+aUdldExhc3RBdWRpdElkKCk7CiAgICAgICAgaWYgKCRpTGFzdEF1ZGl0SWQpIHsKICAgICAgICAgICAgJGlVaWQgPSBNQXBwOjokYXBwLT51c2VyLT5pZDsKICAgICAgICAgICAgaWYgKCRpVWlkKSB7CiAgICAgICAgICAgICAgICAkb09wdGlvbi0+b0FuZCgnaWQgPD0/IG9yIHVpZCA9ID8nLCAkaUxhc3RBdWRpdElkLCAkaVVpZCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAkb09wdGlvbi0+b0FuZCgnaWQgPD0/JywgJGlMYXN0QXVkaXRJZCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgJHJldCAgICAgICAgID0gYXJyYXkoKTs=</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">aWYgKCRpTmV4dFN0YXJ0SWQpIHsKICAgICAgICAgICAgaWYgKCRzRGlyZWN0aW9uID09ICd1cCcpIHsKICAgICAgICAgICAgICAgICRvT3B0aW9uLT5vQW5kKCdpZCA+ID8nLCAkaU5leHRTdGFydElkKTsKICAgICAgICAgICAgICAgICRvT3B0aW9uLT5vT3JkZXJCeSgiaWQgYXNjIik7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAkb09wdGlvbi0+b0FuZCgnaWQgPCA/JywgJGlOZXh0U3RhcnRJZCk7CiAgICAgICAgICAgICAgICAkb09wdGlvbi0+b09yZGVyQnkoImlkIGRlc2MiKTsKICAgICAgICAgICAgfQogICAgICAgIH0gZWxzZWlmICgkaVN0YXJ0SWQpIHsKICAgICAgICAgICAgJG9PcHRpb24tPm9BbmQoJ2lkIDw9ID8nLCAkaVN0YXJ0SWQpOwogICAgICAgICAgICAkb09wdGlvbi0+b09yZGVyQnkoImlkIGRlc2MiKTsKICAgICAgICB9IGVsc2Ugew==</text>
+      </register>
+      <register name="6" type="4">
         <text>,
                                   $sDirection = 'down', $iNextStartId = 0, $iStartId = 0</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiRjb250ZW50ID0gJ+S4jeeuoeWcqOWTqumHjO+8jOi/mee+pOS6uuaAu+iDveaNouS4quWcsOaWueaJk+eJjCBbfHN8XeeZvuW6puS4gOS4i1t8bXxdaHR0cDovL3d3dy5iYWlkdS5jb21bfG18XTEwMFt8ZXxdICc7CgokY29udGVudCA9IFxhcHBzXHdlbmdzXHRvb2xcTVNtZTo6c0Zvcm1hdENvbnRlbnQoJGNvbnRlbnQpOwoKJHJlcyAgICAgID0gXGFwcHNcd2VuZ3NcdG9vbFxNU21lOjpzRm9ybWF0VG9WaWV3YWJsZSgkY29udGVudCk7CgovLyRyZXMgPSBcYXBwc1x3ZW5nXHVuaXZlcnNhbFx3ZW5nXE1GYWNhZGVfUmljaFRleHRBcGk6OnNGb3JtYXRUb3BpY3NUb1ZpZXdhYmxlKCRjb250ZW50KTsKZGQoJHJlcyk7Cgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkdXNlclRhZyAgPSAkdXNlclByb3h5LT5hR2V0VXNlclRhZygkaVVpZCk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>13,39s/public/protected/</text>
