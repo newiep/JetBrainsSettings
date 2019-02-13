@@ -77,7 +77,7 @@
         <mark key="." line="50" column="39" />
       </file>
       <file name="$USER_HOME$/Works/wengs/controller/admin/rd.php" timestamp="1549853581875" />
-      <file name="$USER_HOME$/Works/wengs/controller/weng_exp/reply/get_reply_list.v1.php" timestamp="1550057677807">
+      <file name="$USER_HOME$/Works/wengs/controller/weng_exp/reply/get_reply_list.v1.php" timestamp="1550059933667">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
@@ -87,7 +87,7 @@
         <mark key="]" line="79" column="91" />
         <mark key="." line="79" column="79" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/open/Editor.php" timestamp="1550057105317">
+      <file name="$USER_HOME$/Works/wengs/open/Editor.php" timestamp="1550060176963">
         <mark key="[" line="78" column="42" />
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
@@ -423,10 +423,7 @@
         <mark key="[" line="19" column="21" />
       </file>
       <file name="$USER_HOME$/Works/hotel/apps/hotel/hotel/controller/AppApi.php" timestamp="1550039361140" />
-      <file name="$USER_HOME$/Works/wengs/controller/weng_exp/detail/get_detail.v4.php" timestamp="1550058100795">
-        <mark key="[" line="178" column="0" />
-        <mark key="^" line="414" column="31" />
-      </file>
+      <file name="$USER_HOME$/Works/wengs/controller/weng_exp/detail/get_detail.v4.php" timestamp="1550060436935" />
       <file name="$USER_HOME$/Works/wengs/form/Modify.php" timestamp="1548746537914">
         <mark key="[" line="342" column="4" />
         <mark key="]" line="342" column="4" />
@@ -569,12 +566,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$query     = MTool_Array::mGetValue($data, ['query'], []);
-            $keyword   = MTool_Array::mGetValue($query, ['keyword'], '');
-            $limit     = MTool_Array::mGetValue($query, ['limit'], 8);</text>
+        <text encoding="base64">CiAgICAgICAgJGlSZXBseVRvdGFsICAgICAgICA9ICRhV2VuZ1JlcGx5RGF0YVsnZGF0YSddWyd0b3RhbCddOw==</text>
       </register>
       <register name="-" type="4">
-        <text>$data</text>
+        <text>$aWengReplyData['data']['list']</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
@@ -583,36 +578,36 @@
         <text>标题（为空则隐藏）</text>
       </register>
       <register name="1" type="4">
-        <text>$query     = MTool_Array::mGetValue($data, ['query'], []);
-            $keyword   = MTool_Array::mGetValue($query, ['keyword'], '');
-            $limit     = MTool_Array::mGetValue($query, ['limit'], 8);</text>
+        <text encoding="base64">CiAgICAgICAgJGlSZXBseVRvdGFsICAgICAgICA9ICRhV2VuZ1JlcGx5RGF0YVsnZGF0YSddWyd0b3RhbCddOw==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Ci8qIEB2YXIgTUludGVyYWN0aW9uX0xpa2VSZXBseSAkb0xpa2VSZXBseUFwaSAqLwokb0xpa2VSZXBseUFwaSA9IE1BcHA6OmNyZWF0ZU9iamVjdChNSW50ZXJhY3Rpb25fTGlrZVJlcGx5OjpjbGFzcyk7CmlmICgkb0xpa2VSZXBseUFwaS0+Ykhhc0ZhdigkaVdlbmdJZCwgJGlSZXBseUlkLCAkaVVpZCkpIHsKICAgIHJldHVybiBzZWxmOjplcnJvcign5bey57uP6L+b6KGM6L+H6K+l5pON5L2cJywgc2VsZjo6SEFTX0RPTkUpOwp9Cg==</text>
+        <text>$query     = MTool_Array::mGetValue($data, ['query'], []);
+            $keyword   = MTool_Array::mGetValue($query, ['keyword'], '');
+            $limit     = MTool_Array::mGetValue($query, ['limit'], 8);</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgJHRvcGljcyAgICAgICAgPSAkb1N1Z2dlc3RUb3BpYy0+YUdldFRhZ3MoJGNhdGVnb3J5SWQsIDAsIE1NYXBpX1RhZzo6TUFYX0lURU1fTlVNKTsKICAgICAgICAkdG9waWNJZHMgICAgICA9IGFycmF5X2NvbHVtbihNVG9vbF9BcnJheTo6bUdldFZhbHVlKCR0b3BpY3MsICdsaXN0JywgW10pLCAndGFnX2lkJyk7</text>
+        <text encoding="base64">Ci8qIEB2YXIgTUludGVyYWN0aW9uX0xpa2VSZXBseSAkb0xpa2VSZXBseUFwaSAqLwokb0xpa2VSZXBseUFwaSA9IE1BcHA6OmNyZWF0ZU9iamVjdChNSW50ZXJhY3Rpb25fTGlrZVJlcGx5OjpjbGFzcyk7CmlmICgkb0xpa2VSZXBseUFwaS0+Ykhhc0ZhdigkaVdlbmdJZCwgJGlSZXBseUlkLCAkaVVpZCkpIHsKICAgIHJldHVybiBzZWxmOjplcnJvcign5bey57uP6L+b6KGM6L+H6K+l5pON5L2cJywgc2VsZjo6SEFTX0RPTkUpOwp9Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgLyoqIEB2YXIgJG9TdWdnZXN0VG9waWMgTVRhZ19TdWdnZXN0VG9waWMgKi8KICAgICAgICAkb1N1Z2dlc3RUb3BpYyA9IE1BcHA6OmNyZWF0ZU9iamVjdChNVGFnX1N1Z2dlc3RUb3BpYzo6Y2xhc3MpOw==</text>
+        <text encoding="base64">CiAgICAgICAgJHRvcGljcyAgICAgICAgPSAkb1N1Z2dlc3RUb3BpYy0+YUdldFRhZ3MoJGNhdGVnb3J5SWQsIDAsIE1NYXBpX1RhZzo6TUFYX0lURU1fTlVNKTsKICAgICAgICAkdG9waWNJZHMgICAgICA9IGFycmF5X2NvbHVtbihNVG9vbF9BcnJheTo6bUdldFZhbHVlKCR0b3BpY3MsICdsaXN0JywgW10pLCAndGFnX2lkJyk7</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgLyoqIEB2YXIgJG9TdWdnZXN0VG9waWMgTVRhZ19TdWdnZXN0VG9waWMgKi8KICAgICAgICAkb1N1Z2dlc3RUb3BpYyA9IE1BcHA6OmNyZWF0ZU9iamVjdChNVGFnX1N1Z2dlc3RUb3BpYzo6Y2xhc3MpOw==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgZm9yZWFjaCAoTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkb3RoZXJMaXN0LCAnbGlzdCcsIFtdKSBhcyAkdHlwZSkgewogICAgICAgICAgICAkY2F0ZWdvcnlMaXN0W10gPSBbCiAgICAgICAgICAgICAgICAnY2F0ZWdvcnlfaWQnICAgPT4gJHR5cGVbJ2lkJ10sCiAgICAgICAgICAgICAgICAnY2F0ZWdvcnlfbmFtZScgPT4gJHR5cGVbJ25hbWUnXSwKICAgICAgICAgICAgICAgICdpc19zZWxlY3RlZCcgICA9PiBzZWxmOjpVTlNFTEVDVEVELAogICAgICAgICAgICBdOwogICAgICAgIH0KICAgICAgICByZXR1cm4gJGNhdGVnb3J5TGlzdDs=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Pj4+Pj4+PiByZXBseV9zdWNjZXNzX3RpcHMK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgKgo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>13,39s/public/protected/</text>
