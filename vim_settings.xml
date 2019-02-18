@@ -366,6 +366,7 @@
       <file name="$USER_HOME$/Works/wengs/tool/MCache.php" timestamp="1548833673791">
         <mark key="[" line="28" column="5" />
       </file>
+      <file name="$USER_HOME$/Works/wengs/controller/weng_exp/like/weng_like.v1.php" timestamp="1550459224040" />
       <file name="$USER_HOME$/Works/appconf/api/weng_exp/poi/get_nearby_pois.v1.json" timestamp="1549881145402" />
       <file name="$USER_HOME$/Works/appconf/api/weng_exp/reply/submit_reply.v1.json" timestamp="1549883947179" />
       <file name="$USER_HOME$/Works/wengs/facade/inner/TravelExp.php" timestamp="1549935407157">
@@ -413,11 +414,11 @@
         <mark key="]" line="67" column="26" />
         <mark key="." line="67" column="26" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/test.php" timestamp="1550228475745">
-        <mark key="[" line="140" column="66" />
-        <mark key="]" line="144" column="0" />
+      <file name="$USER_HOME$/Works/wengs/test.php" timestamp="1550459233302">
+        <mark key="[" line="146" column="5" />
+        <mark key="]" line="146" column="5" />
         <mark key="^" line="132" column="0" />
-        <mark key="." line="144" column="0" />
+        <mark key="." line="146" column="5" />
       </file>
       <file name="$USER_HOME$/Works/mobile/mobile_api/engine/Application.php" timestamp="1549883459539" />
       <file name="$USER_HOME$/Works/wengs/event/Dispatcher.php" timestamp="1548212670881">
@@ -444,7 +445,7 @@
         <mark key="]" line="276" column="69" />
         <mark key="." line="276" column="69" />
       </file>
-      <file name="/PHP Console" timestamp="1550228486285">
+      <file name="/PHP Console" timestamp="1550459259202">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/appconf/api/weng_exp/reply/get_reply_list.v1.json" timestamp="1550036361778" />
@@ -608,10 +609,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgJGlVaWQgPSBNQXBwOjokYXBwLT51c2VyLT5pZDs=</text>
+        <text>date('w')</text>
       </register>
       <register name="-" type="4">
-        <text>if ($sIsLike) {</text>
+        <text>date('w')</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
