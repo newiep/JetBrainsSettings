@@ -375,11 +375,11 @@
         <mark key="]" line="74" column="26" />
         <mark key="." line="74" column="26" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/test.php" timestamp="1550554917514">
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="160" column="50" />
+      <file name="$USER_HOME$/Works/wengs/test.php" timestamp="1550575888247">
+        <mark key="[" line="156" column="9" />
+        <mark key="]" line="156" column="9" />
         <mark key="^" line="134" column="0" />
-        <mark key="." line="160" column="50" />
+        <mark key="." line="156" column="9" />
       </file>
       <file name="$USER_HOME$/Works/mobile/mobile_api/engine/Application.php" timestamp="1549883459539" />
       <file name="$USER_HOME$/Works/wengs/tag/TopicExt.php" timestamp="1550539883414" />
@@ -546,8 +546,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICdjYXRlZ29yeV9pZCcgPT4gMSwK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pj4+Pj4+PiDor53popjmkJzntKLmjqXlj6M=</text>
@@ -558,36 +558,36 @@
       <register name="0" type="4">
         <text>标题（为空则隐藏）</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICdjYXRlZ29yeV9pZCcgPT4gMSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CgogICAgcHVibGljIGZ1bmN0aW9uIGlMaWtlV2l0aFRpcHMoJGlVaWQsICRpV2VuZ0lkLCAkc0xpa2VUeXBlID0gJycpCiAgICB7CiAgICAgICAgJGRhdGEgPSBbXTsKICAgICAgICBNQXBwOjokYXBwLT5sb2ctPmxvZyhbCiAgICAgICAgICAgICd1aWQnID0+ICRpVWlkLCAnd2VuZ2lkJyA9PiAkaVdlbmdJZCwgJ2xpa2VfdHlwZScgPT4gJHNMaWtlVHlwZSwKICAgICAgICBdLCAnbGlrZTpwYXJhbXMnLCAnbGlrZScpOwoKICAgICAgICB0cnkgewogICAgICAgICAgICAkaUNsaWVudCA9IE1NYXBpX1Rvb2w6OmlHZXRDbGllbnQoKTsKICAgICAgICAgICAgJG9MaWtlICAgPSBuZXcgTUZvcm1fTGlrZSgkaVVpZCwgJGlXZW5nSWQsICRzTGlrZVR5cGUsICRpQ2xpZW50KTsKICAgICAgICAgICAgJHJlc3VsdCA9ICRvTGlrZS0+YkFkZExpa2UoKTsKICAgICAgICAgICAgJGRhdGEgPSAkb0xpa2UtPmdldE5leHRTdWNjZXNzVGlwcygpOwogICAgICAgICAgICBNQXBwOjokYXBwLT5sb2ctPmxvZygicmVzdWx0OnskcmVzdWx0fSIsICdsaWtlOnJlc3VsdCcsICdsaWtlJyk7CiAgICAgICAgfSBjYXRjaCAoXEV4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICBNQXBwOjokYXBwLT5sb2ctPmxvZygoc3RyaW5nKSRlLCAnbGlrZTpyZXN1bHQnLCAnbGlrZScpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgJ3N0YXR1cycgPT4gMSwKICAgICAgICAgICAgJ2RhdGEnID0+ICRkYXRhLAogICAgICAgIF07CiAgICB9</text>
+        <text encoding="base64">CgogICAgICAgICAgICAgICAg</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgLyoqIEB2YXIgJG9JbnRlcmFjdGlvbkZhdiBNSW50ZXJhY3Rpb25fRmF2ICovCiAgICAgICAgJG9JbnRlcmFjdGlvbkZhdiA9IE1BcHA6OmNyZWF0ZU9iamVjdChNSW50ZXJhY3Rpb25fRmF2OjpjbGFzcyk7CiAgICAgICAgaWYgKCEkc0xpa2VUeXBlICYmICRvSW50ZXJhY3Rpb25GYXYtPmJIYXNGYXYoJGlVaWQsICAkaVdlbmdpZCkpIHsKICAgICAgICAgICAgJGlSZXQgPSBbJ3N0YXR1cycgPT4gLTEsICdkYXRhJyA9PiBbXV07CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgLyoqIEB2YXIgJG9MaWtlQXBpIE1NYXBpX0xpa2UgKi8KICAgICAgICAgICAgJG9MaWtlQXBpID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1NYXBpX0xpa2U6OmNsYXNzKTsKICAgICAgICAgICAgJGlSZXQgPSAkb0xpa2VBcGktPmlMaWtlV2l0aFRpcHMoJGlVaWQsICRpV2VuZ2lkLCAkc0xpa2VUeXBlKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiAkaVJldDs=</text>
+        <text encoding="base64">CiR0aWRzID0gWzMyNTA5LCAzMjUxMiwgMzI1MTVdOwovKiogQHZhciAkb1RhZ0l0ZW0gTVRhZ19JdGVtKi8KJG9UYWdJdGVtID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1UYWdfSXRlbTo6Y2xhc3MpOwokcmVzID0gJG9UYWdJdGVtLT5hR2V0QnlUYWdJZHMoJHRpZHMpOwpkZCgkcmVzKTsKCiR3ZW5nSWQgPSAxNjI1NzkwMjgzNDc3NTM1OwokYml6SWQgPSAyMjU1NzI5OwoKJGJ1c2luZXNzRGF0YSA9IFsKICAgICd3ZW5naWQnID0+ICR3ZW5nSWQsCiAgICAnYnVzaW5lc3NfdHlwZScgPT4gMCwKICAgICdidXNpbmVzc19pZCcgPT4gMjI1NTczMCwKXTsKCiRyZWxhdGlvbkJ1c2luZXNzID0gbmV3IE1XZW5nX1JlbGF0aW9uQnVzaW5lc3MoKTsKCmlmICgkcmVsYXRpb25MaXN0ID0gJHJlbGF0aW9uQnVzaW5lc3MtPmFHZXRCeVR5cGUoJHdlbmdJZCwgMCkpIHsKICAgICRyZWxhdGlvbkluZm8gPSByZXNldCgkcmVsYXRpb25MaXN0KTsKICAgICRyZXMgPSAkcmVsYXRpb25CdXNpbmVzcy0+Yk1vZGlmeSgkcmVsYXRpb25JbmZvWydpZCddLCAkYnVzaW5lc3NEYXRhKTsKfSBlbHNlIHsKICAgICRyZXMgPSAkcmVsYXRpb25CdXNpbmVzcy0+YkFkZCgKICAgICAgICAkYnVzaW5lc3NEYXRhWyd3ZW5naWQnXSwgJGJ1c2luZXNzRGF0YVsnYnVzaW5lc3NfdHlwZSddLCAkYnVzaW5lc3NEYXRhWydidXNpbmVzc19pZCddLCBbXQogICAgKTsKfQpkZCgkcmVzKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Cjw8PDw8PDwgSEVBRA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CgogICAgcHVibGljIGZ1bmN0aW9uIGlMaWtlV2l0aFRpcHMoJGlVaWQsICRpV2VuZ0lkLCAkc0xpa2VUeXBlID0gJycpCiAgICB7CiAgICAgICAgJGRhdGEgPSBbXTsKICAgICAgICBNQXBwOjokYXBwLT5sb2ctPmxvZyhbCiAgICAgICAgICAgICd1aWQnID0+ICRpVWlkLCAnd2VuZ2lkJyA9PiAkaVdlbmdJZCwgJ2xpa2VfdHlwZScgPT4gJHNMaWtlVHlwZSwKICAgICAgICBdLCAnbGlrZTpwYXJhbXMnLCAnbGlrZScpOwoKICAgICAgICB0cnkgewogICAgICAgICAgICAkaUNsaWVudCA9IE1NYXBpX1Rvb2w6OmlHZXRDbGllbnQoKTsKICAgICAgICAgICAgJG9MaWtlICAgPSBuZXcgTUZvcm1fTGlrZSgkaVVpZCwgJGlXZW5nSWQsICRzTGlrZVR5cGUsICRpQ2xpZW50KTsKICAgICAgICAgICAgJHJlc3VsdCA9ICRvTGlrZS0+YkFkZExpa2UoKTsKICAgICAgICAgICAgJGRhdGEgPSAkb0xpa2UtPmdldE5leHRTdWNjZXNzVGlwcygpOwogICAgICAgICAgICBNQXBwOjokYXBwLT5sb2ctPmxvZygicmVzdWx0OnskcmVzdWx0fSIsICdsaWtlOnJlc3VsdCcsICdsaWtlJyk7CiAgICAgICAgfSBjYXRjaCAoXEV4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICBNQXBwOjokYXBwLT5sb2ctPmxvZygoc3RyaW5nKSRlLCAnbGlrZTpyZXN1bHQnLCAnbGlrZScpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgJ3N0YXR1cycgPT4gMSwKICAgICAgICAgICAgJ2RhdGEnID0+ICRkYXRhLAogICAgICAgIF07CiAgICB9</text>
       </register>
       <register name="6" type="4">
-        <text>}
-                return $poiInfo;</text>
+        <text encoding="base64">CiAgICAgICAgLyoqIEB2YXIgJG9JbnRlcmFjdGlvbkZhdiBNSW50ZXJhY3Rpb25fRmF2ICovCiAgICAgICAgJG9JbnRlcmFjdGlvbkZhdiA9IE1BcHA6OmNyZWF0ZU9iamVjdChNSW50ZXJhY3Rpb25fRmF2OjpjbGFzcyk7CiAgICAgICAgaWYgKCEkc0xpa2VUeXBlICYmICRvSW50ZXJhY3Rpb25GYXYtPmJIYXNGYXYoJGlVaWQsICAkaVdlbmdpZCkpIHsKICAgICAgICAgICAgJGlSZXQgPSBbJ3N0YXR1cycgPT4gLTEsICdkYXRhJyA9PiBbXV07CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgLyoqIEB2YXIgJG9MaWtlQXBpIE1NYXBpX0xpa2UgKi8KICAgICAgICAgICAgJG9MaWtlQXBpID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1NYXBpX0xpa2U6OmNsYXNzKTsKICAgICAgICAgICAgJGlSZXQgPSAkb0xpa2VBcGktPmlMaWtlV2l0aFRpcHMoJGlVaWQsICRpV2VuZ2lkLCAkc0xpa2VUeXBlKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiAkaVJldDs=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CgogICAgcHJpdmF0ZSBmdW5jdGlvbiBnZXQoKQogICAgewogICAgICAgIAogICAgfQ==</text>
+        <text encoding="base64">Cjw8PDw8PDwgSEVBRA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSA9IFtdOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">dHJ5IHsKICAgICAgICAgICAgaWYgKCEkc0xpa2VUeXBlICYmIE1BcHA6OmNyZWF0ZU9iamVjdChNSW50ZXJhY3Rpb25fRmF2OjpjbGFzcyktPmJIYXNGYXYoJGlVaWQsICAkaVdlbmdpZCkpIHsKICAgICAgICAgICAgICAgICRpUmV0ID0gWydzdGF0dXMnID0+IC0xLCAnZGF0YScgPT4gW11dOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgLyoqIEB2YXIgJG9MaWtlQXBpIE1NYXBpX0xpa2UgKi8KICAgICAgICAgICAgICAgICRvTGlrZUFwaSA9IE1BcHA6OmNyZWF0ZU9iamVjdChNTWFwaV9MaWtlOjpjbGFzcyk7CiAgICAgICAgICAgICAgICAkaVJldCA9ICRvTGlrZUFwaS0+aUxpa2VXaXRoVGlwcygkaVVpZCwgJGlXZW5naWQsICRzTGlrZVR5cGUpOwogICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoXEV4Y2VwdGlvbiAkZXhjZXB0aW9uKSB7CiAgICAgICAgICAgICRhRXJyb3JQYXJhbSA9IFsKICAgICAgICAgICAgICAgICdjb2RlJyAgICA9PiAkZXhjZXB0aW9uLT5nZXRDb2RlKCksCiAgICAgICAgICAgICAgICAnZmlsZScgICAgPT4gJGV4Y2VwdGlvbi0+Z2V0RmlsZSgpLAogICAgICAgICAgICAgICAgJ2xpbmUnICAgID0+ICRleGNlcHRpb24tPmdldExpbmUoKSwKICAgICAgICAgICAgICAgICdtZXNzYWdlJyA9PiAkZXhjZXB0aW9uLT5nZXRNZXNzYWdlKCksCiAgICAgICAgICAgICAgICAndHJhY2UnICAgPT4gJGV4Y2VwdGlvbi0+Z2V0VHJhY2VBc1N0cmluZygpLAogICAgICAgICAgICBdOwogICAgICAgICAgICBNQXBwOjokYXBwLT5sb2ctPmxvZygkYUVycm9yUGFyYW0sICd3ZW5nX2xpa2UudjEnLCAnd2VuZ3NfZmF2Jyk7CiAgICAgICAgICAgIHJldHVybiBbJ3N0YXR1cycgPT4gMCwgJ2RhdGEnID0+IFtdXTsKICAgICAgICB9</text>
+        <text>}
+                return $poiInfo;</text>
       </register>
       <register name=":" type="4">
         <text>13,39s/public/protected/</text>
