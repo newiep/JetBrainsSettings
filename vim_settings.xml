@@ -70,11 +70,11 @@
         <mark key="]" line="67" column="32" />
         <mark key="." line="67" column="32" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/open/Conf.php" timestamp="1551250090332">
-        <mark key="[" line="39" column="33" />
-        <mark key="]" line="39" column="33" />
-        <mark key="." line="39" column="33" />
-        <mark key="^" line="39" column="19" />
+      <file name="$USER_HOME$/Works/wengs/open/Conf.php" timestamp="1551265051348">
+        <mark key="[" line="24" column="44" />
+        <mark key="]" line="40" column="33" />
+        <mark key="." line="40" column="33" />
+        <mark key="^" line="40" column="19" />
       </file>
       <file name="$USER_HOME$/Works/wengs/controller/weng_exp/reply/get_media_reply_list.v1.php" timestamp="1551169154182">
         <mark key="[" line="36" column="38" />
@@ -158,7 +158,11 @@
       <file name="$USER_HOME$/Works/appconf/api/weng/topic/get_topics.v2.json" timestamp="1550625824017" />
       <file name="$USER_HOME$/Works/wengs/proxy/Uds.php" timestamp="1551158850164" />
       <file name="$USER_HOME$/Works/wengs/search/Api.php" timestamp="1549865861987" />
-      <file name="$USER_HOME$/Works/wengs/open/Info.php" timestamp="1550570682330" />
+      <file name="$USER_HOME$/Works/wengs/open/Info.php" timestamp="1551265413627">
+        <mark key="[" line="88" column="38" />
+        <mark key="]" line="88" column="38" />
+        <mark key="." line="88" column="38" />
+      </file>
       <file name="$USER_HOME$/Works/appconf/api/weng_exp/homepage/get_wengs.v1.json" timestamp="1549881171596" />
       <file name="$USER_HOME$/Works/wengs/base/traits/WebApp.php" timestamp="1550732654874" />
       <file name="$USER_HOME$/Works/wengs/form/OpenModify.php" timestamp="1551245188928">
@@ -814,10 +818,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$relationInfo['product_id']</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>$relationInfo['product_id']</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
@@ -826,34 +830,34 @@
         <text>标题（为空则隐藏）</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmRldGFpbFR5cGUgPT0gTUNvbmY6OlJFTEFURV9NQUxMX1dFTkcgJiYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiR1aWQgPSAzNzIxNTMwNTsKJGxpc3QgPSAkb1Byb3h5U2FsZXMtPmFHZXRVc2VyT3JkZXJJbmZvcygkdWlkLCAwLCAxMCk7CmRkKCRsaXN0KTsKJGRldGFpbCA9ICRvUHJveHlTYWxlcy0+YUdldE9yZGVyRGV0YWlsKCcyMjY1MDQ3MjAxOTAxMzAzOTYwMTYwJywgJHVpZCk7CmRkKCRkZXRhaWwpOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmRldGFpbFR5cGUgPT0gTUNvbmY6OlJFTEFURV9NQUxMX1dFTkcgJiYK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiR1aWQgPSAzNzIxNTMwNTsKJGxpc3QgPSAkb1Byb3h5U2FsZXMtPmFHZXRVc2VyT3JkZXJJbmZvcygkdWlkLCAwLCAxMCk7CmRkKCRsaXN0KTs=</text>
+        <text encoding="base64">CiR1aWQgPSAzNzIxNTMwNTsKJGxpc3QgPSAkb1Byb3h5U2FsZXMtPmFHZXRVc2VyT3JkZXJJbmZvcygkdWlkLCAwLCAxMCk7CmRkKCRsaXN0KTsKJGRldGFpbCA9ICRvUHJveHlTYWxlcy0+YUdldE9yZGVyRGV0YWlsKCcyMjY1MDQ3MjAxOTAxMzAzOTYwMTYwJywgJHVpZCk7CmRkKCRkZXRhaWwpOw==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">CiR1aWQgPSAzNzIxNTMwNTsKJGxpc3QgPSAkb1Byb3h5U2FsZXMtPmFHZXRVc2VyT3JkZXJJbmZvcygkdWlkLCAwLCAxMCk7CmRkKCRsaXN0KTs=</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">LyoqIEB2YXIgJHJlY29tbWVuZFByb3ZpZGVyIE1NQXBpX0RhdGFQcm92aWRlcl9EZXRhaWxSZWNvbW1lbmQqLwogICAgJHJlY29tbWVuZFByb3ZpZGVyID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1NQXBpX0RhdGFQcm92aWRlcl9EZXRhaWxSZWNvbW1lbmQ6OmNsYXNzKTsKICAgICRyZXMgPSAkcmVjb21tZW5kUHJvdmlkZXItPmFHZXRSZWNvbW1lbmRXZW5naWRCeUVzKCR0aWQpOwogICAgZWNobyBNVG9vbF9KU09OOjpzRW5jb2RlKFsKICAgICAgICAncmVzJyA9PiAkcmVzLAogICAgXSk7</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgJGV4dHJhID0gJHNPcmRlcklkID8gJGV4dHJhWydvcmRlcl9pZCddID0gJHNPcmRlcklkCiAgICAgICAgICAgIGlmICgp</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgcHVibGljIGZ1bmN0aW9uIGFHZXRCeVdlbmdJZCgkaVdlbmdJZCkKICAgIHs=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmICgkYVJlc3VsdCA9IE1Ub29sX0FycmF5OjptR2V0VmFsdWUoJGFSZXN1bHQsICdhZmZlY3RlZHJvd3MnLCAwKSAmJiAp</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CgogICAgcHJpdmF0ZSBmdW5jdGlvbiBiUmVsYXRlT3JkZXIoKQogICAgewogICAgICAgIAogICAgfQ==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmICgkYVJlc3VsdCA9IE1Ub29sX0FycmF5OjptR2V0VmFsdWUoJGFSZXN1bHQsICdhZmZlY3RlZHJvd3MnLCAwKSAmJiAp</text>
       </register>
       <register name=":" type="4">
         <text>13,39s/public/protected/</text>
