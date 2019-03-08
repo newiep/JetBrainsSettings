@@ -3,7 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/test/laravel-test/public/index.php" timestamp="1536326338444" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/admin/PublishPanel.php" timestamp="1552056612281" />
+      <file name="/JavaScript Console" timestamp="1552056918045">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/admin/debug.php" timestamp="1552057021493">
+        <mark key="[" line="37" column="37" />
+        <mark key="]" line="36" column="1" />
+        <mark key="." line="36" column="1" />
+        <mark key="^" line="36" column="1" />
+      </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/weng_exp/config/weng_publish_panel_config.v1.php" timestamp="1552055523882" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/test1.php" timestamp="1552057007932">
+        <mark key="[" line="10" column="63" />
+      </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/common/Dao.php" timestamp="1552056421406" />
     </filemarks>
     <jumps>
       <jump line="3" column="0" filename="$USER_HOME$/Code/Work/wl_passport/app/logs/data.php" />
@@ -138,10 +152,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1, 2, 3,</text>
+        <text>$queryList</text>
       </register>
       <register name="-" type="4">
-        <text>1, 2, 3,</text>
+        <text>$queryList</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1TmU0STBaZ1w+</text>
