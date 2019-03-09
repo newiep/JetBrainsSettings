@@ -1,4 +1,7 @@
 <keymap version="1" name="Newiep's keys" parent="Mac OS X 10.5+">
+  <action id="ChangeFileEncodingAction">
+    <keyboard-shortcut first-keystroke="meta alt comma" second-keystroke="f" />
+  </action>
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="enter" />

@@ -1,17 +1,22 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="wsd-account-2018-04-29" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="sync" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="source_data_1" type="PLAIN_TEXT" />
+      <mapping pattern="wsd-account-2018-04-29" type="PLAIN_TEXT" />
+      <mapping pattern="sync" type="PLAIN_TEXT" />
+      <mapping pattern="whitelist" type="PLAIN_TEXT" />
       <mapping ext="pkf" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="20170713" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="20170426" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="20170830" type="PLAIN_TEXT" />
       <mapping ext="twitg" type="Twig" />
+      <mapping pattern="xml" type="XML" />
+      <mapping pattern="yaml" type="YAML" />
     </extensionMap>
   </component>
 </application>
