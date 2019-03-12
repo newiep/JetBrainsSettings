@@ -133,7 +133,7 @@
       <file name="$USER_HOME$/Works/wengs/tool/Limit.php" timestamp="1551939061136" />
       <file name="$USER_HOME$/Works/wengs/mapi/Poi.php" timestamp="1552356918454" />
       <file name="$USER_HOME$/Works/ko/mode/Limit.php" timestamp="1551939091823" />
-      <file name="$USER_HOME$/Works/wengs/proxy/Search.php" timestamp="1552374491610">
+      <file name="$USER_HOME$/Works/wengs/proxy/Search.php" timestamp="1552375335525">
         <mark key="[" line="166" column="43" />
         <mark key="]" line="183" column="12" />
         <mark key="." line="183" column="12" />
@@ -528,11 +528,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>. $type</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICRzUGFyZW50UGFnZVVyaSwgJHNHcmFuZHBhcmVudFBhZ2VVcmks</text>
+        <text>. $type</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
