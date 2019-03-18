@@ -26,11 +26,16 @@
         <mark key="]" line="646" column="0" />
         <mark key="." line="646" column="0" />
       </file>
+      <file name="$USER_HOME$/Works/wengs/tag/TopicApi.php" timestamp="1552912665783">
+        <mark key="[" line="324" column="11" />
+      </file>
       <file name="$USER_HOME$/Works/wengs/activity/Dao.php" timestamp="1552897855075" />
-      <file name="$USER_HOME$/Works/wengs/mapi/Tag.php" timestamp="1552904546115">
+      <file name="$USER_HOME$/Works/wengs/mapi/Tag.php" timestamp="1552912900101">
         <mark key="'" line="11" column="0" />
-        <mark key="]" line="432" column="4" />
-        <mark key="." line="432" column="4" />
+        <mark key="[" line="429" column="76" />
+        <mark key="]" line="427" column="48" />
+        <mark key="." line="427" column="48" />
+        <mark key="^" line="427" column="48" />
       </file>
       <file name="$USER_HOME$/Works/wengs/controller/weng_exp/detail/get_recommend_tab.v1.php" timestamp="1552888644125">
         <mark key="[" line="42" column="0" />
@@ -145,10 +150,10 @@
         <mark key="]" line="157" column="0" />
         <mark key="." line="157" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/test.php" timestamp="1552904801536">
-        <mark key="[" line="246" column="0" />
-        <mark key="]" line="242" column="4" />
-        <mark key="." line="242" column="4" />
+      <file name="$USER_HOME$/Works/wengs/test.php" timestamp="1552912393707">
+        <mark key="[" line="241" column="39" />
+        <mark key="]" line="241" column="39" />
+        <mark key="." line="241" column="39" />
       </file>
       <file name="$USER_HOME$/Works/wengs/controller/admin/activity.php" timestamp="1552897125749">
         <mark key="'" line="379" column="60" />
@@ -157,7 +162,7 @@
       <file name="$USER_HOME$/Works/wengs/proxy/File.php" timestamp="1552026021951">
         <mark key="[" line="14" column="18" />
       </file>
-      <file name="/PHP Console" timestamp="1552904781579">
+      <file name="/PHP Console" timestamp="1552912600046">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengs/mapi/dataprovider/Weng.php" timestamp="1552894158143" />
@@ -314,7 +319,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$topic['ctime']</text>
+        <text encoding="base64">CiRyZXMgPSAkdG9waWMtPmFHZXRMaXN0KFsKICAgICd0eXBlJyA9PiBNVGFnX1RvcGljQXBpOjpUWVBFX09GRklDSUFMLAogICAgJ3N0YXR1cycgPT4gTVRhZ19Ub3BpY0FwaTo6U1RBVFVTX09OTElORSwKXSwgMCwgMzAwKTs=</text>
       </register>
       <register name="-" type="4">
         <text>$topic['ctime']</text>
@@ -326,18 +331,21 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gJGFXZW5nSWRzOwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gKCkKICAgIHsKICAgICAgICAKICAgIH0=</text>
+        <text encoding="base64">CiRyZXMgPSAkdG9waWMtPmFHZXRMaXN0KFsKICAgICd0eXBlJyA9PiBNVGFnX1RvcGljQXBpOjpUWVBFX09GRklDSUFMLAogICAgJ3N0YXR1cycgPT4gTVRhZ19Ub3BpY0FwaTo6U1RBVFVTX09OTElORSwKXSwgMCwgMzAwKTs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gKCkKICAgIHsKICAgICAgICAKICAgIH0=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiRvU2FtcGxlQXBpID0gbmV3IE1BY3Rpdml0eV9TYW1wbGVBcGkoKTsKJGFSZXMgICAgICAgPSAkb1NhbXBsZUFwaS0+YUdldExpc3QoOTIsICduZXcnLCAwLCAzKTsKJHNhbXBsZVdlbmdJZHMgPSBhcnJheV9maWx0ZXIoYXJyYXlfY29sdW1uKCRhUmVzWydsaXN0J10sICdvYmpfaWQnKSk7CmRkKCRzYW1wbGVXZW5nSWRzKTsKCiRhcGkgPSBuZXcgTUFwaV9BY3Rpdml0eTsKCnB1YmxpYyBmdW5jdGlvbiB2QWRkSW5zZXJ0aW9ucygmJGFMaXN0LCAkaUFjdGl2aXR5SWQsICRzVHlwZSwgJGlVaWQpCnsKICAgICRhSW5zZXJ0aW9ucyA9ICR0aGlzLT5hR2V0SW5zZXJ0aW9ucygkaUFjdGl2aXR5SWQsICRzVHlwZSwgJGlVaWQpOwogICAgaWYgKCRhSW5zZXJ0aW9ucykgewogICAgICAgIGFycmF5X3NwbGljZSgkYUxpc3QsIDAsIDAsICRhSW5zZXJ0aW9ucyk7CiAgICB9Cn0K</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>$aUniqueMap = [];
         foreach ($aList as $item) {
             if ($wengid = MTool_Array::mGetValue($item, ['data', 'wengid'])) {
@@ -350,27 +358,17 @@
         }
         $aList = array_values($aUniqueMap);</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8gICAgICAgICRhRGF0YSA9ICR0aGlzLT5vQWN0aXZpdHlEYXRhLT5hR2V0V2VuZ2lkTGlzdCgkaUFjdGl2aXR5SWQsICRpT2Zmc2V0LCAkaUxpbWl0LCAkc1R5cGUpOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgJGFEYXRhWydsaXN0J10gPSBhcnJheV91bmlxdWUoJGFEYXRhWydsaXN0J10sICRzYW1wbGVXZW5nSWRzKTs=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CmFycmF5X3VuaXF1ZSgp</text>
-      </register>
       <register name="9" type="4">
-        <text>$defaultImgKey = 1;
-        MTool_Array::aUniqueArray($aList, function($item) use ($defaultImgKey) {
-            if ($item['style'] == 'default_image') {
-                $uniqueKey = &quot;default_image_{$defaultImgKey}&quot;;
-                return $uniqueKey;
-            }
-            return MTool_Array::mGetValue($item, ['data']['id']);
-        });</text>
+        <text encoding="base64">CmFycmF5X3VuaXF1ZSgp</text>
       </register>
       <register name=":" type="4">
         <text>13,39s/public/protected/</text>
