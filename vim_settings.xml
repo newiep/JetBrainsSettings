@@ -28,7 +28,7 @@
         <mark key="]" line="646" column="0" />
         <mark key="." line="646" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/weng/Report.php" timestamp="1553140244856">
+      <file name="$USER_HOME$/Works/wengs/weng/Report.php" timestamp="1553146780568">
         <mark key="[" line="49" column="8" />
         <mark key="]" line="17" column="37" />
         <mark key="." line="17" column="37" />
@@ -47,7 +47,7 @@
         <mark key="]" line="212" column="24" />
         <mark key="." line="212" column="24" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/mapi/Tag.php" timestamp="1553134277955">
+      <file name="$USER_HOME$/Works/wengs/mapi/Tag.php" timestamp="1553147299165">
         <mark key="[" line="454" column="55" />
         <mark key="]" line="454" column="55" />
         <mark key="." line="454" column="55" />
@@ -185,10 +185,10 @@
       <file name="$USER_HOME$/Works/wengs/form/PublishMovie.php" timestamp="1550114395417">
         <mark key="[" line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/app/Report.php" timestamp="1553139653423">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Works/wengs/app/Report.php" timestamp="1553150338821">
+        <mark key="[" line="80" column="38" />
+        <mark key="]" line="80" column="38" />
+        <mark key="." line="80" column="38" />
       </file>
       <file name="$USER_HOME$/Works/wengs/facade/inner/InfoFlow.php" timestamp="1553133720032" />
       <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/watermark/get_watermark_config.v2.php" timestamp="1552994110137">
@@ -206,6 +206,7 @@
       <file name="$USER_HOME$/Works/wengs/tool/MCache.php" timestamp="1552977080822" />
       <file name="$USER_HOME$/Works/wengs/proxy/Mql.php" timestamp="1553067198220" />
       <file name="$USER_HOME$/Works/wengs/controller/weng_exp/admin/almighty_weng_list.v1.php" timestamp="1553071756494" />
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_8.php" timestamp="1553148706552" />
       <file name="$USER_HOME$/Works/wengs/controller/weng_exp/like/weng_like.v1.php" timestamp="1552964109618">
         <mark key="[" line="24" column="26" />
         <mark key="]" line="26" column="0" />
@@ -259,11 +260,11 @@
         <mark key="]" line="157" column="0" />
         <mark key="." line="157" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/test.php" timestamp="1553140240194">
-        <mark key="[" line="261" column="2" />
-        <mark key="]" line="274" column="0" />
-        <mark key="^" line="258" column="10" />
-        <mark key="." line="274" column="0" />
+      <file name="$USER_HOME$/Works/wengs/test.php" timestamp="1553150008734">
+        <mark key="[" line="252" column="24" />
+        <mark key="]" line="249" column="0" />
+        <mark key="^" line="245" column="10" />
+        <mark key="." line="249" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengs/base/traits/WebApp.php" timestamp="1553058274319" />
       <file name="$USER_HOME$/Works/wengs/app/sche.php" timestamp="1552982049066">
@@ -275,7 +276,7 @@
         <mark key="[" line="14" column="18" />
       </file>
       <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/filter/get_filter_config.v1.php" timestamp="1552994293158" />
-      <file name="/PHP Console" timestamp="1553140233883">
+      <file name="/PHP Console" timestamp="1553150047436">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengs/mapi/dataprovider/Weng.php" timestamp="1553132436077" />
@@ -505,11 +506,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvV2VuZ1JlcG9ydCBNV2VuZ19SZXBvcnQK</text>
+      <register name="&quot;" type="4">
+        <text>affect_user</text>
       </register>
       <register name="-" type="4">
-        <text>$oWengReport</text>
+        <text>affect_user</text>
       </register>
       <register name="/" type="4">
         <text>public</text>
@@ -517,37 +518,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvKiogQHZhciAkb1RvcGljQXBpIE1UYWdfVG9waWNBcGkgKi8K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvV2VuZ1JlcG9ydCBNV2VuZ19SZXBvcnQK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgpmdW5jdGlvbiByYW5kb21GbG9hdCgkbWluLCAkbWF4LCAkZGVjaW1hbHMgPSAyKSB7CiAgICAkc2NhbGUgPSBwb3coMTAsICRkZWNpbWFscyk7CiAgICByZXR1cm4gbXRfcmFuZCgkbWluICogJHNjYWxlLCAkbWF4ICogJHNjYWxlKSAvICRzY2FsZTsKfQoKZWNobyByYW5kb21GbG9hdCgwLjEsIDAuMTUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgJG9XZW5nUmVwb3J0ID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1XZW5nX1JlcG9ydDo6Y2xhc3MpOw==</text>
+        <text encoding="base64">JHJlcz0gW107CmZvciAoJGkgPSAwOyAkaTwxMDAwMDsgJGkrKykgewogICAgJHJlc1tdID0gWwogICAgICAgICd1aWQnID0+ICRpKzEsCiAgICAgICAgJ3B2JyA9PiByYW5kKDEsIDEwMDAwKSwKICAgIF07Cn0KCiRyZXMgPSBNVG9vbF9BcnJheTo6YVNvcnRBcnJheUJ5KCRyZXMsIFsncHYnLCBTT1JUX0RFU0NdKTsKCmRkKCRyZXMpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgJGZvcm1hdERhdGEgPSBbCiAgICAgICAgICAgICd1aWQnICAgICAgICAgPT4gJHJlcG9ydFsndWlkJ10sCiAgICAgICAgICAgICdwZXJpb2QnICAgICAgPT4gZGF0ZSgnWS1tLWQnKSwKICAgICAgICAgICAgJ3JlcG9ydF9kYXRhJyA9PiBbCgogICAgICAgICAgICBdLAogICAgICAgIF07Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkdG90YWwgICAgICA9IGNvdW50KCRyZXBvcnRMaXN0KTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlc3VsdDsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CgokdG9waWMgPSBbCiAgICAnaWQnID0+IDY2NzAwNiwKICAgICduYW1lJyA9PiAn6YCB5Lic6Ziz6ams55Sf5bqPJywKICAgICdpc19lZmZlY3RfcmVjb21tZW5kJyA9PiBmYWxzZSwKXTsKCiRyZXMgPSBhcnJheV9maWxsKDAsIDEwMDAwLCAkdG9waWMpOwoKJGpzb24xID0gZ3pjb21wcmVzcyhNVG9vbF9KU09OOjpzRW5jb2RlKCRyZXMpKTsKJGpzb24yID0gTVRvb2xfSlNPTjo6c0VuY29kZSgkcmVzKTsKCiRyZWRpc0MgICA9IE1Ub29sX1JlZGlzOjpvQ2xpZW50KCk7</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgJGRhdGUgPSBkYXRlKCdZLW0tZCcpOwogICAgICAgICRwZXJpb2QgPSBkYXRlKCdXJyk7</text>
+        <text encoding="base64">CgpkZCgkcmVzKTs=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">JGNvbGxlY3RMb2dBcGkgPSBNQXBwOjpjcmVhdGVPYmplY3QoTUludGVyYWN0aW9uX0xvZzo6Y2xhc3MpOwoKJHJlcyA9ICRjb2xsZWN0TG9nQXBpLT5iQWRkTG9nKDE2MDEzNTE1NDU4OTQ5NDYsIDIsIDMwMTg5MDU2LCAxKTsKCmRkKCRyZXMpOw==</text>
+        <text encoding="base64">JHJlcyA9IGFycmF5X2ZpbGwoMCwgMywgWwogICAgJ3VpZCcgPT4gJGkrKywKICAgICdwdicgPT4gbXRfcmFuZCgxLCAxMDAwMCksCl0pOw==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgJHVzZXJQVk1hcCAgPSBbXTs=</text>
       </register>
       <register name="8" type="4">
-        <text>if ($showTagList) {
-                $dataList = self::addTagList($dataList, $style);
-            }</text>
+        <text encoding="base64">CiAgICAgICAgICAgICRyZXBvcnRbJ3B2J10gPSAkdGhpcy0+Z2VuUmFuZG9tUHYoJHJlcG9ydFsncHYnXSk7CiAgICAgICAgICAgICR1c2VyUFZNYXBbJHJlcG9ydFsndWlkJ11dID0gJHJlcG9ydFsncHYnXTs=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>13,39s/public/protected/</text>
