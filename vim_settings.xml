@@ -277,6 +277,11 @@
         <mark key="]" line="250" column="0" />
         <mark key="." line="250" column="0" />
       </file>
+      <file name="$USER_HOME$/Works/wengs/interaction/Log.php" timestamp="1553162228332">
+        <mark key="[" line="24" column="57" />
+        <mark key="]" line="24" column="57" />
+        <mark key="." line="24" column="57" />
+      </file>
       <file name="$USER_HOME$/Works/wengs/base/traits/WebApp.php" timestamp="1553058274319" />
       <file name="$USER_HOME$/Works/wengs/app/sche.php" timestamp="1552982049066">
         <mark key="[" line="42" column="81" />
@@ -517,11 +522,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyAxO2RpZQo=</text>
+      <register name="&quot;" type="4">
+        <text>$iAuthorId</text>
       </register>
       <register name="-" type="4">
-        <text>http%3A//app.mafengwo.cn/weng/activity_detail?_ouri%3Dhttp%253A%252F%252Fm.mafengwo.cn%252Fnb%252Fpublic%252Fsharejump.php%253Ftype%253D73%2526topic%253D%2525E6%252598%2525A5%2525E6%252597%2525A5%2525E4%2525B8%25258D%2525E5%2525AE%252585%2525E6%252589%252593%2525E5%25258D%2525A1%2525E6%25258C%252591%2525E6%252588%252598%2526category_id%253Dhot%26activity_id%3D311%26category_id%3Dhot%26topic%3D%25E6%2598%25A5%25E6%2597%25A5%25E4%25B8%258D%25E5%25AE%2585%25E6%2589%2593%25E5%258D%25A1%25E6%258C%2591%25E6%2588%2598</text>
+        <text>$iAuthorId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -529,35 +534,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvKiogQHZhciAkb1RvcGljQXBpIE1UYWdfVG9waWNBcGkgKi8K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZWNobyAxO2RpZQo=</text>
+      <register name="1" type="4">
+        <text>) {
+            
+        }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ZWNobyAxO2RpZQo=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAkdXJpID0gJ2h0dHAlM0EvL2FwcC5tYWZlbmd3by5jbi93ZW5nL2FjdGl2aXR5X2RldGFpbD9fb3VyaSUzRGh0dHAlMjUzQSUyNTJGJTI1MkZtLm1hZmVuZ3dvLmNuJTI1MkZuYiUyNTJGcHVibGljJTI1MkZzaGFyZWp1bXAucGhwJTI1M0Z0eXBlJTI1M0Q3MyUyNTI2dG9waWMlMjUzRCUyNTI1RTYlMjUyNTk4JTI1MjVBNSUyNTI1RTYlMjUyNTk3JTI1MjVBNSUyNTI1RTQlMjUyNUI4JTI1MjU4RCUyNTI1RTUlMjUyNUFFJTI1MjU4NSUyNTI1RTYlMjUyNTg5JTI1MjU5MyUyNTI1RTUlMjUyNThEJTI1MjVBMSUyNTI1RTYlMjUyNThDJTI1MjU5MSUyNTI1RTYlMjUyNTg4JTI1MjU5OCUyNTI2Y2F0ZWdvcnlfaWQlMjUzRGhvdCUyNmFjdGl2aXR5X2lkJTNEMzExJTI2Y2F0ZWdvcnlfaWQlM0Rob3QlMjZ0b3BpYyUzRCUyNUU2JTI1OTglMjVBNSUyNUU2JTI1OTclMjVBNSUyNUU0JTI1QjglMjU4RCUyNUU1JTI1QUUlMjU4NSUyNUU2JTI1ODklMjU5MyUyNUU1JTI1OEQlMjVBMSUyNUU2JTI1OEMlMjU5MSUyNUU2JTI1ODglMjU5OCc7</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRmaW5hbERhdGEgPSAkdGhpcy0+YUdldEZpbmFsUGFnZSgpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRmaW5hbERhdGEgPSAkdGhpcy0+YUdldEZpbmFsUGFnZSgpKSB7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCRjb3ZlclBhZ2UgPSAkdGhpcy0+YUdldENvdmVyUGFnZSgkaVVpZCkpIHsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgLy9UT0RPIOajgOafpeaYr+WQpuacieWRqOaKpQ==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKGZhbHNlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBcS29fRXhjZXB0aW9uKCLml6DmlbDmja7lkajmiqUiKTsKICAgICAgICB9Cg==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICRyZXBvcnRbJ3BlcmlvZCddID09</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKGZhbHNlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBcS29fRXhjZXB0aW9uKCLml6DmlbDmja7lkajmiqUiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>13,39s/public/protected/</text>
