@@ -7,7 +7,7 @@
         <mark key="[" line="34" column="90" />
       </file>
       <file name="$USER_HOME$/Works/user/apps/user/facade/task/Api.php" timestamp="1553528203319" />
-      <file name="/a.dummy" timestamp="1553563859714">
+      <file name="/a.dummy" timestamp="1553665051960">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengs/weng/Report.php" timestamp="1553499135734">
@@ -116,11 +116,11 @@
         <mark key="[" line="12" column="16" />
       </file>
       <file name="$USER_HOME$/Works/rss/controller/mobile/tag.php" timestamp="1553604848130" />
-      <file name="$USER_HOME$/Works/wengs/form/Publish.php" timestamp="1553587816621">
-        <mark key="[" line="261" column="5" />
-        <mark key="]" line="261" column="4" />
+      <file name="$USER_HOME$/Works/wengs/form/Publish.php" timestamp="1553665453872">
+        <mark key="[" line="366" column="71" />
+        <mark key="]" line="366" column="71" />
         <mark key="^" line="261" column="4" />
-        <mark key="." line="261" column="4" />
+        <mark key="." line="366" column="71" />
       </file>
       <file name="$USER_HOME$/Works/wengs/facade/Queue.php" timestamp="1553589248816" />
       <file name="$USER_HOME$/Works/rss/controller/rss/tag/get_detail.v2.php" timestamp="1553612633395" />
@@ -210,7 +210,7 @@
       <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/filter/get_filter_config.v1.php" timestamp="1552994293158" />
       <file name="$USER_HOME$/Works/wengs/controller/admin/user/user.php" timestamp="1553343877557" />
       <file name="$USER_HOME$/Works/rss/router/Base.php" timestamp="1553612702931" />
-      <file name="$USER_HOME$/Works/wengs/activity/PublishRuleController.php" timestamp="1553576619297">
+      <file name="$USER_HOME$/Works/wengs/activity/PublishRuleController.php" timestamp="1553665276476">
         <mark key="[" line="39" column="32" />
         <mark key="]" line="39" column="33" />
         <mark key="." line="39" column="33" />
@@ -471,6 +471,9 @@
         <mark key="]" line="34" column="18" />
         <mark key="." line="34" column="18" />
       </file>
+      <file name="$USER_HOME$/Works/wengs/event/PublishUserTask.php" timestamp="1553665200319">
+        <mark key="[" line="4" column="20" />
+      </file>
       <file name="$USER_HOME$/Works/wengs/Key.php" timestamp="1553598159839">
         <mark key="[" line="33" column="48" />
         <mark key="]" line="25" column="48" />
@@ -519,8 +522,8 @@
         <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengs/weng/ContentApi.php" timestamp="1553166675501" />
-      <file name="$USER_HOME$/Works/wengs/event/Dispatcher.php" timestamp="1553524443221">
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/Works/wengs/event/Dispatcher.php" timestamp="1553665176137">
+        <mark key="[" line="18" column="58" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
@@ -734,10 +737,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKCEkb1VzZXJUYXNrLT5iQ29tcGxldGVUYXNrKCR1aWQsICRyZWNlaXZlZFRhc2tbJ3Rhc2tfaWQnXSkpIHsKICAgICAgICAgICAgTUFwcDo6JGFwcC0+bG9nLT5ydW50aW1lKCdldmVudDpwdWJsaXNoVGFzazpmYWlsZWQnLCBbCiAgICAgICAgICAgICAgICAndWlkJyA9PiAkdWlkLAogICAgICAgICAgICAgICAgJ3JlcycgPT4gJ+WinuWKoOS7u+WKoeasoeaVsOWksei0pScsCiAgICAgICAgICAgIF0pOwogICAgICAgIH0=</text>
+        <text>$uid</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>$uid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
