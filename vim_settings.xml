@@ -154,7 +154,7 @@
         <mark key="[" line="51" column="31" />
       </file>
       <file name="$USER_HOME$/Works/wengs/base/controller/Crontab.php" timestamp="1553252963441" />
-      <file name="$USER_HOME$/Works/wengs/mapi/detail/WengDetail.php" timestamp="1553614141281">
+      <file name="$USER_HOME$/Works/wengs/mapi/detail/WengDetail.php" timestamp="1553653127277">
         <mark key="[" line="801" column="31" />
         <mark key="]" line="801" column="31" />
         <mark key="." line="801" column="31" />
@@ -270,14 +270,15 @@
       </file>
       <file name="$USER_HOME$/Works/wengs/form/DelReply.php" timestamp="1553594424556" />
       <file name="$USER_HOME$/Works/wengs/proxy/Mdd.php" timestamp="1553570427854" />
-      <file name="$USER_HOME$/Works/wengs/controller/weng_exp/detail/get_recommend_list.v2.php" timestamp="1553652033833">
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
+      <file name="$USER_HOME$/Works/wengs/controller/weng_exp/detail/get_recommend_list.v2.php" timestamp="1553654687086">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengs/controller/weng_exp/activity/get_weng_list.v1.php" timestamp="1552897447548" />
-      <file name="$USER_HOME$/Works/wengs/controller/mobile/mine/task.php" timestamp="1553598464717">
+      <file name="$USER_HOME$/Works/wengs/controller/mobile/mine/task.php" timestamp="1553654045939">
         <mark key="'" line="238" column="29" />
-        <mark key="[" line="96" column="96" />
+        <mark key="[" line="21" column="30" />
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
       </file>
@@ -494,7 +495,7 @@
       </file>
       <file name="$USER_HOME$/Works/manual-script/201901/wengs/fixed_lbs_error.php" timestamp="1553483629742" />
       <file name="$USER_HOME$/Works/rss/data/router/Dao.php" timestamp="1553612060863" />
-      <file name="/PHP Console" timestamp="1553648648820">
+      <file name="/PHP Console" timestamp="1553655053910">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/manual-script/201903/weng/sync_user_fav_num.php" timestamp="1553248423506">
@@ -505,7 +506,7 @@
       <file name="$USER_HOME$/Works/wengs/mapi/dataprovider/Weng.php" timestamp="1553651800474" />
       <file name="$USER_HOME$/Works/search/apps/search/tools/filter/facade/PackFilter.php" timestamp="1553569312145" />
       <file name="$USER_HOME$/Works/wengs/app/Interaction.php" timestamp="1553163629559" />
-      <file name="$USER_HOME$/Works/wengs/mapi/mdd/Nearby.php" timestamp="1553652027478">
+      <file name="$USER_HOME$/Works/wengs/mapi/mdd/Nearby.php" timestamp="1553654950299">
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
@@ -520,7 +521,7 @@
       <file name="$USER_HOME$/Works/wengs/tests/tool/sme/data.json" timestamp="1552039073563">
         <mark key="[" line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/interaction/Fav.php" timestamp="1553065411711" />
+      <file name="$USER_HOME$/Works/wengs/interaction/Fav.php" timestamp="1553653779334" />
       <file name="$USER_HOME$/Works/wengs/proxy/Task.php" timestamp="1553588672921">
         <mark key="[" line="71" column="21" />
         <mark key="]" line="80" column="0" />
@@ -698,11 +699,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICRpbmRleCA9ICR0aGlzLT5ib3VuZGFyeSArICRpbmRleDs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL0QxOTA2Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>$flowSpecialTopicMap</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -710,41 +711,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxLb19FeGNlcHRpb24oJ+S7u+WKoeS4jeWtmOWcqCcpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICRpbmRleCA9ICR0aGlzLT5ib3VuZGFyeSArICRpbmRleDs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL0QxOTA2Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">J2J1c2luZXNzX2l0ZW0nID0+IFsKICAgICAgICAgICAgICAgICAgICAnaXRlbV9pZCcgICAgID0+ICJ7JHdlbmdJdGVtWydpZCddfTt7JGlzVmVkaW99IiwKICAgICAgICAgICAgICAgICAgICAnaXRlbV90eXBlJyAgID0+ICd3ZW5nX2lkO2lzX3ZpZGVvX3dlbmcnLAogICAgICAgICAgICAgICAgICAgICdpdGVtX25hbWUnICAgPT4gJycsCiAgICAgICAgICAgICAgICAgICAgJ21vZHVsZV9uYW1lJyA9PiAn5oiR55qE56yU6K6w5L+h5oGv5rWBJywKICAgICAgICAgICAgICAgICAgICAncG9zX2lkJyAgICAgID0+ICJ1c2VyLm1pbmVfd2VuZy5taW5lX3dlbmdfYXJ0aWNsZV9saXN0LnskaW5kZXh9IiwKICAgICAgICAgICAgICAgIF0s</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Ci8vICAgICAgICAgICAgJHdlbmdJdGVtWydpc19jdXJyZW50X3dlbmdfb3duZXInXSA9ICR3ZW5nSXRlbVsnb3duZXInXVsnaWQnXSA9PSAkY3VycmVudFdlbmdJbmZvWyd1aWQnXTsKCi8vICAgICAgICAgICAgaWYgKCRmbG93VGFnTGlzdCA9IE1Ub29sX0FycmF5OjptR2V0VmFsdWUoJGZsb3dTcGVjaWFsVG9waWNNYXAsIFskd2VuZ0l0ZW1bJ2lkJ11dKSkgewovLyAgICAgICAgICAgICAgICAkd2VuZ0l0ZW1bJ3RhZ19saXN0J10gPSAkZmxvd1RhZ0xpc3Q7Ci8vICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICogQHZhciAkb01hcGlUYWcgTU1hcGlfVGFnCj09PT09PT0=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIC8v6K+d6aKY5YiX6KGoCiAgICAgICAgICAgICR3ZW5nSXRlbVsndGFnX2xpc3QnXSA9IE1BcHA6OiRhcHAtPmNhY2hlLT5nZXRGdW5jQ2FjaGUoCiAgICAgICAgICAgICAgICBbJG9XZW5nRGF0YVByb3ZpZGVyLCAnYUdldFdlbmdUYWdMaXN0J10sIFskd2VuZ0l0ZW1bJ2lkJ11dLCAzMDAKICAgICAgICAgICAgKTs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL0QxOTA2Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>$flowTag = reset($flowTagList);
-                if ($showPreFixContent) {
-                    $aWengInfo['prefix_content'] = sprintf('[|s|]#%s[|m|]%s[|m|]100[|e|]',
-                        $flowTag['text'],
-                        $flowTag['jump_url']
-                    );
-                }</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGlzVmVkaW8gPSAkd2VuZ1sndHlwZSddID09IE1NdWx0aW1lZGlhX0FwaTo6VFlQRV9XRU5HX0RFRkFVTFQgPyAwIDogMTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgJGZsb3dTcGVjaWFsVG9waWNNYXAgPSAkb01hcGlUYWctPmFHZXRGbG93U3BlY2lhbFRvcGljTGlzdCgkYVdlbmdJZHMpOwogICAgICAgICRhQXVkaW9XZW5naWRNYXAgPSBhcnJheV9mbGlwKCRvQXVkaW9BcGktPmFHZXRBdWRpb1dlbmdpZExpc3QoJGFXZW5nSWRzKSk7CgogICAgICAgIHJldHVybiBhcnJheV9tYXAoZnVuY3Rpb24gKCR3ZW5nSXRlbSwgJGluZGV4KSB1c2UgKCRjdXJyZW50V2VuZ0luZm8sICRmbG93U3BlY2lhbFRvcGljTWFwLCAkYUF1ZGlvV2VuZ2lkTWFwKSB7Cj09PT09PT0=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgJ2xpc3QnID0+IFsxNjI5MDUzMjcwNDg1OTQ0LCAxNjI5MDMyOTUxMDgxMjk2XSwKICAgICAgICAgICAgJ3RvdGFsJyA9PiAyLAogICAgICAgIF07</text>
+      <register name="7" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL0QxOTA2Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYXlfY29sdW1uKCRhTmVhcmJ5V2VuZ1snbGlzdCddLCAnaWQnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgLyoqCiAgICAgICAgICogQHZhciAkb01kZERhdGFQcm92aWRlciBNTWFwaV9EYXRhUHJvdmlkZXJfTWRkCiAgICAgICAgICogQHZhciBNTUFwaV9EYXRhUHJvdmlkZXJfV2VuZyAkb1dlbmdQcm92aWRlcgogICAgICAgICAqLwogICAgICAgICRvTWRkRGF0YVByb3ZpZGVyID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1NYXBpX0RhdGFQcm92aWRlcl9NZGQ6OmNsYXNzKTsKICAgICAgICAkb1dlbmdQcm92aWRlciA9IE1BcHA6OmNyZWF0ZU9iamVjdChNTUFwaV9EYXRhUHJvdmlkZXJfV2VuZzo6Y2xhc3MpOwogICAgICAgICRmb3JtYXRUb29sID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1NdWx0aU1lZGlhX0Zvcm1hdFRvb2w6OmNsYXNzKTsKICAgICAgICAkYU5lYXJieVdlbmcgICA9ICRvTWRkRGF0YVByb3ZpZGVyLT5hR2V0TmVhcmJ5V2VuZ0J5TWRkaWQoJGlNZGRpZCwgJG9mZnNldCwgJGxpbWl0KTsKICAgICAgICAkYU5lYXJieVdlbmdJZHMgPSBhcnJheV9jb2x1bW4oJGFOZWFyYnlXZW5nWydsaXN0J10sICdpZCcpOwogICAgICAgIHJldHVybiAkb1dlbmdQcm92aWRlci0+YUdldFdlbmdzSW5mbzRSZWNvbW1lbmQoCiAgICAgICAgICAgICRpTG9naW5VaWQsICRhTmVhcmJ5V2VuZ0lkcywgJGZvcm1hdFRvb2wsIHRydWUsIGZhbHNlCiAgICAgICAgKTs=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECgogICAgICAgICAgICAkcmlnaHRUb3BJY29uICAgICA9ICcnOwogICAgICAgICAgICBpZiAoaXNzZXQoJGFBdWRpb1dlbmdpZE1hcFskd2VuZ0l0ZW1bJ2lkJ11dKSkgewogICAgICAgICAgICAgICAgJHJpZ2h0VG9wSWNvbiA9IElNR19IVFRQIC4gJy93ZW5ncy9pbWFnZXMvd2VuZ19mbG93LzIwMTkwMjE1L3JpZ2h0X3RvcF92b2ljZV92Mi5wbmcnOwogICAgICAgICAgICB9IGVsc2VpZiAoJGlzVmVkaW8pIHsKICAgICAgICAgICAgICAgICRyaWdodFRvcEljb24gPSBJTUdfSFRUUCAuICcvd2VuZ3MvaW1hZ2VzL3dlbmdfZmxvdy8yMDE5MDIxNS9yaWdodF90b3BfdmlkZW9fdjIucG5nJzsKICAgICAgICAgICAgfQo9PT09PT09</text>
       </register>
       <register name=":" type="4">
         <text>13,39s/public/protected/</text>
