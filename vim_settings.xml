@@ -23,6 +23,9 @@
       <file name="$USER_HOME$/Works/rss/router/Factory.php" timestamp="1553676123634" />
       <file name="$USER_HOME$/Works/outdated/www2011/conf/site/all.ini" timestamp="1553847838663" />
       <file name="$USER_HOME$/Works/rss/router/Note.php" timestamp="1553612771559" />
+      <file name="$USER_HOME$/Works/wengs/tag/TopicApi.php" timestamp="1553484202691">
+        <mark key="'" line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Works/wengs/abtest/no2/data/whitelist" timestamp="1553585446719" />
       <file name="$USER_HOME$/Works/wengs/controller/mobile/mine.php" timestamp="1553648569018">
         <mark key="'" line="21" column="4" />
@@ -34,6 +37,12 @@
         <mark key="[" line="359" column="5" />
       </file>
       <file name="$USER_HOME$/Works/wengs/controller/mobile/detail.php" timestamp="1553678208502" />
+      <file name="$USER_HOME$/Works/wengs/multimedia/Api.php" timestamp="1553587914661">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+        <mark key="^" line="13" column="20" />
+      </file>
       <file name="$USER_HOME$/Works/wengs/open/Search.php" timestamp="1553747541340" />
       <file name="$USER_HOME$/Works/wengs/mapi/dataprovider/Nearby.php" timestamp="1553570397682" />
       <file name="$USER_HOME$/Works/appconf/api/rss/tag/get_recommend_list.v1.json" timestamp="1553672361185" />
@@ -70,9 +79,15 @@
         <mark key="]" line="15" column="47" />
         <mark key="." line="15" column="47" />
       </file>
+      <file name="$USER_HOME$/Works/wengs/common/Dao.php" timestamp="1553736569619">
+        <mark key="[" line="245" column="10" />
+        <mark key="]" line="41" column="8" />
+        <mark key="." line="41" column="8" />
+        <mark key="^" line="41" column="8" />
+      </file>
       <file name="$USER_HOME$/Works/manual-script/201808/wengs/data/fix_wengs_total_operator_mdd.php" timestamp="1553070910181" />
       <file name="$USER_HOME$/Works/mdd/www2011/include/mdd/base/Facade.php" timestamp="1553164773785" />
-      <file name="$USER_HOME$/Works/wengs/mapi/User.php" timestamp="1553566226597">
+      <file name="$USER_HOME$/Works/wengs/mapi/User.php" timestamp="1553855363354">
         <mark key="[" line="196" column="7" />
         <mark key="]" line="196" column="8" />
         <mark key="." line="196" column="8" />
@@ -93,6 +108,12 @@
       <file name="$USER_HOME$/Works/wengs/open/Conf.php" timestamp="1553839689117" />
       <file name="$USER_HOME$/Works/mobile/www2011/include/mapi/url/Api.php" timestamp="1552550729622">
         <mark key="[" line="172" column="13" />
+      </file>
+      <file name="$USER_HOME$/Works/wengs/facade/open/Search.php" timestamp="1553745087644">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengs/weng/RelationBusiness.php" timestamp="1553139954964">
         <mark key="[" line="87" column="67" />
@@ -129,6 +150,12 @@
         <mark key="[" line="73" column="17" />
         <mark key="]" line="73" column="17" />
         <mark key="." line="73" column="17" />
+      </file>
+      <file name="$USER_HOME$/Works/wengs/form/Publish.php" timestamp="1553845462649">
+        <mark key="[" line="363" column="28" />
+        <mark key="]" line="363" column="22" />
+        <mark key="^" line="363" column="22" />
+        <mark key="." line="363" column="22" />
       </file>
       <file name="$USER_HOME$/Works/wengs/facade/Queue.php" timestamp="1553836221988">
         <mark key="[" line="734" column="19" />
@@ -219,11 +246,8 @@
       </file>
       <file name="$USER_HOME$/Works/wengs/base/Request.php" timestamp="1553676620442" />
       <file name="$USER_HOME$/Works/wengs/base/traits/WebApp.php" timestamp="1553058274319" />
-      <file name="$USER_HOME$/Works/wengs/facade/inner/Mdd.php" timestamp="1553744436504">
+      <file name="$USER_HOME$/Works/wengs/facade/inner/Mdd.php" timestamp="1553854877752">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="156" column="28" />
-        <mark key="]" line="156" column="27" />
-        <mark key="." line="156" column="27" />
       </file>
       <file name="$USER_HOME$/Works/wengs/log/event/Mobile.php" timestamp="1553579076215" />
       <file name="$USER_HOME$/Works/wengs/form/OpenModify.php" timestamp="1552032566747">
@@ -260,6 +284,12 @@
         <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Works/ko/web/Config.php" timestamp="1553680246864" />
+      <file name="$USER_HOME$/Works/wengs/test1.php" timestamp="1552976689797">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="38" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="15" column="38" />
+      </file>
       <file name="$USER_HOME$/Works/wengs/weng/Dao.php" timestamp="1553506779506">
         <mark key="[" line="95" column="10" />
         <mark key="]" line="98" column="31" />
@@ -298,7 +328,7 @@
         <mark key="." line="183" column="0" />
       </file>
       <file name="$USER_HOME$/Works/mobile/mobile_api/api/user/footprint/get_footprint_info.v1.php" timestamp="1553166059002" />
-      <file name="$USER_HOME$/Works/wengs/weng/DataApi.php" timestamp="1553851219319">
+      <file name="$USER_HOME$/Works/wengs/weng/DataApi.php" timestamp="1553854402079">
         <mark key="'" line="19" column="37" />
         <mark key="[" line="596" column="36" />
         <mark key="]" line="596" column="36" />
@@ -414,6 +444,12 @@
       <file name="$USER_HOME$/Works/wengs/base/controller/MApi.php" timestamp="1553248541245" />
       <file name="$USER_HOME$/Works/outdated/mobile/htdocs/connect.php" timestamp="1553679998702" />
       <file name="$USER_HOME$/Works/manual-script/201901/wengs/resetUserFlag.php" timestamp="1552990678393" />
+      <file name="$USER_HOME$/Works/wengs/mapi/AppConf.php" timestamp="1553131910452">
+        <mark key="[" line="134" column="12" />
+        <mark key="]" line="134" column="12" />
+        <mark key="." line="134" column="12" />
+        <mark key="^" line="51" column="23" />
+      </file>
       <file name="$USER_HOME$/Works/wengs/base/Hook.php" timestamp="1553679089378" />
       <file name="$USER_HOME$/Works/wengs/event/Conf.php" timestamp="1553840720411">
         <mark key="[" line="17" column="70" />
@@ -482,6 +518,12 @@
         <mark key="]" line="366" column="0" />
         <mark key="." line="366" column="0" />
       </file>
+      <file name="$USER_HOME$/Works/outdated/www2011/conf/site/mobile/rewrite.conf" timestamp="1553684828583">
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="273" column="0" />
+        <mark key="^" line="277" column="47" />
+        <mark key="." line="273" column="0" />
+      </file>
       <file name="$USER_HOME$/Works/app-client-admin/apps/facade/pageresource/Conf.php" timestamp="1553158543531" />
       <file name="$USER_HOME$/Works/wengs/admin/Majia.php" timestamp="1553577843440" />
       <file name="$USER_HOME$/Works/wengs/mapi/dataprovider/Activity.php" timestamp="1552897794628" />
@@ -518,6 +560,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Works/wengs/event/SendSalesRedPacket.php" timestamp="1553762507927">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Works/infoflow/src/interface/event/Conf.php" timestamp="1552991143864" />
       <file name="$USER_HOME$/Works/rss/facade/Url.php" timestamp="1553612523783" />
       <file name="$USER_HOME$/Works/wengs/event/OperateGood.php" timestamp="1551939439330">
@@ -552,7 +600,7 @@
       <file name="$USER_HOME$/Works/outdated/www2011/include/rose-obsolete/filters/UrlParseFilter.php" timestamp="1553683081535" />
       <file name="$USER_HOME$/Works/wengs/app/Notify.php" timestamp="1553253339247" />
       <file name="$USER_HOME$/Works/movie-lib/controller/app/video/operation_api/get_movie_detail.v1.php" timestamp="1553848332495" />
-      <file name="$USER_HOME$/Works/wengs/form/WengLbs.php" timestamp="1553485318992">
+      <file name="$USER_HOME$/Works/wengs/form/WengLbs.php" timestamp="1553853738024">
         <mark key="[" line="108" column="9" />
       </file>
       <file name="$USER_HOME$/Works/wengs/facade/open/Editor.php" timestamp="1553839703120" />
@@ -571,13 +619,13 @@
         <mark key="[" line="45" column="65" />
       </file>
       <file name="$USER_HOME$/Works/wengweng/apps/weng/universal/user/facade/Api.php" timestamp="1553848449110" />
-      <file name="$USER_HOME$/Works/wengs/test.php" timestamp="1553850731015">
-        <mark key="[" line="250" column="3" />
+      <file name="$USER_HOME$/Works/wengs/test.php" timestamp="1553854457471">
+        <mark key="[" line="251" column="0" />
         <mark key="]" line="257" column="0" />
         <mark key="^" line="48" column="2" />
         <mark key="." line="257" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/interaction/Log.php" timestamp="1553168952283">
+      <file name="$USER_HOME$/Works/wengs/interaction/Log.php" timestamp="1553854146883">
         <mark key="[" line="111" column="58" />
         <mark key="]" line="115" column="23" />
         <mark key="." line="115" column="23" />
@@ -611,10 +659,16 @@
       <file name="$USER_HOME$/Works/wengs/app/Interaction.php" timestamp="1553163629559" />
       <file name="$USER_HOME$/Works/outdated/www2011/htdocs/entrance.php" timestamp="1553681005168" />
       <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/ww/api/weng/detail/get_weng_detail.v1.php" timestamp="1553681533844" />
-      <file name="$USER_HOME$/Works/wengs/mapi/mdd/Nearby.php" timestamp="1553744266743">
+      <file name="$USER_HOME$/Works/wengs/mapi/mdd/Nearby.php" timestamp="1553855396537">
         <mark key="[" line="162" column="4" />
         <mark key="]" line="162" column="4" />
         <mark key="." line="162" column="4" />
+      </file>
+      <file name="$USER_HOME$/Works/wengs/weng/IndexApi.php" timestamp="1553478883518">
+        <mark key="[" line="360" column="93" />
+        <mark key="]" line="360" column="92" />
+        <mark key="." line="360" column="92" />
+        <mark key="^" line="360" column="92" />
       </file>
       <file name="$USER_HOME$/Works/wengs/tests/tool/sme/data.json" timestamp="1553845874551">
         <mark key="[" line="10" column="15" />
@@ -624,10 +678,16 @@
       <file name="$USER_HOME$/Works/wengs/app/Sync.php" timestamp="1553159709147" />
       <file name="$USER_HOME$/Works/mobile/www2011/include/rest/app/weng/weng.php" timestamp="1552962701453" />
       <file name="$USER_HOME$/Works/wengs/activity/IndexApi.php" timestamp="1552897803511" />
+      <file name="$USER_HOME$/Works/wengs/controller/mobile/report.php" timestamp="1553854406145">
+        <mark key="[" line="296" column="24" />
+        <mark key="]" line="296" column="24" />
+        <mark key="." line="296" column="24" />
+        <mark key="^" line="158" column="4" />
+      </file>
       <file name="$USER_HOME$/Works/wengs/activity/SelectionApi.php" timestamp="1552893777049">
         <mark key="[" line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/Works/wengs/proxy/User.php" timestamp="1553848553588">
+      <file name="$USER_HOME$/Works/wengs/proxy/User.php" timestamp="1553855064270">
         <mark key="[" line="200" column="12" />
         <mark key="]" line="200" column="12" />
         <mark key="." line="200" column="12" />
@@ -649,6 +709,12 @@
       </file>
       <file name="$USER_HOME$/Works/wengweng/mobile/htdocs/weng/detail.php" timestamp="1553679782265">
         <mark key="[" line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/Works/wengs/form/Modify.php" timestamp="1553839764247">
+        <mark key="[" line="265" column="12" />
+        <mark key="]" line="265" column="12" />
+        <mark key="^" line="73" column="19" />
+        <mark key="." line="265" column="12" />
       </file>
       <file name="$USER_HOME$/Works/wengs/controller/mobile/topic.php" timestamp="1553760467265" />
     </filemarks>
@@ -785,10 +851,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgpjbGFzcyBUZXN0ewogICAgcHJpdmF0ZSAkaGFkTWVldFZpZGVvID0gZmFsc2U7CgogICAgcHVibGljIGZ1bmN0aW9uIHRlc3QoKQogICAgewogICAgICAgICRsaXN0ID0gWwogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAndmlkZW8nID0+IFsKICAgICAgICAgICAgICAgICAgICAndXJsJyA9PiAnMTIzJywKICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICd2aWRlbycgPT4gWwogICAgICAgICAgICAgICAgICAgICd1cmwnID0+ICcxMjMnLAogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgXSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ3ZpZGVvJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgJ3VybCcgPT4gJzEyMycsCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICBdLAogICAgICAgIF07CgogICAgICAgIHJldHVybiBhcnJheV9tYXAoZnVuY3Rpb24oJGksICRrKSB7CgogICAgICAgICAgICBpZiAoJHRoaXMtPmhhZE1lZXRWaWRlbyAmJiAkaVsndmlkZW8nXSkgewogICAgICAgICAgICAgICAgJGlbJ3ZpZGVvJ11bJ3VybCddID0gJyc7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRpWyd2aWRlbyddKSB7CiAgICAgICAgICAgICAgICAkdGhpcy0+aGFkTWVldFZpZGVvID0gdHJ1ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gJGk7CiAgICAgICAgfSwgJGxpc3QsIGFycmF5X2tleXMoJGxpc3QpKTsKICAgIH0KfQoKJGxpc3QgPSAobmV3IFRlc3QpLT50ZXN0KCk7CgpkZCgkbGlzdCk7</text>
+        <text>ctime</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIFskaVN0YXR1cywgJHNTdGF0dXNVcmxdOyA=</text>
+        <text>ctime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
