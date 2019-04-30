@@ -56,11 +56,11 @@
         <mark key="." line="134" column="12" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengweng/apps/weng/universal/watermark/facade/Api.php" timestamp="1556613577830" />
-      <file name="$USER_HOME$/Works/webdev/wengs/form/DalaoPublish.php" timestamp="1556617593960">
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="151" column="26" />
-        <mark key="." line="151" column="26" />
-        <mark key="^" line="151" column="26" />
+      <file name="$USER_HOME$/Works/webdev/wengs/form/DalaoPublish.php" timestamp="1556620540673">
+        <mark key="[" line="168" column="68" />
+        <mark key="]" line="168" column="68" />
+        <mark key="." line="168" column="68" />
+        <mark key="^" line="186" column="26" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/form/PublishParameter.php" timestamp="1556530527773">
         <mark key="[" line="140" column="10" />
@@ -441,11 +441,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JHQgPSBNVG9vbF9BcnJheTo6bUdldFZhbHVlKCRfR0VULCAndHlwZScsIDMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgJHdlbmcgICA9IE1XZW5nX0FwaTo6YUdldCgkdGhpcy0+d2VuZ2lkKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>$iId</text>
+        <text>$uid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -453,35 +453,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdldGltZScgPT4gJHdhdGVybWFya1snZXRpbWUnXSwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">JHQgPSBNVG9vbF9BcnJheTo6bUdldFZhbHVlKCRfR0VULCAndHlwZScsIDMpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgJHdlbmcgICA9IE1XZW5nX0FwaTo6YUdldCgkdGhpcy0+d2VuZ2lkKTs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgJHVpZCAgICA9ICR3ZW5nWyd1aWQnXTs=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGlmICgxID09ICRtZWRpYVsnc29ydCddKSB7CiAgICAgICAgICAgICAgICAvL+WPlua2iOWOn+Wwgemdog==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">JHQgPSBNVG9vbF9BcnJheTo6bUdldFZhbHVlKCRfR0VULCAndHlwZScsIDMpOwo=</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAndGlkcycgPT4gJGFUaWRzLAogICAgICAgICAgICAgICAgJ21zZycgID0+ICfmsqHmnInor53pophJRCcsCiAgICAgICAgICAgIA==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIC8v6K6+572u5bCB6Z2iCiAgICAgICAgICAgICR0aGlzLT5zZXRDb3ZlcigkaVdlbmdpZCwgJHNDb3Zlcik7</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIHNldENvdmVyKCRpV2VuZ0lkLCAkc0NvdmVyKQogICAgewogICAgICAgIGlmICghJHNDb3ZlcikgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIC8qKiBAdmFyIE1Gb3JtX1NldENvdmVyICRvQ292ZXIgKi8KICAgICAgICAkb0NvdmVyID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1Gb3JtX1NldENvdmVyOjpjbGFzcywgWwogICAgICAgICAgICAnd2VuZ0lkJyA9PiAkaVdlbmdJZCwKICAgICAgICAgICAgJ3R5cGUnICAgPT4gTUZvcm1fU2V0Q292ZXI6OlRZUEVfQ1VULAogICAgICAgICAgICAnbWVkaWEnICA9PiAkc0NvdmVyLAogICAgICAgIF0pOwogICAgICAgIGlmICghJG9Db3Zlci0+YlNldENvdmVyKCkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFxLb19FeGNlcHRpb24oIuWwgemdouiuvue9ruWksei0pSIpOwogICAgICAgIH0KICAgIH0=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYXNzZXRfZGVzYycgPT4gJycsCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBkZXByZWNhdGVkCiAgICAgKiBAcGFyYW0gJGlOZXdXZW5nSWQKICAgICAqIEByZXR1cm4gYm9vbAogICAgICov</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
