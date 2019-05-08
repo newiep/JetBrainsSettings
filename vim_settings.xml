@@ -138,11 +138,11 @@
         <mark key="[" line="152" column="6" />
       </file>
       <file name="$USER_HOME$/Works/webdev/note/apps/note/mapi/reply/v2/Collection.php" timestamp="1557306460971" />
-      <file name="$USER_HOME$/Works/webdev/wengs/proxy/TravelNote.php" timestamp="1557315653201">
+      <file name="$USER_HOME$/Works/webdev/wengs/proxy/TravelNote.php" timestamp="1557318618605">
         <mark key="'" line="88" column="47" />
-        <mark key="[" line="87" column="46" />
-        <mark key="]" line="24" column="12" />
-        <mark key="." line="24" column="12" />
+        <mark key="[" line="116" column="48" />
+        <mark key="]" line="116" column="48" />
+        <mark key="." line="116" column="48" />
       </file>
       <file name="$USER_HOME$/Works/webdev/appconf/api/weng_note/reply/get_reply_list.v1.json" timestamp="1557284256476">
         <mark key="[" line="13" column="15" />
@@ -538,10 +538,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWYgKE1Ub29sX0FycmF5OjptR2V0VmFsdWUoJHJlcywgJ2NvZGUnKSAhPT0gc2VsZjo6U1VDQ0VTU19DT0RFKSB7CiAgICAgICAgICAgICAgICBNQXBwOjokYXBwLT5sb2ctPnJ1bnRpbWUoJ3Byb3h5OnRyYXZlbDpub3RlX2NyZWF0ZScsICRyZXMpOwogICAgICAgICAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgICAgICAgICAncmVzJyAgICAgPT4gZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgJ21lc3NhZ2UnID0+IE1Ub29sX0FycmF5OjptR2V0VmFsdWUoJHJlcywgWydtZXNzYWdlJ10sICfmnI3liqHlhoXlrrnplJnor68nKSwKICAgICAgICAgICAgICAgIF07CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgICAgICdyZXMnICAgICA9PiB0cnVlLAogICAgICAgICAgICAgICAgJ25vdGVfaWQnID0+IE1Ub29sX0FycmF5OjptR2V0VmFsdWUoJHJlcywgWydkYXRhJywgJ25vdGUnLCAnaWQnXSksCiAgICAgICAgICAgIF07</text>
+        <text>submit_reply</text>
       </register>
       <register name="-" type="4">
-        <text>'res:' . MTool_JSON::sEncode($res)</text>
+        <text>submit_reply</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
