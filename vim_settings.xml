@@ -349,7 +349,7 @@
         <mark key="[" line="108" column="9" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/appconf/Dao.php" timestamp="1557476136351" />
-      <file name="$USER_HOME$/Works/webdev/wengs/log/event/Runtime.php" timestamp="1557488391172" />
+      <file name="$USER_HOME$/Works/webdev/wengs/log/event/Runtime.php" timestamp="1557491720490" />
       <file name="$USER_HOME$/Works/wengs/form/Collect.php" timestamp="1554254598524">
         <mark key="[" line="85" column="85" />
       </file>
@@ -376,8 +376,10 @@
       <file name="$USER_HOME$/Works/rss/mock/FlowText/0.json" timestamp="1554774476376">
         <mark key="[" line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/messageTemplate.php" timestamp="1557488982424">
-        <mark key="[" line="249" column="45" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/messageTemplate.php" timestamp="1557491818297">
+        <mark key="[" line="216" column="54" />
+        <mark key="]" line="216" column="54" />
+        <mark key="." line="216" column="54" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengweng/www2011/include/ww/wengSelectionApi.php" timestamp="1556161139773">
         <mark key="[" line="39" column="14" />
@@ -544,10 +546,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>攻略标题不存在</text>
+        <text>$aMessage</text>
       </register>
       <register name="-" type="4">
-        <text>攻略标题不存在</text>
+        <text>$aMessage</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
