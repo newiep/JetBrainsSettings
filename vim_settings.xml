@@ -137,6 +137,7 @@
       <file name="$USER_HOME$/Works/webdev/appconf/api/weng_note/reply/get_reply_list.v1.json" timestamp="1557284256476">
         <mark key="[" line="13" column="15" />
       </file>
+      <file name="$USER_HOME$/Works/microservice/bnote/common/helper/ResponseHelper.php" timestamp="1558679299459" />
       <file name="$USER_HOME$/Works/webdev/wengs/open/Editor.php" timestamp="1557901771721">
         <mark key="[" line="185" column="8" />
         <mark key="]" line="185" column="8" />
@@ -222,10 +223,10 @@
         <mark key="." line="40" column="30" />
       </file>
       <file name="$USER_HOME$/Works/webdev/note/apps/note/search/Api.php" timestamp="1558322352598" />
-      <file name="$USER_HOME$/Works/microservice/bnote/service/controllers/ReplyController.php" timestamp="1558667010494">
-        <mark key="[" line="34" column="66" />
-        <mark key="]" line="125" column="12" />
-        <mark key="." line="125" column="12" />
+      <file name="$USER_HOME$/Works/microservice/bnote/service/controllers/ReplyController.php" timestamp="1558679434604">
+        <mark key="[" line="284" column="57" />
+        <mark key="]" line="284" column="57" />
+        <mark key="." line="284" column="57" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/reply/get_reply_list.v1.php" timestamp="1557565270025" />
       <file name="$USER_HOME$/Works/webdev/rss/mapi/WengFlowItemV2.php" timestamp="1555492189876">
@@ -370,11 +371,11 @@
       <file name="$USER_HOME$/Works/webdev/appconf/scheme/weng_note/detail/paragraph.json" timestamp="1558342684640" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Queue.php" timestamp="1558610248591" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/rd.php" timestamp="1558494291749" />
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/Weng.php" timestamp="1558677874471">
-        <mark key="[" line="503" column="41" />
-        <mark key="]" line="503" column="41" />
-        <mark key="^" line="486" column="19" />
-        <mark key="." line="503" column="41" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/Weng.php" timestamp="1558679495324">
+        <mark key="[" line="505" column="41" />
+        <mark key="]" line="505" column="41" />
+        <mark key="^" line="488" column="19" />
+        <mark key="." line="505" column="41" />
       </file>
       <file name="$USER_HOME$/Works/webdev/mobile/mobile_api/api/system/file/image_upload.v1.php" timestamp="1558316981732">
         <mark key="[" line="17" column="25" />
@@ -404,7 +405,7 @@
         <mark key="]" line="48" column="9" />
         <mark key="." line="48" column="9" />
       </file>
-      <file name="$USER_HOME$/Works/microservice/bnote/common/models/Reply.php" timestamp="1558666867865">
+      <file name="$USER_HOME$/Works/microservice/bnote/common/models/Reply.php" timestamp="1558679001219">
         <mark key="[" line="137" column="49" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/admin/Dalao.php" timestamp="1558343427318" />
@@ -726,7 +727,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/dataprovider/Reply.php" timestamp="1557565260723">
         <mark key="[" line="53" column="5" />
       </file>
-      <file name="$USER_HOME$/Works/microservice/bnote/service/controllers/NoteController.php" timestamp="1558520701908">
+      <file name="$USER_HOME$/Works/microservice/bnote/service/controllers/NoteController.php" timestamp="1558679483046">
         <mark key="[" line="196" column="29" />
         <mark key="]" line="207" column="31" />
         <mark key="^" line="191" column="27" />
@@ -1179,10 +1180,10 @@
         <text>10Jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>mdd</text>
+        <text encoding="base64">JHJlcGx5LT5nZXRSZXBseUNvbnRlbnQoJHVpZCk=</text>
       </register>
       <register name="-" type="4">
-        <text>mdd</text>
+        <text encoding="base64">JHJlcGx5LT5nZXRSZXBseUNvbnRlbnQoJHVpZCk=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -1190,37 +1191,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgKiBAdmFyICRjb250ZW50QXBpIE1XZW5nX0NvbnRlbnRBcGkgCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAnZGF0YScgPT4gJHJlcGx5LT5nZXRSZXBseUNvbnRlbnQoJHVpZCksCiAgICAgICAgXQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>) {
+            return ResponseHelper::fail(Message::MISS_PARAM . 'uid');
+        }</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">aWYoJGlzQWRkU2NvcmUpewogICAgICAgICAgICAkdGV4dCA9ICAnPGZvbnQgY29sb3I9IiM2OTY5NjkiPuaUtuiXj+S6huS9oOeahOa4uOiusDwvZm9udD4nIC4KICAgICAgICAgICAgICAgIEtNYXBpX01lc3NhZ2VfU3R5bGU6OlNKdW1wRWZmZWN0KCfjgIonIC4gJGNvbnRlbnRbJ3RpdGxlJ10gLiAn44CLJykgLgogICAgICAgICAgICAgICAgJzxmb250IGNvbG9yPSIjNjk2OTY5Ij7mga3llpzojrflvpc8L2ZvbnQ+JyAuIEtNYXBpX01lc3NhZ2VfU3R5bGU6OlNFbXBoYXNpemUoMikgLgogICAgICAgICAgICAgICAgJzxmb250IGNvbG9yPSIjNjk2OTY5Ij7nu4/pqow8L2ZvbnQ+JzsKICAgICAgICB9ZWxzZXs=</text>
+        <text encoding="base64">aWYgKCRkaXJlY3Rpb24gPT0gQ29uc3RhbnQ6OkRJUkVDVElPTl9VUCkgewogICAgICAgICAgICAkcmV0ID0gJHRoaXMtPmdldEJlZm9yZURpYWxvZ3VlTGlzdCgkcmVwbHksICR1aWQsICRib3VuZGFyeSwgJG51bSk7CiAgICAgICAgfSBlbHNlIGlmICgkZGlyZWN0aW9uID09IENvbnN0YW50OjpESVJFQ1RJT05fRE9XTikgewogICAgICAgICAgICAkcmV0ID0gJHRoaXMtPmdldEFmdGVyRGlhbG9ndWVMaXN0KCRyZXBseSwgJHVpZCwgJGJvdW5kYXJ5LCAkbnVtKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICB0aHJvdyBuZXcgTG9naWNFeGNlcHRpb24oTWVzc2FnZTo6SU5WQUxJRF9QQVJBTSAuICdkaXJlY3Rpb24nKTsKICAgICAgICB9</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkaXNBZGRTY29yZSA9IGlzc2V0KCRjb250ZW50WydhZGRfc2NvcmUnXSkgJiYgJGNvbnRlbnRbJ2FkZF9zY29yZSddID09IDEgPyB0cnVlIDogZmFsc2U7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">JHBhZ2UgPSBcWWlpOjokYXBwLT5yZXF1ZXN0LT5wb3N0KCdwYWdlJyk7CiAgICAgICAgJG51bSA9IEFycmF5SGVscGVyOjpnZXRWYWx1ZSgkcGFnZSwgJ251bScsIDUpOwogICAgICAgICRib3VuZGFyeSA9IEFycmF5SGVscGVyOjpnZXRWYWx1ZSgkcGFnZSwgJ2JvdW5kYXJ5JywgMCk7CiAgICAgICAgJGRpcmVjdGlvbiA9IEFycmF5SGVscGVyOjpnZXRWYWx1ZSgkcGFnZSwgJ2RpcmVjdGlvbicsIENvbnN0YW50OjpESVJFQ1RJT05fRE9XTik7</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkY29udGVudCA9ICRtZXNzYWdlWydjb250ZW50J11bJ2NvbnRlbnQnXTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKCEkdWlkID0gXFlpaTo6JGFwcC0+cmVxdWVzdC0+cG9zdCgndWlkJykpIHsKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlSGVscGVyOjpmYWlsKE1lc3NhZ2U6Ok1JU1NfUEFSQU0gLiAndWlkJyk7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAnbWVzc2FnZScgPT4gWwogICAgICAgICAgICAgICAgJ3RpdGxlJyA9PiAkY29udGVudFsndGl0bGUnXSwKICAgICAgICAgICAgXSwKICAgICAgICBd</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>$bVersion ? KMapi_Url_Note::CommentMiddleList($content['iid'], $reply['objid'] ? $rid : 0,
-                \apps\note\MFacade_Ugc_Reply::iGetParentReplyRid($rid, $content['iid'])) :
-                KMapi_Url_Note::CommentList($content['iid'], $rid)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgLyoqKiAgKi8KICAgICAgICAKICAgICAgICAvKioqIEB2YXIgTVByb3h5X01vYmlsZSAkbW9iaWxlUHJveHkgKi8KICAgICAgICA=</text>
+        <text encoding="base64">aWYoJGlzQWRkU2NvcmUpewogICAgICAgICAgICAkdGV4dCA9ICAnPGZvbnQgY29sb3I9IiM2OTY5NjkiPuaUtuiXj+S6huS9oOeahOa4uOiusDwvZm9udD4nIC4KICAgICAgICAgICAgICAgIEtNYXBpX01lc3NhZ2VfU3R5bGU6OlNKdW1wRWZmZWN0KCfjgIonIC4gJGNvbnRlbnRbJ3RpdGxlJ10gLiAn44CLJykgLgogICAgICAgICAgICAgICAgJzxmb250IGNvbG9yPSIjNjk2OTY5Ij7mga3llpzojrflvpc8L2ZvbnQ+JyAuIEtNYXBpX01lc3NhZ2VfU3R5bGU6OlNFbXBoYXNpemUoMikgLgogICAgICAgICAgICAgICAgJzxmb250IGNvbG9yPSIjNjk2OTY5Ij7nu4/pqow8L2ZvbnQ+JzsKICAgICAgICB9ZWxzZXs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaXNBZGRTY29yZSA9IGlzc2V0KCRjb250ZW50WydhZGRfc2NvcmUnXSkgJiYgJGNvbnRlbnRbJ2FkZF9zY29yZSddID09IDEgPyB0cnVlIDogZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>e</text>
