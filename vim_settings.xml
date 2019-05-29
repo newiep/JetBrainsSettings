@@ -62,9 +62,6 @@
       <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/note/like.php" timestamp="1557886687874">
         <mark key="[" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/note/detail.php" timestamp="1559036533680">
-        <mark key="^" line="31" column="10" />
-      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/get_publish_list.v1.php" timestamp="1557558854168">
         <mark key="[" line="28" column="117" />
         <mark key="]" line="28" column="117" />
@@ -120,7 +117,7 @@
       <file name="$USER_HOME$/Works/webdev/shequ/apps/ugcaudit/proxy/business/WengsContent.php" timestamp="1558400414761" />
       <file name="$USER_HOME$/Works/webdev/sales-ugc/comment/control/CommentApi.php" timestamp="1558951619541" />
       <file name="$USER_HOME$/Works/webdev/rss/mapi/tag/DetailV1.php" timestamp="1558000802099" />
-      <file name="$USER_HOME$/Works/webdev/wengs/weng/DataApi.php" timestamp="1559032387284">
+      <file name="$USER_HOME$/Works/webdev/wengs/weng/DataApi.php" timestamp="1559092540248">
         <mark key="[" line="268" column="0" />
         <mark key="]" line="268" column="0" />
         <mark key="." line="268" column="0" />
@@ -230,10 +227,17 @@
         <mark key="." line="40" column="30" />
       </file>
       <file name="$USER_HOME$/Works/webdev/note/apps/note/search/Api.php" timestamp="1558322352598" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/homepage/get_weng_global_footprint.v1.php" timestamp="1559092680208" />
       <file name="$USER_HOME$/Works/microservice/bnote/service/controllers/ReplyController.php" timestamp="1558941503525">
         <mark key="[" line="283" column="0" />
         <mark key="]" line="283" column="0" />
         <mark key="." line="283" column="0" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/form/PublishParameter.php" timestamp="1559093081663">
+        <mark key="'" line="10" column="6" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/reply/get_reply_list.v1.php" timestamp="1557565270025" />
       <file name="$USER_HOME$/Works/webdev/rss/mapi/WengFlowItemV2.php" timestamp="1555492189876">
@@ -296,6 +300,12 @@
         <mark key="]" line="266" column="13" />
         <mark key="." line="266" column="13" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_note/like/like.v1.php" timestamp="1559026789294">
+        <mark key="'" line="60" column="8" />
+        <mark key="[" line="71" column="73" />
+        <mark key="]" line="71" column="73" />
+        <mark key="." line="71" column="73" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/appconf/scheme/weng_note/publish/element.json" timestamp="1558439210783">
         <mark key="[" line="15" column="16" />
         <mark key="]" line="14" column="0" />
@@ -331,7 +341,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/delete_music.v1.php" timestamp="1556014962607">
         <mark key="[" line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/multimedia/CheckFunc.php" timestamp="1557970844078" />
+      <file name="$USER_HOME$/Works/webdev/wengs/multimedia/CheckFunc.php" timestamp="1559092487581" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/delete_draft_note.v1.php" timestamp="1557888072996">
         <mark key="[" line="36" column="31" />
         <mark key="]" line="22" column="22" />
@@ -648,7 +658,7 @@
         <mark key="." line="100" column="14" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/weng/Meta.php" timestamp="1559033377903" />
-      <file name="$USER_HOME$/Works/webdev/wengs/weng/Status.php" timestamp="1559020414664" />
+      <file name="$USER_HOME$/Works/webdev/wengs/weng/Status.php" timestamp="1559093369242" />
       <file name="$USER_HOME$/Works/webdev/wengs/admin/TopicCrontab.php" timestamp="1558058469324">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
@@ -800,7 +810,7 @@
       <file name="$USER_HOME$/Works/webdev/appconf/api/weng_note/reply/get_sub_reply_list.v1.json" timestamp="1557284277318">
         <mark key="[" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/Conf.php" timestamp="1559031026774">
+      <file name="$USER_HOME$/Works/webdev/wengs/Conf.php" timestamp="1559093384279">
         <mark key="[" line="343" column="87" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/weng/Editor.php" timestamp="1557973691492" />
@@ -979,7 +989,7 @@
         <mark key="[" line="13" column="18" />
       </file>
       <file name="$USER_HOME$/Works/webdev/note/apps/note/table/OperateAdmin.php" timestamp="1557562626859" />
-      <file name="$USER_HOME$/Works/webdev/wengs/form/Publish.php" timestamp="1559042234561">
+      <file name="$USER_HOME$/Works/webdev/wengs/form/Publish.php" timestamp="1559092763532">
         <mark key="[" line="254" column="19" />
         <mark key="]" line="254" column="19" />
         <mark key="." line="254" column="19" />
@@ -1058,6 +1068,12 @@
         <mark key="[" line="10" column="15" />
       </file>
       <file name="$USER_HOME$/Works/webdev/shequ.admin/htdocs/wenda/stats/mddQaData.php" timestamp="1557999642693" />
+      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Music.php" timestamp="1557891621607">
+        <mark key="'" line="22" column="50" />
+        <mark key="[" line="24" column="76" />
+        <mark key="]" line="24" column="76" />
+        <mark key="." line="24" column="76" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/open/Search.php" timestamp="1558495369878">
         <mark key="[" line="30" column="15" />
       </file>
