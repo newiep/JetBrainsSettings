@@ -493,7 +493,11 @@
         <mark key="." line="105" column="0" />
         <mark key="^" line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/Weng.php" timestamp="1560849728104" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/Weng.php" timestamp="1560852466191">
+        <mark key="[" line="669" column="44" />
+        <mark key="]" line="681" column="0" />
+        <mark key="." line="681" column="0" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Creation.php" timestamp="1560132846029" />
       <file name="$USER_HOME$/Works/webdev/shequ/apps/shequ/similar/simhash/Hash.php" timestamp="1559542420706" />
       <file name="$USER_HOME$/Works/webdev/mobile/mobile_api/api/system/file/image_upload.v1.php" timestamp="1558316981732">
@@ -588,7 +592,7 @@
       <file name="$USER_HOME$/Works/webdev/sales-ugc/exp_report/facade/ReportWengApi.php" timestamp="1560843880856" />
       <file name="$USER_HOME$/Works/webdev/wengs/admin/PublishPanel.php" timestamp="1558347073200" />
       <file name="$USER_HOME$/Works/webdev/honey/facade/base/Channel.php" timestamp="1557736353018" />
-      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Hotel.php" timestamp="1560837717051">
+      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Hotel.php" timestamp="1560852231084">
         <mark key="[" line="250" column="67" />
         <mark key="]" line="258" column="19" />
         <mark key="." line="258" column="19" />
@@ -1133,8 +1137,8 @@
       <file name="$USER_HOME$/Works/rss/contract/TransToVideoTag.php" timestamp="1555038941702">
         <mark key="[" line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/detail/WengDetail.php" timestamp="1560849718288">
-        <mark key="[" line="822" column="46" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/detail/WengDetail.php" timestamp="1560852349165">
+        <mark key="[" line="817" column="50" />
         <mark key="]" line="647" column="0" />
         <mark key="." line="647" column="0" />
       </file>
@@ -1528,12 +1532,11 @@
       <register name="a" type="4">
         <text>5Jj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>$businessTag == MConf::POI_COMMENT_TAG ?
-                MConf::RELATE_POI_COMMENT : MConf::RELATE_HOTEL_COMMENT;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>MConf::RELATE_NORMAL_WENG</text>
+        <text>reset($rankBizTags)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxNjM1Mzc2MDQ0OTA4NTU4XD4=</text>
@@ -1541,36 +1544,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdub3RlX2lkJyA9PiAkbm90ZS0+aWQsCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>$businessTag == MConf::POI_COMMENT_TAG ?
-                MConf::RELATE_POI_COMMENT : MConf::RELATE_HOTEL_COMMENT;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ZWxzZSB7CiAgICAgICAgICAgICRyZXMgPSAkb1JlbGF0aW9uQnVzaW5lc3MtPmJSZWxhdGVQcm9kdWN0TmV3KCR0aGlzLT53ZW5naWQsICR0aGlzLT5wcm9kdWN0SWQsIFsKICAgICAgICAgICAgICAgICdvcmRlcl9pZCcgPT4gJHRoaXMtPm9yZGVySWQsCiAgICAgICAgICAgIF0pOwogICAgICAgIH0=</text>
+        <text encoding="base64">CiAgICAgICAgLyoqKiBAdmFyIE1XZW5nX0V4dEFwaSAkZXh0QXBpICovCiAgICAgICAgJGV4dEFwaSAgICAgICA9IE1BcHA6OmNyZWF0ZU9iamVjdChNV2VuZ19FeHRBcGk6OmNsYXNzKTsKICAgICAgICAkZXh0ICAgICAgICAgID0gJGV4dEFwaS0+YUdldCgkaVdlbmdJZCk7CiAgICAgICAgJHJhbmtCaXpUYWdzICA9IGFycmF5X2ludGVyc2VjdChbTUNvbmY6OlBPSV9DT01NRU5UX1RBR10sICRleHRbJ2N0aWRzJ10pOwogICAgICAgICRyYW5rQml6VGFnICAgPSByZXNldCgkcmFua0JpelRhZ3MpOwo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgJHJlbGF0ZVByb2R1Y3RzICAgID0gJG9SZWxhdGlvbkJ1c2luZXNzLT5hR2V0QnlUeXBlKCR0aGlzLT53ZW5naWQsIE1XZW5nX1JlbGF0aW9uQnVzaW5lc3M6OlRZUEVfUFJPRFVDVCk7CiAgICAgICAgJHJlbGF0ZVByb2R1Y3QgICAgID0gcmVzZXQoJHJlbGF0ZVByb2R1Y3RzKTsgLy/lvZPliY3lkIznp43kuJrliqHku4XlhbPogZTkuIDkuKoKICAgICAgICBpZiAoISRyZWxhdGVQcm9kdWN0ICYmICR0aGlzLT5wcm9kdWN0SWQpIHsKICAgICAgICAgICAgJG9SZWxhdGlvbkJ1c2luZXNzLT5iUmVsYXRlUHJvZHVjdCgkdGhpcy0+d2VuZ2lkLCAkdGhpcy0+cHJvZHVjdElkLCAkdGhpcy0+b3JkZXJJZCk7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CgogICAgICAgIGlmICgkcmVsYXRlUHJvZHVjdCkgewogICAgICAgICAgICAkb1JlbGF0aW9uQnVzaW5lc3MtPmJNb2RpZnkoJHJlbGF0ZVByb2R1Y3RbJ2lkJ10sIFsKICAgICAgICAgICAgICAgICd3ZW5naWQnICAgICAgICA9PiAkdGhpcy0+d2VuZ2lkLAogICAgICAgICAgICAgICAgJ2J1c2luZXNzX3R5cGUnID0+IE1XZW5nX1JlbGF0aW9uQnVzaW5lc3M6OlRZUEVfUFJPRFVDVCwKICAgICAgICAgICAgICAgICdidXNpbmVzc19pZCcgICA9PiAkdGhpcy0+cHJvZHVjdElkLAogICAgICAgICAgICAgICAgJ2V4dHJhJyAgICAgICAgID0+ICR0aGlzLT5vcmRlcklkID8gWydvcmRlcl9pZCcgPT4gJHRoaXMtPm9yZGVySWRdIDogW10sCiAgICAgICAgICAgIF0pOwogICAgICAgIH0=</text>
+        <text encoding="base64">CgogICAgcHJpdmF0ZSBmdW5jdGlvbiBnZXRTY29yZSgpCiAgICB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>private function getRankScore($iWengId)
+    {
+        
+    }</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">aWYgKCEkdGhpcy0+cHJvZHVjdElkKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGdldFJlbGV0ZVR5cGUoKQogICAgewogICAgICAgIAogICAgfQ==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgLyoqIEB2YXIgJG9SZWxhdGlvbkJ1c2luZXNzIE1XZW5nX1JlbGF0aW9uQnVzaW5lc3MgKi8KICAgICAgICAkb1JlbGF0aW9uQnVzaW5lc3MgPSBNQXBwOjpjcmVhdGVPYmplY3QoTVdlbmdfUmVsYXRpb25CdXNpbmVzczo6Y2xhc3MpOwo=</text>
+        <text>$businessTag == MConf::POI_COMMENT_TAG ?
+                MConf::RELATE_POI_COMMENT : MConf::RELATE_HOTEL_COMMENT;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ZWxzZSB7CiAgICAgICAgICAgICRyZXMgPSAkb1JlbGF0aW9uQnVzaW5lc3MtPmJSZWxhdGVQcm9kdWN0TmV3KCR0aGlzLT53ZW5naWQsICR0aGlzLT5wcm9kdWN0SWQsIFsKICAgICAgICAgICAgICAgICdvcmRlcl9pZCcgPT4gJHRoaXMtPm9yZGVySWQsCiAgICAgICAgICAgIF0pOwogICAgICAgIH0=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">aWYgKCRyZWxhdGVUeXBlID09IE1Db25mOjpSRUxBVEVfSE9URUxfQ09NTUVOVCkgewogICAgICAgICAgICAkdGhpcy0+cHJvZHVjdElkID0gJHRoaXMtPnBvaWlkOwogICAgICAgIH0=</text>
+        <text encoding="base64">CiAgICAgICAgJHJlbGF0ZVByb2R1Y3RzICAgID0gJG9SZWxhdGlvbkJ1c2luZXNzLT5hR2V0QnlUeXBlKCR0aGlzLT53ZW5naWQsIE1XZW5nX1JlbGF0aW9uQnVzaW5lc3M6OlRZUEVfUFJPRFVDVCk7CiAgICAgICAgJHJlbGF0ZVByb2R1Y3QgICAgID0gcmVzZXQoJHJlbGF0ZVByb2R1Y3RzKTsgLy/lvZPliY3lkIznp43kuJrliqHku4XlhbPogZTkuIDkuKoKICAgICAgICBpZiAoISRyZWxhdGVQcm9kdWN0ICYmICR0aGlzLT5wcm9kdWN0SWQpIHsKICAgICAgICAgICAgJG9SZWxhdGlvbkJ1c2luZXNzLT5iUmVsYXRlUHJvZHVjdCgkdGhpcy0+d2VuZ2lkLCAkdGhpcy0+cHJvZHVjdElkLCAkdGhpcy0+b3JkZXJJZCk7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CgogICAgICAgIGlmICgkcmVsYXRlUHJvZHVjdCkgewogICAgICAgICAgICAkb1JlbGF0aW9uQnVzaW5lc3MtPmJNb2RpZnkoJHJlbGF0ZVByb2R1Y3RbJ2lkJ10sIFsKICAgICAgICAgICAgICAgICd3ZW5naWQnICAgICAgICA9PiAkdGhpcy0+d2VuZ2lkLAogICAgICAgICAgICAgICAgJ2J1c2luZXNzX3R5cGUnID0+IE1XZW5nX1JlbGF0aW9uQnVzaW5lc3M6OlRZUEVfUFJPRFVDVCwKICAgICAgICAgICAgICAgICdidXNpbmVzc19pZCcgICA9PiAkdGhpcy0+cHJvZHVjdElkLAogICAgICAgICAgICAgICAgJ2V4dHJhJyAgICAgICAgID0+ICR0aGlzLT5vcmRlcklkID8gWydvcmRlcl9pZCcgPT4gJHRoaXMtPm9yZGVySWRdIDogW10sCiAgICAgICAgICAgIF0pOwogICAgICAgIH0=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5wYXJhbXNMb2FkZXItPmdldFJlbGF0ZVR5cGUoKSA9PSBNQ29uZjo6UkVMQVRFX0hPVEVMX0NPTU1FTlQpIHsKICAgICAgICAgICAgLyoqIEB2YXIgJG9SZWxhdGlvbkJ1c2luZXNzIE1XZW5nX1JlbGF0aW9uQnVzaW5lc3MgKi8KICAgICAgICAgICAgJG9SZWxhdGlvbkJ1c2luZXNzID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1XZW5nX1JlbGF0aW9uQnVzaW5lc3M6OmNsYXNzKTsKICAgICAgICAgICAgJHJlcyA9ICRvUmVsYXRpb25CdXNpbmVzcy0+YlJlbGF0ZUhvdGVsUHJvZHVjdCgkdGhpcy0+d2VuZ2lkLCAkdGhpcy0+cG9paWQsIFsKICAgICAgICAgICAgICAgICdvcmRlcl9pZCcgPT4gJHRoaXMtPm9yZGVySWQsCiAgICAgICAgICAgIF0pOwogICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>e</text>
