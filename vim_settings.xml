@@ -174,7 +174,7 @@
       <file name="$USER_HOME$/Works/microservice/bnote/common/models/ContentUnit.php" timestamp="1557537670790" />
       <file name="$USER_HOME$/Works/webdev/shequ/apps/shequ/similar/facade/Simhash.php" timestamp="1559542464139" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/mapi/node/Base.php" timestamp="1557561984498" />
-      <file name="$USER_HOME$/Works/webdev/wengs/proxy/TravelNote.php" timestamp="1560829894503">
+      <file name="$USER_HOME$/Works/webdev/wengs/proxy/TravelNote.php" timestamp="1560939872463">
         <mark key="^" line="171" column="20" />
       </file>
       <file name="$USER_HOME$/Works/webdev/ko/busi/Func.php" timestamp="1557562755347" />
@@ -480,7 +480,7 @@
         <mark key="." line="13" column="4" />
         <mark key="^" line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/log/event/Runtime.php" timestamp="1559718561797" />
+      <file name="$USER_HOME$/Works/webdev/wengs/log/event/Runtime.php" timestamp="1560939142611" />
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/MineWeng.php" timestamp="1560923105939">
         <mark key="^" line="240" column="64" />
       </file>
@@ -624,7 +624,7 @@
       <file name="$USER_HOME$/Works/webdev/appconf/api/weng_note/detail/get_recommend_list.v1.json" timestamp="1557455555353">
         <mark key="[" line="36" column="21" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/facade/open/Search.php" timestamp="1560334088278" />
+      <file name="$USER_HOME$/Works/webdev/wengs/facade/open/Search.php" timestamp="1560938505668" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/AfterAudit.php" timestamp="1560494011579" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Meta.php" timestamp="1560159388543">
         <mark key="[" line="22" column="63" />
@@ -960,10 +960,10 @@
         <mark key="." line="266" column="9" />
       </file>
       <file name="$USER_HOME$/Works/webdev/msg/www2011/include/msg/msgUserApi.php" timestamp="1558924850525" />
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/detail/WengDetail.php" timestamp="1560935937863">
-        <mark key="[" line="512" column="30" />
-        <mark key="]" line="512" column="30" />
-        <mark key="." line="512" column="30" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/detail/WengDetail.php" timestamp="1560940107743">
+        <mark key="[" line="210" column="42" />
+        <mark key="]" line="210" column="42" />
+        <mark key="." line="210" column="42" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/app/Topic.php" timestamp="1560751176079">
         <mark key="[" line="56" column="20" />
@@ -1156,7 +1156,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/manual-script/201905/weng/testSync.php" timestamp="1559184031894" />
       <file name="$USER_HOME$/Works/webdev/shequ.admin/htdocs/wenda/stats/mddQaData.php" timestamp="1557999642693" />
-      <file name="$USER_HOME$/Works/webdev/wengs/open/Search.php" timestamp="1560420386335">
+      <file name="$USER_HOME$/Works/webdev/wengs/open/Search.php" timestamp="1560938870810">
         <mark key="[" line="30" column="15" />
       </file>
       <file name="$USER_HOME$/Works/webdev/note/apps/note/ugc/facade/Api.php" timestamp="1559562282891" />
@@ -1298,10 +1298,10 @@
         <text>5Jj</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHRoaXMtPmdldFJlbGF0ZWRBZHNDYXJkKCk=</text>
+        <text>MTool_Array::mGetValue($aWengInfo, ['poi', 'jump_url'], '')</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPmdldFJlbGF0ZWRBZHNDYXJkKCk=</text>
+        <text>MTool_Array::mGetValue($aWengInfo, ['poi', 'jump_url'], '')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxNjM1Mzc2MDQ0OTA4NTU4XD4=</text>
