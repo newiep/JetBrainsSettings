@@ -639,9 +639,9 @@
         <mark key="^" line="13" column="4" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/log/event/Runtime.php" timestamp="1560939142611" />
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/MineWeng.php" timestamp="1561111042450">
-        <mark key="[" line="290" column="5" />
-        <mark key="^" line="240" column="64" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/MineWeng.php" timestamp="1561112558162">
+        <mark key="[" line="86" column="68" />
+        <mark key="^" line="242" column="64" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/admin/set_cover_page.v1.php" timestamp="1557836152388" />
       <file name="$USER_HOME$/Works/webdev/sales-ugc/exp_report/facade/ReportWengApi.php" timestamp="1560843880856" />
@@ -692,7 +692,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/outdated/apps/facade/log/Api.php" timestamp="1558928222714" />
       <file name="$USER_HOME$/Works/webdev/ko/web/Error.php" timestamp="1557883012235" />
-      <file name="/PHP Console" timestamp="1561111120011">
+      <file name="/PHP Console" timestamp="1561112076577">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/tool/Math.php" timestamp="1557732835787" />
@@ -843,8 +843,10 @@
         <mark key="." line="46" column="90" />
       </file>
       <file name="$USER_HOME$/Works/webdev/note/apps/note/msg/UgcMsg.php" timestamp="1559381488528" />
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/dataprovider/Banner.php" timestamp="1561111063976">
-        <mark key="[" line="19" column="11" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/dataprovider/Banner.php" timestamp="1561112563774">
+        <mark key="[" line="27" column="30" />
+        <mark key="]" line="27" column="30" />
+        <mark key="." line="27" column="30" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/user/home/Infoflow.php" timestamp="1556279300980">
         <mark key="[" line="154" column="17" />
@@ -1695,10 +1697,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiR0ZXN0ID0gJzxuaXNkaG9zJzsKJHJlcyA9IGh0bWxzcGVjaWFsY2hhcnMoJHRlc3QpOwpkZCgkcmVzKTs=</text>
+        <text>$bannerUrl</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>$bannerUrl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxNjM1Mzc2MDQ0OTA4NTU4XD4=</text>
