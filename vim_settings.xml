@@ -9,8 +9,8 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/beijixiong/comment/provider/PoiComment.php" timestamp="1561883934834">
-        <mark key="[" line="91" column="0" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/beijixiong/comment/provider/PoiComment.php" timestamp="1561889873739">
+        <mark key="[" line="104" column="33" />
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
@@ -57,7 +57,7 @@
         <mark key="]" line="28" column="34" />
         <mark key="." line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/beijixiong/comment/proxy/User.php" timestamp="1561883925002" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/beijixiong/comment/proxy/User.php" timestamp="1561889332124" />
       <file name="$USER_HOME$/Works/wengs/facade/open/Info.php" timestamp="1554290617706">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -152,7 +152,7 @@
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/beijixiong/comment/business/Api.php" timestamp="1561879280937" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/beijixiong/comment/business/Api.php" timestamp="1561888793362" />
       <file name="$USER_HOME$/Code/Work/mafengwo/beijixiong/comment/contract/CommentList.php" timestamp="1561806705128" />
       <file name="$USER_HOME$/Code/Work/mafengwo/mobile/www2011/include/mapi/url/SNS.php" timestamp="1561709725021" />
       <file name="$USER_HOME$/Works/wengs/form/DelayCollect.php" timestamp="1554254621986">
@@ -497,10 +497,10 @@
         <mark key="]" line="39" column="33" />
         <mark key="." line="39" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/beijixiong/comment/proxy/Comment.php" timestamp="1561880441971">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/beijixiong/comment/proxy/Comment.php" timestamp="1561889954908">
+        <mark key="[" line="46" column="34" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Works/wengs/base/config/params.prod.php" timestamp="1554380411668">
         <mark key="[" line="45" column="22" />
@@ -513,9 +513,10 @@
         <mark key="." line="652" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/beijixiong/store/business/Api.php" timestamp="1561874602622" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/beijixiong/e/api/comment.php" timestamp="1561884176785">
-        <mark key="]" line="30" column="53" />
-        <mark key="." line="30" column="53" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/beijixiong/e/api/comment.php" timestamp="1561889360521">
+        <mark key="[" line="98" column="3" />
+        <mark key="]" line="98" column="3" />
+        <mark key="." line="98" column="3" />
       </file>
       <file name="$USER_HOME$/Works/manual-script/201901/wengs/fixed_lbs_error.php" timestamp="1553483629742">
         <mark key="[" line="22" column="4" />
@@ -719,10 +720,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZfMDYyMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>return [];</text>
+        <text>comment_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw7XD4=</text>
@@ -731,25 +732,30 @@
         <text encoding="base64">dXNlIGFwcHNcYmVpaml4aW9uZ1xjb21tZW50XE1CdXNpbmVzc19Qb2lDb21tZW50IGFzIFBvaUNvbW1lbnQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZfMDYyMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ck1Sb3V0ZTo6VkdldCgndGVzdCcsIGZ1bmN0aW9uICgpIHsKICAgIC8vIOWPguaVsOiOt+WPlgogICAgJGlVaWQgPSBcS29fV2ViX1JlcXVlc3Q6OklHZXQoJ3VpZCcpOwoKICAgICRvVXNlclByb3h5ID0gbmV3IE1Qcm94eV9Vc2VyKCk7CiAgICAkdXNlckluZm8gPSAkb1VzZXJQcm94eS0+YUdldFVzZXJJbmZvKCRpVWlkKTsKICAgICRyZXMgPSBbCiAgICAgICAgJ3VzZXInID0+ICR1c2VySW5mbywKICAgICAgICAnY29udGVudCcgPT4gJ+a1i+ivleeUqOaIt+e8lueggScsCiAgICBdOwogICAgLy8g5pWw5o2u6L+U5ZueCiAgICBNUmVzcG9uc2U6OlZTdWNjZXNzKCRyZXMpOwp9KTs=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgIHJldHVybiBcYXBwc1xwb2lcTUZhY2FkZV9Db21tZW50UmVwbHk6OmFHZXRMaXN0U2hvd0J5Q29tbWVudElkKCRpZCk7Cj09PT09PT0=</text>
+        <text encoding="base64">WwogICAgICAgICdsaXN0JyAgPT4gJGxpc3RbJ2xpc3QnXSwKICAgICAgICAndG90YWwnID0+ICRsaXN0Wyd0b3RhbCddLAogICAgXQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">JGpzb24gPSBqc29uX2VuY29kZSgkbGlzdCk7CiAgICBcYXBwc1xNRmFjYWRlX0xvZ19BcGk6OmRsb2coJ2FwaV9yZXBseV9saXN0JywgWwogICAgICAgICdwYXJhbXMnID0+ICRfR0VULAogICAgICAgICdsaXN0JyA9PiB2YXJfZXhwb3J0KCRsaXN0LCB0cnVlKSwKICAgICAgICAncmVzJyA9PiAkanNvbiwKICAgICAgICAnanNvbl9lcnJvcicgPT4ganNvbl9sYXN0X2Vycm9yX21zZygpLAogICAgXSk7</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAkcmVzID0gXGFwcHNccG9pXE1GYWNhZGVfQ29tbWVudFJlcGx5OjphR2V0TGlzdFNob3dCeUNvbW1lbnRJZCgkaWQpOwogICAgICAgICAgICBcYXBwc1xNRmFjYWRlX0xvZ19BcGk6OmRsb2coJ2RlYnVnX3JlcGx5X2xpc3QnLCBbCiAgICAgICAgICAgICAgICAnaWQnID0+ICRpZCwKICAgICAgICAgICAgICAgICdyZXMnID0+ICRyZXMsCiAgICAgICAgICAgIF0pOwogICAgICAgICAgICByZXR1cm4gJHJlczsKPj4+Pj4+PiBkZXZfMDYyMQ==</text>
+        <text>// 参数检查
+    if (empty($iId)) {
+        MResponse::VFail(MCode::ERROR_PARAMS_MISSING);
+    }
+    // 数据操作
+    $list = MFacade_Api::AGetReplyList($iId, $iType, $iOffset, $iPageSize);</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgIHJldHVybiBcYXBwc1xwb2lcTUZhY2FkZV9Db21tZW50UmVwbHk6OmFHZXRMaXN0U2hvd0J5Q29tbWVudElkKCRpZCk7Cj09PT09PT0=</text>
+        <text encoding="base64">CiAgICAkaVR5cGUgICAgID0gXEtvX1dlYl9SZXF1ZXN0OjpJR2V0KCdjb21tZW50X3R5cGUnKTsKICAgICRpUGFnZSAgICAgPSBcS29fV2ViX1JlcXVlc3Q6OklHZXQoJ3BhZ2UnKSA/OiAwOwogICAgJGlQYWdlU2l6ZSA9IFxLb19XZWJfUmVxdWVzdDo6SUdldCgncGFnZVNpemUnKSA/OiAxMDsKICAgICRpT2Zmc2V0ICAgPSBNRmFjYWRlX1BhZ2U6OklHZXRDdXJyZW50T2Zmc2V0KCRpUGFnZSwgJGlQYWdlU2l6ZSk7</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Pj4+Pj4+PiBkZXZfMDYyMQo=</text>
@@ -758,7 +764,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgJGNvbW1lbnREYXRhID0gJG9Qcm94eS0+Y29tbWVudEluZm8oJHRoaXMtPmlkKTsKICAgICAgICAkcmVwbHkgPSAkb1Byb3h5LT5jb21tZW50UmVwbHlMaXN0KCR0aGlzLT5pZCk7CiAgICAgICAgXGFwcHNcTUZhY2FkZV9Mb2dfQXBpOjpkbG9nKCdkZWJ1Z19yZXBseV9saXN0JywgWwogICAgICAgICAgICAncmVzJyA9PiAkcmVwbHksCiAgICAgICAgXSk7CiAgICAgICAgJHJlcGx5TGlzdCAgID0gTUZhY2FkZV9BcnJheTo6bUdldFZhbHVlKCRjb21tZW50RGF0YSwgWydyZXBseSddLCBbXSk7Cj09PT09PT0=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgIHJldHVybiBcYXBwc1xwb2lcTUZhY2FkZV9Db21tZW50UmVwbHk6OmFHZXRMaXN0U2hvd0J5Q29tbWVudElkKCRpZCk7Cj09PT09PT0=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
