@@ -14,7 +14,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/get_music_url.v1.php" timestamp="1557891482580">
         <mark key="[" line="19" column="42" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/ReplyManager.php" timestamp="1562838448908">
+      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/ReplyManager.php" timestamp="1562839076455">
         <mark key="[" line="79" column="20" />
         <mark key="]" line="79" column="20" />
         <mark key="." line="79" column="20" />
@@ -156,13 +156,13 @@
       <file name="$USER_HOME$/Works/webdev/movie-lib/proxy/Request.php" timestamp="1562226774496" />
       <file name="$USER_HOME$/Works/microservice/bnote/common/base/SplitActiveRecord.php" timestamp="1562755262983" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/tool/Env.php" timestamp="1562238248284" />
-      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1562816844940">
-        <mark key="[" line="358" column="4" />
-        <mark key="]" line="362" column="30" />
-        <mark key="." line="362" column="30" />
+      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1562840348787">
+        <mark key="[" line="367" column="0" />
+        <mark key="]" line="367" column="0" />
+        <mark key="." line="367" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-vote/server/Entity/BizVoteDO.php" timestamp="1562677297711" />
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/poi/search_mdd_pois.v2.php" timestamp="1562814571077" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/poi/search_mdd_pois.v2.php" timestamp="1562840483584" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/Queue.php" timestamp="1562557328849">
         <mark key="[" line="905" column="0" />
         <mark key="]" line="905" column="0" />
@@ -241,7 +241,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Outdated.php" timestamp="1557308720988">
         <mark key="[" line="10" column="20" />
       </file>
-      <file name="/PHP Console" timestamp="1562816882310">
+      <file name="/PHP Console" timestamp="1562840352164">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/request/param/IdMapQuery.php" timestamp="1562676870575">
@@ -249,9 +249,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/dataprovider/Mdd.php" timestamp="1562813136900">
-        <mark key="[" line="209" column="14" />
-      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/dataprovider/Mdd.php" timestamp="1562840228341" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Mobile.php" timestamp="1562312917468">
         <mark key="[" line="303" column="55" />
         <mark key="]" line="305" column="19" />
@@ -462,8 +460,8 @@
       <file name="$USER_HOME$/Works/wengs/form/WengLbs.php" timestamp="1553853738024">
         <mark key="[" line="108" column="9" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/poi/get_nearby_pois.v2.php" timestamp="1562814027880">
-        <mark key="[" line="93" column="48" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/poi/get_nearby_pois.v2.php" timestamp="1562840527727">
+        <mark key="[" line="93" column="35" />
         <mark key="]" line="78" column="50" />
         <mark key="." line="78" column="50" />
       </file>
@@ -943,8 +941,9 @@
         <mark key="[" line="16" column="1" />
       </file>
       <file name="$USER_HOME$/Works/webdev/note/apps/note/index/Dao.php" timestamp="1562210004705" />
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/debug.php" timestamp="1562811972006">
-        <mark key="[" line="22" column="24" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/debug.php" timestamp="1562840167497">
+        <mark key="d" line="643" column="9" />
+        <mark key="[" line="615" column="1" />
         <mark key="]" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
@@ -1180,10 +1179,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>syncReply</text>
+        <text>dd($mdd);</text>
       </register>
       <register name="-" type="4">
-        <text>syncReply</text>
+        <text>dd($mdd);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
