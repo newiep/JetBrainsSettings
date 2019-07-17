@@ -31,6 +31,11 @@
       <file name="$USER_HOME$/Works/webdev/manual-script/201907/wengs/syncIndex.php" timestamp="1562564067021">
         <mark key="[" line="6" column="3" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/base/Request.php" timestamp="1563355000394">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="13" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/get_music_url.v1.php" timestamp="1557891482580">
         <mark key="[" line="19" column="42" />
       </file>
@@ -435,7 +440,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Outdated.php" timestamp="1557308720988">
         <mark key="[" line="10" column="20" />
       </file>
-      <file name="/PHP Console" timestamp="1563351426427">
+      <file name="/PHP Console" timestamp="1563355122659">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/request/param/IdMapQuery.php" timestamp="1562676870575">
@@ -460,6 +465,7 @@
         <mark key="." line="332" column="60" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/open/Conf.php" timestamp="1563271304145" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/dataprovider/DetailRecommend.php" timestamp="1563355839249" />
       <file name="$USER_HOME$/Works/webdev/wengs/interaction/Reply.php" timestamp="1563241234667">
         <mark key="[" line="119" column="96" />
         <mark key="]" line="232" column="4" />
@@ -655,9 +661,7 @@
       <file name="$USER_HOME$/Works/rss/model/Video.php" timestamp="1555038998307">
         <mark key="[" line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/detail/get_recommend_list.v2.php" timestamp="1562572424441">
-        <mark key="[" line="77" column="46" />
-      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/detail/get_recommend_list.v2.php" timestamp="1563355788141" />
       <file name="$USER_HOME$/Works/webdev/composer/vendor/mfw/content-root/src/Base/Dao/SplitPdoRepository.php" timestamp="1563189910258">
         <mark key="[" line="222" column="9" />
       </file>
@@ -801,7 +805,7 @@
         <mark key="]" line="674" column="50" />
         <mark key="." line="674" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/mobile/mobile_api/api/system/config/get_global_config.v2.php" timestamp="1563353248645" />
+      <file name="$USER_HOME$/Works/webdev/mobile/mobile_api/api/system/config/get_global_config.v2.php" timestamp="1563354880373" />
       <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/request/param/IdMapParam.php" timestamp="1563158003465">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="104" column="0" />
@@ -1101,10 +1105,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">aHR0cHM6Ly93d3cuYmFpZHUuY29tLz9hPTEmYj0y</text>
+        <text encoding="base64">CiAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aHR0cHM6Ly93d3cuYmFpZHUuY29tLz9hPTEmYj0y</text>
+        <text encoding="base64">cmV0dXJuICR0aGlzLT5zdWNjZXNzKCRhYlRlc3QpOw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -1113,34 +1117,34 @@
         <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvUHJveHlNZGQgTVByb3h5X01kZAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CmVjaG8gJG9Qcm94eU1vYmlsZS0+c1B1Ymxpc2hCb2FyZEN1c3RvbWl6ZShbCiAgICAncHVibGlzaF9zb3VyY2UnID0+ICdwdWJsaXNoLndlbmcuZG9uZV9kZXRhaWwudHJhdmVsX3BsYWNlJywKICAgICdwb2lfaWQnID0+IDU5MjY3OTkyLApdKTsK</text>
+        <text encoding="base64">CiAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgTUZhY2FkZV9NZXRhX0VudW1fQ29udGVudExldmVsRW51bSgpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgJGFiVGVzdCA9IE1BcHA6OiRhcHAtPnJlcXVlc3QtPmFiSGVhZGVyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICR1aWQgPSBNVG9vbF9BcnJheTo6bUdldFZhbHVlKCRyZXEsICd1aWQnLCAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cnRvdXBwZXIoJF9TRVJWRVJbJ1JFUVVFU1RfTUVUSE9EJ10pOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEB2YXIgJG9Qcm94eU1vYmlsZSBNUHJveHlfTW9iaWxlCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CmVjaG8gJG9Qcm94eU1vYmlsZS0+c1B1Ymxpc2hCb2FyZEN1c3RvbWl6ZShbCiAgICAncHVibGlzaF9zb3VyY2UnID0+ICdwdWJsaXNoLndlbmcuZG9uZV9kZXRhaWwudHJhdmVsX3BsYWNlJywKICAgICdwb2lfaWQnID0+IDU5MjY3OTkyLApdKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEB2YXIgJG9XZW5nQXBpIE1XZW5nX0RhdGFBcGkK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgTUZhY2FkZV9NZXRhX0VudW1fQ29udGVudExldmVsRW51bSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICRvV2VuZ0FwaSA9IE1BcHA6OmNyZWF0ZU9iamVjdChNV2VuZ19EYXRhQXBpOjpjbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICR1aWQgPSBNVG9vbF9BcnJheTo6bUdldFZhbHVlKCRyZXEsICd1aWQnLCAwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBXRU5HV0VORy00OTQK</text>
+        <text encoding="base64">ICAgICAqIEB2YXIgJG9Qcm94eU1vYmlsZSBNUHJveHlfTW9iaWxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEB2YXIgJG9XZW5nQXBpIE1XZW5nX0RhdGFBcGkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgIE1BcHA6OiRhcHAtPmxvZy0+cnVudGltZSgnZGVidWdfcG9pX3NlYXJjaCcsIFsKICAgICAgICAgICAgICAgICdwYXJhbXMnID0+IGZ1bmNfZ2V0X2FyZ3MoKSwKICAgICAgICAgICAgICAgICdxdWVyeV9saXN0JyA9PiAkcXVlcnlMaXN0LAogICAgICAgICAgICAgICAgJ2Zvcm1hdF9saXN0JyA9PiAkZm9ybWF0TGlzdCwKICAgICAgICAgICAgXSk7Cj09PT09PT0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICRvV2VuZ0FwaSA9IE1BcHA6OmNyZWF0ZU9iamVjdChNV2VuZ19EYXRhQXBpOjpjbGFzcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>e</text>
