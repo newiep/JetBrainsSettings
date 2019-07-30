@@ -295,11 +295,11 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/qianxun/facade/meta/service/AbstractContentProductionService.php" timestamp="1564104209940" />
       <file name="$USER_HOME$/Works/webdev/localdb/Api.php" timestamp="1563951443367" />
-      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Portrait.php" timestamp="1564451690817">
-        <mark key="[" line="47" column="67" />
-        <mark key="]" line="38" column="0" />
+      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Portrait.php" timestamp="1564470660830">
+        <mark key="[" line="21" column="53" />
+        <mark key="]" line="21" column="53" />
         <mark key="^" line="6" column="3" />
-        <mark key="." line="38" column="0" />
+        <mark key="." line="21" column="53" />
       </file>
       <file name="$USER_HOME$/Works/wengs/event/BeanPendant.php" timestamp="1554306337179">
         <mark key="[" line="15" column="38" />
@@ -869,8 +869,8 @@
       <file name="$USER_HOME$/Works/rss/style/tag/Note.php" timestamp="1555035293102">
         <mark key="[" line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/web/comment/publish.php" timestamp="1564380728646">
-        <mark key="[" line="59" column="30" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/web/comment/publish.php" timestamp="1564470811308">
+        <mark key="[" line="45" column="65" />
         <mark key="]" line="59" column="30" />
         <mark key="^" line="43" column="84" />
         <mark key="." line="59" column="30" />
@@ -880,7 +880,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/publish/get_complete_recommend_list.v1.php" timestamp="1564451358744">
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/publish/get_complete_recommend_list.v1.php" timestamp="1564469787448">
         <mark key="[" line="85" column="93" />
         <mark key="]" line="85" column="93" />
         <mark key="." line="85" column="93" />
@@ -1186,10 +1186,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHJlcyA9IFsKICAgICAgICAnd2VuZ19pZCcgPT4gJHdlbmdJZCwKICAgICAgICAnY3RpbWUnICAgPT4gc3RydG90aW1lKCRhV2VuZ0luZm9bJ2N0aW1lJ10pLAogICAgICAgICdzdGF0dXMnICA9PiAoaW50KU1XZW5nX1N0YXR1czo6YkNhblZpZXcoJHdlbmdJZCksCiAgICAgICAgJ2ZsYWcnICAgID0+ICRhV2VuZ0luZm9bJ2ZsYWcnXSwKICAgIF07Ci8vICAgICRyZXMgPSBNRmFjYWRlX0lubmVyX0hvdGVsOjpnZXRXZW5nTWV0YSgxNjM5NzIzMjY2NTcwMDI3KTsK</text>
+        <text>getUserFootPoi</text>
       </register>
       <register name="-" type="4">
-        <text>$isOwner</text>
+        <text>getUserFootPoi</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
