@@ -391,10 +391,10 @@
       <file name="$USER_HOME$/Works/wengs/controller/weng_exp/detail/get_detail.v3.php" timestamp="1554896992285">
         <mark key="[" line="22" column="43" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/weng/Meta.php" timestamp="1564569454698">
-        <mark key="[" line="242" column="53" />
-        <mark key="]" line="241" column="71" />
-        <mark key="." line="241" column="71" />
+      <file name="$USER_HOME$/Works/webdev/wengs/weng/Meta.php" timestamp="1564572711052">
+        <mark key="[" line="216" column="20" />
+        <mark key="]" line="216" column="20" />
+        <mark key="." line="216" column="20" />
       </file>
       <file name="$USER_HOME$/Works/webdev/beijixiong/comment/Contract/CommentList.php" timestamp="1561449884981">
         <mark key="[" line="12" column="33" />
@@ -433,7 +433,7 @@
       <file name="$USER_HOME$/Works/webdev/appconf/api/weng_note/reply/get_reply_dialogue_list.v1.json" timestamp="1557284251703">
         <mark key="[" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/facade/service/meta/WengContentService.php" timestamp="1564569035573" />
+      <file name="$USER_HOME$/Works/webdev/wengs/facade/service/meta/WengContentService.php" timestamp="1564572478662" />
       <file name="$USER_HOME$/Works/webdev/rss/model/tag/Base.php" timestamp="1564557934332" />
       <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/response/dto/BizReplyDto.php" timestamp="1564400261280">
         <mark key="[" line="11" column="1" />
@@ -758,10 +758,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGdldEZpcnN0TWVkaWEoJGJJc0Zvcm1hdCA9IHRydWUpCiAgICB7CiAgICAgICAgJGl0ZW0gPSAkdGhpcy0+Z2V0Rmlyc3RJdGVtKCk7CiAgICAgICAgcmV0dXJuICRiSXNGb3JtYXQgPyAkdGhpcy0+Zm9ybWF0TWVpZGEoJGl0ZW0pIDogWwogICAgICAgICAgICAnaWQnICAgICAgICAgICAgID0+IChpbnQpJGl0ZW1bJ21pZCddLAogICAgICAgICAgICAndHlwZScgICAgICAgICAgID0+IChpbnQpJGl0ZW1bJ3R5cGUnXSwKICAgICAgICAgICAgJ2Rpc3BsYXlfd2VpZ2h0JyA9PiAoaW50KU1Ub29sX0FycmF5OjptR2V0VmFsdWUoJGl0ZW0sICdzb3J0JywgMCksCiAgICAgICAgXTsKICAgIH0K</text>
+        <text>MWeng_Api::aGet($wengId)</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>MWeng_Api::aGet($wengId)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
