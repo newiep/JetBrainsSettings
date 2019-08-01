@@ -31,7 +31,7 @@
       <file name="$USER_HOME$/Works/webdev/manual-script/201907/wengs/syncIndex.php" timestamp="1562564067021">
         <mark key="[" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/base/Request.php" timestamp="1564393274816">
+      <file name="$USER_HOME$/Works/webdev/wengs/base/Request.php" timestamp="1564651167438">
         <mark key="[" line="17" column="13" />
         <mark key="]" line="17" column="13" />
         <mark key="." line="17" column="13" />
@@ -133,10 +133,10 @@
       <file name="$USER_HOME$/Works/webdev/shequ/apps/ugcaudit/proxy/business/WengsContent.php" timestamp="1564489524948">
         <mark key="[" line="33" column="77" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/GuessHere.php" timestamp="1564648640821">
-        <mark key="[" line="106" column="49" />
-        <mark key="]" line="64" column="9" />
-        <mark key="." line="64" column="9" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/GuessHere.php" timestamp="1564651845405">
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="8" />
+        <mark key="." line="26" column="8" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-root/src/Base/Dao/AbstractSplitRepository.php" timestamp="1563189582226">
         <mark key="[" line="112" column="35" />
@@ -783,7 +783,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/publish/get_complete_recommend_list.v1.php" timestamp="1564643769836">
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/publish/get_complete_recommend_list.v1.php" timestamp="1564651726895">
         <mark key="[" line="131" column="69" />
       </file>
       <file name="$USER_HOME$/Works/wengs/tests/tool/sme/NormalTest.php" timestamp="1553845812440">
@@ -1072,10 +1072,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgYXJyYXlfZmlsdGVyKCk=</text>
+        <text encoding="base64">aWYgKE1BcHA6OiRhcHAtPnJlcXVlc3QtPmlzSU9TKSB7</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPmdldEVzc2VuY2VXZWdOdW0oKQ==</text>
+        <text encoding="base64">aWYgKE1BcHA6OiRhcHAtPnJlcXVlc3QtPmlzSU9TKSB7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -1084,37 +1084,37 @@
         <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvUHJveHlNZGQgTVByb3h5X01kZAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgYXJyYXlfZmlsdGVyKCk=</text>
+        <text encoding="base64">TUFwcDo6JGFwcC0+bG9nLT5sb2coWwogICAgICAgICAgICAnaXNfaW9zJyA9PiBNQXBwOjokYXBwLT5yZXF1ZXN0LT5pc0lPUywKICAgICAgICAgICAgJ2FwcF9jb2RlJyA9PiBcS29fV2ViX1JlcXVlc3Q6OlNJbnB1dCgnYXBwX2NvZGUnKSwKICAgICAgICBdLCAnYXBwX2NvZGUnLCAnZGVidWdfcHJvdHJhaXRfbWRkJyk7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICd1ZGlkJyA9PiAkdGhpcy0+b3BlblVkaWQs</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgYXJyYXlfZmlsdGVyKCk=</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAvL+iOt+WPlueyvuWNjueslOiusOaVsOmHjwogICAgcHJpdmF0ZSBmdW5jdGlvbiBnZXRFc3NlbmNlV2VnTnVtKCkKICAgIHsKICAgICAgICAvKioKICAgICAgICAgKiBAdmFyICRvQXNzZXRBcGkgTU1hcGlfQXNzZXRzCiAgICAgICAgICovCiAgICAgICAgJG9Bc3NldEFwaSA9IE1BcHA6OmNyZWF0ZU9iamVjdChNTWFwaV9Bc3NldHM6OmNsYXNzLCBbCiAgICAgICAgICAgICdjb25mJyA9PiBbCiAgICAgICAgICAgICAgICAndWlkJyA9PiAkdGhpcy0+b3duZXJJZCwKICAgICAgICAgICAgXSwKICAgICAgICBdKTsKICAgICAgICByZXR1cm4gJG9Bc3NldEFwaS0+aUdldFVzZXJFc3NlbmNlV2VuZ051bShbTUFkbWluX09wZXJhdGU6Ok9UWVBFX1JFQ09NTUVORF0pOwogICAgfQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJ3dlbmdfbm90ZV9wdWJsaXNoX2J1dHRvbicgPT4gJHRoaXMtPmdldFdlbmdOb3RlUHVibGlzaEJ0bigpLAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICAndGl0bGUnICAgICAgICAgID0+ICR0aGlzLT5nZXRUaXRsZShNVG9vbF9BcnJheTo6bUdldFZhbHVlKCR1c2VySW5mbywgWyduYW1lJ10pKSwK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>if (!$essenceNum) {
             $desc = '认证精华笔记';
         }
         $desc = sprintf(&quot;%s篇精华&quot;, )</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Pj4+Pj4+PiByZXBsYWNlIGd1ZXNzIHdoZXJlIGRhdGEgc291cmNlCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgJG9Qb2kgICAgPSBNQXBwOjpjcmVhdGVPYmplY3QoTVByb3h5X1BvaTo6Y2xhc3MpOwogICAgICAgICRvV2VuZyAgID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1XZW5nX0RhdGFBcGk6OmNsYXNzKTsKICAgICAgICAkb0ltYWdlICA9IE1BcHA6OmNyZWF0ZU9iamVjdChNUHJveHlfSW1hZ2U6OmNsYXNzKTsKICAgICAgICAkb01vYmlsZSA9IE1BcHA6OmNyZWF0ZU9iamVjdChNUHJveHlfTW9iaWxlOjpjbGFzcyk7CgogICAgICAgICR1c2VyUG9pcyA9ICRvV2VuZy0+YUdldFVzZXJQb2koJHVpZCwgdHJ1ZSk7CiAgICAgICAgJHJlc3VsdCAgID0gJG9Qb2ktPmFHZXRNZGRFU1BvaUxpc3RJZHMoJGlNZGRJZCwgMCwgY291bnQoJHVzZXJQb2lzKSArIDEwKTsKICAgICAgICAkcG9pcyAgICAgPSBNVG9vbF9BcnJheTo6bUdldFZhbHVlKCRyZXN1bHQsICdyZXN1bHQnLCBbXSk7CiAgICAgICAgJGxpc3QgICAgID0gW107CiAgICAgICAgZm9yZWFjaCAoJHBvaXMgYXMgJHBvaSkgewogICAgICAgICAgICBpZiAoIWluX2FycmF5KCRwb2lbJ2lkJ10sICR1c2VyUG9pcykgJiYgJHBvaVsnemhfbmFtZSddICYmICRwb2lbJ2ltZ19saW5rJ10pIHsKICAgICAgICAgICAgICAgICRwb2lUYWcgPSBhcnJheV9zcGxpY2UoYXJyYXlfY29sdW1uKCRvUG9pLT5hR2V0VGFnTGlzdCgkcG9pWydpZCddKSwgJ25hbWUnKSwgMCwgMik7CiAgICAgICAgICAgICAgICAkbGlzdFtdID0gWwogICAgICAgICAgICAgICAgICAgICdpZCcgICAgICAgPT4gJHBvaVsnaWQnXSwKICAgICAgICAgICAgICAgICAgICAnbmFtZScgICAgID0+ICRwb2lbJ3poX25hbWUnXSwKICAgICAgICAgICAgICAgICAgICAndGFnJyAgICAgID0+ICRwb2lUYWcsCiAgICAgICAgICAgICAgICAgICAgJ2ltYWdlJyAgICA9PiAkb0ltYWdlLT5zQ3JvcFN0cmV0Y2goJHBvaVsnaW1nX2xpbmsnXSwgNDAwLCA0MDApLAogICAgICAgICAgICAgICAgICAgICdqdW1wX3VybCcgPT4gJG9Nb2JpbGUtPnNQb2lOZWFyYnlXZW5nSnVtcFVybCgkcG9pWydpZCddKSwKICAgICAgICAgICAgICAgIF07CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgJGxpc3QgPSBhcnJheV9zcGxpY2UoJGxpc3QsIDAsIDEwKTsKICAgICAgICAkbGlzdCA9IGFycmF5X21hcChmdW5jdGlvbiAoJHBvaSwgJGluZGV4KSB1c2UgKCRvTW9iaWxlKSB7CiAgICAgICAgICAgICRidXNpbmVzc0l0ZW0gICAgICAgPSBbCiAgICAgICAgICAgICAgICAnaXRlbV9pZCcgICAgID0+ICRwb2lbJ2lkJ10sCj09PT09PT0=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>e</text>
