@@ -40,13 +40,17 @@
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/get_music_url.v1.php" timestamp="1557891482580">
         <mark key="[" line="19" column="42" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/content-vote/client/facade/service/VoteService.php" timestamp="1564708449711">
+      <file name="$USER_HOME$/Works/webdev/content-vote/client/facade/service/VoteService.php" timestamp="1564721567967">
         <mark key="[" line="45" column="39" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/form/Parameter.php" timestamp="1560504526842">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/form/CancelLike.php" timestamp="1564560369166" />
+      <file name="$USER_HOME$/Works/webdev/wengs/form/CancelLike.php" timestamp="1564721872202">
+        <mark key="[" line="166" column="26" />
+        <mark key="]" line="166" column="26" />
+        <mark key="." line="166" column="26" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/manual-script/201811/poi/albumrank/update_poi_rank.php" timestamp="1564562277157" />
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/Reply.php" timestamp="1564622274917">
         <mark key="[" line="264" column="36" />
@@ -237,10 +241,10 @@
         <mark key="]" line="188" column="0" />
         <mark key="." line="188" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/form/Like.php" timestamp="1564717068433">
-        <mark key="[" line="103" column="9" />
-        <mark key="]" line="338" column="25" />
-        <mark key="." line="338" column="25" />
+      <file name="$USER_HOME$/Works/webdev/wengs/form/Like.php" timestamp="1564721960646">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/Works/rss/tool/Math.php" timestamp="1555037106737">
         <mark key="[" line="22" column="5" />
@@ -267,7 +271,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/set_head.v1.php" timestamp="1556015056166">
         <mark key="[" line="9" column="46" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1564716750139">
+      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1564721459567">
         <mark key="[" line="398" column="55" />
         <mark key="]" line="398" column="55" />
         <mark key="." line="398" column="55" />
@@ -365,7 +369,7 @@
         <mark key="[" line="10" column="20" />
       </file>
       <file name="$USER_HOME$/Works/webdev/rss/mapi/tag/RecommendV1.php" timestamp="1564648472607" />
-      <file name="/PHP Console" timestamp="1564716752483">
+      <file name="/PHP Console" timestamp="1564721471982">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Mobile.php" timestamp="1564550629527" />
@@ -575,6 +579,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/admin/get_almighty_configs.v1.php" timestamp="1564054253031">
         <mark key="[" line="249" column="33" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/content-vote/server/Manager/LikeManager.php" timestamp="1564721596067" />
       <file name="/Clipboard.txt" timestamp="1561368152403">
         <mark key="[" line="0" column="0" />
       </file>
@@ -656,6 +661,7 @@
         <mark key="." line="14" column="8" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/like/weng_like.v1.php" timestamp="1564556234019" />
+      <file name="$USER_HOME$/Works/webdev/content-vote/client/facade/request/param/VoteParam.php" timestamp="1564721501057" />
       <file name="$USER_HOME$/Works/wengs/weng/ContentApi.php" timestamp="1554970421664">
         <mark key="[" line="100" column="67" />
       </file>
@@ -829,11 +835,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>cool</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="-" type="4">
-        <text>cool</text>
+        <text encoding="base64">J2lzX3VwZGF0ZScgPT4gJGJVcGRhdGUsIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -841,41 +847,42 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvUHJveHlNZGQgTVByb3h5X01kZAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ci8qKgogKiBAdmFyICRvQ29udGVudEFwaSBNV2VuZ19Db250ZW50QXBpCiAqIEB2YXIgJG9Qcm94eUZpbGUgTVByb3h5X0ZpbGUKICovCiRvQ29udGVudEFwaSA9IE1BcHA6OmNyZWF0ZU9iamVjdChNV2VuZ19Db250ZW50QXBpOjpjbGFzcyk7CiRvUHJveHlGaWxlICA9IE1BcHA6OmNyZWF0ZU9iamVjdChNUHJveHlfRmlsZTo6Y2xhc3MpOwoKJG91dGZpbGUgPSAnLi91cmwuY3N2JzsKZmlsZV9wdXRfY29udGVudHMoJG91dGZpbGUsICd3ZW5naWQsdXJsJy5QSFBfRU9MKTsKCiRoYW5kbGUgPSBmb3BlbigiLi8yLmNzdiIsICJyIik7CndoaWxlICgoJGRhdGEgPSBmZ2V0Y3N2KCRoYW5kbGUpKSAhPT0gRkFMU0UpIHsKICAgICR3ZW5naWQgPSAkZGF0YVswXTsKICAgIGlmICgoaW50KSR3ZW5naWQgPT0gMCkgewogICAgICAgIGNvbnRpbnVlOwogICAgfQogICAgJGl0ZW1zID0gJG9Db250ZW50QXBpLT5hR2V0SXRlbXMoJHdlbmdpZCk7CiAgICAkc3RyID0gJyc7CiAgICBmb3JlYWNoICgkaXRlbXMgYXMgJGl0ZW0pIHsKICAgICAgICBpZiAoIWluX2FycmF5KCRpdGVtWyd0eXBlJ10sIE1Db25mOjokYVZpZGVvVHlwZXMpKSB7CiAgICAgICAgICAgICR1cmwgPSAkb1Byb3h5RmlsZS0+c0J1aWxkKCRpdGVtWydyZXNvdXJjZSddKTsKICAgICAgICAgICAgJHN0ciAuPSAkd2VuZ2lkIC4gIiwiIC4gJHVybCAuIFBIUF9FT0w7CiAgICAgICAgfQogICAgfQogICAgZmlsZV9wdXRfY29udGVudHMoJG91dGZpbGUsICRzdHIsIEZJTEVfQVBQRU5EKTsKfQplY2hvICdzdWNjZXNzJzsKZGllOwo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>if ($bUpdate) {
+                $voteParam = \apps\content_vote\MFacade_Request_Param_UnVoteParam::newInstance($params);
+                $res       = \apps\content_vote\MFacade_Service_VoteService::unVote($voteParam);
+            } else {
+                $params['vote_time'] = date(&quot;Y-m-d H:i:s&quot;);
+                $voteParam           = \apps\content_vote\MFacade_Request_Param_VoteParam::newInstance($params);
+                $res                 = \apps\content_vote\MFacade_Service_VoteService::vote($voteParam);
+            }</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgLy9hYnRlc3QKICAgICAgICAkYWJUZXN0SGVhZGVyID0gTUFwcDo6JGFwcC0+cmVxdWVzdC0+YWJIZWFkZXI7CiAgICAgICAgaWYgKCRhYlRlc3RIZWFkZXJbJ3dlbmdfZGV0YWlsX3JlY29tbWVuZCddID09ICdhJykgewogICAgICAgICAgICAvKiogQHZhciAkb1JlY29tbWVuZERhdGFQcm92aWRlciBNTUFwaV9EYXRhUHJvdmlkZXJfRGV0YWlsUmVjb21tZW5kICovCiAgICAgICAgICAgICRvUmVjb21tZW5kRGF0YVByb3ZpZGVyID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1NQXBpX0RhdGFQcm92aWRlcl9EZXRhaWxSZWNvbW1lbmQ6OmNsYXNzKTsKICAgICAgICAgICAgJHJlY29tbWVuZFdlbmdJZExpc3QgPSAkb1JlY29tbWVuZERhdGFQcm92aWRlci0+YUdldFBvc2l0aW9uRGF0YSgkdGhpcy0+d2VuZ2lkKTsKICAgICAgICAgICAgJHdlbmdJZHMgPSBhcnJheV9kaWZmKE1Ub29sX0FycmF5OjptR2V0VmFsdWUoJHJlY29tbWVuZFdlbmdJZExpc3QsIFsnbGlzdCddLCBbXSksIFskdGhpcy0+d2VuZ2lkXSk7CiAgICAgICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICAgICAnbGlzdCcgID0+IGFycmF5X3NsaWNlKCR3ZW5nSWRzLCAkdGhpcy0+Ym91bmRhcnksICR0aGlzLT5zaXplKSwKICAgICAgICAgICAgICAgICd0b3RhbCcgPT4gY291bnQoJHdlbmdJZHMpIC0gJHRoaXMtPmJvdW5kYXJ5IC0gJHRoaXMtPnNpemUsCiAgICAgICAgICAgIF07CiAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAnYml6X2ZsYWcnID0+IE1Ub29sX0FycmF5OjptR2V0VmFsdWUoYXJyYXlfZmxpcChzZWxmOjpCT0FSRF9UWVBFKSwgJHRoaXMtPmJvYXJkLCAwKSw=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgJGFSZXN1bHRbJ2hpZGVfYm90dG9tX2JhciddID0gMTs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd2b3RlX3RpbWUnID0+IGRhdGUoIlktbS1kIEg6aTpzIiksCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICRhUmVzdWx0WydoaWRlX2JvdHRvbV9iYXInXSA9IDE7</text>
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgICAgICd1c2VyX2lkJyA9PiAkdGhpcy0+dWlkLAogICAgICAgICAgICAgICAgICAgICdiaXpfaWQnID0+ICR0aGlzLT53ZW5nSWQsCiAgICAgICAgICAgICAgICAgICAgJ2Jpel90eXBlJyA9PiBcYXBwc1xjb250ZW50X3ZvdGVcTUZhY2FkZV9FbnVtX1ZvdGVfQml6VHlwZTo6QklaX1RZUEVfRU5VTV9XRU5HLAogICAgICAgICAgICAgICAgICAgICdiaXpfZmxhZycgPT4gTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZShhcnJheV9mbGlwKHNlbGY6OkJPQVJEX1RZUEUpLCAkdGhpcy0+Ym9hcmQsIDApLAogICAgICAgICAgICAgICAgICAgICd2b3RlX3RpbWUnID0+IGRhdGUoIlktbS1kIEg6aTpzIiksCiAgICAgICAgICAgICAgICBd</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgKiBAdGhyb3dzIFxhcHBzXGNvbnRlbnRfdm90ZVxNRmFjYWRlX0V4Y2VwdGlvbl9VblN1cHBvcnRFeGNlcHRpb24KICAgICAqIEB0aHJvd3MgXGNvbnRlbnRfdm90ZVxzZXJ2ZXJcRXhjZXB0aW9uXEhhc1ZvdGVkRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIFxjb250ZW50X3ZvdGVcc2VydmVyXEV4Y2VwdGlvblxRaWFueHVuU2VydmljZUV4Y2VwdGlvbgogICAgICogQHRocm93cyBcY29udGVudF92b3RlXHNlcnZlclxFeGNlcHRpb25cVW5TdXBwb3J0RXhjZXB0aW9u</text>
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgICAgICd1c2VyX2lkJyA9PiAkdGhpcy0+dWlkLAogICAgICAgICAgICAgICAgICAgICdiaXpfaWQnID0+ICR0aGlzLT53ZW5nSWQsCiAgICAgICAgICAgICAgICAgICAgJ2Jpel90eXBlJyA9PiBcYXBwc1xjb250ZW50X3ZvdGVcTUZhY2FkZV9FbnVtX1ZvdGVfQml6VHlwZTo6QklaX1RZUEVfRU5VTV9XRU5HLAogICAgICAgICAgICAgICAgICAgICdiaXpfZmxhZycgPT4gTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZShhcnJheV9mbGlwKHNlbGY6OkJPQVJEX1RZUEUpLCAkdGhpcy0+Ym9hcmQsIDApLAogICAgICAgICAgICAgICAgXQ==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgogICAgICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="4">
-        <text>/**
-     * @param integer $uid
-     * @param integer $wengId
-     * @param string $voteTime
-     * @param string $board
-     * @throws \apps\content_vote\MFacade_Exception_UnSupportException
-     */</text>
+        <text encoding="base64">aWYgKCR0aGlzLT5ib2FyZCkgewogICAgICAgICAgICAgICAgICAgICRiaXpGbGFnID0gTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZShhcnJheV9mbGlwKHNlbGY6OkJPQVJEX1RZUEUpLCAkdGhpcy0+Ym9hcmQsIDApOwogICAgICAgICAgICAgICAgICAgICR2b3RlUGFyYW0tPnNldEJpekZsYWcoJGJpekZsYWcpOwogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgKiBAcGFyYW0gJHVpZCAgICAgICAgICDngrnotZ7nlKjmiLcKICAgICAqIEBwYXJhbSAkd2VuZ0lkICAgICAgIOeslOiusCBJRAogICAgICogQHBhcmFtICR2b3RlVGltZSAgICAg54K56LWe5pe26Ze0CiAgICAgKiBAcGFyYW0gc3RyaW5nICRib2FyZCDkuL7niYwKICAgICAqLw==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiAoJHRoaXMtPmJvYXJkKSB7CiAgICAgICAgICAgICAgICAgICAgJGJpekZsYWcgPSBNVG9vbF9BcnJheTo6bUdldFZhbHVlKGFycmF5X2ZsaXAoc2VsZjo6Qk9BUkRfVFlQRSksICR0aGlzLT5ib2FyZCwgMCk7CiAgICAgICAgICAgICAgICAgICAgJHZvdGVQYXJhbS0+c2V0Qml6RmxhZygkYml6RmxhZyk7CiAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>e</text>
