@@ -4,8 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Code/Work/mafengwo/qianxun/facade/meta/dto/ContentInfoDto.php" timestamp="1564240088736" />
-      <file name="/a.dummy" timestamp="1564280010299">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/ranking/Api.php" timestamp="1565015612310">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/User.php" timestamp="1562836303512">
         <mark key="[" line="514" column="0" />
@@ -98,6 +100,11 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/content-comment/client/facade/response/dto/BizReplyDto.php" timestamp="1564241304916">
         <mark key="[" line="10" column="14" />
       </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/ranking/ScoreDetail.php" timestamp="1565015554638">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/log/event/Mobile.php" timestamp="1562209555379">
         <mark key="[" line="65" column="20" />
         <mark key="]" line="65" column="20" />
@@ -123,6 +130,7 @@
         <mark key="]" line="26" column="5" />
         <mark key="." line="26" column="5" />
       </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/form/Reply.php" timestamp="1565012279290" />
       <file name="$USER_HOME$/Code/Work/mafengwo/content-comment/server/Entity/ReplyDO.php" timestamp="1564237528587">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
@@ -593,11 +601,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgIA==</text>
+        <text encoding="base64">JHRoaXMtPnJhbmtpbmdUeXBl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -606,36 +614,36 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdub3RlX2lkJyA9PiAkbm90ZS0+aWQsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEFORFJPSURfVEVTVCA9IDIxOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IElPU19URVNUID0gMTI7IC8v6ams6JyC56qd5Li7QXBwIChJT1MpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">dHJ5IHsKICAgICAgICAgICAgJHNjb3JlID0gJHRoaXMtPmlHZXRTY29yZUJ5QWN0aW9uKCRhY3Rpb24pOwogICAgICAgICAgICAkcmVzID0gJG9TY29yZURldGFpbC0+YkFkZFNjb3JlRGV0YWlsKCR1aWQsICR0aGlzLT5wZXJpb2RJZCwgJGJpeklkLCAkYWN0aW9uLCAkc2NvcmUpOwogICAgICAgIH0gY2F0Y2ggKFxFeGNlcHRpb24gJGUpIHsKCiAgICAgICAgfQ==</text>
       </register>
-      <register name="3" type="4">
-        <text>/**
-     * 马蜂窝主App (IOS)
-     */</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJG9TY29yZURldGFpbC0+c2NvcmVEZXRhaWxEYW8tPmJlZ2luCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIGFwcHNcY29udGVudF9jb21tZW50XE1GYWNhZGVfUmVxdWVzdF9QYXJhbV9SZXBseVVwZGF0ZVBhcmFtOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgJHRoaXMtPnVpZCAgICAgICAgID0gTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkY29uZiwgWyd1aWQnXSwgMCk7</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEB2YXIgc3RyaW5nIOamnOWNleaXtumXtAogICAgICovCiAgICBwcml2YXRlICRjdXJyZW50VGltZTsK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gaW50CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXROdW0oKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+bnVtID86IDE7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gaW50ICRudW0KICAgICAqIEByZXR1cm4gJHRoaXMKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNldE51bSgkbnVtKQogICAgewogICAgICAgICR0aGlzLT5udW0gPSAkbnVtOwogICAgICAgIHJldHVybiAkdGhpczsKICAgIH0K</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gaW5pdCgpCiAgICB7CgogICAgfQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="7" type="4">
+        <text>) {
+            throw new \LogicException('没有榜单信息');
+        }</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IC8qKgogICAgICog54K56LWe5pWwCiAgICAgKiBAdmFyIGludGVnZXIKICAgICAqLwogICAgcHJvdGVjdGVkICRudW07Cg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3VycmVudFRpbWUgPSBNVG9vbF9BcnJheTo6bUdldFZhbHVlKCRjb25mLCBbJ2N1cnJlbnQnXSwgZGF0ZSgnWS1tLWQgSDppOnMnKSk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CnVzZSA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvUGVyaW9kIE1SYW5raW5nX1BlcmlvZAo=</text>
       </register>
       <register name=":" type="4">
         <text>e</text>
