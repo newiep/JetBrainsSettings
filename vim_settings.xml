@@ -4,10 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Code/Work/mafengwo/qianxun/facade/meta/dto/ContentInfoDto.php" timestamp="1564240088736" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/ranking/Api.php" timestamp="1565015612310">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/ranking/Api.php" timestamp="1565018442944">
+        <mark key="[" line="70" column="76" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/User.php" timestamp="1562836303512">
         <mark key="[" line="514" column="0" />
@@ -24,12 +25,6 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/facade/inner/Meta.php" timestamp="1564198642126" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/content-comment/client/facade/service/SyncReplyService.php" timestamp="1564280602628">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="30" column="81" />
-      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/operate.php" timestamp="1562835508552">
         <mark key="[" line="757" column="19" />
         <mark key="]" line="757" column="19" />
@@ -87,6 +82,12 @@
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/content-comment/server/Manager/IdMapManager.php" timestamp="1564240170223" />
       <file name="$USER_HOME$/Code/Work/mafengwo/qianxun/facade/meta/service/ContentProductionFactory.php" timestamp="1564065135874" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/content-comment/server/Dao/IdMapRepo.php" timestamp="1564240215271">
+        <mark key="[" line="65" column="4" />
+        <mark key="]" line="66" column="4" />
+        <mark key="." line="66" column="4" />
+        <mark key="^" line="66" column="4" />
+      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/content-comment/client/facade/enum/comment/Client.php" timestamp="1564912305353">
         <mark key="[" line="18" column="16" />
         <mark key="]" line="18" column="16" />
@@ -211,6 +212,11 @@
         <mark key="." line="67" column="5" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/content-comment/client/facade/request/param/IdMapParam.php" timestamp="1563975249017" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/ranking/Data.php" timestamp="1565018170398">
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="29" column="33" />
+        <mark key="." line="29" column="33" />
+      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/web/comment/publish.php" timestamp="1563689678599">
         <mark key="[" line="11" column="23" />
         <mark key="]" line="34" column="0" />
@@ -219,6 +225,7 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/content-comment/server/Query/ReplyStatement.php" timestamp="1564279805743">
         <mark key="[" line="80" column="12" />
       </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/weng/DataApi.php" timestamp="1565017918493" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/facade/weng/UgcAuditApi.php" timestamp="1564501981865" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Mobile.php" timestamp="1562312917468">
         <mark key="[" line="303" column="55" />
@@ -315,6 +322,12 @@
         <mark key="[" line="125" column="5" />
         <mark key="]" line="51" column="7" />
         <mark key="." line="51" column="7" />
+      </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/content-comment/client/facade/service/AbstractReplyEntityService.php" timestamp="1564278331134">
+        <mark key="[" line="20" column="60" />
+        <mark key="]" line="18" column="15" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="18" column="15" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/content-comment/server/Manager/SyncReplyManager.php" timestamp="1564904089829">
         <mark key="[" line="31" column="0" />
@@ -601,11 +614,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JHVpZCwgJHBlcmlvZCwg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPnJhbmtpbmdUeXBl</text>
+        <text encoding="base64">JHVpZCwgJHBlcmlvZCwg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -614,36 +627,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdub3RlX2lkJyA9PiAkbm90ZS0+aWQsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">dHJ5IHsKICAgICAgICAgICAgJHNjb3JlID0gJHRoaXMtPmlHZXRTY29yZUJ5QWN0aW9uKCRhY3Rpb24pOwogICAgICAgICAgICAkcmVzID0gJG9TY29yZURldGFpbC0+YkFkZFNjb3JlRGV0YWlsKCR1aWQsICR0aGlzLT5wZXJpb2RJZCwgJGJpeklkLCAkYWN0aW9uLCAkc2NvcmUpOwogICAgICAgIH0gY2F0Y2ggKFxFeGNlcHRpb24gJGUpIHsKCiAgICAgICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJHJlcykgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9TY29yZURldGFpbC0+c2NvcmVEZXRhaWxEYW8tPmJlZ2luCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHJlcykgewogICAgICAgICAgICAkcmFua2luZ0luZm8gPSAkb1JhbmtpbmdEYXRhLT5hR2V0KCR1aWQsICR0aGlzLT5wZXJpb2RJZCk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgJHRoaXMtPnVpZCAgICAgICAgID0gTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkY29uZiwgWyd1aWQnXSwgMCk7</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEB2YXIgc3RyaW5nIOamnOWNleaXtumXtAogICAgICovCiAgICBwcml2YXRlICRjdXJyZW50VGltZTsK</text>
+        <text encoding="base64">dHJ5IHsKICAgICAgICAgICAgJHNjb3JlID0gJHRoaXMtPmlHZXRTY29yZUJ5QWN0aW9uKCRhY3Rpb24pOwogICAgICAgICAgICAkcmVzID0gJG9TY29yZURldGFpbC0+YkFkZFNjb3JlRGV0YWlsKCR1aWQsICR0aGlzLT5wZXJpb2RJZCwgJGJpeklkLCAkYWN0aW9uLCAkc2NvcmUpOwogICAgICAgIH0gY2F0Y2ggKFxFeGNlcHRpb24gJGUpIHsKCiAgICAgICAgfQ==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gaW5pdCgpCiAgICB7CgogICAgfQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJG9TY29yZURldGFpbC0+c2NvcmVEZXRhaWxEYW8tPmJlZ2luCg==</text>
       </register>
       <register name="7" type="4">
-        <text>) {
-            throw new \LogicException('没有榜单信息');
-        }</text>
+        <text encoding="base64">CiAgICAgICAgJHRoaXMtPnVpZCAgICAgICAgID0gTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkY29uZiwgWyd1aWQnXSwgMCk7</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3VycmVudFRpbWUgPSBNVG9vbF9BcnJheTo6bUdldFZhbHVlKCRjb25mLCBbJ2N1cnJlbnQnXSwgZGF0ZSgnWS1tLWQgSDppOnMnKSk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEB2YXIgc3RyaW5nIOamnOWNleaXtumXtAogICAgICovCiAgICBwcml2YXRlICRjdXJyZW50VGltZTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvUGVyaW9kIE1SYW5raW5nX1BlcmlvZAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gaW5pdCgpCiAgICB7CgogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>e</text>
