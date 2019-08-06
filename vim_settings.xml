@@ -196,12 +196,12 @@
         <mark key="]" line="35" column="47" />
         <mark key="." line="35" column="47" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/ranking/Api.php" timestamp="1565060338655">
-        <mark key="'" line="67" column="116" />
-        <mark key="[" line="20" column="92" />
-        <mark key="]" line="77" column="16" />
-        <mark key="^" line="85" column="8" />
-        <mark key="." line="77" column="16" />
+      <file name="$USER_HOME$/Works/webdev/wengs/ranking/Api.php" timestamp="1565064185406">
+        <mark key="'" line="222" column="31" />
+        <mark key="[" line="218" column="12" />
+        <mark key="]" line="218" column="12" />
+        <mark key="^" line="96" column="8" />
+        <mark key="." line="218" column="12" />
       </file>
       <file name="$USER_HOME$/Works/webdev/appconf/api/weng_note/publish/publish_note.v1.json" timestamp="1557192659858">
         <mark key="[" line="37" column="14" />
@@ -776,11 +776,11 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/like/weng_like.v1.php" timestamp="1564556234019" />
       <file name="$USER_HOME$/Works/webdev/content-vote/client/facade/request/param/VoteParam.php" timestamp="1564721501057" />
-      <file name="$USER_HOME$/Works/webdev/wengs/ranking/ScoreDetail.php" timestamp="1565054307249">
+      <file name="$USER_HOME$/Works/webdev/wengs/ranking/ScoreDetail.php" timestamp="1565063911505">
         <mark key="'" line="39" column="25" />
-        <mark key="[" line="23" column="10" />
-        <mark key="]" line="23" column="10" />
-        <mark key="." line="23" column="10" />
+        <mark key="[" line="99" column="20" />
+        <mark key="]" line="99" column="20" />
+        <mark key="." line="99" column="20" />
         <mark key="^" line="20" column="16" />
       </file>
       <file name="$USER_HOME$/Works/wengs/weng/ContentApi.php" timestamp="1554970421664">
@@ -851,8 +851,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="14" filename="$USER_HOME$/Works/wengs/controller/weng_exp/config/weng_publish_panel_config.v1.php" />
-      <jump line="16" column="4" filename="$USER_HOME$/Works/wengs/facade/Queue.php" />
       <jump line="231" column="26" filename="$USER_HOME$/Works/wengs/proxy/Sales.php" />
       <jump line="25" column="19" filename="$USER_HOME$/Works/wengs/weng/IndexApi.php" />
       <jump line="55" column="27" filename="$USER_HOME$/Works/wengs/controller/weng_exp/poi/search_mdd_pois.v2.php" />
@@ -951,6 +949,8 @@
       <jump line="11" column="0" filename="$USER_HOME$/Works/webdev/manual-script/201908/wengs/generate_url.php" />
       <jump line="28" column="25" filename="$USER_HOME$/Works/webdev/wengs/ranking/ScoreDetail.php" />
       <jump line="66" column="116" filename="$USER_HOME$/Works/webdev/wengs/ranking/Api.php" />
+      <jump line="224" column="31" filename="$USER_HOME$/Works/webdev/wengs/ranking/Api.php" />
+      <jump line="225" column="31" filename="$USER_HOME$/Works/webdev/wengs/ranking/Api.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -969,10 +969,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>opposite_detail_note_exist</text>
+        <text encoding="base64">aWYgKGluX2FycmF5KCRkZXRhaWxBY3Rpb24sIHNlbGY6Ok9OQ0VfQUNUSU9OX0xJU1QpKSB7CiAgICAgICAgICAgICAgICAkZXhpc3RBY3Rpb25NYXBbJGRldGFpbEFjdGlvbl0gPSAxOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>opposite_detail_note_exist</text>
+        <text>($detailAction</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -981,36 +981,49 @@
         <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvUHJveHlNZGQgTVByb3h5X01kZAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">JHRoaXMtPmRMb2coWwogICAgICAgICAgICAndWlkJyAgICA9PiAkdWlkLAogICAgICAgICAgICAnYml6X2lkJyA9PiAkYml6SWQsCiAgICAgICAgICAgICdhY3Rpb24nID0+ICRhY3Rpb24sCiAgICAgICAgICAgICdwZXJpb2RfaWQnID0+ICR0aGlzLT5wZXJpb2RJZAogICAgICAgIF0sICdvcHBvc2l0ZV9kZXRhaWxfbm90ZV9leGlzdCcpOw==</text>
+        <text encoding="base64">aWYgKGluX2FycmF5KCRkZXRhaWxBY3Rpb24sIHNlbGY6Ok9OQ0VfQUNUSU9OX0xJU1QpKSB7CiAgICAgICAgICAgICAgICAkZXhpc3RBY3Rpb25NYXBbJGRldGFpbEFjdGlvbl0gPSAxOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJhbmtpbmdJbmZvWydjb3VudGVyJ11bJGNvdW50ZXJLZXldIDwgc2VsZjo6QUNUSU9OX0xJTUlUWyRhY3Rpb25dOwo=</text>
+      <register name="2" type="4">
+        <text>if ($detailAction == MRanking_ScoreDetail::ACTION_GOOD) {
+                $existActionMap[MRanking_ScoreDetail::ACTION_GOOD]        = 1;
+                $existActionMap[MRanking_ScoreDetail::ACTION_CANCEL_GOOD] = 0;
+            }
+            if ($detailAction == MRanking_ScoreDetail::ACTION_RECOMMEND) {
+                $existActionMap[MRanking_ScoreDetail::ACTION_RECOMMEND]        = 1;
+                $existActionMap[MRanking_ScoreDetail::ACTION_CANCEL_RECOMMEND] = 0;
+            }
+            if ($detailAction == MRanking_ScoreDetail::ACTION_CANCEL_GOOD) {
+                $existActionMap[MRanking_ScoreDetail::ACTION_CANCEL_GOOD] = 1;
+                $existActionMap[MRanking_ScoreDetail::ACTION_GOOD]        = 0;
+            }
+            if ($detailAction == MRanking_ScoreDetail::ACTION_CANCEL_RECOMMEND) {
+                $existActionMap[MRanking_ScoreDetail::ACTION_CANCEL_RECOMMEND] = 1;
+                $existActionMap[MRanking_ScoreDetail::ACTION_RECOMMEND]        = 0;
+            }</text>
       </register>
       <register name="3" type="4">
-        <text>if ($action == MRanking_ScoreDetail::ACTION_PUBLISH) {
-            $counterItem = 'publish';
-        } elseif ($action == )</text>
+        <text encoding="base64">IHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGV4aXN0QWN0aW9uTWFwCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgJGRldGFpbExpc3QgICA9ICRvU2NvcmVEZXRhaWwtPmFHZXRVc2VyRGV0YWlsQnlBY3Rpb24oJHVpZCwgJHRoaXMtPnBlcmlvZElkLCAkYWN0aW9uKTs=</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuICRvUmFua2luZ0RhdGEtPmJBZGQoCiAgICAgICAgICAgICR1aWQsICR0aGlzLT5wZXJpb2RJZCwgJHNjb3JlQ291bnRlclsnc2NvcmUnXSwgJHNjb3JlQ291bnRlclsnY291bnRlciddCiAgICAgICAgKTs=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkb1Njb3JlRGV0YWlsID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1SYW5raW5nX1Njb3JlRGV0YWlsOjpjbGFzcyk7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAndWlkJyAgID0+ICR1aWQsCiAgICAgICAgICAgICAgICAnYml6X2lkJyA9PiAkYml6SWQsCiAgICAgICAgICAgICAgICAnYWN0aW9uJyA9PiAkYWN0aW9uLA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvU2NvcmVEZXRhaWwgTVJhbmtpbmdfU2NvcmVEZXRhaWwK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAncGVyaW9kX2lkJyA9PiAkdGhpcy0+cGVyaW9kSWQ=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">LCBbCiAgICAnY29uZicgPT4gCl0=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAndWlkJyAgID0+ICR1aWQsCiAgICAgICAgICAgICAgICAnYml6X2lkJyA9PiAkYml6SWQsCiAgICAgICAgICAgICAgICAnYWN0aW9uJyA9PiAkYWN0aW9uLA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKCRyYW5raW5nSW5mbyA9ICRvUmFua2luZ0RhdGEtPmFHZXQoJHVpZCwgJHRoaXMtPnBlcmlvZElkKSkgewo=</text>
+        <text encoding="base64">JHRoaXMtPmRMb2coWwogICAgICAgICAgICAndWlkJyAgICA9PiAkdWlkLAogICAgICAgICAgICAnYml6X2lkJyA9PiAkYml6SWQsCiAgICAgICAgICAgICdhY3Rpb24nID0+ICRhY3Rpb24sCiAgICAgICAgICAgICdwZXJpb2RfaWQnID0+ICR0aGlzLT5wZXJpb2RJZAogICAgICAgIF0sICdvcHBvc2l0ZV9kZXRhaWxfbm90ZV9leGlzdCcpOw==</text>
       </register>
       <register name=":" type="4">
         <text>e</text>
