@@ -55,6 +55,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/ReplyManager.php" timestamp="1565312598969">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/content-vote/client/facade/service/VoteService.php" timestamp="1564721567967">
         <mark key="[" line="45" column="39" />
       </file>
@@ -181,7 +186,7 @@
       <file name="$USER_HOME$/Works/webdev/content-root/src/Base/Dao/AbstractSplitRepository.php" timestamp="1563189582226">
         <mark key="[" line="112" column="35" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/rss/mapi/tag/DetailV1.php" timestamp="1564631959283">
+      <file name="$USER_HOME$/Works/webdev/rss/mapi/tag/DetailV1.php" timestamp="1565313261238">
         <mark key="[" line="405" column="42" />
         <mark key="]" line="405" column="42" />
         <mark key="." line="405" column="42" />
@@ -299,7 +304,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/appconf/WatermarkRelation.php" timestamp="1561536298509">
         <mark key="[" line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Rss.php" timestamp="1565251436946">
+      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Rss.php" timestamp="1565312682348">
         <mark key="[" line="155" column="57" />
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
@@ -308,7 +313,7 @@
         <mark key="[" line="28" column="28" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/event/MetaUpdate.php" timestamp="1564558874409" />
-      <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/service/SyncReplyService.php" timestamp="1564967004948">
+      <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/service/SyncReplyService.php" timestamp="1565312733001">
         <mark key="[" line="24" column="5" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Recommend.php" timestamp="1564997283585">
@@ -398,11 +403,10 @@
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/set_head.v1.php" timestamp="1556015056166">
         <mark key="[" line="9" column="46" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1565257344894">
-        <mark key="[" line="411" column="202" />
-        <mark key="]" line="411" column="7" />
-        <mark key="." line="411" column="7" />
-        <mark key="^" line="411" column="7" />
+      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1565313346919">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/rss/controller/rss/tag/get_recommend_list.v1.php" timestamp="1564626772901" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/delete_music.v1.php" timestamp="1556014962607">
@@ -600,6 +604,11 @@
         <mark key="[" line="105" column="13" />
         <mark key="]" line="19" column="23" />
         <mark key="." line="19" column="23" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/service/ReplyService.php" timestamp="1565312626094">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/ranking/handler/CancelGood.php" timestamp="1565073056905">
         <mark key="[" line="20" column="13" />
@@ -1085,7 +1094,7 @@
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Config/Config.php" timestamp="1562029988505">
         <mark key="[" line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/SyncReplyManager.php" timestamp="1564967060329">
+      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/SyncReplyManager.php" timestamp="1565312819858">
         <mark key="[" line="72" column="47" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
@@ -1247,10 +1256,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd2b2ljZV9kdXJhdGlvbicgPT4gKGZsb2F0KU1Ub29sX0FycmF5OjptR2V0VmFsdWUoJG1lZGlhLCAndm9pY2VfZHVyYXRpb24nLCAwKSwK</text>
+        <text encoding="base64">ICAgIHJldHVybiAkaGludElkICUgJHRvdGFsOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXJyb3IoJycsIDAsIFsnbGlzdCcgPT4gW11dKQ==</text>
+        <text>1 + hexdec(substr(md5(strtolower($vHintId)), -4))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -1259,34 +1268,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJyA9PiAkZ3JvdXBbJ25hbWUnXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd2b2ljZV9kdXJhdGlvbicgPT4gKGZsb2F0KU1Ub29sX0FycmF5OjptR2V0VmFsdWUoJG1lZGlhLCAndm9pY2VfZHVyYXRpb24nLCAwKSwK</text>
+        <text encoding="base64">ICAgIHJldHVybiAkaGludElkICUgJHRvdGFsOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd2b2ljZV9maWxlX2lkJyAgPT4gTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkbWVkaWEsICd2b2ljZV9maWxlX2lkJywgJycpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd2b2ljZV9kdXJhdGlvbicgPT4gKGZsb2F0KU1Ub29sX0FycmF5OjptR2V0VmFsdWUoJG1lZGlhLCAndm9pY2VfZHVyYXRpb24nLCAwKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd2b2ljZV9maWxlX2lkJyAgPT4gTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkbWVkaWEsICd2b2ljZV9maWxlX2lkJywgJycpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFRZUEVfV0VOR19WSU5BICAgICAgPSAxOyAgICAgICAvL+efreinhumikSzpgJDmraXlup/lvIMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFRZUEVfV0VOR19JTUFHRV8zNjAgPSAyOyAgICAgICAvLzM2MOWbvueJhyzlup/lvIMK</text>
+        <text encoding="base64">ICAgIGNvbnN0IFRZUEVfV0VOR19WSU5BICAgICAgPSAxOyAgICAgICAvL+efreinhumikSzpgJDmraXlup/lvIMK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnN0IFRZUEVfV0VOR19JTUFHRV8zNjAgPSAyOyAgICAgICAvLzM2MOWbvueJhyzlup/lvIMK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiAkdGhpcy0+ZXJyb3IoJGUtPmdldE1lc3NhZ2UoKSk7</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IFRZUEVfV0VOR19JTUFHRV8zNjAgPSAyOyAgICAgICAvLzM2MOWbvueJhyzlup/lvIMK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oJ+eUqOaIt+acqueZu+W9lScpOw==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiAkdGhpcy0+ZXJyb3IoJGUtPmdldE1lc3NhZ2UoKSk7</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oJ+eUqOaIt+acqueZu+W9lScpOw==</text>
       </register>
       <register name=":" type="4">
         <text>e</text>
