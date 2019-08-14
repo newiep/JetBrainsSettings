@@ -27,11 +27,11 @@
         <mark key="]" line="52" column="7" />
         <mark key="." line="52" column="7" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/topic.php" timestamp="1565777752837">
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="16" column="5" />
-        <mark key="^" line="367" column="21" />
-        <mark key="." line="16" column="5" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/topic.php" timestamp="1565780013246">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="49" column="48" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/delete_paragraph.v1.php" timestamp="1556014994185">
         <mark key="[" line="9" column="47" />
@@ -315,7 +315,7 @@
         <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Sales.php" timestamp="1565609175075" />
-      <file name="$USER_HOME$/Works/webdev/wengs/ranking/Api.php" timestamp="1565776516200">
+      <file name="$USER_HOME$/Works/webdev/wengs/ranking/Api.php" timestamp="1565780077262">
         <mark key="[" line="218" column="21" />
         <mark key="]" line="217" column="4" />
         <mark key="." line="217" column="4" />
@@ -664,7 +664,7 @@
         <mark key="]" line="64" column="41" />
         <mark key="." line="64" column="41" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/base/traits/WebApp.php" timestamp="1565775589608">
+      <file name="$USER_HOME$/Works/webdev/wengs/base/traits/WebApp.php" timestamp="1565779120471">
         <mark key="[" line="14" column="5" />
       </file>
       <file name="$USER_HOME$/Works/webdev/poi/apps/poi/facade/Search.php" timestamp="1564976787405" />
@@ -1074,13 +1074,13 @@
       <file name="$USER_HOME$/Works/wengs/proxy/File.php" timestamp="1553489408459">
         <mark key="[" line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/tool/JSON.php" timestamp="1565775417281" />
+      <file name="$USER_HOME$/Works/webdev/wengs/tool/JSON.php" timestamp="1565779289217" />
       <file name="$USER_HOME$/Works/webdev/mobile/mobile_api/htdocs/boot.php" timestamp="1565778033131">
         <mark key="[" line="77" column="17" />
         <mark key="]" line="77" column="17" />
         <mark key="." line="77" column="17" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/base/Hook.php" timestamp="1565777236500" />
+      <file name="$USER_HOME$/Works/webdev/wengs/base/Hook.php" timestamp="1565779179502" />
       <file name="$USER_HOME$/Works/webdev/rss/proxy/Weng.php" timestamp="1565690409132">
         <mark key="[" line="129" column="50" />
         <mark key="]" line="129" column="50" />
@@ -1329,7 +1329,7 @@
       <file name="$USER_HOME$/Works/webdev/group/apps/group/htdocs/mapi/BaseController.php" timestamp="1565263515404">
         <mark key="[" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/base/Response.php" timestamp="1565777940108">
+      <file name="$USER_HOME$/Works/webdev/wengs/base/Response.php" timestamp="1565779261553">
         <mark key="[" line="37" column="35" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/ranking/handler/Recommend.php" timestamp="1565073176925">
@@ -1637,11 +1637,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>'/mfwdebug.txt'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'/mfwdebug.txt'</text>
+        <text>json_encode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -1649,35 +1649,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ21lZGlhX2xpc3QnID0+ICcnLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PD9waHAKLyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IHBlaXdlbmhhbwogKiBEYXRlOiAyMDE5LzgvMTQKICogVGltZTogMTg6MTYKICovCmVjaG8gJyc7</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgZWNobyA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKE1Ub29sX0Vudjo6YklzT25saW5lKCkpIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KICAgICAgICByZXR1cm4gdHJ1ZTs=</text>
+        <text encoding="base64">aGVhZGVyKCdDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgnKTsKICAgICAgICBlY2hvIE1Ub29sX0pTT046OnNFbmNvZGUoWwogICAgICAgICAgICAnbGlzdCcgPT4gJHdlbmdMaXN0LAogICAgICAgICAgICAncGFnZScgPT4gWwogICAgICAgICAgICAgICAgJ25leHQnICAgICAgICAgID0+ICgkaUJvdW5kYXJ5ICsgJGlOdW0pID49ICRzZWN0aW9uVG9waWNzWyd0b3RhbCddID8gZmFsc2UgOiB0cnVlLAogICAgICAgICAgICAgICAgJ25leHRfYm91bmRhcnknID0+ICRpQm91bmRhcnkgKyAkaU51bSwKICAgICAgICAgICAgXSwKICAgICAgICBdKTtleGl0Owo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2ljb24nICAgICAgICAgICAgID0+ICdodHRwczovL240LXEubWFmZW5nd28ubmV0L3MxNC9NMDAvOEYvMjQvd0tnRTJsMUt2akNBZC0yd0FBQU5ZbWxrbjYwMDUuanBlZycsCiAgICAgICAgICAgICAgICAndGl0bGUnICAgICAgICAgICAgPT4gJ+ivnemimOi0oeeMruamnCcsCiAgICAgICAgICAgICAgICAnc3ViX3RpdGxlJyAgICAgICAgPT4gJ+eci+eci+acrOWRqOS9oOS4iuamnOayoScsCiAgICAgICAgICAgICAgICAnanVtcF91cmwnICAgICAgICAgPT4gJ2h0dHBzOi8vbS5tYWZlbmd3by5jbi9td2VuZy90b3BpYy9saXN0JywKICAgICAgICAgICAgICAgICdiYWNrZ3JvdW5kX2ltYWdlJyA9PiBudWxsLAogICAgICAgICAgICAgICAgJ2J1c2luZXNzX2l0ZW0nICAgID0+IFsKICAgICAgICAgICAgICAgICAgICAnaXRlbV9pZCcgICAgID0+ICcnLAogICAgICAgICAgICAgICAgICAgICdpdGVtX3R5cGUnICAgPT4gJycsCiAgICAgICAgICAgICAgICAgICAgJ2l0ZW1fbmFtZScgICA9PiAnJywKICAgICAgICAgICAgICAgICAgICAnbW9kdWxlX25hbWUnID0+ICfnrJTorrDlip/og73kvY0nLAogICAgICAgICAgICAgICAgICAgICdwb3NfaWQnICAgICAgPT4gInVzZXIubWluZV93ZW5nLmJpamlmdW5jdGlvbi4iLAogICAgICAgICAgICAgICAgICAgICdidXNpbmVzc19pZCcgPT4gJycsCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICBdLA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiA=</text>
+        <text>header('Content-Type: application/json; charset=utf-8');
+        echo MTool_JSON::sEncode($data);exit;</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiAkdG9waWM7</text>
+        <text encoding="base64">PD9waHAKLyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IHBlaXdlbmhhbwogKiBEYXRlOiAyMDE5LzgvMTQKICogVGltZTogMTg6MTYKICovCmVjaG8gJyc7</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICR0b3BpY1snYnVzaW5lc3NfaXRlbSddID0gWwogICAgICAgICAgICAgICAgJ2l0ZW1faWQnICAgICA9PiAkdG9waWNbJ3RleHQnXSwKICAgICAgICAgICAgICAgICdpdGVtX3R5cGUnICAgPT4gJ3RhZ19uYW1lJywKICAgICAgICAgICAgICAgICdpdGVtX25hbWUnICAgPT4gJ+acrOWRqOeDremXqOivnemimCcsCiAgICAgICAgICAgICAgICAnaXRlbV9zb3VyY2UnID0+ICdwaWN0dXJlJywKICAgICAgICAgICAgICAgICdtb2R1bGVfbmFtZScgPT4gJ+acrOWRqOeDremXqOivnemimCcsCiAgICAgICAgICAgICAgICAncG9zX2lkJyAgICAgID0+ICJ3ZW5nLnRvcGljX3NxdWFyZS5jdXJyZW50X3dlZWtfaG90X3RvcGljLnBpY3R1cmUueyRpbmRleH0iLAogICAgICAgICAgICBdOw==</text>
+        <text encoding="base64">CiAgICAgICAgZWNobyA=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgJHJlY29tbWVuZExpc3QgPSAkdGhpcy0+Z2V0UmVjb21tZW5kV2VuZ0lkTGlzdCgpOwoKICAgICAgICAvKioKICAgICAgICAgKiBAdmFyIE1NQXBpX0RhdGFQcm92aWRlcl9XZW5nICRvV2VuZ1Byb3ZpZGVyCiAgICAgICAgICogQHZhciBNTXVsdGlNZWRpYV9Gb3JtYXRUb29sICRmb3JtYXRUb29sCiAgICAgICAgICovCiAgICAgICAgJG9XZW5nUHJvdmlkZXIgPSBNQXBwOjpjcmVhdGVPYmplY3QoTU1BcGlfRGF0YVByb3ZpZGVyX1dlbmc6OmNsYXNzKTsKICAgICAgICAkZm9ybWF0VG9vbCAgICA9IE1BcHA6OmNyZWF0ZU9iamVjdChNTXVsdGlNZWRpYV9Gb3JtYXRUb29sOjpjbGFzcywgWyd1c2VXZWJwJyA9PiB0cnVlXSk7CgogICAgICAgICR3ZW5nTGlzdCA9ICRvV2VuZ1Byb3ZpZGVyLT5hR2V0V2VuZ3NJbmZvNFJlY29tbWVuZCgKICAgICAgICAgICAgJHRoaXMtPmxvZ2luVWlkLCAkcmVjb21tZW5kTGlzdFsnbGlzdCddLCAkZm9ybWF0VG9vbCwgdHJ1ZSwgZmFsc2UKICAgICAgICApOwoKICAgICAgICByZXR1cm4gJHRoaXMtPnN1Y2Nlc3MoWwogICAgICAgICAgICAnbGlzdCcgPT4gJHRoaXMtPmZvcm1hdFJlY29tbWVuZFdlbmdMaXN0KCR3ZW5nTGlzdCwgJHJlY29tbWVuZExpc3RbJ3BybV9pZCddKSwKICAgICAgICAgICAgJ3BhZ2UnID0+ICR0aGlzLT5nZXRQYWdlRGF0YSgkcmVjb21tZW5kTGlzdFsndG90YWwnXSksCiAgICAgICAgXSk7</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKE1Ub29sX0Vudjo6YklzT25saW5lKCkpIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KICAgICAgICByZXR1cm4gdHJ1ZTs=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd1c2Vfd2VicCcgID0+IHRydWUsCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2ljb24nICAgICAgICAgICAgID0+ICdodHRwczovL240LXEubWFmZW5nd28ubmV0L3MxNC9NMDAvOEYvMjQvd0tnRTJsMUt2akNBZC0yd0FBQU5ZbWxrbjYwMDUuanBlZycsCiAgICAgICAgICAgICAgICAndGl0bGUnICAgICAgICAgICAgPT4gJ+ivnemimOi0oeeMruamnCcsCiAgICAgICAgICAgICAgICAnc3ViX3RpdGxlJyAgICAgICAgPT4gJ+eci+eci+acrOWRqOS9oOS4iuamnOayoScsCiAgICAgICAgICAgICAgICAnanVtcF91cmwnICAgICAgICAgPT4gJ2h0dHBzOi8vbS5tYWZlbmd3by5jbi9td2VuZy90b3BpYy9saXN0JywKICAgICAgICAgICAgICAgICdiYWNrZ3JvdW5kX2ltYWdlJyA9PiBudWxsLAogICAgICAgICAgICAgICAgJ2J1c2luZXNzX2l0ZW0nICAgID0+IFsKICAgICAgICAgICAgICAgICAgICAnaXRlbV9pZCcgICAgID0+ICcnLAogICAgICAgICAgICAgICAgICAgICdpdGVtX3R5cGUnICAgPT4gJycsCiAgICAgICAgICAgICAgICAgICAgJ2l0ZW1fbmFtZScgICA9PiAnJywKICAgICAgICAgICAgICAgICAgICAnbW9kdWxlX25hbWUnID0+ICfnrJTorrDlip/og73kvY0nLAogICAgICAgICAgICAgICAgICAgICdwb3NfaWQnICAgICAgPT4gInVzZXIubWluZV93ZW5nLmJpamlmdW5jdGlvbi4iLAogICAgICAgICAgICAgICAgICAgICdidXNpbmVzc19pZCcgPT4gJycsCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICBdLA==</text>
       </register>
       <register name=":" type="4">
         <text>e</text>
