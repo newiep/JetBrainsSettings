@@ -18,7 +18,7 @@
       <file name="$USER_HOME$/Works/webdev/appconf/api/weng_exp/publish/get_complete_recommend_list.v1.json" timestamp="1562912409197">
         <mark key="[" line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/guide/mobile/htdocs/detail.php" timestamp="1565168519217">
+      <file name="$USER_HOME$/Works/webdev/guide/mobile/htdocs/detail.php" timestamp="1565922945451">
         <mark key="[" line="52" column="27" />
         <mark key="]" line="52" column="7" />
         <mark key="." line="52" column="7" />
@@ -823,11 +823,6 @@
         <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/event/DarenPubTask.php" timestamp="1565153569358" />
-      <file name="$USER_HOME$/Works/webdev/wengs/form/Modify.php" timestamp="1565857158321">
-        <mark key="[" line="232" column="11" />
-        <mark key="]" line="232" column="11" />
-        <mark key="." line="232" column="11" />
-      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/open/Info.php" timestamp="1565752239735" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Uds.php" timestamp="1565832600559" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/open/Info.php" timestamp="1565752214180">
@@ -864,7 +859,7 @@
         <mark key="[" line="9" column="47" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/Tool.php" timestamp="1564556252775" />
-      <file name="$USER_HOME$/Works/webdev/wengs/admin/Operate.php" timestamp="1565246561879">
+      <file name="$USER_HOME$/Works/webdev/wengs/admin/Operate.php" timestamp="1565922692946">
         <mark key="[" line="443" column="0" />
         <mark key="]" line="443" column="0" />
         <mark key="." line="443" column="0" />
@@ -1205,7 +1200,12 @@
       <file name="$USER_HOME$/Works/rss/mock/FlowCommonItem/0.json" timestamp="1554776420125">
         <mark key="[" line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/log/Operate.php" timestamp="1565782995794" />
+      <file name="$USER_HOME$/Works/webdev/wengs/log/Operate.php" timestamp="1565921768103">
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="98" column="25" />
+        <mark key="." line="98" column="25" />
+        <mark key="^" line="98" column="25" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/debug.php" timestamp="1565833380425">
         <mark key="[" line="703" column="99" />
         <mark key="]" line="698" column="0" />
@@ -1558,11 +1558,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;recommend:weng:modify&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>$userScore = $ranking['score'];</text>
+        <text>&quot;recommend:weng:modify&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -1570,35 +1570,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IFdFQl9QQyA9MTA7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIGluX2FycmF5KCRvcGVyYXRlVHlwZSwgW01BZG1pbl9PcGVyYXRlOjpPVFlQRV9SRUNPTU1FTkQsIE1BZG1pbl9PcGVyYXRlOjpPVFlQRV9HT09EXSk7IAogICAgICAg</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkZGF0YSwgJ29wZXJhdGVfdHlwZScpID09IE1BZG1pbl9PcGVyYXRlOjpPVFlQRV9SRUNPTU1FTkQ7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">CiAgICBjb25zdCBXRUJfTU9CSUxFID0gMTs=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIGNhc2UgTUludGVyYWN0aW9uX1JlcGx5OjpERUxfTkVFRF9BVURJVDoKICAgICAgICAgICAgICAgIHJldHVybiBcYXBwc1xjb250ZW50X2NvbW1lbnRcTUZhY2FkZV9FbnVtX0NvbW1lbnRfU3RhdHVzOjpQRU5ESU5HX0FVRElUOwogICAgICAgICAgICBjYXNlIE1JbnRlcmFjdGlvbl9SZXBseTo6REVMX0RFTDoKICAgICAgICAgICAgICAgIHJldHVybiBcYXBwc1xjb250ZW50X2NvbW1lbnRcTUZhY2FkZV9FbnVtX0NvbW1lbnRfU3RhdHVzOjpERUxFVEVEOwogICAgICAgICAgICBjYXNlIE1JbnRlcmFjdGlvbl9SZXBseTo6REVMX0xPR09VVF9ERUw6CiAgICAgICAgICAgICAgICByZXR1cm4gXGFwcHNcY29udGVudF9jb21tZW50XE1GYWNhZGVfRW51bV9Db21tZW50X1N0YXR1czo6TE9HT1VUX0RFTDs=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2FzZSBNQ29uZjo6Q0xJRU5UX1dFTkdXRU5HX0lPUzoK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgJ3RvdGFsJyAgPT4gTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkcmVzLCAndG90YWwnLCAwKSwKICAgICAgICBdOw==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0YXRpYzo6Z2V0QmVhblN5bmNSZXBseU1hbmFnZXIoKS0+c2V0U3RhdHVzKCRwYXJhbSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RhdGljOjpnZXRCZWFuU3luY1JlcGx5TWFuYWdlcigpLT5yZXBseUV4aXN0KCRwYXJhbSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RhdGljOjpnZXRCZWFuU3luY1JlcGx5TWFuYWdlcigpLT5zZXRTdGF0dXMoJHBhcmFtKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0YXRpYzo6Z2V0QmVhblN5bmNSZXBseU1hbmFnZXIoKS0+c2V0U3RhdHVzKCRwYXJhbSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>e</text>
