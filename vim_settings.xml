@@ -444,9 +444,11 @@
         <mark key="." line="45" column="47" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/travel/Reply.php" timestamp="1566884756682" />
-      <file name="$USER_HOME$/Works/webdev/wengs/admin/Operate.php" timestamp="1567051601819">
-        <mark key="[" line="305" column="9" />
+      <file name="$USER_HOME$/Works/webdev/wengs/admin/Operate.php" timestamp="1567057284521">
+        <mark key="[" line="319" column="0" />
+        <mark key="]" line="319" column="0" />
         <mark key="^" line="354" column="0" />
+        <mark key="." line="319" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/facade/open/Editor.php" timestamp="1566387196632">
         <mark key="[" line="71" column="0" />
@@ -524,10 +526,10 @@
       <file name="$USER_HOME$/Works/webdev/wengs/weng/Dao.php" timestamp="1566797530358">
         <mark key="[" line="99" column="23" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/open/Operate.php" timestamp="1567051658160">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Works/webdev/wengs/open/Operate.php" timestamp="1567057388444">
+        <mark key="[" line="29" column="71" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-root/src/Base/Object/Obj.php" timestamp="1566883061106" />
       <file name="$USER_HOME$/Works/webdev/ko/dao/DB.php" timestamp="1566969952463" />
@@ -607,11 +609,11 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/app/AddEtag.php" timestamp="1566988135810" />
       <file name="$USER_HOME$/Works/webdev/rss/model/TmpTag.php" timestamp="1566810433898" />
-      <file name="$USER_HOME$/Works/webdev/manual-script/201908/wengs/import_hotel_comment.php" timestamp="1567047127971">
-        <mark key="[" line="108" column="25" />
-        <mark key="]" line="32" column="51" />
+      <file name="$USER_HOME$/Works/webdev/manual-script/201908/wengs/import_hotel_comment.php" timestamp="1567057672882">
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
         <mark key="^" line="100" column="24" />
-        <mark key="." line="32" column="51" />
+        <mark key="." line="184" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/weng/ExtApi.php" timestamp="1566974410799" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/SendSalesRedPacket.php" timestamp="1566957581968" />
@@ -625,11 +627,11 @@
         <mark key="]" line="262" column="0" />
         <mark key="." line="262" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/debug.php" timestamp="1566985836482">
-        <mark key="[" line="953" column="4" />
-        <mark key="]" line="1840" column="50" />
-        <mark key="." line="1840" column="50" />
-        <mark key="^" line="1854" column="47" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/debug.php" timestamp="1567057545362">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="931" column="50" />
+        <mark key="." line="931" column="50" />
+        <mark key="^" line="945" column="47" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/app/daren/EncouragePublishWengCrontabStrategy.php" timestamp="1566988172387">
         <mark key="[" line="12" column="6" />
@@ -737,7 +739,6 @@
       <file name="$USER_HOME$/Works/webdev/rss/api/Tag.php" timestamp="1566869426127" />
     </filemarks>
     <jumps>
-      <jump line="284" column="15" filename="$USER_HOME$/Works/wengs/test.php" />
       <jump line="33" column="0" filename="$USER_HOME$/Works/wengs/app/InfoFlow.php" />
       <jump line="10" column="6" filename="$USER_HOME$/Works/wengs/mapi/Tag.php" />
       <jump line="438" column="46" filename="$USER_HOME$/Works/wengs/mapi/Tag.php" />
@@ -837,6 +838,7 @@
       <jump line="12" column="6" filename="$USER_HOME$/Works/webdev/group/apps/group/model/GInfoApi.php" />
       <jump line="509" column="51" filename="$USER_HOME$/Works/webdev/group/apps/group/controller/Article.php" />
       <jump line="134" column="55" filename="$USER_HOME$/Works/webdev/group/apps/group/controller/Article.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Works/webdev/wengs/controller/admin/debug.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -854,11 +856,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>hotel_comment_import</text>
       </register>
       <register name="-" type="4">
-        <text>$aWengIds            = array_column($aList, 'id');</text>
+        <text>hotel_comment_import</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -867,7 +869,7 @@
         <text>MFacade_Inner_Service_Reply_Reply</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmhhbmRsZU9wZXJhdGUoJGlJZCwgJGlUeXBlLCAkaUFkbWluVWlkKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -875,29 +877,29 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIC8qKgogICAgICAgICAgICAgKiDkuLTml7bvvIzpgJrov4fmiZPmoIfosIPnlKjor4TnuqfmjqXlj6PkvJrmnInlvqrnjq/osIPnlKjnmoTpl67popjjgIJmaXhlZDrliKTmlq3mmK/lkKblt7Lnu4/or4Tnuqfov4fvvIzlhrPlrprmmK/lkKbnu6fnu63or4TnuqfjgIIKICAgICAgICAgICAgICog5paw55qEIG1ldGEg5pyN5Yqh5LiK57q/5ZCO77yM5Y+v6IO95Lya5LiL5o6J6K+l6YC76L6RCiAgICAgICAgICAgICAqLwogICAgICAgICAgICAkb3BlcmF0ZUluZm8gPSAkb0FkbWluT3BlcmF0ZS0+YUdldCgkaUlkKTsKICAgICAgICAgICAgaWYgKCRvcGVyYXRlSW5mb1snb3RpbWUnXSAhPSAnMDAwMC0wMC0wMCAwMDowMDowMCcgJiYgIU1Ub29sX0Vudjo6YklzQ0xJKCkpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBcS29fRXhjZXB0aW9uKCfnpoHmraLkv67mlLnnrJTorrAnLCBzZWxmOjpGT1JCSUQpOwogICAgICAgICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">TUFwcDo6JGFwcC0+Y2FjaGUtPmdldEZ1bmNDYWNoZSgKICAgICAgICAgICAgICAgIFskb1dlbmdEYXRhUHJvdmlkZXIsICdhR2V0V2VuZ1RhZ0xpc3QnXSwgWyR3ZW5nWydpZCddXSwgMzAwCiAgICAgICAgICAgICk=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIC8qKgogICAgICAgICAgICAgKiDkuLTml7bvvIzpgJrov4fmiZPmoIfosIPnlKjor4TnuqfmjqXlj6PkvJrmnInlvqrnjq/osIPnlKjnmoTpl67popjjgIJmaXhlZDrliKTmlq3mmK/lkKblt7Lnu4/or4Tnuqfov4fvvIzlhrPlrprmmK/lkKbnu6fnu63or4TnuqfjgIIKICAgICAgICAgICAgICog5paw55qEIG1ldGEg5pyN5Yqh5LiK57q/5ZCO77yM5Y+v6IO95Lya5LiL5o6J6K+l6YC76L6RCiAgICAgICAgICAgICAqLwogICAgICAgICAgICAkb3BlcmF0ZUluZm8gPSAkb0FkbWluT3BlcmF0ZS0+YUdldCgkaUlkKTsKICAgICAgICAgICAgaWYgKCRvcGVyYXRlSW5mb1snb3RpbWUnXSAhPSAnMDAwMC0wMC0wMCAwMDowMDowMCcgJiYgIU1Ub29sX0Vudjo6YklzQ0xJKCkpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBcS29fRXhjZXB0aW9uKCfnpoHmraLkv67mlLnnrJTorrAnLCBzZWxmOjpGT1JCSUQpOwogICAgICAgICAgICB9</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">TUFwcDo6JGFwcC0+Y2FjaGUtPmdldEZ1bmNDYWNoZSgKICAgICAgICAgICAgICAgIFskb1dlbmdEYXRhUHJvdmlkZXIsICdhR2V0V2VuZ1RhZ0xpc3QnXSwgWyR3ZW5nWydpZCddXSwgMzAwCiAgICAgICAgICAgICk=</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">IHsKICAgICAgICAgICAgCiAgICAgICAg</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>if ($sRelateType  == MConf::RELATE_MALL_WENG) {
             $oPublish = MApp::createObject(MForm_TravelExpPublish::class);
             $lbsParser = MApp::createObject(MForm_TravelExpLbs::class);
         } else {</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
