@@ -26,7 +26,11 @@
         <mark key="[" line="11" column="22" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/topic.php" timestamp="1566802953244" />
-      <file name="$USER_HOME$/Works/webdev/guide/mobile/htdocs/detail.php" timestamp="1567076145226" />
+      <file name="$USER_HOME$/Works/webdev/guide/mobile/htdocs/detail.php" timestamp="1567392433573">
+        <mark key="[" line="1049" column="11" />
+        <mark key="]" line="1049" column="11" />
+        <mark key="." line="1049" column="11" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/delete_paragraph.v1.php" timestamp="1556014994185">
         <mark key="[" line="9" column="47" />
       </file>
@@ -163,6 +167,7 @@
       <file name="$USER_HOME$/Works/webdev/rss/router/Topic.php" timestamp="1567133675748" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Services/Qianxun/QianxunService.php" timestamp="1567166695774" />
       <file name="$USER_HOME$/Works/webdev/mobile/apps/facade/mobile/RequestApi.php" timestamp="1566815240872" />
+      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Image.php" timestamp="1567392259027" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Dao/ReplyRepo.php" timestamp="1567043504727">
         <mark key="[" line="49" column="25" />
         <mark key="]" line="49" column="25" />
@@ -550,7 +555,7 @@
         <mark key="[" line="15" column="70" />
       </file>
       <file name="$USER_HOME$/Works/webdev/order/facade/open/NoteApi.php" timestamp="1567157196008" />
-      <file name="$USER_HOME$/Works/webdev/guide/mobile/template/v4/module/detail_other_guide_list_block.tpl" timestamp="1567070626871" />
+      <file name="$USER_HOME$/Works/webdev/guide/mobile/template/v4/module/detail_other_guide_list_block.tpl" timestamp="1567392056907" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/publish/get_order_list.v1.php" timestamp="1567062611075">
         <mark key="[" line="9" column="40" />
         <mark key="]" line="16" column="37" />
@@ -680,7 +685,7 @@
         <mark key="." line="48" column="46" />
         <mark key="^" line="46" column="45" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/file/www2011/include/file/url/Facade.php" timestamp="1566902558064" />
+      <file name="$USER_HOME$/Works/webdev/file/www2011/include/file/url/Facade.php" timestamp="1567392246450" />
       <file name="$USER_HOME$/Works/wengs/mock/task/Data.php" timestamp="1554204402784">
         <mark key="[" line="38" column="5" />
       </file>
@@ -797,6 +802,7 @@
       <file name="$USER_HOME$/Works/wengs/controller/weng_exp/detail/get_detail.v3.php" timestamp="1554896992285">
         <mark key="[" line="22" column="43" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/publish_note.v1.php" timestamp="1567392254966" />
       <file name="$USER_HOME$/Works/webdev/video/facade/video/Thumb.php" timestamp="1566468627145" />
       <file name="$USER_HOME$/Works/webdev/wengs/tool/Time.php" timestamp="1566797452652" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/mine/get_flow_list.v1.php" timestamp="1566545157966">
@@ -1473,10 +1479,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>https://upfonline-admin.mafengwo.cn</text>
+        <text>$item['tag_list']</text>
       </register>
       <register name="-" type="4">
-        <text>https://upfonline-admin.mafengwo.cn</text>
+        <text>$item['tag_list']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
