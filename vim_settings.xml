@@ -55,10 +55,10 @@
       <file name="$USER_HOME$/Works/webdev/content-prd/client/facade/faker/request/param/CollectParam.php" timestamp="1567681802589">
         <mark key="[" line="14" column="38" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/content-prd/client/facade/interaction/service/NoteInteraction.php" timestamp="1569578429960">
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="114" column="7" />
-        <mark key="." line="114" column="9" />
+      <file name="$USER_HOME$/Works/webdev/content-prd/client/facade/interaction/service/NoteInteraction.php" timestamp="1569581310782">
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="24" column="72" />
+        <mark key="." line="24" column="72" />
         <mark key="^" line="114" column="7" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-root/src/Util/Log/Logger.php" timestamp="1568980479171" />
@@ -232,10 +232,11 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/ko/dao/DBSplit.php" timestamp="1568884769733" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/ReduceTaskTimes.php" timestamp="1568630187773" />
-      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1569578046406">
-        <mark key="[" line="368" column="0" />
-        <mark key="]" line="368" column="0" />
-        <mark key="." line="368" column="0" />
+      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1569581303744">
+        <mark key="[" line="368" column="75" />
+        <mark key="]" line="368" column="6" />
+        <mark key="." line="368" column="6" />
+        <mark key="^" line="368" column="6" />
       </file>
       <file name="$USER_HOME$/Works/webdev/gaea/tool/Rabbitmq.php" timestamp="1568895128634" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/Queue.php" timestamp="1569555364947">
@@ -331,7 +332,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Note.php" timestamp="1568857990891" />
       <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/request/param/ReplyParam.php" timestamp="1568974609324" />
       <file name="$USER_HOME$/Works/webdev/outdated/apps/facade/log/Api.php" timestamp="1569490809939" />
-      <file name="/PHP Console" timestamp="1569578042035">
+      <file name="/PHP Console" timestamp="1569581258391">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/tool/Math.php" timestamp="1568797768971">
@@ -814,10 +815,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>dd(class_exists(NoneDarenWengThreeTimesRatedFavEventStrategy::class));</text>
+        <text>, 'vote', 'fav'</text>
       </register>
       <register name="-" type="4">
-        <text>dd(class_exists(NoneDarenWengThreeTimesRatedFavEventStrategy::class));</text>
+        <text>, 'vote', 'fav'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
