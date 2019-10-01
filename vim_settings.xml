@@ -7,7 +7,11 @@
     <filemarks>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/get_import_assets_tabs.v1.php" timestamp="1569862826955" />
       <file name="$USER_HOME$/Code/Work/mafengwo/mobile/mobile_api/api/system/config/get_global_config.v2.php" timestamp="1569863137082" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/open/Info.php" timestamp="1569918187895" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/open/Info.php" timestamp="1569922366617">
+        <mark key="[" line="671" column="56" />
+        <mark key="]" line="669" column="54" />
+        <mark key="." line="669" column="54" />
+      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/rss/mapi/Weng.php" timestamp="1569917676554" />
       <file name="$USER_HOME$/Code/Work/mafengwo/mobile/mobile/htdocs/nb/public/sharejump.php" timestamp="1569915261684" />
       <file name="$USER_HOME$/Code/Work/mafengwo/rss/proxy/Weng.php" timestamp="1569918053352" />
@@ -28,8 +32,8 @@
         <mark key="[" line="22" column="57" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/rss/mapi/tag/RecommendV1.php" timestamp="1569918139006" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/test1.php" timestamp="1569863968508">
-        <mark key="[" line="8" column="8" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/test1.php" timestamp="1569922333814">
+        <mark key="[" line="19" column="0" />
         <mark key="]" line="8" column="8" />
         <mark key="." line="8" column="8" />
         <mark key="^" line="8" column="6" />
@@ -154,10 +158,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>time()</text>
+        <text>$wengId</text>
       </register>
       <register name="-" type="4">
-        <text>time()</text>
+        <text>$wengId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
