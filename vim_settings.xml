@@ -6,8 +6,9 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/Works/webdev/wengs/user/Dao.php" timestamp="1570776193947" />
+      <file name="$USER_HOME$/Works/webdev/sales/www2011/include/rest/sales/favorite.php" timestamp="1570782595272" />
       <file name="$USER_HOME$/Works/webdev/wengs/user/Api.php" timestamp="1570777268516" />
-      <file name="$USER_HOME$/Works/webdev/content-prd/client/facade/interaction/service/GuideInteraction.php" timestamp="1570780483440">
+      <file name="$USER_HOME$/Works/webdev/content-prd/client/facade/interaction/service/GuideInteraction.php" timestamp="1570783066413">
         <mark key="[" line="90" column="57" />
         <mark key="]" line="122" column="59" />
         <mark key="." line="122" column="59" />
@@ -27,12 +28,6 @@
         <mark key="[" line="16" column="13" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/AppConf.php" timestamp="1570672376216" />
-      <file name="$USER_HOME$/Works/webdev/content-prd/client/facade/interaction/service/NoteInteraction.php" timestamp="1570756840760">
-        <mark key="[" line="25" column="30" />
-        <mark key="]" line="24" column="72" />
-        <mark key="." line="24" column="72" />
-        <mark key="^" line="114" column="7" />
-      </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Audit/WengSubmitter.php" timestamp="1570700414454" />
       <file name="$USER_HOME$/Works/webdev/outdated/www2011/include/common/Log.php" timestamp="1569724620047">
         <mark key="[" line="208" column="71" />
@@ -57,12 +52,6 @@
         <mark key="." line="71" column="35" />
       </file>
       <file name="$USER_HOME$/Works/webdev/composer/vendor/mfw/content-root/src/Base/Object/Obj.php" timestamp="1570675719072" />
-      <file name="$USER_HOME$/Works/webdev/content-prd/client/facade/interaction/service/WengInteraction.php" timestamp="1570757027506">
-        <mark key="[" line="91" column="57" />
-        <mark key="]" line="74" column="68" />
-        <mark key="." line="74" column="68" />
-        <mark key="^" line="74" column="67" />
-      </file>
       <file name="$USER_HOME$/Works/webdev/mobile/www2011/include/mapi/favorites/AllTypes.php" timestamp="1570780331740" />
       <file name="$USER_HOME$/Works/webdev/wengs/app/daren/EncouragePublishCrontabStrategy.php" timestamp="1570676682050" />
       <file name="$USER_HOME$/Works/webdev/rss/mapi/tag/DetailV1.php" timestamp="1570759057007">
@@ -71,12 +60,6 @@
         <mark key="." line="181" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/atuser/get_list.v1.php" timestamp="1570777030162" />
-      <file name="$USER_HOME$/Works/webdev/wengs/weng/DataApi.php" timestamp="1570777234473">
-        <mark key="[" line="706" column="10" />
-        <mark key="]" line="706" column="10" />
-        <mark key="." line="706" column="10" />
-        <mark key="^" line="698" column="18" />
-      </file>
       <file name="$USER_HOME$/Works/webdev/rss/proxy/Url.php" timestamp="1570775739703" />
       <file name="$USER_HOME$/Works/webdev/mobile/mobile_api/engine/Application.php" timestamp="1570590132195">
         <mark key="[" line="206" column="25" />
@@ -89,18 +72,13 @@
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Log.php" timestamp="1569724537981">
         <mark key="[" line="43" column="12" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/sales/apps/sales/favorite/control/Favorite.php" timestamp="1570782646442" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/ugc/reply/Api.php" timestamp="1570756901281" />
       <file name="$USER_HOME$/Works/webdev/sales/apps/sales/utils/model/Counter.php" timestamp="1570780914475" />
       <file name="$USER_HOME$/Works/webdev/wengs/ranking/Api.php" timestamp="1570691205592">
         <mark key="[" line="182" column="19" />
         <mark key="]" line="233" column="56" />
         <mark key="." line="233" column="56" />
-      </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/User.php" timestamp="1570777205081">
-        <mark key="[" line="161" column="55" />
-        <mark key="]" line="161" column="55" />
-        <mark key="." line="161" column="55" />
-        <mark key="^" line="145" column="44" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/event/RatingAddHoney.php" timestamp="1570617133819">
         <mark key="[" line="23" column="103" />
@@ -144,12 +122,14 @@
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Services/AsyncQueue.php" timestamp="1568979882825">
         <mark key="[" line="12" column="100" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/mobile/apps/mobile/collection/model/facade/Type.php" timestamp="1570782750616" />
       <file name="$USER_HOME$/Works/webdev/mobile/apps/facade/mobile/Favorite.php" timestamp="1570780237732" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/publish/get_complete_recommend_list.v1.php" timestamp="1570781103623">
         <mark key="[" line="38" column="11" />
         <mark key="]" line="38" column="8" />
         <mark key="." line="38" column="8" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/sales/apps/sales/favorite/facade/Api.php" timestamp="1570782604820" />
       <file name="$USER_HOME$/Works/webdev/sales/apps/sales/utils/facade/CounterApi.php" timestamp="1570780908526" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Config.php" timestamp="1570781399999">
         <mark key="[" line="15" column="0" />
@@ -165,7 +145,7 @@
         <mark key="[" line="29" column="5" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/activity/IndexApi.php" timestamp="1570778832692" />
-      <file name="$USER_HOME$/Works/webdev/content-prd/client/facade/interaction/enum/CollectionType.php" timestamp="1570756686721" />
+      <file name="$USER_HOME$/Works/webdev/content-prd/client/facade/interaction/enum/CollectionType.php" timestamp="1570782747671" />
       <file name="$USER_HOME$/Works/webdev/wengs/multimedia/Audit.php" timestamp="1569566218924">
         <mark key="[" line="166" column="44" />
       </file>
