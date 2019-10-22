@@ -265,6 +265,11 @@
         <mark key="[" line="105" column="30" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Services/MessageService.php" timestamp="1571193108282" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/detail/operation_popup_confirm.v1.php" timestamp="1571741936015">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/event/Dispatcher.php" timestamp="1571723360921" />
       <file name="$USER_HOME$/Works/webdev/content-prd/client/facade/reach/service/AbstractStrategy.php" timestamp="1571205028001" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Recommend.php" timestamp="1571125466670" />
@@ -386,7 +391,7 @@
       <file name="/fragment.php" timestamp="1571128967066">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/detail/get_operation_popup_info.v1.php" timestamp="1571739759714">
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/detail/get_operation_popup_info.v1.php" timestamp="1571741760288">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
@@ -623,7 +628,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$iWengId, $sIsFullVersion, $sIsShowNearWengs</text>
+        <text encoding="base64">J3BvcHVwX2ltYWdlJyA9PiBbCiAgICAgICAgICAgICAgICAnd2lkdGgnICAgPT4gMTA4MCwKICAgICAgICAgICAgICAgICdoZWlnaHQnICA9PiAxMzUwLAogICAgICAgICAgICAgICAgJ2ltZ191cmwnID0+ICdodHRwczovL2IzLXEubWFmZW5nd28ubmV0L3MxMy9NMDAvRUIvMTcvd0tnRWFWeVd4bi1BZjhDREFCSkoxLXVQenpBMzAuanBlZycuCiAgICAgICAgICAgICAgICAgICAgJz9pbWFnZU1vZ3IyJTJGdGh1bWJuYWlsJTJGJTIxNjAweDYwMHIlMkZzdHJpcCUyRnF1YWxpdHklMkY5MCUyRmZvcm1hdCUyRndlYnAlN0N3YXRlcm1hcmsnLgogICAgICAgICAgICAgICAgICAgICclMkYxJTJGaW1hZ2UlMkZhSFIwY0hNNkx5OXdOQzF4TG0xaFptVnVaM2R2TG01bGRDOXpNVE12VFRBd0x6a3lMek5FTDNkTFowVmhWbmhmYUZSWFFVRnJWRVYnLgogICAgICAgICAgICAgICAgICAgICdCUVVKbU4xTTROVXQyTURJMk1pNXdibWNfYVcxaFoyVk5iMmR5TWlVeVJuUm9kVzFpYm1GcGJDVXlSamd4ZUNVeVJuTjBjbWx3SlRKR2NYVmhiR2wwZVNVJy4KICAgICAgICAgICAgICAgICAgICAneVJqa3clMkZncmF2aXR5JTJGU291dGhXZXN0JTJGZHglMkYxOCUyRmR5JTJGMTgnLAogICAgICAgICAgICBdLA==</text>
       </register>
       <register name="-" type="4">
         <text>$iWengId, $sIsFullVersion, $sIsShowNearWengs</text>
@@ -635,58 +640,39 @@
         <text encoding="base64">ICAgIFsnYScgPT4gMSwgJ2InPT4gMl0sCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">JGJJc0Z1bGxWZXJzaW9uID0gKGJvb2wpJHNJc0Z1bGxWZXJzaW9uOwogICAgICAgICRiSXNTaG93TmVhciAgICA9IChib29sKSRzSXNTaG93TmVhcldlbmdzOwogICAgICAgICRpTG9naW5VSWQgICAgICA9IE1BcHA6OiRhcHAtPnVzZXItPmlkOwoKICAgICAgICAvKiogQHZhciAkY2hlY2tlciBNV2VuZ19DaGVja0Z1bmMgKi8KICAgICAgICAkY2hlY2tlciA9IE1BcHA6OmNyZWF0ZU9iamVjdChNV2VuZ19DaGVja0Z1bmM6OmNsYXNzKTsKICAgICAgICBpZiAoJGNoZWNrZXItPmJJc0RlbGV0ZWQoJGlXZW5nSWQpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBcS29fRXhjZXB0aW9uKCfnrJTorrDkuI3lrZjlnKgnLCAxMDAwMSk7CiAgICAgICAgfQoKICAgICAgICAvKiogQHZhciAkb1Byb3h5UmVxdWVzdCBNUHJveHlfUmVxdWVzdCAqLwogICAgICAgICRvUHJveHlSZXF1ZXN0ICA9IE1BcHA6OmNyZWF0ZU9iamVjdChNUHJveHlfUmVxdWVzdDo6Y2xhc3MpOwogICAgICAgICRhTG9jYXRpb25Qb2ludCA9ICRvUHJveHlSZXF1ZXN0LT5hTGF0TG5nKCk7CgogICAgICAgIC8qKgogICAgICAgICAqIEB2YXIgJG9EZXRhaWxBcGkgTU1hcGlfRGV0YWlsX1dlbmdEZXRhaWwKICAgICAgICAgKi8KICAgICAgICAkb0RldGFpbEFwaSA9IE1BcHA6OmNyZWF0ZU9iamVjdChNTWFwaV9EZXRhaWxfV2VuZ0RldGFpbDo6Y2xhc3MsIFsKICAgICAgICAgICAgJ2lkJyAgICAgICAgICAgID0+ICRpV2VuZ0lkLAogICAgICAgICAgICAnZnVsbFZlcnNpb24nICAgPT4gJGJJc0Z1bGxWZXJzaW9uLAogICAgICAgICAgICAnbG9naW5VaWQnICAgICAgPT4gJGlMb2dpblVJZCwKICAgICAgICAgICAgJ2lzU2hvd05lYXInICAgID0+ICRiSXNTaG93TmVhciwKICAgICAgICAgICAgJ2xvY2F0aW9uUG9pbnQnID0+ICRhTG9jYXRpb25Qb2ludCwKICAgICAgICBdKTsKICAgICAgICB0cnkgewogICAgICAgICAgICAkcmVzdWx0ID0gJG9EZXRhaWxBcGktPmdldERhdGEoKTsKICAgICAgICB9IGNhdGNoIChNQ29tbW9uX0V4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICBzd2l0Y2ggKCRlLT5nZXRDb2RlKCkpIHsKICAgICAgICAgICAgICAgIGNhc2UgTUNvbW1vbl9FeGNlcHRpb246OklOX0FVRElUOgogICAgICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+ZXJyb3IoJ+WGheWuueato+WcqOWuoeaguOS4re+8jOaaguaXtuaXoOazleafpeeciycsIDEwMDAxKTsKICAgICAgICAgICAgICAgIGNhc2UgTUNvbW1vbl9FeGNlcHRpb246OkFVRElUX0hJREU6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5lcnJvcign5ZOO5ZGA77yM5L2g6KaB55yL55qE5YaF5a655Y675peF6KGM5ZWmJywgMTAwMDEpOwogICAgICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gJHRoaXMtPmVycm9yKCRlLT5nZXRNZXNzYWdlKCksIDEwMDAxKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gJHRoaXMtPnN1Y2Nlc3MoJHJlc3VsdCk7</text>
+        <text encoding="base64">J3BvcHVwX2ltYWdlJyA9PiBbCiAgICAgICAgICAgICAgICAnd2lkdGgnICAgPT4gMTA4MCwKICAgICAgICAgICAgICAgICdoZWlnaHQnICA9PiAxMzUwLAogICAgICAgICAgICAgICAgJ2ltZ191cmwnID0+ICdodHRwczovL2IzLXEubWFmZW5nd28ubmV0L3MxMy9NMDAvRUIvMTcvd0tnRWFWeVd4bi1BZjhDREFCSkoxLXVQenpBMzAuanBlZycuCiAgICAgICAgICAgICAgICAgICAgJz9pbWFnZU1vZ3IyJTJGdGh1bWJuYWlsJTJGJTIxNjAweDYwMHIlMkZzdHJpcCUyRnF1YWxpdHklMkY5MCUyRmZvcm1hdCUyRndlYnAlN0N3YXRlcm1hcmsnLgogICAgICAgICAgICAgICAgICAgICclMkYxJTJGaW1hZ2UlMkZhSFIwY0hNNkx5OXdOQzF4TG0xaFptVnVaM2R2TG01bGRDOXpNVE12VFRBd0x6a3lMek5FTDNkTFowVmhWbmhmYUZSWFFVRnJWRVYnLgogICAgICAgICAgICAgICAgICAgICdCUVVKbU4xTTROVXQyTURJMk1pNXdibWNfYVcxaFoyVk5iMmR5TWlVeVJuUm9kVzFpYm1GcGJDVXlSamd4ZUNVeVJuTjBjbWx3SlRKR2NYVmhiR2wwZVNVJy4KICAgICAgICAgICAgICAgICAgICAneVJqa3clMkZncmF2aXR5JTJGU291dGhXZXN0JTJGZHglMkYxOCUyRmR5JTJGMTgnLAogICAgICAgICAgICBdLA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gc2V0Q29uZigkY29uZikKICAgIHsKICAgICAgICAkdGhpcy0+bG9naW5VaWQgPSBNVG9vbF9BcnJheTo6bUdldFZhbHVlKCRjb25mLCBbJ2xvZ2luX3VpZCddLCAwKQogICAgfQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkcGFyZW50UGFnZVVyaSA9IE1BcHA6OiRhcHAtPnJlcXVlc3QtPmdldFBhcmFtcygncGFyZW50X3BhZ2VfdXJpJywgJycpOwo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlICRsb2dpblVpZDsKICAgIAogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIHNldENvbmYoJGNvbmYpCiAgICB7CiAgICAgICAgJHRoaXMtPmxvZ2luVWlkID0gTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkY29uZiwgWydsb2dpbl91aWQnXSwgMCkKICAgIH0K</text>
+        <text encoding="base64">JGJJc0Z1bGxWZXJzaW9uID0gKGJvb2wpJHNJc0Z1bGxWZXJzaW9uOwogICAgICAgICRiSXNTaG93TmVhciAgICA9IChib29sKSRzSXNTaG93TmVhcldlbmdzOwogICAgICAgICRpTG9naW5VSWQgICAgICA9IE1BcHA6OiRhcHAtPnVzZXItPmlkOwoKICAgICAgICAvKiogQHZhciAkY2hlY2tlciBNV2VuZ19DaGVja0Z1bmMgKi8KICAgICAgICAkY2hlY2tlciA9IE1BcHA6OmNyZWF0ZU9iamVjdChNV2VuZ19DaGVja0Z1bmM6OmNsYXNzKTsKICAgICAgICBpZiAoJGNoZWNrZXItPmJJc0RlbGV0ZWQoJGlXZW5nSWQpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBcS29fRXhjZXB0aW9uKCfnrJTorrDkuI3lrZjlnKgnLCAxMDAwMSk7CiAgICAgICAgfQoKICAgICAgICAvKiogQHZhciAkb1Byb3h5UmVxdWVzdCBNUHJveHlfUmVxdWVzdCAqLwogICAgICAgICRvUHJveHlSZXF1ZXN0ICA9IE1BcHA6OmNyZWF0ZU9iamVjdChNUHJveHlfUmVxdWVzdDo6Y2xhc3MpOwogICAgICAgICRhTG9jYXRpb25Qb2ludCA9ICRvUHJveHlSZXF1ZXN0LT5hTGF0TG5nKCk7CgogICAgICAgIC8qKgogICAgICAgICAqIEB2YXIgJG9EZXRhaWxBcGkgTU1hcGlfRGV0YWlsX1dlbmdEZXRhaWwKICAgICAgICAgKi8KICAgICAgICAkb0RldGFpbEFwaSA9IE1BcHA6OmNyZWF0ZU9iamVjdChNTWFwaV9EZXRhaWxfV2VuZ0RldGFpbDo6Y2xhc3MsIFsKICAgICAgICAgICAgJ2lkJyAgICAgICAgICAgID0+ICRpV2VuZ0lkLAogICAgICAgICAgICAnZnVsbFZlcnNpb24nICAgPT4gJGJJc0Z1bGxWZXJzaW9uLAogICAgICAgICAgICAnbG9naW5VaWQnICAgICAgPT4gJGlMb2dpblVJZCwKICAgICAgICAgICAgJ2lzU2hvd05lYXInICAgID0+ICRiSXNTaG93TmVhciwKICAgICAgICAgICAgJ2xvY2F0aW9uUG9pbnQnID0+ICRhTG9jYXRpb25Qb2ludCwKICAgICAgICBdKTsKICAgICAgICB0cnkgewogICAgICAgICAgICAkcmVzdWx0ID0gJG9EZXRhaWxBcGktPmdldERhdGEoKTsKICAgICAgICB9IGNhdGNoIChNQ29tbW9uX0V4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICBzd2l0Y2ggKCRlLT5nZXRDb2RlKCkpIHsKICAgICAgICAgICAgICAgIGNhc2UgTUNvbW1vbl9FeGNlcHRpb246OklOX0FVRElUOgogICAgICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+ZXJyb3IoJ+WGheWuueato+WcqOWuoeaguOS4re+8jOaaguaXtuaXoOazleafpeeciycsIDEwMDAxKTsKICAgICAgICAgICAgICAgIGNhc2UgTUNvbW1vbl9FeGNlcHRpb246OkFVRElUX0hJREU6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5lcnJvcign5ZOO5ZGA77yM5L2g6KaB55yL55qE5YaF5a655Y675peF6KGM5ZWmJywgMTAwMDEpOwogICAgICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gJHRoaXMtPmVycm9yKCRlLT5nZXRNZXNzYWdlKCksIDEwMDAxKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gJHRoaXMtPnN1Y2Nlc3MoJHJlc3VsdCk7</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gc2V0Q29uZigkY29uZikKICAgIHsKICAgICAgICAkdGhpcy0+bG9naW5VaWQgPSBNVG9vbF9BcnJheTo6bUdldFZhbHVlKCRjb25mLCBbJ2xvZ2luX3VpZCddLCAwKQogICAgfQo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGJyb2FkY2FzdCgkdWlkLCAkcHJpemVJZHMpCiAgICB7CiAgICAgICAgCiAgICB9</text>
+        <text encoding="base64">CiAgICBwcml2YXRlICRsb2dpblVpZDsKICAgIAogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIHNldENvbmYoJGNvbmYpCiAgICB7CiAgICAgICAgJHRoaXMtPmxvZ2luVWlkID0gTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkY29uZiwgWydsb2dpbl91aWQnXSwgMCkKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IE1BWF9MRU5HVEggPSAyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGJyb2FkY2FzdCgkdWlkLCAkcHJpemVJZHMpCiAgICB7CiAgICAgICAgCiAgICB9</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IE1BWF9MRU5HVEggPSAyOwo=</text>
+      </register>
+      <register name="9" type="4">
         <text>$a = 1;
 a($a + 1);
 
 function a($num) {
     dd($num);
 }</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAnaWQnID0+IAogICAgICAgIF0=</text>
-      </register>
-      <register name="9" type="4">
-        <text>switch ($num) {
-            case 1:
-                //头像挂件
-                $prizeHandler = new PickFirstPrize();
-                break;
-            case 5:
-                //升级版头像
-                $prizeHandler = new PickFifthPrize();
-                break;
-            case 10:
-                //50蜂蜜
-                $prizeHandler = new PickTenthPrize();
-                break;
-            case 15:
-                //50元组合优惠券
-                $prizeHandler = new PickFifteenthPrize();
-                break;
-            default:
-                $prizeHandler = null;
-        }</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
