@@ -68,7 +68,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/facade/log/Api.php" timestamp="1571649998270" />
       <file name="$USER_HOME$/Works/webdev/ko/tool/HttpRequest.php" timestamp="1571649771970" />
-      <file name="$USER_HOME$/Works/webdev/wengs/admin/Operate.php" timestamp="1571636481768">
+      <file name="$USER_HOME$/Works/webdev/wengs/admin/Operate.php" timestamp="1571798360056">
         <mark key="[" line="695" column="76" />
         <mark key="]" line="703" column="29" />
         <mark key="." line="703" column="29" />
@@ -89,6 +89,12 @@
       <file name="$USER_HOME$/Works/webdev/poi/apps/poi/facade/Poi.php" timestamp="1571207537181" />
       <file name="$USER_HOME$/Works/webdev/content-prd/server/Reach/Manager/WengDaren/LimiterFactory.php" timestamp="1571714643451" />
       <file name="$USER_HOME$/Works/webdev/ko/mode/Limit.php" timestamp="1571715922120" />
+      <file name="$USER_HOME$/Works/webdev/wengs/app/Daren.php" timestamp="1571198372854">
+        <mark key="'" line="21" column="63" />
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/tag.php" timestamp="1571216314915">
         <mark key="[" line="217" column="53" />
         <mark key="]" line="217" column="16" />
@@ -183,7 +189,7 @@
         <mark key="]" line="181" column="0" />
         <mark key="." line="181" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/weng/DataApi.php" timestamp="1571795838934">
+      <file name="$USER_HOME$/Works/webdev/wengs/weng/DataApi.php" timestamp="1571799179019">
         <mark key="[" line="706" column="10" />
         <mark key="]" line="706" column="10" />
         <mark key="." line="706" column="10" />
@@ -261,7 +267,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/Tag.php" timestamp="1571192284046" />
       <file name="$USER_HOME$/Works/webdev/manual-script/201806/user/initKolUser.php" timestamp="1571650241120" />
       <file name="$USER_HOME$/Works/webdev/wengs/ranking/ScoreManager.php" timestamp="1571034681035" />
-      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Poi.php" timestamp="1571134663526" />
+      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Poi.php" timestamp="1571799347974" />
       <file name="$USER_HOME$/Works/webdev/wengs/Conf.php" timestamp="1571738855066">
         <mark key="[" line="277" column="40" />
       </file>
@@ -278,10 +284,10 @@
         <mark key="[" line="105" column="30" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Services/MessageService.php" timestamp="1571193108282" />
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/detail/operation_popup_confirm.v1.php" timestamp="1571741936015">
-        <mark key="[" line="19" column="12" />
-        <mark key="]" line="19" column="12" />
-        <mark key="." line="19" column="12" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/detail/operation_popup_confirm.v1.php" timestamp="1571800152832">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="12" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/event/Dispatcher.php" timestamp="1571723360921" />
       <file name="$USER_HOME$/Works/webdev/content-prd/client/facade/reach/service/AbstractStrategy.php" timestamp="1571205028001" />
@@ -367,7 +373,7 @@
         <mark key="]" line="613" column="0" />
         <mark key="." line="613" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/poi/search_mdd_pois.v2.php" timestamp="1571738847132" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/poi/search_mdd_pois.v2.php" timestamp="1571799377399" />
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/Recommend.php" timestamp="1571126065802">
         <mark key="[" line="273" column="71" />
         <mark key="]" line="49" column="15" />
@@ -427,7 +433,7 @@
         <mark key="]" line="70" column="20" />
         <mark key="." line="70" column="20" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/topic_ranking.php" timestamp="1571711000169">
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/topic_ranking.php" timestamp="1571799559072">
         <mark key="[" line="298" column="69" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/topic.php" timestamp="1571643539104" />
@@ -501,7 +507,7 @@
       <file name="$USER_HOME$/Works/webdev/content-prd/server/Reach/Manager/WengDaren/NoneDarenWengThreeTimesRatedFavEventStrategy.php" timestamp="1571225637510">
         <mark key="[" line="49" column="71" />
       </file>
-      <file name="/PHP Console" timestamp="1571795050317">
+      <file name="/PHP Console" timestamp="1571799858364">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/msg/www2011/include/msg/Facade.php" timestamp="1571620306677" />
@@ -518,11 +524,17 @@
       <file name="$USER_HOME$/Works/webdev/message/model/Executor.php" timestamp="1571208952509" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Show.php" timestamp="1571298144698" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Mobile.php" timestamp="1571128511223" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/video_ranking.php" timestamp="1571799599191">
+        <mark key="'" line="302" column="27" />
+        <mark key="[" line="67" column="53" />
+        <mark key="]" line="67" column="53" />
+        <mark key="." line="67" column="53" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/base/controller/MApiAdmin.php" timestamp="1571710219811" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/mine/mayBeHere.php" timestamp="1571725342268" />
       <file name="$USER_HOME$/Works/webdev/file/www2011/include/file/url/Facade.php" timestamp="1571293358849" />
-      <file name="$USER_HOME$/Works/webdev/rss/api/Tag.php" timestamp="1571795879715">
-        <mark key="[" line="203" column="69" />
+      <file name="$USER_HOME$/Works/webdev/rss/api/Tag.php" timestamp="1571797313026">
+        <mark key="[" line="169" column="62" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/form/DelayLike.php" timestamp="1571205605500" />
       <file name="$USER_HOME$/Works/webdev/wengs/App.php" timestamp="1571725483866">
@@ -651,10 +663,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">J3BvcHVwX2ltYWdlJyA9PiBbCiAgICAgICAgICAgICAgICAnd2lkdGgnICAgPT4gMTA4MCwKICAgICAgICAgICAgICAgICdoZWlnaHQnICA9PiAxMzUwLAogICAgICAgICAgICAgICAgJ2ltZ191cmwnID0+ICdodHRwczovL2IzLXEubWFmZW5nd28ubmV0L3MxMy9NMDAvRUIvMTcvd0tnRWFWeVd4bi1BZjhDREFCSkoxLXVQenpBMzAuanBlZycuCiAgICAgICAgICAgICAgICAgICAgJz9pbWFnZU1vZ3IyJTJGdGh1bWJuYWlsJTJGJTIxNjAweDYwMHIlMkZzdHJpcCUyRnF1YWxpdHklMkY5MCUyRmZvcm1hdCUyRndlYnAlN0N3YXRlcm1hcmsnLgogICAgICAgICAgICAgICAgICAgICclMkYxJTJGaW1hZ2UlMkZhSFIwY0hNNkx5OXdOQzF4TG0xaFptVnVaM2R2TG01bGRDOXpNVE12VFRBd0x6a3lMek5FTDNkTFowVmhWbmhmYUZSWFFVRnJWRVYnLgogICAgICAgICAgICAgICAgICAgICdCUVVKbU4xTTROVXQyTURJMk1pNXdibWNfYVcxaFoyVk5iMmR5TWlVeVJuUm9kVzFpYm1GcGJDVXlSamd4ZUNVeVJuTjBjbWx3SlRKR2NYVmhiR2wwZVNVJy4KICAgICAgICAgICAgICAgICAgICAneVJqa3clMkZncmF2aXR5JTJGU291dGhXZXN0JTJGZHglMkYxOCUyRmR5JTJGMTgnLAogICAgICAgICAgICBdLA==</text>
+        <text encoding="base64">ID8gJ+inhumikScgOiAn56yU6K6wJw==</text>
       </register>
       <register name="-" type="4">
-        <text>$iWengId, $sIsFullVersion, $sIsShowNearWengs</text>
+        <text encoding="base64">ID8gJ+inhumikScgOiAn56yU6K6wJw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -662,40 +674,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIFsnYScgPT4gMSwgJ2InPT4gMl0sCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">J3BvcHVwX2ltYWdlJyA9PiBbCiAgICAgICAgICAgICAgICAnd2lkdGgnICAgPT4gMTA4MCwKICAgICAgICAgICAgICAgICdoZWlnaHQnICA9PiAxMzUwLAogICAgICAgICAgICAgICAgJ2ltZ191cmwnID0+ICdodHRwczovL2IzLXEubWFmZW5nd28ubmV0L3MxMy9NMDAvRUIvMTcvd0tnRWFWeVd4bi1BZjhDREFCSkoxLXVQenpBMzAuanBlZycuCiAgICAgICAgICAgICAgICAgICAgJz9pbWFnZU1vZ3IyJTJGdGh1bWJuYWlsJTJGJTIxNjAweDYwMHIlMkZzdHJpcCUyRnF1YWxpdHklMkY5MCUyRmZvcm1hdCUyRndlYnAlN0N3YXRlcm1hcmsnLgogICAgICAgICAgICAgICAgICAgICclMkYxJTJGaW1hZ2UlMkZhSFIwY0hNNkx5OXdOQzF4TG0xaFptVnVaM2R2TG01bGRDOXpNVE12VFRBd0x6a3lMek5FTDNkTFowVmhWbmhmYUZSWFFVRnJWRVYnLgogICAgICAgICAgICAgICAgICAgICdCUVVKbU4xTTROVXQyTURJMk1pNXdibWNfYVcxaFoyVk5iMmR5TWlVeVJuUm9kVzFpYm1GcGJDVXlSamd4ZUNVeVJuTjBjbWx3SlRKR2NYVmhiR2wwZVNVJy4KICAgICAgICAgICAgICAgICAgICAneVJqa3clMkZncmF2aXR5JTJGU291dGhXZXN0JTJGZHglMkYxOCUyRmR5JTJGMTgnLAogICAgICAgICAgICBdLA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFyZW50UGFnZVVyaSA9IE1BcHA6OiRhcHAtPnJlcXVlc3QtPmdldFBhcmFtcygncGFyZW50X3BhZ2VfdXJpJywgJycpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">PT09PT09PQogICAgICAgICRvUHJveHlVc2VyID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1Qcm94eV9Vc2VyOjpjbGFzcyk7CiAgICAgICAgJG9EYXRhQXBpID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1XZW5nX0RhdGFBcGk6OmNsYXNzKTsKICAgICAgICAkc0N0aW1lID0gKG5ldyBcRGF0ZVRpbWUoJy0xIGhvdXJzJykpLT5mb3JtYXQoJ1ktbS1kIEg6aTpzJyk7CiAgICAgICAgJGFSZXQgPSBNQXBwOjokYXBwLT5jYWNoZS0+Z2V0RnVuY0NhY2hlKAogICAgICAgICAgICBbJG9EYXRhQXBpLCAnYUdldExhdGVzdFdlbmdCeUZsYWcnXSwKICAgICAgICAgICAgWyRzQ3RpbWUsIE1XZW5nX1N0YXR1czo6YUdldFZpZXdBYmxlKHRydWUpLCAyMDBdLAogICAgICAgICAgICAzMAogICAgICAgICk7CiAgICAgICAgJGFMYXRlc3RXZW5ncyA9IE1Ub29sX0FycmF5OjptR2V0VmFsdWUoJGFSZXQsIFsnbGlzdCddLCBbXSk7CiAgICAgICAgJHVpZHMgPSBhcnJheV91bmlxdWUoYXJyYXlfY29sdW1uKCRhTGF0ZXN0V2VuZ3MsICd1aWQnKSk7CiAgICAgICAgJGFJZFVzZXJNYXAgICA9IGFycmF5X2NvbHVtbigkb1Byb3h5VXNlci0+YUdldEluZm9zKCR1aWRzKSwgbnVsbCwgJ3VpZCcpOwogICAgICAgICRtZXNzYWdlTGlzdCA9IFtdOwogICAgICAgIGZvcmVhY2ggKCRhTGF0ZXN0V2VuZ3MgYXMgJHdlbmcpIHsKICAgICAgICAgICAgaWYgKCEkdXNlckluZm8gPSBNVG9vbF9BcnJheTo6bUdldFZhbHVlKCRhSWRVc2VyTWFwLCAkd2VuZ1sndWlkJ10pKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoISRvRGF0YUFwaS0+YklzVmlkZW8oJHdlbmdbJ3dlbmdpZCddKSkgewogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgJGdhcFRpbWUgPSB0aW1lKCkgLSBzdHJ0b3RpbWUoJHdlbmdbJ2N0aW1lJ10pOwogICAgICAgICAgICAkZ2FwVGltZSA9IG1heCgkZ2FwVGltZSwgMSk7CiAgICAgICAgICAgIGlmICgkZ2FwVGltZSA8IDYwKSB7CiAgICAgICAgICAgICAgICAkdGltZUZvcm1hdCA9ICRnYXBUaW1lIC4gJ+enkic7CiAgICAgICAgICAgIH0gZWxzZWlmICgkZ2FwVGltZSA8IDYwICogMTApIHsKICAgICAgICAgICAgICAgICR0aW1lRm9ybWF0ID0gZmxvb3IoJGdhcFRpbWUvNjApIC4gJ+WIhumSnyc7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAkdGltZUZvcm1hdCA9ICcxMOWIhumSnyc7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgJG5hbWUgPSBtYl9zdHJsZW4oJHVzZXJJbmZvWyduYW1lJ10pID4gNCA/CiAgICAgICAgICAgICAgICBtYl9zdWJzdHIoJHVzZXJJbmZvWyduYW1lJ10sIDAsIDQpIC4gJy4uLicgOiAkdXNlckluZm9bJ25hbWUnXTsKICAgICAgICAgICAgJG1lc3NhZ2VMaXN0W10gPSBbCiAgICAgICAgICAgICAgICAnaWNvbicgPT4gWwogICAgICAgICAgICAgICAgICAgICd1cmwnID0+ICR1c2VySW5mb1snbG9nbyddLAogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICdtZXNzYWdlJyA9PiBzcHJpbnRmKCIlcyAlc+WJjeWPkeW4g+S6huS4gOadoeinhumikSIsICRuYW1lLCAkdGltZUZvcm1hdCksCiAgICAgICAgICAgIF07Cj4+Pj4+Pj4gdmlkZW9fcmFua2luZw==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">JGJJc0Z1bGxWZXJzaW9uID0gKGJvb2wpJHNJc0Z1bGxWZXJzaW9uOwogICAgICAgICRiSXNTaG93TmVhciAgICA9IChib29sKSRzSXNTaG93TmVhcldlbmdzOwogICAgICAgICRpTG9naW5VSWQgICAgICA9IE1BcHA6OiRhcHAtPnVzZXItPmlkOwoKICAgICAgICAvKiogQHZhciAkY2hlY2tlciBNV2VuZ19DaGVja0Z1bmMgKi8KICAgICAgICAkY2hlY2tlciA9IE1BcHA6OmNyZWF0ZU9iamVjdChNV2VuZ19DaGVja0Z1bmM6OmNsYXNzKTsKICAgICAgICBpZiAoJGNoZWNrZXItPmJJc0RlbGV0ZWQoJGlXZW5nSWQpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBcS29fRXhjZXB0aW9uKCfnrJTorrDkuI3lrZjlnKgnLCAxMDAwMSk7CiAgICAgICAgfQoKICAgICAgICAvKiogQHZhciAkb1Byb3h5UmVxdWVzdCBNUHJveHlfUmVxdWVzdCAqLwogICAgICAgICRvUHJveHlSZXF1ZXN0ICA9IE1BcHA6OmNyZWF0ZU9iamVjdChNUHJveHlfUmVxdWVzdDo6Y2xhc3MpOwogICAgICAgICRhTG9jYXRpb25Qb2ludCA9ICRvUHJveHlSZXF1ZXN0LT5hTGF0TG5nKCk7CgogICAgICAgIC8qKgogICAgICAgICAqIEB2YXIgJG9EZXRhaWxBcGkgTU1hcGlfRGV0YWlsX1dlbmdEZXRhaWwKICAgICAgICAgKi8KICAgICAgICAkb0RldGFpbEFwaSA9IE1BcHA6OmNyZWF0ZU9iamVjdChNTWFwaV9EZXRhaWxfV2VuZ0RldGFpbDo6Y2xhc3MsIFsKICAgICAgICAgICAgJ2lkJyAgICAgICAgICAgID0+ICRpV2VuZ0lkLAogICAgICAgICAgICAnZnVsbFZlcnNpb24nICAgPT4gJGJJc0Z1bGxWZXJzaW9uLAogICAgICAgICAgICAnbG9naW5VaWQnICAgICAgPT4gJGlMb2dpblVJZCwKICAgICAgICAgICAgJ2lzU2hvd05lYXInICAgID0+ICRiSXNTaG93TmVhciwKICAgICAgICAgICAgJ2xvY2F0aW9uUG9pbnQnID0+ICRhTG9jYXRpb25Qb2ludCwKICAgICAgICBdKTsKICAgICAgICB0cnkgewogICAgICAgICAgICAkcmVzdWx0ID0gJG9EZXRhaWxBcGktPmdldERhdGEoKTsKICAgICAgICB9IGNhdGNoIChNQ29tbW9uX0V4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICBzd2l0Y2ggKCRlLT5nZXRDb2RlKCkpIHsKICAgICAgICAgICAgICAgIGNhc2UgTUNvbW1vbl9FeGNlcHRpb246OklOX0FVRElUOgogICAgICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+ZXJyb3IoJ+WGheWuueato+WcqOWuoeaguOS4re+8jOaaguaXtuaXoOazleafpeeciycsIDEwMDAxKTsKICAgICAgICAgICAgICAgIGNhc2UgTUNvbW1vbl9FeGNlcHRpb246OkFVRElUX0hJREU6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5lcnJvcign5ZOO5ZGA77yM5L2g6KaB55yL55qE5YaF5a655Y675peF6KGM5ZWmJywgMTAwMDEpOwogICAgICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gJHRoaXMtPmVycm9yKCRlLT5nZXRNZXNzYWdlKCksIDEwMDAxKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gJHRoaXMtPnN1Y2Nlc3MoJHJlc3VsdCk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gc2V0Q29uZigkY29uZikKICAgIHsKICAgICAgICAkdGhpcy0+bG9naW5VaWQgPSBNVG9vbF9BcnJheTo6bUdldFZhbHVlKCRjb25mLCBbJ2xvZ2luX3VpZCddLCAwKQogICAgfQo=</text>
+        <text encoding="base64">J3BvcHVwX2ltYWdlJyA9PiBbCiAgICAgICAgICAgICAgICAnd2lkdGgnICAgPT4gMTA4MCwKICAgICAgICAgICAgICAgICdoZWlnaHQnICA9PiAxMzUwLAogICAgICAgICAgICAgICAgJ2ltZ191cmwnID0+ICdodHRwczovL2IzLXEubWFmZW5nd28ubmV0L3MxMy9NMDAvRUIvMTcvd0tnRWFWeVd4bi1BZjhDREFCSkoxLXVQenpBMzAuanBlZycuCiAgICAgICAgICAgICAgICAgICAgJz9pbWFnZU1vZ3IyJTJGdGh1bWJuYWlsJTJGJTIxNjAweDYwMHIlMkZzdHJpcCUyRnF1YWxpdHklMkY5MCUyRmZvcm1hdCUyRndlYnAlN0N3YXRlcm1hcmsnLgogICAgICAgICAgICAgICAgICAgICclMkYxJTJGaW1hZ2UlMkZhSFIwY0hNNkx5OXdOQzF4TG0xaFptVnVaM2R2TG01bGRDOXpNVE12VFRBd0x6a3lMek5FTDNkTFowVmhWbmhmYUZSWFFVRnJWRVYnLgogICAgICAgICAgICAgICAgICAgICdCUVVKbU4xTTROVXQyTURJMk1pNXdibWNfYVcxaFoyVk5iMmR5TWlVeVJuUm9kVzFpYm1GcGJDVXlSamd4ZUNVeVJuTjBjbWx3SlRKR2NYVmhiR2wwZVNVJy4KICAgICAgICAgICAgICAgICAgICAneVJqa3clMkZncmF2aXR5JTJGU291dGhXZXN0JTJGZHglMkYxOCUyRmR5JTJGMTgnLAogICAgICAgICAgICBdLA==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlICRsb2dpblVpZDsKICAgIAogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIHNldENvbmYoJGNvbmYpCiAgICB7CiAgICAgICAgJHRoaXMtPmxvZ2luVWlkID0gTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkY29uZiwgWydsb2dpbl91aWQnXSwgMCkKICAgIH0K</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkcGFyZW50UGFnZVVyaSA9IE1BcHA6OiRhcHAtPnJlcXVlc3QtPmdldFBhcmFtcygncGFyZW50X3BhZ2VfdXJpJywgJycpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">JGJJc0Z1bGxWZXJzaW9uID0gKGJvb2wpJHNJc0Z1bGxWZXJzaW9uOwogICAgICAgICRiSXNTaG93TmVhciAgICA9IChib29sKSRzSXNTaG93TmVhcldlbmdzOwogICAgICAgICRpTG9naW5VSWQgICAgICA9IE1BcHA6OiRhcHAtPnVzZXItPmlkOwoKICAgICAgICAvKiogQHZhciAkY2hlY2tlciBNV2VuZ19DaGVja0Z1bmMgKi8KICAgICAgICAkY2hlY2tlciA9IE1BcHA6OmNyZWF0ZU9iamVjdChNV2VuZ19DaGVja0Z1bmM6OmNsYXNzKTsKICAgICAgICBpZiAoJGNoZWNrZXItPmJJc0RlbGV0ZWQoJGlXZW5nSWQpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBcS29fRXhjZXB0aW9uKCfnrJTorrDkuI3lrZjlnKgnLCAxMDAwMSk7CiAgICAgICAgfQoKICAgICAgICAvKiogQHZhciAkb1Byb3h5UmVxdWVzdCBNUHJveHlfUmVxdWVzdCAqLwogICAgICAgICRvUHJveHlSZXF1ZXN0ICA9IE1BcHA6OmNyZWF0ZU9iamVjdChNUHJveHlfUmVxdWVzdDo6Y2xhc3MpOwogICAgICAgICRhTG9jYXRpb25Qb2ludCA9ICRvUHJveHlSZXF1ZXN0LT5hTGF0TG5nKCk7CgogICAgICAgIC8qKgogICAgICAgICAqIEB2YXIgJG9EZXRhaWxBcGkgTU1hcGlfRGV0YWlsX1dlbmdEZXRhaWwKICAgICAgICAgKi8KICAgICAgICAkb0RldGFpbEFwaSA9IE1BcHA6OmNyZWF0ZU9iamVjdChNTWFwaV9EZXRhaWxfV2VuZ0RldGFpbDo6Y2xhc3MsIFsKICAgICAgICAgICAgJ2lkJyAgICAgICAgICAgID0+ICRpV2VuZ0lkLAogICAgICAgICAgICAnZnVsbFZlcnNpb24nICAgPT4gJGJJc0Z1bGxWZXJzaW9uLAogICAgICAgICAgICAnbG9naW5VaWQnICAgICAgPT4gJGlMb2dpblVJZCwKICAgICAgICAgICAgJ2lzU2hvd05lYXInICAgID0+ICRiSXNTaG93TmVhciwKICAgICAgICAgICAgJ2xvY2F0aW9uUG9pbnQnID0+ICRhTG9jYXRpb25Qb2ludCwKICAgICAgICBdKTsKICAgICAgICB0cnkgewogICAgICAgICAgICAkcmVzdWx0ID0gJG9EZXRhaWxBcGktPmdldERhdGEoKTsKICAgICAgICB9IGNhdGNoIChNQ29tbW9uX0V4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICBzd2l0Y2ggKCRlLT5nZXRDb2RlKCkpIHsKICAgICAgICAgICAgICAgIGNhc2UgTUNvbW1vbl9FeGNlcHRpb246OklOX0FVRElUOgogICAgICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+ZXJyb3IoJ+WGheWuueato+WcqOWuoeaguOS4re+8jOaaguaXtuaXoOazleafpeeciycsIDEwMDAxKTsKICAgICAgICAgICAgICAgIGNhc2UgTUNvbW1vbl9FeGNlcHRpb246OkFVRElUX0hJREU6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5lcnJvcign5ZOO5ZGA77yM5L2g6KaB55yL55qE5YaF5a655Y675peF6KGM5ZWmJywgMTAwMDEpOwogICAgICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gJHRoaXMtPmVycm9yKCRlLT5nZXRNZXNzYWdlKCksIDEwMDAxKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gJHRoaXMtPnN1Y2Nlc3MoJHJlc3VsdCk7</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGJyb2FkY2FzdCgkdWlkLCAkcHJpemVJZHMpCiAgICB7CiAgICAgICAgCiAgICB9</text>
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gc2V0Q29uZigkY29uZikKICAgIHsKICAgICAgICAkdGhpcy0+bG9naW5VaWQgPSBNVG9vbF9BcnJheTo6bUdldFZhbHVlKCRjb25mLCBbJ2xvZ2luX3VpZCddLCAwKQogICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IE1BWF9MRU5HVEggPSAyOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlICRsb2dpblVpZDsKICAgIAogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIHNldENvbmYoJGNvbmYpCiAgICB7CiAgICAgICAgJHRoaXMtPmxvZ2luVWlkID0gTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkY29uZiwgWydsb2dpbl91aWQnXSwgMCkKICAgIH0K</text>
       </register>
-      <register name="9" type="4">
-        <text>$a = 1;
-a($a + 1);
-
-function a($num) {
-    dd($num);
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
