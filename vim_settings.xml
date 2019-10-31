@@ -173,6 +173,12 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/base/controller/Admin.php" timestamp="1571909668215" />
       <file name="$USER_HOME$/Works/webdev/shequ/www2011/include/shequ/App.php" timestamp="1571911277962" />
+      <file name="$USER_HOME$/Works/webdev/wengs/timeline/lottery/service/Limiter.php" timestamp="1572501993630">
+        <mark key="[" line="39" column="22" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="64" column="24" />
+        <mark key="." line="82" column="0" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Banner.php" timestamp="1571218553330">
         <mark key="[" line="22" column="30" />
         <mark key="]" line="7" column="0" />
@@ -326,10 +332,10 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/timeline/lottery/service/User.php" timestamp="1572486012818">
-        <mark key="[" line="71" column="7" />
-        <mark key="]" line="71" column="7" />
-        <mark key="." line="71" column="7" />
+      <file name="$USER_HOME$/Works/webdev/wengs/timeline/lottery/service/User.php" timestamp="1572502928842">
+        <mark key="[" line="53" column="5" />
+        <mark key="]" line="68" column="7" />
+        <mark key="." line="68" column="7" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/Tag.php" timestamp="1572319340923" />
       <file name="$USER_HOME$/Works/webdev/manual-script/201806/user/initKolUser.php" timestamp="1571650241120" />
@@ -455,7 +461,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/base/controller/Crontab.php" timestamp="1571104098478" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/PrintPostcard.php" timestamp="1571905577671" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/SendSalesRedPacket.php" timestamp="1571880519983" />
-      <file name="$USER_HOME$/Works/webdev/wengs/timeline/lottery/service/Game.php" timestamp="1572484283055">
+      <file name="$USER_HOME$/Works/webdev/wengs/timeline/lottery/service/Game.php" timestamp="1572502084370">
         <mark key="[" line="15" column="15" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/event/ReduceTaskTimes.php" timestamp="1571299230615" />
@@ -471,7 +477,7 @@
         <mark key="." line="542" column="0" />
         <mark key="^" line="544" column="5" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/timeline/lottery/service/Chance.php" timestamp="1572484922079">
+      <file name="$USER_HOME$/Works/webdev/wengs/timeline/lottery/service/Chance.php" timestamp="1572501474647">
         <mark key="[" line="56" column="27" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/poi/search_mdd_pois.v2.php" timestamp="1572234030298" />
@@ -603,7 +609,7 @@
         <mark key="." line="35" column="5" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/base/Session.php" timestamp="1572241498802" />
-      <file name="$USER_HOME$/Works/webdev/wengs/timeline/lottery/service/Prize.php" timestamp="1572484251364">
+      <file name="$USER_HOME$/Works/webdev/wengs/timeline/lottery/service/Prize.php" timestamp="1572502393029">
         <mark key="[" line="15" column="7" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/event/Conf.php" timestamp="1571983581436">
@@ -647,8 +653,10 @@
       <file name="$USER_HOME$/Works/webdev/content-prd/client/facade/reach/service/AbstractEventStrategy.php" timestamp="1571189945861" />
       <file name="$USER_HOME$/Works/webdev/message/model/Executor.php" timestamp="1571208952509" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Show.php" timestamp="1571298144698" />
-      <file name="$USER_HOME$/Works/webdev/wengs/timeline/lottery/service/Lottery.php" timestamp="1572485908985">
-        <mark key="[" line="15" column="7" />
+      <file name="$USER_HOME$/Works/webdev/wengs/timeline/lottery/service/Lottery.php" timestamp="1572503020040">
+        <mark key="[" line="93" column="18" />
+        <mark key="]" line="93" column="50" />
+        <mark key="." line="93" column="50" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Mobile.php" timestamp="1572346732220" />
       <file name="$USER_HOME$/Works/webdev/mobile/www2011/include/rest/app/search/Lbs.php" timestamp="1572225959049" />
@@ -792,10 +800,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>url</text>
+        <text>remainderChance</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>remainderChance</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -804,34 +812,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2NvbnRlbnRfdHlwZScgPT4gXGFwcHNccWlhbnh1blxNRmFjYWRlX0NvbmY6OkJVU0lfVFlQRV9WSURFTywK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgKiBAcmV0dXJuIGJvb2wKICAgICAqLw==</text>
+        <text encoding="base64">CgogICAgICAgIHJldHVybiAoYm9vbCkkdGhpcy0+cmVkaXNIYW5kbGVyLT52SEluY3IoJGtleSwgJ2NvdW50ZXInLCAtMSk7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgKiBAcmV0dXJuIGJvb2wKICAgICAqLw==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0TnVtQnlUeXBlKCR1aWQsICR0eXBlKQogICAgewoKICAgIH0K</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgKiAKICAgICAqIEByZXR1cm4gYm9vbAogICAgICov</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGxpbWl0Q2hhbmNlKCR1aWQsICR0eXBlKQogICAgewogICAgICAgICRhY3Rpb25GaWVsZCA9ICR0aGlzLT5nZXRBY3Rpb25GaWVsZEJ5VHlwZSgkdHlwZSk7CiAgICAgICAgJG1heFRpbWVzICAgID0gJHRoaXMtPmdldE1heFRpbWVzQnlUeXBlKCR0eXBlKTsKICAgICAgICBpZiAoJHRoaXMtPmhhbmRsZXItPmJQcmVDaGVjaygkdWlkLCAkYWN0aW9uRmllbGQsIDAsICRtYXhUaW1lcykpIHsKICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5oYW5kbGVyLT5iQ2hlY2soJHVpZCwgJGFjdGlvbkZpZWxkLCAwLCAkbWF4VGltZXMpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgKiAKICAgICAqIEByZXR1cm4gaW50CiAgICAgKg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAkYWN0aW9uRmllbGQgPSAkdGhpcy0+Z2V0QWN0aW9uRmllbGRCeVR5cGUoJHR5cGUpOwogICAgICAgICRtYXhUaW1lcyAgICA9ICR0aGlzLT5nZXRNYXhUaW1lc0J5VHlwZSgkdHlwZSk7CiAgICAgICAgaWYgKCR0aGlzLT5oYW5kbGVyLT5iUHJlQ2hlY2soJHVpZCwgJGFjdGlvbkZpZWxkLCAwLCAkbWF4VGltZXMpKSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5oYW5kbGVyLT5iQ2hlY2soJHVpZCwgJGFjdGlvbkZpZWxkLCAwLCAkbWF4VGltZXMpOwo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">JGFjdGlvbkZpZWxkID0gJHRoaXMtPmdldEFjdGlvbkZpZWxkQnlUeXBlKCR0eXBlKTsKICAgICAgICAkbWF4VGltZXMgICAgPSAkdGhpcy0+Z2V0TWF4VGltZXNCeVR5cGUoJHR5cGUpOw==</text>
+      </register>
       <register name="9" type="4">
-        <text encoding="base64">cmV0dXJuICRyZXM7Cj4+Pj4+Pj4gU3Rhc2hlZCBjaGFuZ2Vz</text>
+        <text encoding="base64">CiAgICAgKiBAcmV0dXJuIGJvb2wKICAgICAqLw==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
