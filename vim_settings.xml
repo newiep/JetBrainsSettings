@@ -435,7 +435,7 @@
         <mark key="[" line="460" column="13" />
         <mark key="]" line="460" column="13" />
         <mark key="." line="460" column="13" />
-        <mark key="^" line="512" column="71" />
+        <mark key="^" line="521" column="71" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/log/event/Runtime.php" timestamp="1572919311470" />
       <file name="$USER_HOME$/Works/webdev/wengs/timeline/README.md" timestamp="1572312551280">
@@ -478,8 +478,8 @@
       <file name="$USER_HOME$/Works/webdev/wengs/tool/Redis.php" timestamp="1572484974737" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/messageTemplate.php" timestamp="1571107640759" />
       <file name="$USER_HOME$/Works/webdev/message/model/Executor.php" timestamp="1571208952509" />
-      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Mobile.php" timestamp="1573181604785">
-        <mark key="[" line="172" column="5" />
+      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Mobile.php" timestamp="1573460615696">
+        <mark key="[" line="235" column="112" />
         <mark key="]" line="168" column="12" />
         <mark key="." line="168" column="12" />
       </file>
@@ -654,6 +654,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/weng/Dao.php" timestamp="1572570339682" />
       <file name="$USER_HOME$/Works/webdev/appconf/scheme/_partial/simple_image.json" timestamp="1571298698014" />
       <file name="$USER_HOME$/Works/webdev/wengs/open/Operate.php" timestamp="1571301048948" />
+      <file name="$USER_HOME$/Works/webdev/mobile/www2011/include/mapi/url/Weng.php" timestamp="1573460404820" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/RecordScoreOperate.php" timestamp="1571730413489" />
       <file name="$USER_HOME$/Works/webdev/orc/facade/ResourceApi.php" timestamp="1571120509666" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/mine.php" timestamp="1573097280328" />
@@ -899,7 +900,11 @@
       <file name="$USER_HOME$/Works/webdev/wengs/base/controller/MApiAdmin.php" timestamp="1571710219811" />
       <file name="$USER_HOME$/Works/webdev/wengs/ranking/handler/Delete.php" timestamp="1572830893500" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/log.php" timestamp="1571908421163" />
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/mine/mayBeHere.php" timestamp="1572511549913" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/mine/mayBeHere.php" timestamp="1573460596484">
+        <mark key="[" line="74" column="50" />
+        <mark key="]" line="74" column="50" />
+        <mark key="." line="74" column="50" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/rss/api/Tag.php" timestamp="1573197267462">
         <mark key="[" line="791" column="0" />
         <mark key="]" line="791" column="0" />
@@ -1039,10 +1044,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIC8v5Y675o6J5aS05YOP5oyC5Lu2CiAgICAgICAgICAgICR3ZW5nWydvd25lciddWydvcGVyYXRpb25faW1hZ2UnXSA9IG51bGw7</text>
+        <text>PUBLISH_TYPE_PICTURE</text>
       </register>
       <register name="-" type="4">
-        <text>请先收集地图碎片</text>
+        <text>PUBLISH_TYPE_PICTURE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
