@@ -356,7 +356,7 @@
         <mark key="." line="140" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/risk/facade/RiskListV2.php" timestamp="1572336920537" />
-      <file name="$USER_HOME$/Works/webdev/wengs/event/MetaUpdate.php" timestamp="1574330299150">
+      <file name="$USER_HOME$/Works/webdev/wengs/event/MetaUpdate.php" timestamp="1574662209372">
         <mark key="[" line="14" column="34" />
         <mark key="]" line="14" column="33" />
         <mark key="^" line="14" column="33" />
@@ -692,7 +692,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/outdated/apps/facade/log/Api.php" timestamp="1573615010204" />
       <file name="$USER_HOME$/Works/webdev/show/proxy/Search.php" timestamp="1574211932453" />
-      <file name="/PHP Console" timestamp="1574653270403">
+      <file name="/PHP Console" timestamp="1574661890492">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/timeline/repository/LotteryLog.php" timestamp="1573788329654">
@@ -1142,7 +1142,7 @@
         <mark key="." line="11" column="3" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-prd/client/facade/reach/service/AbstractCrontabStrategy.php" timestamp="1572936091434" />
-      <file name="$USER_HOME$/Works/webdev/wengs/app/sche.php" timestamp="1573023856819">
+      <file name="$USER_HOME$/Works/webdev/wengs/app/sche.php" timestamp="1574661128250">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
@@ -1234,10 +1234,11 @@
         <mark key="]" line="157" column="17" />
         <mark key="." line="157" column="17" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/debug.php" timestamp="1574407356644">
-        <mark key="[" line="1011" column="9" />
-        <mark key="]" line="1011" column="9" />
-        <mark key="." line="1011" column="9" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/debug.php" timestamp="1574662253021">
+        <mark key="[" line="26" column="1" />
+        <mark key="]" line="25" column="42" />
+        <mark key="." line="25" column="42" />
+        <mark key="^" line="15" column="52" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/multimedia/FormatTool.php" timestamp="1574309449156" />
       <file name="$USER_HOME$/Works/webdev/wengs/base/Log.php" timestamp="1573614838696">
@@ -1631,10 +1632,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ci8qKiBAdmFyICRkaXNwYXRjaGVyIE1FdmVudF9EaXNwYXRjaGVyICovCiRkaXNwYXRjaGVyID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1FdmVudF9EaXNwYXRjaGVyOjpjbGFzcyk7CiRkaXNwYXRjaGVyLT50cmlnZ2VyKE1FdmVudF9Db25mOjpFVkVOVF9OQU1FX1VTRVJfTU9ESUZZLCBbWwovLyAgICAndWlkJyAgICA9PiAkdGhpcy0+dWlkLAogICAgJ3dlbmdfaWQnID0+IDE2NTExNDM1Nzc0NzgwOTYsCl1dKTsKCmRpZTsK</text>
+        <text encoding="base64">CiAgICAkb1Byb3h5TWV0YS0+dHJpZ2dlckludGVyYWN0U3luYygkd2VuZ0lkKTs=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPndlbmdpZA==</text>
+        <text>if ($bInsert) {</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -1643,34 +1644,34 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9naW5VaWQgPSBNVG9vbF9BcnJheTo6bUdldFZhbHVlKCRkYXRhLCAnbG9naW5fdWlkJywgMCk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Ci8qKiBAdmFyICRkaXNwYXRjaGVyIE1FdmVudF9EaXNwYXRjaGVyICovCiRkaXNwYXRjaGVyID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1FdmVudF9EaXNwYXRjaGVyOjpjbGFzcyk7CiRkaXNwYXRjaGVyLT50cmlnZ2VyKE1FdmVudF9Db25mOjpFVkVOVF9OQU1FX1VTRVJfTU9ESUZZLCBbWwovLyAgICAndWlkJyAgICA9PiAkdGhpcy0+dWlkLAogICAgJ3dlbmdfaWQnID0+IDE2NTExNDM1Nzc0NzgwOTYsCl1dKTsKCmRpZTsK</text>
+        <text encoding="base64">CiAgICAkb1Byb3h5TWV0YS0+dHJpZ2dlckludGVyYWN0U3luYygkd2VuZ0lkKTs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICdpc19hZGQnID0+IHRydWUs</text>
+        <text encoding="base64">CiAgICAgICAgJG9Qcm94eU1ldGEtPnRyaWdnZXJOZXdJbmZvU3luYygkd2VuZ0lkKTsKICAgIH0gZWxzZSB7</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKCRyZXMpIHsKICAgICAgICAgICAgJHRoaXMtPnJlY29yZExpbWl0KCR3ZW5nSWQsICRzY29yZSwgJGFjdGlvbik7CiAgICAgICAgfQogICAgICAgIHJldHVybiAkcmVzOw==</text>
+        <text encoding="base64">CnZhcl9kdW1wKCRhTGlzdCk7</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKCEkc2NvcmUgPSAkdGhpcy0+aUdldERldGFpbFNjb3JlKCR3ZW5nSWQsICRhY3Rpb24sICRib2FyZE1kZElkLCAkbGF0ZXN0UGVyaW9kSW5mb1snbnVtJ10pKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ci8qKiBAdmFyICRkaXNwYXRjaGVyIE1FdmVudF9EaXNwYXRjaGVyICovCiRkaXNwYXRjaGVyID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1FdmVudF9EaXNwYXRjaGVyOjpjbGFzcyk7CiRkaXNwYXRjaGVyLT50cmlnZ2VyKE1FdmVudF9Db25mOjpFVkVOVF9OQU1FX1VTRVJfTU9ESUZZLCBbWwovLyAgICAndWlkJyAgICA9PiAkdGhpcy0+dWlkLAogICAgJ3dlbmdfaWQnID0+IDE2NTExNDM1Nzc0NzgwOTYsCl1dKTsKCmRpZTsK</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICdpc19hZGQnID0+IHRydWUs</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKCRyZXMpIHsKICAgICAgICAgICAgJHRoaXMtPnJlY29yZExpbWl0KCR3ZW5nSWQsICRzY29yZSwgJGFjdGlvbik7CiAgICAgICAgfQogICAgICAgIHJldHVybiAkcmVzOw==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKCEkc2NvcmUgPSAkdGhpcy0+aUdldERldGFpbFNjb3JlKCR3ZW5nSWQsICRhY3Rpb24sICRib2FyZE1kZElkLCAkbGF0ZXN0UGVyaW9kSW5mb1snbnVtJ10pKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">JGJvYXJkTWRkSWQgPSAkdGhpcy0+cGVyaW9kU2VydmljZS0+bWF0Y2hSYW5raW5nTWRkSWQoJHdlbmdJZCk7CiAgICAgICAgaWYgKCEkdGhpcy0+cGVyaW9kU2VydmljZS0+aXNNYXRjaExhdGVzdFBlcmlvZCgkd2VuZ0lkKSB8fCAhJGJvYXJkTWRkSWQpIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0=</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAkcGVyaW9kU2VydmljZS0+aXNNYXRjaExhdGVzdFBlcmlvZCgkd2VuZ0lkKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXEV4Y2VwdGlvbgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYWN0aW9uID0gaW5fYXJyYXkoJHR5cGUsIE1Db25mOjokYVZpZGVvVHlwZXMpID8gTVJhbmtpbmdfU3Bva2VzbWFuX1NlcnZpY2VfRGV0YWlsOjpBQ1RJT05fUFVCTElTSF9WSURFTyA6CiAgICAgICAgICAgIE1SYW5raW5nX1Nwb2tlc21hbl9TZXJ2aWNlX0RldGFpbDo6QUNUSU9OX1BVQkxJU0g7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKCRvRGV0YWlsU2VydmljZS0+aXNWYWxpZFNvdXJjZSgkcHVibGlzaFNvdXJjZSkpIHsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
