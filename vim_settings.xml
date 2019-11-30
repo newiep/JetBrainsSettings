@@ -6,6 +6,31 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/ranking/spokesman/service/Ranking.php" timestamp="1574779646023" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/client/facade/enum/Board.php" timestamp="1574590269508" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Manager/RankingManager.php" timestamp="1574592905998" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/client/facade/service/RankingService.php" timestamp="1574591355739" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Manager/BoardManager.php" timestamp="1574589947830" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Query/CandidateQuery.php" timestamp="1574593746189" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/client/facade/request/param/ScoreDetailParam.php" timestamp="1574593148741" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Factory/Impl/MddPeriodCode.php" timestamp="1574592733135" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/client/facade/service/PeriodService.php" timestamp="1574590302615" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/event/Conf.php" timestamp="1574591572538" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Exception/InvalidArgumentException.php" timestamp="1574593989844">
+        <mark key="[" line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/mapi/detail/WengDetail.php" timestamp="1574779093381" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/spokesman.php" timestamp="1574496828484">
+        <mark key="[" line="223" column="35" />
+        <mark key="]" line="223" column="35" />
+        <mark key="." line="223" column="35" />
+        <mark key="^" line="213" column="30" />
+      </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/rss/mapi/tag/RecommendV1.php" timestamp="1574598691148" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/mapi/Weng.php" timestamp="1574779886555">
+        <mark key="[" line="877" column="31" />
+        <mark key="]" line="877" column="31" />
+        <mark key="." line="877" column="31" />
+      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/rss/mapi/WengFlowItem.php" timestamp="1574598737222">
         <mark key="[" line="23" column="29" />
       </file>
@@ -15,52 +40,25 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/client/facade/request/param/MigrateDetailParam.php" timestamp="1574593221141">
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/open/Info.php" timestamp="1574598729691">
         <mark key="[" line="304" column="28" />
         <mark key="]" line="304" column="28" />
         <mark key="." line="304" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/client/facade/enum/Board.php" timestamp="1574590269508" />
       <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Query/RankingQuery.php" timestamp="1574593475126" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Manager/RankingManager.php" timestamp="1574592905998" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/client/facade/service/RankingService.php" timestamp="1574591355739" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Manager/BoardManager.php" timestamp="1574589947830" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Query/CandidateQuery.php" timestamp="1574593746189" />
       <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Query/ScoreDetailStatement.php" timestamp="1574594123623">
         <mark key="[" line="117" column="8" />
         <mark key="]" line="117" column="8" />
         <mark key="." line="117" column="8" />
         <mark key="^" line="103" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/client/facade/request/param/ScoreDetailParam.php" timestamp="1574593148741" />
       <file name="$USER_HOME$/Code/Work/mafengwo/rss/proxy/Weng.php" timestamp="1574598178660" />
       <file name="$USER_HOME$/Code/Work/mafengwo/content-comment/server/Manager/ReplyManager.php" timestamp="1574593383351" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Factory/Impl/MddPeriodCode.php" timestamp="1574592733135" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/client/facade/service/PeriodService.php" timestamp="1574590302615" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/event/Conf.php" timestamp="1574591572538" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Exception/InvalidArgumentException.php" timestamp="1574593989844">
-        <mark key="[" line="4" column="15" />
-      </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/mapi/detail/WengDetail.php" timestamp="1574779093381" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/manual-script/201911/wengs/sync_reply_es.php" timestamp="1575086521154" />
       <file name="$USER_HOME$/Code/Work/mafengwo/content-root/src/Base/Dao/AbstractSplitRepository.php" timestamp="1574593396888" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/spokesman.php" timestamp="1574496828484">
-        <mark key="[" line="223" column="35" />
-        <mark key="]" line="223" column="35" />
-        <mark key="." line="223" column="35" />
-        <mark key="^" line="213" column="30" />
-      </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/log/event/Runtime.php" timestamp="1575086495505" />
       <file name="$USER_HOME$/Code/Work/mafengwo/content-comment/server/Query/ReplyStatement.php" timestamp="1574594081163" />
       <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Entity/DetailDO.php" timestamp="1574593668388" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/rss/mapi/tag/RecommendV1.php" timestamp="1574598691148" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/mapi/Weng.php" timestamp="1574779886555">
-        <mark key="[" line="877" column="31" />
-        <mark key="]" line="877" column="31" />
-        <mark key="." line="877" column="31" />
-      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/ranking/spokesman/service/Detail.php" timestamp="1574592606565" />
       <file name="$USER_HOME$/Code/Work/mafengwo/composer/vendor/mfw/content-root/src/Base/Entity/Statement.php" timestamp="1574593571917" />
     </filemarks>
