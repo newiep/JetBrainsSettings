@@ -127,11 +127,10 @@
         <mark key="." line="21" column="61" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Config/dev/database.php" timestamp="1575029578825" />
-      <file name="$USER_HOME$/Works/webdev/wengs/ranking/spokesman/service/Detail.php" timestamp="1575022022778">
-        <mark key="[" line="103" column="10" />
-        <mark key="]" line="224" column="10" />
-        <mark key="." line="224" column="10" />
-        <mark key="^" line="28" column="32" />
+      <file name="$USER_HOME$/Works/webdev/wengs/ranking/spokesman/service/Detail.php" timestamp="1575338858037">
+        <mark key="[" line="108" column="10" />
+        <mark key="]" line="229" column="10" />
+        <mark key="." line="229" column="10" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/event/BeanPendant.php" timestamp="1573178521442">
         <mark key="[" line="15" column="17" />
@@ -194,10 +193,10 @@
       <file name="$USER_HOME$/Works/webdev/content-ranking/client/facade/request/param/MigrateDetailParam.php" timestamp="1574652653478">
         <mark key="[" line="126" column="34" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/spokesman.php" timestamp="1575254238051">
-        <mark key="[" line="97" column="27" />
-        <mark key="]" line="97" column="27" />
-        <mark key="." line="97" column="27" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/spokesman.php" timestamp="1575339423108">
+        <mark key="[" line="54" column="24" />
+        <mark key="]" line="54" column="24" />
+        <mark key="." line="54" column="24" />
       </file>
       <file name="$USER_HOME$/Works/webdev/poi/apps/facade/poi/Suggest.php" timestamp="1573108489249" />
       <file name="$USER_HOME$/Works/webdev/wengweng/www2011/include/ww/wengreplyApi.php" timestamp="1573650186235" />
@@ -540,7 +539,7 @@
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/ListManager.php" timestamp="1575013524074" />
       <file name="$USER_HOME$/Works/webdev/rss/tool/JSON.php" timestamp="1573179271302" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Factory/BaseFactory.php" timestamp="1573452370240" />
-      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Ranking.php" timestamp="1574772494081">
+      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Ranking.php" timestamp="1575338871317">
         <mark key="[" line="134" column="17" />
         <mark key="]" line="136" column="51" />
         <mark key="." line="136" column="51" />
@@ -690,10 +689,10 @@
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/mine/get_detail.v1.php" timestamp="1572260116592" />
       <file name="$USER_HOME$/Works/webdev/wengs/weng/ExtApi.php" timestamp="1573650150452" />
       <file name="$USER_HOME$/Works/webdev/show/facade/movie/Reply.php" timestamp="1574907966004" />
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/WengEs.php" timestamp="1575282135522">
-        <mark key="[" line="61" column="5" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/WengEs.php" timestamp="1575342500398">
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="35" column="4" />
+        <mark key="." line="35" column="4" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/base/controller/Crontab.php" timestamp="1571104098478" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/PrintPostcard.php" timestamp="1571905577671" />
@@ -1588,7 +1587,7 @@
         <mark key="]" line="184" column="8" />
         <mark key="." line="184" column="8" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/app/Ranking.php" timestamp="1575251409045" />
+      <file name="$USER_HOME$/Works/webdev/wengs/app/Ranking.php" timestamp="1575339911562" />
       <file name="$USER_HOME$/Works/webdev/wengs/tool/Sme.php" timestamp="1575289725018">
         <mark key="[" line="125" column="25" />
         <mark key="]" line="125" column="25" />
@@ -1690,11 +1689,7 @@
         <mark key="[" line="10" column="37" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Show.php" timestamp="1574909785886" />
-      <file name="$USER_HOME$/Works/webdev/wengs/ranking/spokesman/service/Ranking.php" timestamp="1575337716449">
-        <mark key="[" line="91" column="27" />
-        <mark key="]" line="91" column="27" />
-        <mark key="." line="91" column="27" />
-      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/ranking/spokesman/service/Ranking.php" timestamp="1575337716449" />
       <file name="$USER_HOME$/Works/webdev/wengs/timeline/lottery/service/Lottery.php" timestamp="1573711858422">
         <mark key="[" line="142" column="14" />
         <mark key="]" line="143" column="0" />
@@ -1855,10 +1850,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgJGd1ZXN0RmxhZ3MgPSBNV2VuZ19TdGF0dXM6OmFHZXRWaWV3QWJsZSgpOwogICAgICAgICRob21lRmxhZ3MgPSBNV2VuZ19TdGF0dXM6OmFHZXRWaWV3QWJsZSh0cnVlKTs=</text>
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text>MWeng_Status::bCanView($weng['wengid'])</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -1866,42 +1861,42 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9naW5VaWQgPSBNVG9vbF9BcnJheTo6bUdldFZhbHVlKCRkYXRhLCAnbG9naW5fdWlkJywgMCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgJGd1ZXN0RmxhZ3MgPSBNV2VuZ19TdGF0dXM6OmFHZXRWaWV3QWJsZSgpOwogICAgICAgICRob21lRmxhZ3MgPSBNV2VuZ19TdGF0dXM6OmFHZXRWaWV3QWJsZSh0cnVlKTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgJGd1ZXN0RmxhZ3MgPSBNV2VuZ19TdGF0dXM6OmFHZXRWaWV3QWJsZSgpOwogICAgICAgICRob21lRmxhZ3MgPSBNV2VuZ19TdGF0dXM6OmFHZXRWaWV3QWJsZSh0cnVlKTs=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>$whiteList  = [
                 'mafengwo.cn',
                 'imfw.cn',
             ];</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>$aRet   = [];
         foreach ($aWengs as $weng) {
 
         }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>$guestViewFlags = MWeng_Status::aGetListView();
         $homeViewFlags  = MWeng_Status::aGetViewAble(true);</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgJ3N0YXR1cycgICAgICA9PiBpbl9hcnJheSgkd2VuZ0luZm9bJ2ZsYWcnXSwgTVdlbmdfU3RhdHVzOjphR2V0TGlzdFZpZXcoKSkgPwogICAgICAgIE1GYWNhZGVfQ29udGVudFN0YXR1c0VudW06OkNBTl9FWFBPU0UgOiBNRmFjYWRlX0NvbnRlbnRTdGF0dXNFbnVtOjpDQU5OT1RfRVhQT1NFLAogICAgICAgICAgICAnc2VsZl9leHBvc2UnID0+IGluX2FycmF5KCR3ZW5nSW5mb1snZmxhZyddLCBNV2VuZ19TdGF0dXM6OmFHZXRWaWV3QWJsZSh0cnVlKSkgPwogICAgICAgIE1GYWNhZGVfQ29udGVudFNlbGZFeHBvc2VFbnVtOjpDQU5fRVhQT1NFIDogTUZhY2FkZV9Db250ZW50U2VsZkV4cG9zZUVudW06OkNBTk5PVF9FWFBPU0Us</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICd1aWQnID0+IChpbnQpLCAndHlwZScgPT4gKGludCkkdHlwZSwgJ2FjdGlvbicgPT4gc2VsZjo6QUNUSU9OX0JFQ09NRSw=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
