@@ -5,6 +5,7 @@
       <mark key="M" line="61" column="20" filename="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/get_import_assets_tabs.v1.php" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Works/webdev/wengs/app/WengDelete.php" timestamp="1576056730683" />
       <file name="/a.dummy" timestamp="1576032302087">
         <mark key="[" line="0" column="0" />
       </file>
@@ -34,6 +35,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/event/BeanPendant.php" timestamp="1573178521442">
         <mark key="[" line="15" column="17" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Mdd.php" timestamp="1576056539666" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/mdd/conf.php" timestamp="1576054193805" />
       <file name="$USER_HOME$/Works/webdev/mobile/mobile_api/engine/Application.php" timestamp="1573037521799">
         <mark key="[" line="206" column="25" />
@@ -123,13 +125,13 @@
       <file name="$USER_HOME$/Works/webdev/wengs/event/WengDaren.php.php" timestamp="1568892513149">
         <mark key="[" line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Note.php" timestamp="1576054811506">
+      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Note.php" timestamp="1576056580361">
         <mark key="[" line="317" column="5" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/timeline/garden/README.md" timestamp="1575944086194">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1576054852993">
+      <file name="/PHP Console" timestamp="1576056817274">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/timeline/repository/LotteryLog.php" timestamp="1576051815860">
@@ -154,6 +156,7 @@
         <mark key="[" line="125" column="7" />
       </file>
       <file name="$USER_HOME$/Works/webdev/user/apps/facade/user/ReceiptApi.php" timestamp="1576030681499" />
+      <file name="$USER_HOME$/Works/webdev/wengs/open/Info.php" timestamp="1576057140000" />
       <file name="$USER_HOME$/Works/webdev/poi/apps/poi/facade/Poi.php" timestamp="1576050976747" />
       <file name="$USER_HOME$/Works/webdev/content-ranking/server/Config/Config.php" timestamp="1573538580046">
         <mark key="[" line="1" column="25" />
@@ -347,7 +350,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/dataprovider/Banner.php" timestamp="1572578609326">
         <mark key="[" line="46" column="100" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/admin/Mdd.php" timestamp="1576054750310" />
+      <file name="$USER_HOME$/Works/webdev/wengs/admin/Mdd.php" timestamp="1576056654816" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Factory/BizReplyEntityFactory.php" timestamp="1574739116536">
         <mark key="[" line="35" column="22" />
       </file>
@@ -393,8 +396,11 @@
       <file name="$USER_HOME$/Works/webdev/wengs/common/Dao.php" timestamp="1575872739444">
         <mark key="[" line="276" column="10" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/rd.php" timestamp="1576054831773">
-        <mark key="[" line="52" column="11" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/rd.php" timestamp="1576056792027">
+        <mark key="[" line="63" column="23" />
+        <mark key="]" line="63" column="23" />
+        <mark key="." line="63" column="23" />
+        <mark key="^" line="57" column="28" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/lottery/event/ReceivePrize.php" timestamp="1572484080977">
         <mark key="[" line="16" column="22" />
@@ -543,10 +549,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKCRob25leSA9ICR0aGlzLT5nZXRIb25leUluZm8oJHR5cGUpKSB7CiAgICAgICAgICAgIHJldHVybiAoYm9vbCkkdGhpcy0+aG9uZXlTdG9yYWdlLT52SFNldCgka2V5LCAkaG9uZXlJZCwgJGhvbmV5KTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlOw==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICd6aGFuZ3NodWFuZ0BtYWZlbmd3by5jb20nLAogICAgICAgICAgICAnbmlqaWFAbWFmZW5nd28uY29tJyw=</text>
       </register>
       <register name="-" type="4">
-        <text>HONEY_TYPE_JOIN</text>
+        <text>date('YmdHis') .</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -555,35 +561,35 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKCRob25leSA9ICR0aGlzLT5nZXRIb25leUluZm8oJHR5cGUpKSB7CiAgICAgICAgICAgIHJldHVybiAoYm9vbCkkdGhpcy0+aG9uZXlTdG9yYWdlLT52SFNldCgka2V5LCAkaG9uZXlJZCwgJGhvbmV5KTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlOw==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICd6aGFuZ3NodWFuZ0BtYWZlbmd3by5jb20nLAogICAgICAgICAgICAnbmlqaWFAbWFmZW5nd28uY29tJyw=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiRyZXMgPSBNVG9vbF9SZWRpczo6b0NsaWVudCgpLT52TFJhbmdlKCdob25leTp1aWQ6MScsIDAsIC0xKTsKCmRkKCRyZXMpOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKCRob25leSA9ICR0aGlzLT5nZXRIb25leUluZm8oJHR5cGUpKSB7CiAgICAgICAgICAgIHJldHVybiAoYm9vbCkkdGhpcy0+aG9uZXlTdG9yYWdlLT52SFNldCgka2V5LCAkaG9uZXlJZCwgJGhvbmV5KTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlOw==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiRyZXMgPSBNVG9vbF9SZWRpczo6b0NsaWVudCgpLT52TFJhbmdlKCdob25leTp1aWQ6MScsIDAsIC0xKTsKCmRkKCRyZXMpOw==</text>
+      </register>
+      <register name="5" type="4">
         <text>,
             sprintf(&quot;产生蜂蜜：%s&quot;, $type)</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgJGtleSAgICAgPSAkdGhpcy0+Z2V0SGFzaEtleSgpOwogICAgICAgICRob25leUlkID0gJHRoaXMtPmdldEhvbmV5SWQoKTsKCiAgICAgICAgcmV0dXJuIChib29sKSR0aGlzLT5ob25leVN0b3JhZ2UtPnZIU2V0KCRrZXksICRob25leUlkLCAxKTs=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAnaWQnICAgICAgICA9PiAkaG9uZXlJZCw=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ClsKICAgICd0aXBzJyA9PiAn5Y+C5Yqg5rS75YqoJywKICAgICdob25leV9udW0nICA9PiAxMCwKICAgICdwaWNrX3RpbWUnICA9PiB0aW1lKCksCiAgICAnZXhwaXJlX3RpbWUnID0+IHRpbWUoKSwKXTs=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAnaWQnICAgPT4gJzEnLA==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ck1Ub29sX1JlZGlzOjpvQ2xpZW50KCktPg==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgLy9UT0RPIOeJiOaOpw==</text>
+        <text encoding="base64">CiAgICAnaWQnICAgPT4gJzEnLA==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
