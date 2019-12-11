@@ -198,7 +198,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/timeline/base/README.md" timestamp="1575942074483">
         <mark key="[" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/timeline/garden/service/Limiter.php" timestamp="1576047590675">
+      <file name="$USER_HOME$/Works/webdev/wengs/timeline/garden/service/Limiter.php" timestamp="1576067666785">
         <mark key="[" line="48" column="70" />
         <mark key="]" line="48" column="70" />
         <mark key="." line="48" column="70" />
@@ -379,10 +379,10 @@
       <file name="$USER_HOME$/Works/webdev/wengs/event/RatingAddHoney.php" timestamp="1573625047752">
         <mark key="[" line="23" column="103" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/timeline/garden/service/Producer.php" timestamp="1576064267235">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
+      <file name="$USER_HOME$/Works/webdev/wengs/timeline/garden/service/Producer.php" timestamp="1576069117486">
+        <mark key="[" line="154" column="5" />
+        <mark key="]" line="154" column="5" />
+        <mark key="." line="154" column="5" />
         <mark key="^" line="90" column="24" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/Conf.php" timestamp="1575620754684">
@@ -549,8 +549,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnN0b3JlSG9uZXkoJHR5cGUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKCR0eXBlID09IHNlbGY6OkhPTkVZX1RZUEVfU0lHTikgewogICAgICAgICAgICAKICAgICAgICB9</text>
       </register>
       <register name="-" type="4">
         <text>date('YmdHis') .</text>
@@ -561,36 +561,36 @@
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnN0b3JlSG9uZXkoJHR5cGUpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKCR0eXBlID09IHNlbGY6OkhPTkVZX1RZUEVfU0lHTikgewogICAgICAgICAgICAKICAgICAgICB9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIChib29sKSR0aGlzLT5ob25leVN0b3JhZ2UtPnZIU2V0KCRrZXksICRob25leUlkLCAkaG9uZXkpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKCR0eXBlID09IHNlbGY6OkhPTkVZX1RZUEVfU0lHTikgewogICAgICAgICAgICAKICAgICAgICB9</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICd6aGFuZ3NodWFuZ0BtYWZlbmd3by5jb20nLAogICAgICAgICAgICAnbmlqaWFAbWFmZW5nd28uY29tJyw=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnN0b3JlSG9uZXkoJHR5cGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIChib29sKSR0aGlzLT5ob25leVN0b3JhZ2UtPnZIU2V0KCRrZXksICRob25leUlkLCAkaG9uZXkpOwo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKCRob25leSA9ICR0aGlzLT5nZXRIb25leUluZm8oJHR5cGUpKSB7CiAgICAgICAgICAgIHJldHVybiAoYm9vbCkkdGhpcy0+aG9uZXlTdG9yYWdlLT52SFNldCgka2V5LCAkaG9uZXlJZCwgJGhvbmV5KTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlOw==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICd6aGFuZ3NodWFuZ0BtYWZlbmd3by5jb20nLAogICAgICAgICAgICAnbmlqaWFAbWFmZW5nd28uY29tJyw=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiRyZXMgPSBNVG9vbF9SZWRpczo6b0NsaWVudCgpLT52TFJhbmdlKCdob25leTp1aWQ6MScsIDAsIC0xKTsKCmRkKCRyZXMpOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>,
-            sprintf(&quot;产生蜂蜜：%s&quot;, $type)</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKCRob25leSA9ICR0aGlzLT5nZXRIb25leUluZm8oJHR5cGUpKSB7CiAgICAgICAgICAgIHJldHVybiAoYm9vbCkkdGhpcy0+aG9uZXlTdG9yYWdlLT52SFNldCgka2V5LCAkaG9uZXlJZCwgJGhvbmV5KTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlOw==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgJGtleSAgICAgPSAkdGhpcy0+Z2V0SGFzaEtleSgpOwogICAgICAgICRob25leUlkID0gJHRoaXMtPmdldEhvbmV5SWQoKTsKCiAgICAgICAgcmV0dXJuIChib29sKSR0aGlzLT5ob25leVN0b3JhZ2UtPnZIU2V0KCRrZXksICRob25leUlkLCAxKTs=</text>
+        <text encoding="base64">CiRyZXMgPSBNVG9vbF9SZWRpczo6b0NsaWVudCgpLT52TFJhbmdlKCdob25leTp1aWQ6MScsIDAsIC0xKTsKCmRkKCRyZXMpOw==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAnaWQnICAgICAgICA9PiAkaG9uZXlJZCw=</text>
+        <text>,
+            sprintf(&quot;产生蜂蜜：%s&quot;, $type)</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
