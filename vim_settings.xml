@@ -80,19 +80,19 @@
       <file name="$USER_HOME$/Works/webdev/wengweng/mobile/htdocs/ww/api/weng/topic/create.v1.php" timestamp="1569294722846">
         <mark key="[" line="49" column="33" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1576058751872">
-        <mark key="[" line="472" column="6" />
-        <mark key="]" line="485" column="0" />
-        <mark key="^" line="492" column="6" />
-        <mark key="." line="485" column="0" />
+      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1576114461557">
+        <mark key="[" line="478" column="0" />
+        <mark key="]" line="492" column="18" />
+        <mark key="^" line="500" column="6" />
+        <mark key="." line="492" column="18" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/facade/Queue.php" timestamp="1576045499048">
         <mark key="[" line="1155" column="0" />
         <mark key="]" line="1152" column="46" />
         <mark key="." line="1152" column="46" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/timeline/garden/service/User.php" timestamp="1575983372012">
-        <mark key="[" line="62" column="85" />
+      <file name="$USER_HOME$/Works/webdev/wengs/timeline/garden/service/User.php" timestamp="1576113152849">
+        <mark key="[" line="60" column="24" />
         <mark key="]" line="62" column="85" />
         <mark key="." line="62" column="85" />
       </file>
@@ -131,7 +131,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/timeline/garden/README.md" timestamp="1575944086194">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1576056817274">
+      <file name="/PHP Console" timestamp="1576114470792">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/timeline/repository/LotteryLog.php" timestamp="1576051815860">
@@ -187,7 +187,7 @@
         <mark key="." line="286" column="72" />
         <mark key="^" line="286" column="72" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/timeline/garden/service/HoneyPot.php" timestamp="1576032618727">
+      <file name="$USER_HOME$/Works/webdev/wengs/timeline/garden/service/HoneyPot.php" timestamp="1576113065452">
         <mark key="[" line="18" column="60" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
@@ -218,7 +218,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/dalao.php" timestamp="1573809089524">
         <mark key="[" line="106" column="89" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/timeline/base/Limiter.php" timestamp="1576035086175">
+      <file name="$USER_HOME$/Works/webdev/wengs/timeline/base/Limiter.php" timestamp="1576113519877">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="16" column="1" />
         <mark key="." line="16" column="1" />
@@ -379,11 +379,11 @@
       <file name="$USER_HOME$/Works/webdev/wengs/event/RatingAddHoney.php" timestamp="1573625047752">
         <mark key="[" line="23" column="103" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/timeline/garden/service/Producer.php" timestamp="1576069117486">
-        <mark key="[" line="154" column="5" />
-        <mark key="]" line="154" column="5" />
-        <mark key="." line="154" column="5" />
-        <mark key="^" line="90" column="24" />
+      <file name="$USER_HOME$/Works/webdev/wengs/timeline/garden/service/Producer.php" timestamp="1576114246136">
+        <mark key="[" line="168" column="8" />
+        <mark key="]" line="168" column="43" />
+        <mark key="." line="168" column="43" />
+        <mark key="^" line="168" column="43" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/Conf.php" timestamp="1575620754684">
         <mark key="[" line="360" column="101" />
@@ -550,10 +550,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKCR0eXBlID09IHNlbGY6OkhPTkVZX1RZUEVfU0lHTikgewogICAgICAgICAgICAKICAgICAgICB9</text>
+        <text encoding="base64">CiAgICAgICAgJGtleSAgID0gJ21vdF9leGlzdCc7</text>
       </register>
       <register name="-" type="4">
-        <text>date('YmdHis') .</text>
+        <text>product</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -562,35 +562,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKCR0eXBlID09IHNlbGY6OkhPTkVZX1RZUEVfU0lHTikgewogICAgICAgICAgICAKICAgICAgICB9</text>
+        <text encoding="base64">CiAgICAgICAgJGtleSAgID0gJ21vdF9leGlzdCc7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIChib29sKSR0aGlzLT5ob25leVN0b3JhZ2UtPnZIU2V0KCRrZXksICRob25leUlkLCBNVG9vbF9KU09OOjpzRW5jb2RlKCRob25leSkpOw==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAgICAgaWYgKCR0eXBlID09IHNlbGY6OkhPTkVZX1RZUEVfU0lHTikgewogICAgICAgICAgICAKICAgICAgICB9</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKCR0eXBlID09IHNlbGY6OkhPTkVZX1RZUEVfU0lHTikgewogICAgICAgICAgICAKICAgICAgICB9</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnN0b3JlSG9uZXkoJHR5cGUpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIChib29sKSR0aGlzLT5ob25leVN0b3JhZ2UtPnZIU2V0KCRrZXksICRob25leUlkLCAkaG9uZXkpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICd6aGFuZ3NodWFuZ0BtYWZlbmd3by5jb20nLAogICAgICAgICAgICAnbmlqaWFAbWFmZW5nd28uY29tJyw=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKCRob25leSA9ICR0aGlzLT5nZXRIb25leUluZm8oJHR5cGUpKSB7CiAgICAgICAgICAgIHJldHVybiAoYm9vbCkkdGhpcy0+aG9uZXlTdG9yYWdlLT52SFNldCgka2V5LCAkaG9uZXlJZCwgJGhvbmV5KTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlOw==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiRyZXMgPSBNVG9vbF9SZWRpczo6b0NsaWVudCgpLT52TFJhbmdlKCdob25leTp1aWQ6MScsIDAsIC0xKTsKCmRkKCRyZXMpOw==</text>
-      </register>
       <register name="9" type="4">
-        <text>,
-            sprintf(&quot;产生蜂蜜：%s&quot;, $type)</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKCRob25leSA9ICR0aGlzLT5nZXRIb25leUluZm8oJHR5cGUpKSB7CiAgICAgICAgICAgIHJldHVybiAoYm9vbCkkdGhpcy0+aG9uZXlTdG9yYWdlLT52SFNldCgka2V5LCAkaG9uZXlJZCwgJGhvbmV5KTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlOw==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
