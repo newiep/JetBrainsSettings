@@ -260,10 +260,11 @@
       <file name="$USER_HOME$/Works/webdev/wengs/ranking/spokesman/ScoreDetail.php" timestamp="1573897870015">
         <mark key="[" line="51" column="10" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/activity/frozen.php" timestamp="1577181914379">
-        <mark key="[" line="339" column="8" />
-        <mark key="]" line="339" column="8" />
-        <mark key="." line="339" column="8" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/activity/frozen.php" timestamp="1577183263075">
+        <mark key="[" line="327" column="33" />
+        <mark key="]" line="327" column="34" />
+        <mark key="." line="327" column="34" />
+        <mark key="^" line="330" column="55" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/timeline/frozen/event/LotteryChanceOperate.php" timestamp="1576745299939">
         <mark key="[" line="5" column="14" />
@@ -478,10 +479,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$wengId</text>
+        <text>0: 不刷新 1：onShow 的时候刷新</text>
       </register>
       <register name="-" type="4">
-        <text>$wengId</text>
+        <text>0: 不刷新 1：onShow 的时候刷新</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
