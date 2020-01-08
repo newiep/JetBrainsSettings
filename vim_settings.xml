@@ -866,10 +866,10 @@
       <file name="$USER_HOME$/Works/webdev/content-ranking/server/Lib/CronExpression.php" timestamp="1578283301858">
         <mark key="[" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/wengs.php" timestamp="1577928644470">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/wengs.php" timestamp="1578447095707">
+        <mark key="[" line="57" column="21" />
+        <mark key="]" line="57" column="21" />
+        <mark key="." line="57" column="21" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Weng.php" timestamp="1577187318190" />
       <file name="$USER_HOME$/Works/webdev/show/busi/Publish.php" timestamp="1577756476087" />
@@ -937,7 +937,7 @@
         <mark key="." line="220" column="26" />
         <mark key="^" line="279" column="4" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/app/Ranking.php" timestamp="1577783577738" />
+      <file name="$USER_HOME$/Works/webdev/wengs/app/Ranking.php" timestamp="1578446828490" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/publish/get_complete_recommend_list.v1.php" timestamp="1577698831046">
         <mark key="[" line="198" column="9" />
       </file>
@@ -1108,7 +1108,7 @@
         <mark key="[" line="10" column="37" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Show.php" timestamp="1577774050346" />
-      <file name="$USER_HOME$/Works/webdev/wengs/ranking/spokesman/service/Ranking.php" timestamp="1578400847598">
+      <file name="$USER_HOME$/Works/webdev/wengs/ranking/spokesman/service/Ranking.php" timestamp="1578446746924">
         <mark key="[" line="158" column="46" />
         <mark key="]" line="158" column="46" />
         <mark key="." line="158" column="46" />
@@ -1133,7 +1133,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/content-ranking/server/Entity/DetailDO.php" timestamp="1577428368729" />
       <file name="$USER_HOME$/Works/webdev/content-ranking/server/Factory/PeriodCodeFactory.php" timestamp="1578276818277" />
-      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/SyncReplyManager.php" timestamp="1578378641172" />
+      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/SyncReplyManager.php" timestamp="1578446051471" />
       <file name="$USER_HOME$/Works/webdev/wengweng/www2011/include/ww/apps/video/Format.php" timestamp="1577776724600" />
       <file name="$USER_HOME$/Works/webdev/mobile/www2011/include/mapi/url/Video.php" timestamp="1577770946553" />
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/Assets.php" timestamp="1578032723788" />
@@ -1288,10 +1288,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIE1Ub29sX01hdGg6Om51bWJlcjJjaGluZXNlKCRwZXJpb2RbJ251bSddKSw=</text>
+        <text>$week</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHdlbmdEYXRhWydwZXJpb2RfdGl0bGUnXSA9ICR0aGlzLT5nZXRQZXJpb2RUaXRsZSgkcGVyaW9kKTs=</text>
+        <text>$week</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
