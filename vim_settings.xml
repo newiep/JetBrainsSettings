@@ -18,8 +18,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-root/src/Base/Entity/PO.php" timestamp="1577444807679" />
-      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Mdd.php" timestamp="1578901850226">
-        <mark key="[" line="243" column="31" />
+      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Mdd.php" timestamp="1578903756061">
+        <mark key="[" line="241" column="26" />
+        <mark key="]" line="241" column="26" />
+        <mark key="." line="241" column="26" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Push.php" timestamp="1578391845859">
         <mark key="[" line="35" column="19" />
@@ -1330,10 +1332,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>MTool_Time::bValidate</text>
+        <text>$wengInfo['jump_url']</text>
       </register>
       <register name="-" type="4">
-        <text>MTool_Time::bValidate</text>
+        <text>$wengInfo['jump_url']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
