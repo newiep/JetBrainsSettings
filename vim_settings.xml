@@ -848,7 +848,7 @@
       <file name="$USER_HOME$/Works/webdev/search/www2011/include/Elastica/Search.php" timestamp="1578038709206" />
       <file name="$USER_HOME$/Works/webdev/content-prd/client/facade/reach/service/AbstractStrategy.php" timestamp="1578558008393" />
       <file name="$USER_HOME$/Works/webdev/wengs/tag/Item.php" timestamp="1577340676148" />
-      <file name="$USER_HOME$/Works/webdev/content-ranking/server/Manager/ScoreDetailManager.php" timestamp="1578988495457">
+      <file name="$USER_HOME$/Works/webdev/content-ranking/server/Manager/ScoreDetailManager.php" timestamp="1578991932163">
         <mark key="[" line="140" column="5" />
         <mark key="]" line="158" column="15" />
         <mark key="." line="158" column="15" />
@@ -900,10 +900,10 @@
       <file name="$USER_HOME$/Works/webdev/wengs/lottery/event/ReceivePrize.php" timestamp="1572484080977">
         <mark key="[" line="16" column="22" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/content-ranking/client/facade/service/RankingService.php" timestamp="1578990372556">
-        <mark key="[" line="106" column="52" />
-        <mark key="]" line="113" column="8" />
-        <mark key="." line="113" column="8" />
+      <file name="$USER_HOME$/Works/webdev/content-ranking/client/facade/service/RankingService.php" timestamp="1578993809924">
+        <mark key="[" line="128" column="8" />
+        <mark key="]" line="128" column="8" />
+        <mark key="." line="128" column="8" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-ranking/client/facade/request/param/ScoreDetailParam.php" timestamp="1578386970419" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/movie/Api.php" timestamp="1577774191111" />
@@ -998,11 +998,11 @@
         <mark key="." line="22" column="4" />
         <mark key="^" line="35" column="42" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/content-ranking/server/Manager/RankingManager.php" timestamp="1578981830872">
-        <mark key="[" line="256" column="5" />
-        <mark key="]" line="220" column="26" />
-        <mark key="." line="220" column="26" />
-        <mark key="^" line="279" column="4" />
+      <file name="$USER_HOME$/Works/webdev/content-ranking/server/Manager/RankingManager.php" timestamp="1578993309982">
+        <mark key="[" line="206" column="13" />
+        <mark key="]" line="221" column="26" />
+        <mark key="." line="221" column="26" />
+        <mark key="^" line="280" column="4" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/app/Ranking.php" timestamp="1578911147073" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/publish/get_complete_recommend_list.v1.php" timestamp="1577698831046">
@@ -1094,7 +1094,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/content-ranking/client/facade/request/param/QueryTopParam.php" timestamp="1578636280762">
+      <file name="$USER_HOME$/Works/webdev/content-ranking/client/facade/request/param/QueryTopParam.php" timestamp="1578991886488">
         <mark key="[" line="47" column="23" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/activity.php" timestamp="1577323711043" />
@@ -1182,8 +1182,8 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Show.php" timestamp="1577774050346" />
       <file name="$USER_HOME$/Works/webdev/wengs/ranking/spokesman/service/Ranking.php" timestamp="1578910061057" />
-      <file name="$USER_HOME$/Works/webdev/wengs/ranking/spokesman/style/Weng.php" timestamp="1578989846433">
-        <mark key="[" line="109" column="31" />
+      <file name="$USER_HOME$/Works/webdev/wengs/ranking/spokesman/style/Weng.php" timestamp="1578991647230">
+        <mark key="[" line="109" column="15" />
         <mark key="^" line="20" column="32" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/request/param/SetStatusParam.php" timestamp="1578378838694" />
@@ -1357,10 +1357,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgLyoqCiAgICAgICAgICogQHZhciAkb1B1YlNvdXJjZSBNV2VuZ19QdWJsaXNoU291cmNlCiAgICAgICAgICogQHZhciAkb0RldGFpbFNlcnZpY2UgTVJhbmtpbmdfU3Bva2VzbWFuX1NlcnZpY2VfRGV0YWlsCiAgICAgICAgICovCiAgICAgICAgJG9QdWJTb3VyY2UgPSBNQXBwOjpjcmVhdGVPYmplY3QoTVdlbmdfUHVibGlzaFNvdXJjZTo6Y2xhc3MpOwogICAgICAgICRvRGV0YWlsU2VydmljZSA9IE1BcHA6OmNyZWF0ZU9iamVjdChNUmFua2luZ19TcG9rZXNtYW5fU2VydmljZV9EZXRhaWw6OmNsYXNzKTs=</text>
+        <text>MFacade_Service_RankingService</text>
       </register>
       <register name="-" type="4">
-        <text>$week</text>
+        <text>MFacade_Service_RankingService</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
