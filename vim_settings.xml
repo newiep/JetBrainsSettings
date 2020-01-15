@@ -77,8 +77,8 @@
         <mark key="[" line="208" column="71" />
       </file>
       <file name="$USER_HOME$/Works/webdev/movie-lib/controller/app/video/detail/get_movie_detail.v1.php" timestamp="1577330663062" />
-      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Video.php" timestamp="1577236285704" />
-      <file name="$USER_HOME$/Works/webdev/group/apps/group/htdocs/mapi/group/publish/publish_post.v1.php" timestamp="1579059695570" />
+      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Video.php" timestamp="1579067835841" />
+      <file name="$USER_HOME$/Works/webdev/group/apps/group/htdocs/mapi/group/publish/publish_post.v1.php" timestamp="1579067118425" />
       <file name="$USER_HOME$/Works/webdev/wengs/daren/impl/Spokesman.php" timestamp="1578467961794" />
       <file name="$USER_HOME$/Works/webdev/rss/controller/mobile/tag.php" timestamp="1578017676999" />
       <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/request/param/ListParam.php" timestamp="1577946009085" />
@@ -374,6 +374,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/wengweng/www2011/include/ww/SyncFacade.php" timestamp="1577187330739" />
       <file name="$USER_HOME$/Works/webdev/qianxun/facade/ccmb/task/TagApi.php" timestamp="1578635262536" />
+      <file name="$USER_HOME$/Works/webdev/video/file/Register.php" timestamp="1579067697440" />
       <file name="$USER_HOME$/Works/webdev/qianxun/facade/es/DistributeApi.php" timestamp="1577773325881" />
       <file name="$USER_HOME$/Works/webdev/content-ranking/server/Lib/Cron/DayOfWeekField.php" timestamp="1578283669524" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/ContentPrd.php" timestamp="1578914339008">
@@ -471,7 +472,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/publish/get_photo_mdd_info.v1.php" timestamp="1577957526515" />
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/dataprovider/DetailRecommend.php" timestamp="1577357020099" />
       <file name="$USER_HOME$/Works/webdev/wengs/interaction/Reply.php" timestamp="1578985793427" />
-      <file name="$USER_HOME$/Works/webdev/group/apps/group/ArticleApi.php" timestamp="1579059720803" />
+      <file name="$USER_HOME$/Works/webdev/group/apps/group/ArticleApi.php" timestamp="1579066996028" />
       <file name="$USER_HOME$/Works/webdev/wengs/form/WengLbs.php" timestamp="1578384812700" />
       <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/service/ReplyService.php" timestamp="1577946630759">
         <mark key="[" line="81" column="0" />
@@ -530,7 +531,7 @@
         <mark key="^" line="49" column="4" />
         <mark key="." line="81" column="26" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/open/Info.php" timestamp="1578909418033">
+      <file name="$USER_HOME$/Works/webdev/wengs/open/Info.php" timestamp="1579067959275">
         <mark key="[" line="303" column="31" />
         <mark key="]" line="1071" column="53" />
         <mark key="." line="1071" column="53" />
@@ -560,6 +561,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/facade/open/Editor.php" timestamp="1577240692904" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/InfoFlow.php" timestamp="1577347569399" />
       <file name="$USER_HOME$/Works/webdev/show/busi/Base.php" timestamp="1577756550031" />
+      <file name="$USER_HOME$/Works/webdev/video/facade/video/Thumb.php" timestamp="1579067816070" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Qianxun.php" timestamp="1578020345797">
         <mark key="[" line="53" column="54" />
       </file>
@@ -643,7 +645,7 @@
         <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/interaction.php" timestamp="1577945583463" />
-      <file name="$USER_HOME$/Works/webdev/wengs/multimedia/TranscodeApi.php" timestamp="1578478464852" />
+      <file name="$USER_HOME$/Works/webdev/wengs/multimedia/TranscodeApi.php" timestamp="1579067226038" />
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/dataprovider/Reply.php" timestamp="1578561660504" />
       <file name="$USER_HOME$/Works/webdev/content-ranking/server/Lib/Cron/AbstractField.php" timestamp="1578283655977">
         <mark key="[" line="2" column="42" />
@@ -856,7 +858,7 @@
         <mark key="]" line="138" column="17" />
         <mark key="." line="138" column="17" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/multimedia/Api.php" timestamp="1579058097697">
+      <file name="$USER_HOME$/Works/webdev/wengs/multimedia/Api.php" timestamp="1579067257335">
         <mark key="[" line="700" column="10" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-ranking/server/Lib/Cron/FieldFactory.php" timestamp="1578283673032" />
@@ -926,7 +928,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/activity.php" timestamp="1577323711043" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/IdMapManager.php" timestamp="1577702528517" />
-      <file name="$USER_HOME$/Works/webdev/wengs/form/Publish.php" timestamp="1579058109846">
+      <file name="$USER_HOME$/Works/webdev/wengs/form/Publish.php" timestamp="1579067136559">
         <mark key="[" line="282" column="0" />
         <mark key="]" line="282" column="0" />
         <mark key="." line="282" column="0" />
@@ -960,6 +962,7 @@
         <mark key="." line="16" column="1" />
       </file>
       <file name="$USER_HOME$/Works/webdev/show/proxy/ContentReply.php" timestamp="1577946057220" />
+      <file name="$USER_HOME$/Works/webdev/video/video/Thumb.php" timestamp="1579067524519" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/detail/get_detail.v4.php" timestamp="1578562192410">
         <mark key="[" line="48" column="5" />
       </file>
