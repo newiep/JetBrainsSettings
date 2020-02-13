@@ -239,7 +239,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Poi.php" timestamp="1581394878419" />
+      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Poi.php" timestamp="1581582600448" />
       <file name="$USER_HOME$/Works/webdev/wengs/Conf.php" timestamp="1581496558009">
         <mark key="[" line="64" column="17" />
         <mark key="]" line="64" column="17" />
@@ -341,8 +341,8 @@
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/SortManager.php" timestamp="1580806834628">
         <mark key="[" line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1581579966815">
-        <mark key="[" line="197" column="0" />
+      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1581581740584">
+        <mark key="[" line="195" column="0" />
         <mark key="]" line="195" column="0" />
         <mark key="." line="195" column="0" />
       </file>
@@ -411,6 +411,7 @@
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/DetailV1.php" timestamp="1580872783073">
         <mark key="[" line="43" column="82" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/web/comment/publish.php" timestamp="1581582623800" />
       <file name="$USER_HOME$/Works/webdev/show/mapi/format/Reply.php" timestamp="1580817099778" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Entity/ReplyIdMapDO.php" timestamp="1581414150516">
         <mark key="[" line="207" column="0" />
@@ -527,7 +528,7 @@
         <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Hotel.php" timestamp="1581394742388" />
-      <file name="$USER_HOME$/Works/webdev/wengs/base/traits/WebApp.php" timestamp="1581061261088">
+      <file name="$USER_HOME$/Works/webdev/wengs/base/traits/WebApp.php" timestamp="1581582400582">
         <mark key="[" line="77" column="5" />
       </file>
       <file name="$USER_HOME$/Works/webdev/manual-script/202002/wengs/sync_reply_tidb.php" timestamp="1581576203750">
@@ -559,7 +560,7 @@
       <file name="$USER_HOME$/Works/webdev/outdated/apps/facade/log/Api.php" timestamp="1581416352375" />
       <file name="$USER_HOME$/Works/webdev/shequ/apps/ugcaudit/facade/text/Api.php" timestamp="1581233405225" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/multimedia/TranscodeApi.php" timestamp="1581233960285" />
-      <file name="$USER_HOME$/Works/webdev/wengs/form/ModifyParameter.php" timestamp="1581487598242" />
+      <file name="$USER_HOME$/Works/webdev/wengs/form/ModifyParameter.php" timestamp="1581582582971" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/format/Movie.php" timestamp="1581386119983">
         <mark key="[" line="375" column="0" />
         <mark key="]" line="375" column="0" />
@@ -611,6 +612,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/composer/vendor/mfw/content-root/src/Base/Manager/AbstractManager.php" timestamp="1581412706759" />
       <file name="$USER_HOME$/Works/webdev/wengweng/www2011/include/ww/apps/video/Format.php" timestamp="1581386116852" />
+      <file name="$USER_HOME$/Works/webdev/wengs/form/WengLbs.php" timestamp="1581582629219" />
       <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/service/ReplyService.php" timestamp="1581565162685">
         <mark key="[" line="109" column="7" />
       </file>
@@ -742,7 +744,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>var_dump($imgData);die;</text>
+        <text encoding="base64">ClxhcHBzXHdlbmdzXE1Qcm94eV9Qb2k6OmFHZXRCYXNlSW5mbw==</text>
       </register>
       <register name="-" type="4">
         <text>var_dump($imgData);die;</text>
@@ -754,36 +756,34 @@
         <text />
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHZhcl9kdW1wKCRfUE9TVCk7ZGllOw==</text>
+        <text encoding="base64">ClxhcHBzXHdlbmdzXE1Qcm94eV9Qb2k6OmFHZXRCYXNlSW5mbw==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHZhcl9kdW1wKCRfUE9TVCk7ZGllOw==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAgICAgZWNobyAxO2RpZTs=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVwbHlJbmZvKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGNvbW1lbnRMaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVwbHlJbmZvKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHNwbGl0TnVtKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGNvbW1lbnRMaXN0KTsK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHNwbGl0TnVtKTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgOwogICAgICAgIDsK</text>
-      </register>
       <register name="9" type="4">
-        <text>if (!$bizId || !$bizType) {
-            throw new InvalidArgumentException('缺少必要参数biz_id | biz_type');
-        }</text>
+        <text encoding="base64">CiAgICAgICAgOwogICAgICAgIDsK</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
