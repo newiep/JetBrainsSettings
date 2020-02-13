@@ -530,10 +530,10 @@
       <file name="$USER_HOME$/Works/webdev/wengs/base/traits/WebApp.php" timestamp="1581061261088">
         <mark key="[" line="77" column="5" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/manual-script/202002/wengs/sync_reply_tidb.php" timestamp="1581505542003">
-        <mark key="[" line="76" column="107" />
-        <mark key="]" line="76" column="107" />
-        <mark key="." line="76" column="107" />
+      <file name="$USER_HOME$/Works/webdev/manual-script/202002/wengs/sync_reply_tidb.php" timestamp="1581567155569">
+        <mark key="[" line="67" column="70" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/detail/get_detail.v4.php" timestamp="1580800419378">
         <mark key="[" line="30" column="47" />
@@ -741,8 +741,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>var_dump($query);die;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>var_dump($query);die;</text>
@@ -754,33 +754,33 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVwbHlJbmZvKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGNvbW1lbnRMaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVwbHlJbmZvKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHNwbGl0TnVtKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGNvbW1lbnRMaXN0KTsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHNwbGl0TnVtKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgOwogICAgICAgIDsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>if (!$bizId || !$bizType) {
             throw new InvalidArgumentException('缺少必要参数biz_id | biz_type');
         }</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIHN5bmNNb25nbygkcmVwbHlJZCwgJGJpeklkLCAkYml6VHlwZSkKICAgIHsKICAgICAgICAkcmVwbHlETyA9ICR0aGlzLT5maW5kQnlSZXBseUlkKCRyZXBseUlkLCAkYml6SWQsICRiaXpUeXBlKTsKICAgICAgICBDb21tZW50TW9uZ29SZXBvOjptYWtlQmVhbigpLT5pVXBkYXRlKCRyZXBseUlkLCBbJ3ZvdGVfbnVtJyA9PiAkcmVwbHlETy0+Z2V0Vm90ZU51bSgpXSk7CiAgICB9Cg==</text>
-      </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgLy9tb25nbyDlj6rmm7TmlrDngrnotZ7mlbAKICAgICAgICBpZiAoJHJlcGx5U3RhdGVtZW50LT5nZXRWb3RlTnVtKCkpIHsKICAgICAgICAgICAgJHRoaXMtPnN5bmNNb25nbygKICAgICAgICAgICAgICAgICRyZXBseVN0YXRlbWVudC0+Z2V0UmVwbHlJZCgpLAogICAgICAgICAgICAgICAgJHJlcGx5U3RhdGVtZW50LT5nZXRCaXpJZCgpLAogICAgICAgICAgICAgICAgJHJlcGx5U3RhdGVtZW50LT5nZXRCaXpUeXBlKCkKICAgICAgICAgICAgKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIHN5bmNNb25nbygkcmVwbHlJZCwgJGJpeklkLCAkYml6VHlwZSkKICAgIHsKICAgICAgICAkcmVwbHlETyA9ICR0aGlzLT5maW5kQnlSZXBseUlkKCRyZXBseUlkLCAkYml6SWQsICRiaXpUeXBlKTsKICAgICAgICBDb21tZW50TW9uZ29SZXBvOjptYWtlQmVhbigpLT5pVXBkYXRlKCRyZXBseUlkLCBbJ3ZvdGVfbnVtJyA9PiAkcmVwbHlETy0+Z2V0Vm90ZU51bSgpXSk7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="4">
         <text encoding="base64">CiAgICAgICAgLy9tb25nbyDlj6rmm7TmlrDngrnotZ7mlbAKICAgICAgICBpZiAoJHJlcGx5U3RhdGVtZW50LT5nZXRWb3RlTnVtKCkpIHsKICAgICAgICAgICAgJHRoaXMtPnN5bmNNb25nbygKICAgICAgICAgICAgICAgICRyZXBseVN0YXRlbWVudC0+Z2V0UmVwbHlJZCgpLAogICAgICAgICAgICAgICAgJHJlcGx5U3RhdGVtZW50LT5nZXRCaXpJZCgpLAogICAgICAgICAgICAgICAgJHJlcGx5U3RhdGVtZW50LT5nZXRCaXpUeXBlKCkKICAgICAgICAgICAgKTsKICAgICAgICB9Cg==</text>
