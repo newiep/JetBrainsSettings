@@ -112,7 +112,11 @@
         <mark key="[" line="33" column="67" />
       </file>
       <file name="$USER_HOME$/Works/webdev/show/busi/Weng.php" timestamp="1580901665526" />
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/up.php" timestamp="1581578500509" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/up.php" timestamp="1581579937387">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/composer/vendor/mongodb/mongodb/src/Client.php" timestamp="1581472862062" />
       <file name="$USER_HOME$/Works/webdev/show/facade/inner/Show.php" timestamp="1581387170881" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/ListManager.php" timestamp="1581505108252">
@@ -337,8 +341,8 @@
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/SortManager.php" timestamp="1580806834628">
         <mark key="[" line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1581510107353">
-        <mark key="[" line="195" column="0" />
+      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1581579966815">
+        <mark key="[" line="197" column="0" />
         <mark key="]" line="195" column="0" />
         <mark key="." line="195" column="0" />
       </file>
@@ -737,11 +741,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>var_dump($imgData);die;</text>
       </register>
       <register name="-" type="4">
-        <text>var_dump($query);die;</text>
+        <text>var_dump($imgData);die;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -749,37 +753,37 @@
       <register name="0" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHZhcl9kdW1wKCRfUE9TVCk7ZGllOw==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVwbHlJbmZvKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgZWNobyAxO2RpZTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGNvbW1lbnRMaXN0KTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHNwbGl0TnVtKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVwbHlJbmZvKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGNvbW1lbnRMaXN0KTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHNwbGl0TnVtKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgOwogICAgICAgIDsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>if (!$bizId || !$bizType) {
             throw new InvalidArgumentException('缺少必要参数biz_id | biz_type');
         }</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIHN5bmNNb25nbygkcmVwbHlJZCwgJGJpeklkLCAkYml6VHlwZSkKICAgIHsKICAgICAgICAkcmVwbHlETyA9ICR0aGlzLT5maW5kQnlSZXBseUlkKCRyZXBseUlkLCAkYml6SWQsICRiaXpUeXBlKTsKICAgICAgICBDb21tZW50TW9uZ29SZXBvOjptYWtlQmVhbigpLT5pVXBkYXRlKCRyZXBseUlkLCBbJ3ZvdGVfbnVtJyA9PiAkcmVwbHlETy0+Z2V0Vm90ZU51bSgpXSk7CiAgICB9Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgLy9tb25nbyDlj6rmm7TmlrDngrnotZ7mlbAKICAgICAgICBpZiAoJHJlcGx5U3RhdGVtZW50LT5nZXRWb3RlTnVtKCkpIHsKICAgICAgICAgICAgJHRoaXMtPnN5bmNNb25nbygKICAgICAgICAgICAgICAgICRyZXBseVN0YXRlbWVudC0+Z2V0UmVwbHlJZCgpLAogICAgICAgICAgICAgICAgJHJlcGx5U3RhdGVtZW50LT5nZXRCaXpJZCgpLAogICAgICAgICAgICAgICAgJHJlcGx5U3RhdGVtZW50LT5nZXRCaXpUeXBlKCkKICAgICAgICAgICAgKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
