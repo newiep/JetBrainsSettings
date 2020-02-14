@@ -181,7 +181,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/enum/comment/UserStatus.php" timestamp="1581649632122">
+      <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/enum/comment/UserStatus.php" timestamp="1581649633059">
         <mark key="[" line="16" column="51" />
         <mark key="]" line="15" column="24" />
         <mark key="." line="15" column="24" />
@@ -407,6 +407,11 @@
         <mark key="]" line="96" column="17" />
         <mark key="." line="96" column="17" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/content-comment/server/Consumer/UserForbidSubscriber.php" timestamp="1581650656674">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="14" column="51" />
+        <mark key="." line="14" column="51" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Query/IdMapQuery.php" timestamp="1581505183797">
         <mark key="[" line="106" column="19" />
         <mark key="]" line="36" column="20" />
@@ -432,7 +437,7 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/content-comment/server/Dao/CommentIdMapRepo.php" timestamp="1581563882672">
+      <file name="$USER_HOME$/Works/webdev/content-comment/server/Dao/CommentIdMapRepo.php" timestamp="1581650327563">
         <mark key="[" line="52" column="57" />
         <mark key="]" line="52" column="57" />
         <mark key="." line="52" column="57" />
@@ -586,6 +591,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/facade/weng/UgcAuditApi.php" timestamp="1581487750871" />
       <file name="$USER_HOME$/Works/webdev/show/facade/inner/Home.php" timestamp="1581071745222" />
+      <file name="$USER_HOME$/Works/webdev/wxapp/facade/MessageSubscriber.php" timestamp="1581650696039" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/tool/mongo/Model.php" timestamp="1581490943138">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
@@ -930,6 +936,7 @@
         <mark key="." line="135" column="84" />
         <mark key="^" line="122" column="21" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/qianxun/facade/MessageSubscriber.php" timestamp="1581650701223" />
       <file name="$USER_HOME$/Works/webdev/shequ/apps/ugcaudit/facade/text/Api.php" timestamp="1581233405225" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Query/ListQuery.php" timestamp="1577677872505">
         <mark key="[" line="179" column="12" />
@@ -1106,10 +1113,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>\apps\user\forbid\</text>
+        <text>$aParam</text>
       </register>
       <register name="-" type="4">
-        <text>\apps\user\forbid\</text>
+        <text>$aParam</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
