@@ -116,7 +116,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/composer/vendor/mfw/content-root/src/Util/Database/PDOFactory.php" timestamp="1581406919106" />
       <file name="$USER_HOME$/Works/webdev/composer/vendor/mfw/content-root/src/Base/Object/Obj.php" timestamp="1581500359793" />
-      <file name="$USER_HOME$/Works/webdev/content-activity/mobile/htdocs/activity_epidemic_wish.php" timestamp="1583136361355">
+      <file name="$USER_HOME$/Works/webdev/content-activity/mobile/htdocs/activity_epidemic_wish.php" timestamp="1583143091493">
         <mark key="[" line="214" column="52" />
         <mark key="]" line="214" column="52" />
         <mark key="^" line="240" column="20" />
@@ -539,10 +539,10 @@
         <mark key="]" line="52" column="57" />
         <mark key="." line="52" column="57" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/content-activity/epidemicwish/control/MddTop.php" timestamp="1583135922176">
-        <mark key="[" line="80" column="78" />
-        <mark key="]" line="140" column="51" />
-        <mark key="." line="140" column="51" />
+      <file name="$USER_HOME$/Works/webdev/content-activity/epidemicwish/control/MddTop.php" timestamp="1583143511790">
+        <mark key="[" line="25" column="40" />
+        <mark key="]" line="25" column="40" />
+        <mark key="." line="25" column="40" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/test1.php" timestamp="1582194066336">
         <mark key="[" line="46" column="0" />
@@ -1381,10 +1381,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAkb0xpbWl0ID0gTVRvb2xfTGltaXQ6Om9JbnN0YW5jZSgpOw==</text>
+        <text>min(self::LIMIT, $iLimit)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JG9MaW1pdC0+YkNoZWNrKCRpVWlkIC4gJGlNZGRpZCwgTUVwaWRlbWljd2lzaF9Db25zdF9BcGk6OkVQSURFTUlDX1dJU0hfV0FOVF9UTywgMCwgMSk=</text>
+        <text>min(self::LIMIT, $iLimit)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
