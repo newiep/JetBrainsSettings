@@ -83,7 +83,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/composer/vendor/mfw/content-root/src/Util/Database/PDOFactory.php" timestamp="1581406919106" />
       <file name="$USER_HOME$/Works/webdev/composer/vendor/mfw/content-root/src/Base/Object/Obj.php" timestamp="1581500359793" />
-      <file name="$USER_HOME$/Works/webdev/content-activity/mobile/htdocs/activity_epidemic_wish.php" timestamp="1583118694721">
+      <file name="$USER_HOME$/Works/webdev/content-activity/mobile/htdocs/activity_epidemic_wish.php" timestamp="1583127724481">
         <mark key="[" line="244" column="0" />
         <mark key="]" line="244" column="111" />
         <mark key="^" line="240" column="20" />
@@ -384,6 +384,11 @@
         <mark key="[" line="52" column="57" />
         <mark key="]" line="52" column="57" />
         <mark key="." line="52" column="57" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/content-activity/epidemicwish/control/MddTop.php" timestamp="1583128134149">
+        <mark key="[" line="140" column="51" />
+        <mark key="]" line="140" column="51" />
+        <mark key="." line="140" column="51" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/test1.php" timestamp="1582194066336">
         <mark key="[" line="46" column="0" />
@@ -1062,11 +1067,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaW1hZ2UnICAgID0+ICdodHRwczovL24xLXEubWFmZW5nd28ubmV0L3MxNS9NMDAvOTEvQ0QvQ29VQkdWNWNkei1BUjNRQUFBRXdXbUJ5SGl3NzcuanBlZycsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICRzTmFtZSA9ICgkc1BhcmVudE5hbWUgPT0gJHNNZGROYW1lKSA/ICRzTWRkTmFtZSA6ICgkc1BhcmVudE5hbWUgLiAnICcgLiAkc01kZE5hbWUpOw==</text>
       </register>
       <register name="-" type="4">
-        <text> </text>
+        <text>$aMddParentInfo[$iMddid]['mdd_name']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -1074,23 +1079,23 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaW1hZ2UnICAgID0+ICdodHRwczovL24xLXEubWFmZW5nd28ubmV0L3MxNS9NMDAvOTEvQ0QvQ29VQkdWNWNkei1BUjNRQUFBRXdXbUJ5SGl3NzcuanBlZycsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICRzTmFtZSA9ICgkc1BhcmVudE5hbWUgPT0gJHNNZGROYW1lKSA/ICRzTWRkTmFtZSA6ICgkc1BhcmVudE5hbWUgLiAnICcgLiAkc01kZE5hbWUpOw==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbmFtZScgICAgID0+ICfmg6DogIzmtabmtJfooaPmnLonLAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAnbmFtZScgPT4gJHNOYW1lLA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaW1hZ2UnICAgID0+ICdodHRwczovL24xLXEubWFmZW5nd28ubmV0L3MxNS9NMDAvOTEvQ0QvQ29VQkdWNWNkei1BUjNRQUFBRXdXbUJ5SGl3NzcuanBlZycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaW1hZ2UnICAgID0+ICcnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbmFtZScgICAgID0+ICfmg6DogIzmtabmtJfooaPmnLonLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaW1hZ2UnICAgID0+ICcnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaW1hZ2UnICAgID0+ICdodHRwczovL24xLXEubWFmZW5nd28ubmV0L3MxNS9NMDAvOTEvQ0QvQ29VQkdWNWNkei1BUjNRQUFBRXdXbUJ5SGl3NzcuanBlZycsCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaW1hZ2UnICAgID0+ICcnLAo=</text>
