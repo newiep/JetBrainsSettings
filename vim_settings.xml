@@ -267,6 +267,11 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/movie-lib/proxy/WengClient.php" timestamp="1580798292739" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/format/User.php" timestamp="1580978712971" />
+      <file name="$USER_HOME$/Codes/PHP/spider/batch.php" timestamp="1583657407997">
+        <mark key="[" line="22" column="78" />
+        <mark key="]" line="22" column="78" />
+        <mark key="." line="22" column="78" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/content-activity/tool/Log.php" timestamp="1583111823391" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/SortManager.php" timestamp="1582703459978">
         <mark key="[" line="59" column="1" />
@@ -448,7 +453,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/facade/multimedia/TranscodeApi.php" timestamp="1581233960285" />
       <file name="$USER_HOME$/Works/webdev/wengs/form/ModifyParameter.php" timestamp="1581582582971" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/open/Interaction.php" timestamp="1582681880223" />
-      <file name="$USER_HOME$/Works/webdev/wengs/batch_publish.php" timestamp="1583656096215">
+      <file name="$USER_HOME$/Works/webdev/wengs/batch_publish.php" timestamp="1583657295147">
         <mark key="'" line="348" column="8" />
         <mark key="[" line="485" column="17" />
         <mark key="]" line="488" column="0" />
@@ -1128,10 +1133,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgoKdmFyX2R1bXAoJHJzcCk7</text>
+        <text encoding="base64">Ci8vICAgICAgICAgICAgJ2ZpbGVuYW1lJyA9PiAnY3VzdG9tX2ZpbGVuYW1lLnR4dCc=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGltcGxlbWVudHMgS29fVG9vbF9IdHRwUmVxdWVzdEludGVyZmFjZQ==</text>
+        <text>getReasonPhrase</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -1140,36 +1145,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaW1hZ2UnICAgID0+ICdodHRwczovL24xLXEubWFmZW5nd28ubmV0L3MxNS9NMDAvOTEvQ0QvQ29VQkdWNWNkei1BUjNRQUFBRXdXbUJ5SGl3NzcuanBlZycsCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CgoKdmFyX2R1bXAoJHJzcCk7</text>
+        <text encoding="base64">Ci8vICAgICAgICAgICAgJ2ZpbGVuYW1lJyA9PiAnY3VzdG9tX2ZpbGVuYW1lLnR4dCc=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">JHdlbmdpZCA9ICRkYXRhWzBdOwogICAgaWYgKChpbnQpJHdlbmdpZCA9PSAwKSB7CiAgICAgICAgY29udGludWU7CiAgICB9CiAgICAkaXRlbXMgPSAkb0NvbnRlbnRBcGktPmFHZXRJdGVtcygkd2VuZ2lkKTsKICAgICRzdHIgPSAnJzsKICAgIGZvcmVhY2ggKCRpdGVtcyBhcyAkaXRlbSkgewogICAgICAgIGlmICghaW5fYXJyYXkoJGl0ZW1bJ3R5cGUnXSwgTUNvbmY6OiRhVmlkZW9UeXBlcykpIHsKICAgICAgICAgICAgJHVybCA9ICRvSW1hZ2VQcm94eS0+c0Nyb3BTdHJldGNoKCRpdGVtWydyZXNvdXJjZSddLCA0MDAsIDQwMCk7CiAgICAgICAgICAgICRzdHIgLj0gJHdlbmdpZCAuICIsIiAuICR1cmwgLiBQSFBfRU9MOwogICAgICAgIH0KICAgIH0KICAgIGZpbGVfcHV0X2NvbnRlbnRzKCRvdXRmaWxlLCAkc3RyLCBGSUxFX0FQUEVORCk7</text>
+        <text encoding="base64">CiAgICAgICAgICAgICdoZWFkZXJzJyAgPT4gWydYLUJheicgPT4gJ2Jhcidd</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAna2V5d29yZCcg</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8kY2xpZW50ID0gbmV3IENsaWVudChbJ2Jhc2VfdXJpJyA9PiAnJ10pOwo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgJGNUaW1lID0gOw==</text>
+        <text encoding="base64">CiRyZXNwb25zZSA9ICRjbGllbnQtPmdldCgnaHR0cDovL2h0dHBiaW4ub3JnL2dldCcpOw==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiRzcGlkZXJNb2NrZXIgPSBNQXBwOjpjcmVhdGVPYmplY3QoTU1vY2tfU3BpZGVyOjpjbGFzcyk7CmRkKCRzcGlkZXJNb2NrZXItPmlzVmVzdFVpZCg2NjQ5Mzc2MDEpKTsKZGQoJHNwaWRlck1vY2tlci0+Z2V0VmVzdFVpZCgpKTs=</text>
+        <text encoding="base64">WwogICAgLy8gQmFzZSBVUkkgaXMgdXNlZCB3aXRoIHJlbGF0aXZlIHJlcXVlc3RzCiAgICAnYmFzZV91cmknID0+ICdodHRwOi8vaHR0cGJpbi5vcmcnLAogICAgLy8gWW91IGNhbiBzZXQgYW55IG51bWJlciBvZiBkZWZhdWx0IHJlcXVlc3Qgb3B0aW9ucy4KICAgICd0aW1lb3V0JyAgPT4gMi4wLApd</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGJJc0ZpbHRlclZlc3RXZW5nKCR1aWQpCiAgICB7CgogICAgfQ==</text>
+        <text encoding="base64">CgoKdmFyX2R1bXAoJHJzcCk7</text>
       </register>
       <register name="7" type="4">
-        <text>/**
-         */
-        $spiderMocker = MApp::createObject(MMock_Spider::class);</text>
+        <text encoding="base64">JHdlbmdpZCA9ICRkYXRhWzBdOwogICAgaWYgKChpbnQpJHdlbmdpZCA9PSAwKSB7CiAgICAgICAgY29udGludWU7CiAgICB9CiAgICAkaXRlbXMgPSAkb0NvbnRlbnRBcGktPmFHZXRJdGVtcygkd2VuZ2lkKTsKICAgICRzdHIgPSAnJzsKICAgIGZvcmVhY2ggKCRpdGVtcyBhcyAkaXRlbSkgewogICAgICAgIGlmICghaW5fYXJyYXkoJGl0ZW1bJ3R5cGUnXSwgTUNvbmY6OiRhVmlkZW9UeXBlcykpIHsKICAgICAgICAgICAgJHVybCA9ICRvSW1hZ2VQcm94eS0+c0Nyb3BTdHJldGNoKCRpdGVtWydyZXNvdXJjZSddLCA0MDAsIDQwMCk7CiAgICAgICAgICAgICRzdHIgLj0gJHdlbmdpZCAuICIsIiAuICR1cmwgLiBQSFBfRU9MOwogICAgICAgIH0KICAgIH0KICAgIGZpbGVfcHV0X2NvbnRlbnRzKCRvdXRmaWxlLCAkc3RyLCBGSUxFX0FQUEVORCk7</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgKi8K</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAna2V5d29yZCcg</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHNwaWRlck1vY2tlci0+Z2V0VmVzdFVpZCgpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgJGNUaW1lID0gOw==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
