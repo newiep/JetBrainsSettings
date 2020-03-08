@@ -41,7 +41,7 @@
       <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/response/dto/ReplyExpand.php" timestamp="1581944208189" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/facade/busi/Audit.php" timestamp="1580719774803" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/inner/image.php" timestamp="1582462293747" />
-      <file name="$USER_HOME$/Works/webdev/ko/tool/HttpRequest.php" timestamp="1583593829607" />
+      <file name="$USER_HOME$/Works/webdev/ko/tool/HttpRequest.php" timestamp="1583645846059" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/controller/app/video/detail/get_movie_detail.v1.php" timestamp="1583224332688">
         <mark key="[" line="222" column="9" />
         <mark key="]" line="222" column="9" />
@@ -163,7 +163,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/User.php" timestamp="1583376673686" />
       <file name="$USER_HOME$/Works/webdev/content-activity/epidemicwish/epidemic_activity.sql" timestamp="1583115799821" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/mine/task.php" timestamp="1580971706915" />
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/spider.php" timestamp="1583397390906">
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/spider.php" timestamp="1583646583441">
         <mark key="'" line="183" column="22" />
         <mark key="[" line="69" column="27" />
         <mark key="]" line="98" column="5" />
@@ -209,7 +209,7 @@
         <mark key="]" line="109" column="55" />
         <mark key="." line="109" column="55" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Recommend.php" timestamp="1583593798261">
+      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Recommend.php" timestamp="1583645987338">
         <mark key="[" line="17" column="17" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/form/PublishParameter.php" timestamp="1582597497767" />
@@ -448,6 +448,13 @@
       <file name="$USER_HOME$/Works/webdev/wengs/facade/multimedia/TranscodeApi.php" timestamp="1581233960285" />
       <file name="$USER_HOME$/Works/webdev/wengs/form/ModifyParameter.php" timestamp="1581582582971" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/open/Interaction.php" timestamp="1582681880223" />
+      <file name="$USER_HOME$/Works/webdev/wengs/batch_publish.php" timestamp="1583646968745">
+        <mark key="'" line="465" column="20" />
+        <mark key="[" line="487" column="0" />
+        <mark key="]" line="487" column="0" />
+        <mark key="^" line="456" column="31" />
+        <mark key="." line="487" column="0" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/form/BaseParameter.php" timestamp="1582196179680" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/admin/almighty_weng_list.v1.php" timestamp="1583378188288">
         <mark key="[" line="912" column="0" />
@@ -682,6 +689,7 @@
         <mark key="[" line="24" column="45" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-root/src/Base/Object/Obj.php" timestamp="1582705951524" />
+      <file name="$USER_HOME$/Works/webdev/manual-script/201909/wengs/generate_url.php" timestamp="1583646633984" />
       <file name="$USER_HOME$/Works/webdev/mobile/mobile_api/htdocs/boot.php" timestamp="1581596143277">
         <mark key="[" line="79" column="24" />
       </file>
@@ -1006,9 +1014,6 @@
       <file name="$USER_HOME$/Works/webdev/content-root/src/Framework/App.php" timestamp="1581479774408" />
     </filemarks>
     <jumps>
-      <jump line="284" column="55" filename="$USER_HOME$/Works/webdev/wengs/open/Info.php" />
-      <jump line="11" column="0" filename="$USER_HOME$/Works/webdev/manual-script/201908/wengs/generate_url.php" />
-      <jump line="28" column="25" filename="$USER_HOME$/Works/webdev/wengs/ranking/ScoreDetail.php" />
       <jump line="66" column="116" filename="$USER_HOME$/Works/webdev/wengs/ranking/Api.php" />
       <jump line="224" column="31" filename="$USER_HOME$/Works/webdev/wengs/ranking/Api.php" />
       <jump line="225" column="31" filename="$USER_HOME$/Works/webdev/wengs/ranking/Api.php" />
@@ -1106,6 +1111,9 @@
       <jump line="392" column="0" filename="$USER_HOME$/Works/webdev/outdated/www2011/conf/site/all.ini" />
       <jump line="584" column="0" filename="$USER_HOME$/Works/webdev/outdated/www2011/conf/site/all.ini" />
       <jump line="215" column="22" filename="$USER_HOME$/Works/webdev/wengs/controller/mobile/spider.php" />
+      <jump line="456" column="31" filename="$USER_HOME$/Works/webdev/wengs/batch_publish.php" />
+      <jump line="188" column="8" filename="$USER_HOME$/Works/webdev/wengs/batch_publish.php" />
+      <jump line="465" column="20" filename="$USER_HOME$/Works/webdev/wengs/batch_publish.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1120,10 +1128,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>https://p1-q.mafengwo.net/s15/M00/27/BA/CoUBGV5iH5uAFgyYAAjh9FczYL4159.pn</text>
+        <text encoding="base64">CgoKdmFyX2R1bXAoJHJzcCk7</text>
       </register>
       <register name="-" type="4">
-        <text>https://p1-q.mafengwo.net/s15/M00/27/BA/CoUBGV5iH5uAFgyYAAjh9FczYL4159.pn</text>
+        <text encoding="base64">IGltcGxlbWVudHMgS29fVG9vbF9IdHRwUmVxdWVzdEludGVyZmFjZQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -1132,33 +1140,33 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaW1hZ2UnICAgID0+ICdodHRwczovL24xLXEubWFmZW5nd28ubmV0L3MxNS9NMDAvOTEvQ0QvQ29VQkdWNWNkei1BUjNRQUFBRXdXbUJ5SGl3NzcuanBlZycsCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgJGNUaW1lID0gOw==</text>
+        <text encoding="base64">CgoKdmFyX2R1bXAoJHJzcCk7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiRzcGlkZXJNb2NrZXIgPSBNQXBwOjpjcmVhdGVPYmplY3QoTU1vY2tfU3BpZGVyOjpjbGFzcyk7CmRkKCRzcGlkZXJNb2NrZXItPmlzVmVzdFVpZCg2NjQ5Mzc2MDEpKTsKZGQoJHNwaWRlck1vY2tlci0+Z2V0VmVzdFVpZCgpKTs=</text>
+        <text encoding="base64">JHdlbmdpZCA9ICRkYXRhWzBdOwogICAgaWYgKChpbnQpJHdlbmdpZCA9PSAwKSB7CiAgICAgICAgY29udGludWU7CiAgICB9CiAgICAkaXRlbXMgPSAkb0NvbnRlbnRBcGktPmFHZXRJdGVtcygkd2VuZ2lkKTsKICAgICRzdHIgPSAnJzsKICAgIGZvcmVhY2ggKCRpdGVtcyBhcyAkaXRlbSkgewogICAgICAgIGlmICghaW5fYXJyYXkoJGl0ZW1bJ3R5cGUnXSwgTUNvbmY6OiRhVmlkZW9UeXBlcykpIHsKICAgICAgICAgICAgJHVybCA9ICRvSW1hZ2VQcm94eS0+c0Nyb3BTdHJldGNoKCRpdGVtWydyZXNvdXJjZSddLCA0MDAsIDQwMCk7CiAgICAgICAgICAgICRzdHIgLj0gJHdlbmdpZCAuICIsIiAuICR1cmwgLiBQSFBfRU9MOwogICAgICAgIH0KICAgIH0KICAgIGZpbGVfcHV0X2NvbnRlbnRzKCRvdXRmaWxlLCAkc3RyLCBGSUxFX0FQUEVORCk7</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGJJc0ZpbHRlclZlc3RXZW5nKCR1aWQpCiAgICB7CgogICAgfQ==</text>
+        <text encoding="base64">CiAgICAna2V5d29yZCcg</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgJGNUaW1lID0gOw==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiRzcGlkZXJNb2NrZXIgPSBNQXBwOjpjcmVhdGVPYmplY3QoTU1vY2tfU3BpZGVyOjpjbGFzcyk7CmRkKCRzcGlkZXJNb2NrZXItPmlzVmVzdFVpZCg2NjQ5Mzc2MDEpKTsKZGQoJHNwaWRlck1vY2tlci0+Z2V0VmVzdFVpZCgpKTs=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGJJc0ZpbHRlclZlc3RXZW5nKCR1aWQpCiAgICB7CgogICAgfQ==</text>
+      </register>
+      <register name="7" type="4">
         <text>/**
          */
         $spiderMocker = MApp::createObject(MMock_Spider::class);</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgKi8K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHNwaWRlck1vY2tlci0+Z2V0VmVzdFVpZCgpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgKgo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAdmFyICRzcGlkZXJNb2NrZXIgTU1vY2tfU3BpZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgKi8K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gJHNwaWRlck1vY2tlci0+Z2V0VmVzdFVpZCgpOwo=</text>
