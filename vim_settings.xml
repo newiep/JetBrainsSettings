@@ -5,15 +5,22 @@
       <mark key="M" line="61" column="20" filename="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/get_import_assets_tabs.v1.php" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Codes/PHP/spider/data/话题_涨知识_奇葩冷知识等/话题_猎奇.csv" timestamp="1584620977945">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Codes/PHP/spider/batch1.php" timestamp="1584616960924">
         <mark key="[" line="51" column="6" />
         <mark key="]" line="51" column="6" />
         <mark key="." line="51" column="6" />
       </file>
-      <file name="$USER_HOME$/Codes/PHP/spider/batch.php" timestamp="1584619771767">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Codes/PHP/spider/batch.php" timestamp="1584621497698">
+        <mark key="[" line="50" column="6" />
+        <mark key="]" line="50" column="6" />
+        <mark key="." line="50" column="6" />
       </file>
       <file name="$USER_HOME$/Works/webdev/video/facade/file/Register.php" timestamp="1584588596271" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/open/Editor.php" timestamp="1584587819488">
@@ -53,7 +60,6 @@
       <file name="$USER_HOME$/Works/webdev/wengs/form/PublishParameter.php" timestamp="1584587810370" />
     </filemarks>
     <jumps>
-      <jump line="224" column="31" filename="$USER_HOME$/Works/webdev/wengs/ranking/Api.php" />
       <jump line="225" column="31" filename="$USER_HOME$/Works/webdev/wengs/ranking/Api.php" />
       <jump line="18" column="8" filename="$USER_HOME$/Works/webdev/wengs/ranking/ScoreManager.php" />
       <jump line="415" column="40" filename="$USER_HOME$/Works/webdev/rss/mapi/tag/DetailV1.php" />
@@ -153,6 +159,7 @@
       <jump line="188" column="8" filename="$USER_HOME$/Works/webdev/wengs/batch_publish.php" />
       <jump line="465" column="20" filename="$USER_HOME$/Works/webdev/wengs/batch_publish.php" />
       <jump line="348" column="8" filename="$USER_HOME$/Works/webdev/wengs/batch_publish.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/Codes/PHP/spider/data/话题_涨知识_奇葩冷知识等/话题_猎奇.csv" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -166,11 +173,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JGtleXdvcmQgPSAn6K+d6aKYX+iQjOWuoOaIkOeyvuS6hic7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CnZhcl9kdW1wKCRwYXJhbXMpO2RpZTs=</text>
       </register>
       <register name="-" type="4">
-        <text>奇趣外国人</text>
+        <text>var_dump($data);die;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -178,35 +185,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaW1hZ2UnICAgID0+ICdodHRwczovL24xLXEubWFmZW5nd28ubmV0L3MxNS9NMDAvOTEvQ0QvQ29VQkdWNWNkei1BUjNRQUFBRXdXbUJ5SGl3NzcuanBlZycsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">JGtleXdvcmQgPSAn6K+d6aKYX+iQjOWuoOaIkOeyvuS6hic7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CnZhcl9kdW1wKCRwYXJhbXMpO2RpZTs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ci8vJGtleXdvcmQgPSAn5LiW55WM54yO5aWHJzsKLy8ka2V5d29yZCA9ICflpYflvILkuJbnlYwnOwoka2V5d29yZCA9ICfkuI3kuLrkurrnn6UnOwo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8ka2V5d29yZCA9ICfooZflpLTooajmvJQnOwo=</text>
+        <text encoding="base64">6K+d6aKYX+eMjuWlhywsLCwsLCwsLCwsLCwsCuinhumikeWUr+S4gGlkLOinhumikeWQjeensCznlKjmiLd1aWQs55So5oi3c2hvcnRfaWQs5L2c6ICFLOWFs+iBlCzop4bpopHpk77mjqUs5pKt5pS+5pe26Ze0LOivhOiuuuaVsCzngrnotZ7mlbAs5LiL6L295pWwLOWIhuS6q+aVsCzovazlj5HmlbAs5Y+R5biD5pe26Ze0LOWGheWuuQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8ka2V5d29yZCA9ICfor53pophf6KGX5aS06KGo5ryUJzsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICB2YXJfZHVtcCgkZGF0YSk7ZGllOw==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CnZhcl9kdW1wKCRwYXJhbXMpO2RpZTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZWNobyAxO2RpZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRrZXl3b3JkKTtkaWU7Cg==</text>
+        <text encoding="base64">JGtleXdvcmQgPSAn6K+d6aKYX+iQjOWuoOaIkOeyvuS6hic7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICB2YXJfZHVtcCgka2V5d29yZCk7ZGllOw==</text>
+        <text encoding="base64">Ci8vJGtleXdvcmQgPSAn5LiW55WM54yO5aWHJzsKLy8ka2V5d29yZCA9ICflpYflvILkuJbnlYwnOwoka2V5d29yZCA9ICfkuI3kuLrkurrnn6UnOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICB2YXJfZHVtcCgkcmVsYXRlSWQpO2RpZTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8ka2V5d29yZCA9ICfooZflpLTooajmvJQnOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICB2YXJfZHVtcCgkdmlkZW9JZCk7ZGllOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8ka2V5d29yZCA9ICfor53pophf6KGX5aS06KGo5ryUJzsK</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
