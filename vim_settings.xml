@@ -27,6 +27,11 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/video/facade/file/Register.php" timestamp="1584588596271" />
       <file name="$USER_HOME$/Works/webdev/wenda/apps/wenda/facade/CommentApi.php" timestamp="1584690734957" />
+      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/SortManager.php" timestamp="1584693361166">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/video/file/HandleFenyu.php" timestamp="1584675924803" />
       <file name="$USER_HOME$/Works/webdev/video/facade/upload/Auth.php" timestamp="1584669843174" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/open/Editor.php" timestamp="1584587819488">
@@ -52,7 +57,7 @@
       <file name="$USER_HOME$/Works/webdev/openapi/htdocs/api/system/file/video_upload_callback.v3.php" timestamp="1584689551126" />
       <file name="$USER_HOME$/Works/webdev/file/apps/file/facade/trans/Info.php" timestamp="1584674399420" />
       <file name="$USER_HOME$/Works/webdev/file/apps/file/trans/model/Dao.php" timestamp="1584674428418" />
-      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Comment.php" timestamp="1584691740452">
+      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Comment.php" timestamp="1584693467310">
         <mark key="[" line="215" column="34" />
         <mark key="]" line="215" column="34" />
         <mark key="." line="215" column="34" />
@@ -68,6 +73,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/video/file/Register.php" timestamp="1584599878045" />
       <file name="$USER_HOME$/Works/webdev/wengs/form/Publish.php" timestamp="1584588577629" />
+      <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/enum/comment/BizType.php" timestamp="1584693336276" />
       <file name="$USER_HOME$/Works/webdev/file/apps/file/trans/model/Info.php" timestamp="1584674397424" />
       <file name="$USER_HOME$/Works/webdev/video/facade/file/UploadV3.php" timestamp="1584685432713" />
       <file name="$USER_HOME$/Works/webdev/wengs/open/Editor.php" timestamp="1584587826213">
@@ -91,11 +97,12 @@
         <mark key="]" line="49" column="9" />
         <mark key="." line="49" column="9" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wenda/mobile/htdocs/wenda/app/wenda/comment/get_answer_comment_list.v1.php" timestamp="1584691862650">
-        <mark key="[" line="149" column="29" />
-        <mark key="]" line="149" column="29" />
-        <mark key="." line="149" column="29" />
+      <file name="$USER_HOME$/Works/webdev/wenda/mobile/htdocs/wenda/app/wenda/comment/get_answer_comment_list.v1.php" timestamp="1584693756185">
+        <mark key="[" line="152" column="23" />
+        <mark key="]" line="152" column="23" />
+        <mark key="." line="152" column="23" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/wenda/mobile/htdocs/wenda/app/wenda/comment/get_comment_list.v2.php" timestamp="1584693142218" />
       <file name="$USER_HOME$/Works/webdev/video/file/Tool.php" timestamp="1584675700840" />
       <file name="$USER_HOME$/Works/webdev/wengs/form/PublishParameter.php" timestamp="1584587810370" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/reply/get_reply_list.v1.php" timestamp="1584691730730">
@@ -219,10 +226,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgTUFwcDo6JGFwcC0+bG9nLT5leGNlcHRpb24oJGUsICdwcm94eTpjb21tZW50Jyk7</text>
+        <text encoding="base64">JHJlcGx5TGlzdCA/IA==</text>
       </register>
       <register name="-" type="4">
-        <text>var_dump($data);die;</text>
+        <text encoding="base64">JHJlcGx5TGlzdCA/IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -230,35 +237,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaW1hZ2UnICAgID0+ICdodHRwczovL24xLXEubWFmZW5nd28ubmV0L3MxNS9NMDAvOTEvQ0QvQ29VQkdWNWNkei1BUjNRQUFBRXdXbUJ5SGl3NzcuanBlZycsCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgTUFwcDo6JGFwcC0+bG9nLT5leGNlcHRpb24oJGUsICdwcm94eTpjb21tZW50Jyk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAnc29ydF9vZGVyJyA9PiAkb3JkZXIsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgTUFwcDo6JGFwcC0+bG9nLT5leGNlcHRpb24oJGUsICdwcm94eTpjb21tZW50Jyk7</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CnZhcl9kdW1wKCRwYXJhbXMpO2RpZTs=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">6K+d6aKYX+eMjuWlhywsLCwsLCwsLCwsLCwsCuinhumikeWUr+S4gGlkLOinhumikeWQjeensCznlKjmiLd1aWQs55So5oi3c2hvcnRfaWQs5L2c6ICFLOWFs+iBlCzop4bpopHpk77mjqUs5pKt5pS+5pe26Ze0LOivhOiuuuaVsCzngrnotZ7mlbAs5LiL6L295pWwLOWIhuS6q+aVsCzovazlj5HmlbAs5Y+R5biD5pe26Ze0LOWGheWuuQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICB2YXJfZHVtcCgkZGF0YSk7ZGllOw==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZWNobyAxO2RpZTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">JGtleXdvcmQgPSAn6K+d6aKYX+iQjOWuoOaIkOeyvuS6hic7Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">Ci8vJGtleXdvcmQgPSAn5LiW55WM54yO5aWHJzsKLy8ka2V5d29yZCA9ICflpYflvILkuJbnlYwnOwoka2V5d29yZCA9ICfkuI3kuLrkurrnn6UnOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8ka2V5d29yZCA9ICfooZflpLTooajmvJQnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
