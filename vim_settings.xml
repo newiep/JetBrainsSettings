@@ -10,7 +10,7 @@
       <file name="$USER_HOME$/Works/webdev/wenda/apps/wenda/comment/Api.php" timestamp="1584691600168" />
       <file name="$USER_HOME$/Works/webdev/video/tool/log/LongLog.php" timestamp="1584669685126" />
       <file name="$USER_HOME$/Works/webdev/video/tool/Qiniu.php" timestamp="1584670269777" />
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/Reply.php" timestamp="1584691735709">
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/Reply.php" timestamp="1584695986532">
         <mark key="[" line="248" column="27" />
         <mark key="]" line="264" column="49" />
         <mark key="." line="264" column="49" />
@@ -91,16 +91,21 @@
       <file name="$USER_HOME$/Works/webdev/video/video/File.php" timestamp="1584685160173" />
       <file name="$USER_HOME$/Works/webdev/video/proxy/File.php" timestamp="1584675910140" />
       <file name="$USER_HOME$/Codes/PHP/spider/data/fail.log" timestamp="1584518673631" />
+      <file name="$USER_HOME$/Works/webdev/guide/control/GuideCommentsApi.php" timestamp="1584695304488">
+        <mark key="[" line="546" column="14" />
+        <mark key="]" line="528" column="37" />
+        <mark key="." line="528" column="37" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/spider.php" timestamp="1584587660819" />
       <file name="$USER_HOME$/Works/webdev/wengs/form/OpenPublish.php" timestamp="1584587850986">
         <mark key="[" line="15" column="4" />
         <mark key="]" line="49" column="9" />
         <mark key="." line="49" column="9" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wenda/mobile/htdocs/wenda/app/wenda/comment/get_answer_comment_list.v1.php" timestamp="1584693756185">
-        <mark key="[" line="152" column="23" />
-        <mark key="]" line="152" column="23" />
-        <mark key="." line="152" column="23" />
+      <file name="$USER_HOME$/Works/webdev/wenda/mobile/htdocs/wenda/app/wenda/comment/get_answer_comment_list.v1.php" timestamp="1584696099586">
+        <mark key="[" line="176" column="36" />
+        <mark key="]" line="176" column="36" />
+        <mark key="." line="176" column="36" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wenda/mobile/htdocs/wenda/app/wenda/comment/get_comment_list.v2.php" timestamp="1584693142218" />
       <file name="$USER_HOME$/Works/webdev/video/file/Tool.php" timestamp="1584675700840" />
@@ -226,10 +231,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHJlcGx5TGlzdCA/IA==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICdhbGxfcmVwbHlfbnVtJyA9PiAxLA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHJlcGx5TGlzdCA/IA==</text>
+        <text>$reply['uid']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -237,35 +242,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaW1hZ2UnICAgID0+ICdodHRwczovL24xLXEubWFmZW5nd28ubmV0L3MxNS9NMDAvOTEvQ0QvQ29VQkdWNWNkei1BUjNRQUFBRXdXbUJ5SGl3NzcuanBlZycsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnc29ydF9vZGVyJyA9PiAkb3JkZXIsCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICdhbGxfcmVwbHlfbnVtJyA9PiAxLA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgTUFwcDo6JGFwcC0+bG9nLT5leGNlcHRpb24oJGUsICdwcm94eTpjb21tZW50Jyk7</text>
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2lkJyA9PiAkYVJlcGx5VXNlckluZm9bJ2lkJ10sCiAgICAgICAgICAgICAgICAnbmFtZScgPT4gJGFSZXBseVVzZXJJbmZvWyduYW1lJ10sCiAgICAgICAgICAgICAgICAncmVwbHlfc3RhdHVzJyA9PiBnZXRVc2VyVHlwZSgkYVJlcGx5Q29tbWVudFsndWlkJ10sJGlRVWlkLCRpQVVpZCkKICAgICAgICAgICAgXQ==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CnZhcl9kdW1wKCRwYXJhbXMpO2RpZTs=</text>
+        <text encoding="base64">CiAgICByZXR1cm4gYXJyYXlfbWFwKGZ1bmN0aW9uKCRyZXBseSkgdXNlICgkYVVzZXJJbmZvLCAkYUlzSGFzVm90ZUNvbW1lbnQpIHsKICAgICAgICBpZiAoJGlBbm9ueW1vdXMgJiYgJGFDb21tZW50Wyd1aWQnXSA9PSAkaVFVaWQpewogICAgICAgICAgICAkYVRlbXBbJ3VzZXInXSA9IFxhcHBzXHdlbmRhXE1GYWNhZGVfQVBQOjpnZXRBbm9ueW1vdXNVc2VySW5mbygpOwogICAgICAgIH1lbHNlewogICAgICAgICAgICAkYVRlbXBbJ3VzZXInXSA9ICRhVXNlckluZm9bJGFDb21tZW50Wyd1aWQnXV07CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAnaWQnID0+ICRyZXBseVsnYml6X3JlcGx5X2lkJ10sCiAgICAgICAgICAgICdjdGltZScgPT4gc3RydG90aW1lKCRyZXBseVsnY3RpbWUnXSksCiAgICAgICAgICAgICdsaWtlX251bScgPT4gJHJlcGx5Wyd2b3RlX251bSddLAogICAgICAgICAgICAnY29udGVudCcgPT4gJHJlcGx5Wydjb250ZW50J11bJ2NvbnRlbnQnXSwKICAgICAgICAgICAgJ2hhc19saWtlZCcgPT4gJGFJc0hhc1ZvdGVDb21tZW50WyRyZXBseVsnYml6X3JlcGx5X2lkJ11dLAogICAgICAgICAgICAndXNlcicgPT4gMSwKICAgICAgICAgICAgJ3JfdXNlcicgPT4gMSwKICAgICAgICAgICAgJ2FsbF9yZXBseV9udW0nID0+IDEsCiAgICAgICAgXTsKICAgIH0sICRyZXBseUxpc3QpOw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">6K+d6aKYX+eMjuWlhywsLCwsLCwsLCwsLCwsCuinhumikeWUr+S4gGlkLOinhumikeWQjeensCznlKjmiLd1aWQs55So5oi3c2hvcnRfaWQs5L2c6ICFLOWFs+iBlCzop4bpopHpk77mjqUs5pKt5pS+5pe26Ze0LOivhOiuuuaVsCzngrnotZ7mlbAs5LiL6L295pWwLOWIhuS6q+aVsCzovazlj5HmlbAs5Y+R5biD5pe26Ze0LOWGheWuuQo=</text>
+      <register name="5" type="4">
+        <text>$aRCommentUid = array_column($aReplyCommentList, 'uid');
+    $aCommentUid = array_column($aCommentList, 'uid');
+    $aUid = array_unique(array_merge($aCommentUid,$aRCommentUid));</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICB2YXJfZHVtcCgkZGF0YSk7ZGllOw==</text>
+        <text encoding="base64">JGFUZW1wWydjdGltZSddID0gc3RydG90aW1lKCRhQ29tbWVudFsnY3RpbWUnXSk7CiAgICAgICAgJGFUZW1wWydsaWtlX251bSddID0gJGFDb21tZW50WydsaWtlbnVtJ107CiAgICAgICAgJGFUZW1wWydjb250ZW50J10gPSAkYUNvbW1lbnRbJ2NvbnRlbnQnXTsKICAgICAgICAkYVRlbXBbJ2hhc19saWtlZCddID0gJGFJc0hhc1ZvdGVDb21tZW50WyRhQ29tbWVudFsnY2lkJ11dOwogICAgICAgIGlmICgkaUFub255bW91cyAmJiAkYUNvbW1lbnRbJ3VpZCddID09ICRpUVVpZCl7CiAgICAgICAgICAgICRhVGVtcFsndXNlciddID0gXGFwcHNcd2VuZGFcTUZhY2FkZV9BUFA6OmdldEFub255bW91c1VzZXJJbmZvKCk7CiAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICRhVGVtcFsndXNlciddID0gJGFVc2VySW5mb1skYUNvbW1lbnRbJ3VpZCddXTsKICAgICAgICB9CiAgICAgICAgJGFUZW1wWyd1c2VyJ11bJ3JlcGx5X3N0YXR1cyddID0gZ2V0VXNlclR5cGUoJGFDb21tZW50Wyd1aWQnXSwkaVFVaWQsJGlBVWlkKTsKICAgICAgICAkYVRlbXBbJ3JfdXNlciddID0gZ2V0UmVwbHlVc2VyKCRhUmVwbHlDb21tZW50TGlzdFskYUNvbW1lbnRbJ3JjaWQnXV0sJGFVc2VySW5mbywkaVFVaWQsJGlBVWlkKTsKICAgICAgICAkYVRlbXBbJ2FsbF9yZXBseV9udW0nXSA9ICRhUmVwbHlOdW1bJGFDb21tZW50WydjaWQnXV1bJ2NvdW50J107CiAgICAgICAgJGFEYXRhW10gPSAkYVRlbXA7</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZWNobyAxO2RpZTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICRhVGVtcFsnaWQnXSA9ICRhQ29tbWVudFsnY2lkJ107</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JGtleXdvcmQgPSAn6K+d6aKYX+iQjOWuoOaIkOeyvuS6hic7Cg==</text>
+        <text encoding="base64">ICAgICAgICAnc29ydF9vZGVyJyA9PiAkb3JkZXIsCg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Ci8vJGtleXdvcmQgPSAn5LiW55WM54yO5aWHJzsKLy8ka2V5d29yZCA9ICflpYflvILkuJbnlYwnOwoka2V5d29yZCA9ICfkuI3kuLrkurrnn6UnOwo=</text>
+        <text encoding="base64">CiAgICAgICAgTUFwcDo6JGFwcC0+bG9nLT5leGNlcHRpb24oJGUsICdwcm94eTpjb21tZW50Jyk7</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
