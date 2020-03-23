@@ -25,6 +25,12 @@
         <mark key="." line="319" column="65" />
         <mark key="^" line="302" column="17" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/mock/Spider.php" timestamp="1584951938802">
+        <mark key="[" line="128" column="36" />
+        <mark key="]" line="128" column="36" />
+        <mark key="." line="128" column="36" />
+        <mark key="^" line="180" column="17" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/IdMapManager.php" timestamp="1584949329578" />
       <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/request/param/BaseParam.php" timestamp="1584949247858" />
       <file name="$USER_HOME$/Works/webdev/wengs/form/Publish.php" timestamp="1584930622666" />
@@ -62,6 +68,11 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/base/Log.php" timestamp="1584931418838" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/spider.php" timestamp="1584930976270" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/admin/almighty_weng_list.v1.php" timestamp="1584952199363">
+        <mark key="[" line="606" column="0" />
+        <mark key="]" line="606" column="0" />
+        <mark key="." line="606" column="0" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/response/dto/ReplyItem.php" timestamp="1584935553813" />
       <file name="$USER_HOME$/Works/webdev/wengs/base/Permission.php" timestamp="1584947309035" />
       <file name="$USER_HOME$/Works/webdev/wenda/mobile/htdocs/wenda/app/wenda/comment/get_answer_comment_list.v1.php" timestamp="1584946972139" />
@@ -200,11 +211,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>formatReplyList($aComment['list'], $iLoginUid, $aQuestion, $aAnswer)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgKiBAdmFyICRzcGlkZXJNb2NrZXIgTU1vY2tfU3BpZGVyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>formatReplyList($aComment['list'], $iLoginUid, $aQuestion, $aAnswer)</text>
+        <text>$spiderMocker</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -212,37 +223,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaW1hZ2UnICAgID0+ICdodHRwczovL24xLXEubWFmZW5nd28ubmV0L3MxNS9NMDAvOTEvQ0QvQ29VQkdWNWNkei1BUjNRQUFBRXdXbUJ5SGl3NzcuanBlZycsCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgJ2xpc3QnICAgICAgICAgICAgICAgICAgPT4gZm9ybWF0UmVwbHlMaXN0KCRhQ29tbWVudFsnbGlzdCddLCAkaUxvZ2luVWlkLCAkYVF1ZXN0aW9uLCAkYUFuc3dlcik=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgKiBAdmFyICRzcGlkZXJNb2NrZXIgTU1vY2tfU3BpZGVyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAkZm9ybWF0UmVwbHlMaXN0ID0gW107</text>
+        <text encoding="base64">CiAgICAgICAgJHNwaWRlck1vY2tlciA9IE1BcHA6OmNyZWF0ZU9iamVjdChNTW9ja19TcGlkZXI6OmNsYXNzKTs=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAkZm9ybWF0UmVwbHlMaXN0W10gICAgICAgICAgICAgID0gJHJlbmRlcmVkUmVwbHk7</text>
+        <text encoding="base64">CgogICAgICAgIHJldHVybiA7</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAkcmVuZGVyZWRSZXBseVsnYWxsX3JlcGx5X251bSddID0gJHJlcGx5WydjaGlsZF9udW0nXTs=</text>
+        <text encoding="base64">KSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIA==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICBmb3JlYWNoICgkcmVwbHlMaXN0IGFzICRyZXBseSkgewoKICAgIH0KICAgIHJldHVybiAkZm9ybWF0UmVwbHlMaXN0Ow==</text>
+        <text encoding="base64">WwogICAgICAgICAgICA=</text>
       </register>
       <register name="6" type="4">
-        <text>foreach ($replyDialog[''] as $reply) {
-        
-    }</text>
+        <text encoding="base64">CiAgICAgICAgXTs=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICBcYXBwc1xrYWZrYVxNRmFjYWRlX2xvZ0FwaTo6c2VydmVyRXZlbnRMb2coCiAgICAgICAgJ3dlbmRhJywKICAgICAgICAnZGVidWdfd2VuZGFfY29tbWVudCcsCiAgICAgICAgJHJlcGx5TGlzdAogICAgKTs=</text>
+        <text encoding="base64">CiAgICAgICAgJ2xpc3QnICAgICAgICAgICAgICAgICAgPT4gZm9ybWF0UmVwbHlMaXN0KCRhQ29tbWVudFsnbGlzdCddLCAkaUxvZ2luVWlkLCAkYVF1ZXN0aW9uLCAkYUFuc3dlcik=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAnbGlzdCcgID0+IFtdLAogICAgICAgICAgICAgICAgJ3RvdGFsJyA9PiAwLAogICAgICAgICAgICA=</text>
+        <text encoding="base64">CiAgICAkZm9ybWF0UmVwbHlMaXN0ID0gW107</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">JGFGb3JtYXRMaXN0ID0gJHRoaXMtPmZvcm1hdFJlcGx5TGlzdCgkYVJldFsnbGlzdCddKTsKICAgICAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgICAgICdsaXN0JyAgPT4gJGFGb3JtYXRMaXN0LAogICAgICAgICAgICAgICAgJ3RvdGFsJyA9PiAkYVJldFsndG90YWwnXSwKICAgICAgICAgICAgXTs=</text>
+        <text encoding="base64">CiAgICAkZm9ybWF0UmVwbHlMaXN0W10gICAgICAgICAgICAgID0gJHJlbmRlcmVkUmVwbHk7</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
