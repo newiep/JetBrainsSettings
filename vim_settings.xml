@@ -66,7 +66,9 @@
         <mark key="]" line="197" column="0" />
         <mark key="." line="197" column="0" />
       </file>
-      <file name="$USER_HOME$/Codes/PHP/spider/spam_result.csv" timestamp="1585536125671" />
+      <file name="$USER_HOME$/Codes/PHP/spider/spam_result.csv" timestamp="1585538973234">
+        <mark key="[" line="3" column="68" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Query/ReplyStatement.php" timestamp="1585215269574" />
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/Recommend.php" timestamp="1585275562564">
         <mark key="[" line="277" column="28" />
@@ -108,7 +110,7 @@
       <file name="$USER_HOME$/Works/webdev/composer/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1585210705373" />
       <file name="$USER_HOME$/Works/webdev/wengs/base/Permission.php" timestamp="1585120130171" />
       <file name="$USER_HOME$/Works/webdev/guide/model/util/CommentApi.php" timestamp="1585298254193" />
-      <file name="$USER_HOME$/Works/webdev/wengs/proxy/UgcAudit.php" timestamp="1585536840527" />
+      <file name="$USER_HOME$/Works/webdev/wengs/proxy/UgcAudit.php" timestamp="1585537641268" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/proxy/Show.php" timestamp="1585188594674" />
       <file name="$USER_HOME$/Works/webdev/shequ/apps/ugcaudit/proxy/business/GuideArticleComment.php" timestamp="1585457603959" />
       <file name="$USER_HOME$/Works/webdev/guide/facade/CommentsApi.php" timestamp="1585305433292">
@@ -199,17 +201,17 @@
         <mark key="^" line="180" column="17" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/IdMapManager.php" timestamp="1584949329578" />
-      <file name="$USER_HOME$/Works/webdev/wengs/form/Publish.php" timestamp="1585536824130" />
+      <file name="$USER_HOME$/Works/webdev/wengs/form/Publish.php" timestamp="1585537658056" />
       <file name="$USER_HOME$/Works/webdev/wengs/weng/DataApi.php" timestamp="1585022351615" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Mdd.php" timestamp="1585105674867" />
       <file name="$USER_HOME$/Works/webdev/show/model/show/Api.php" timestamp="1585188777319" />
       <file name="$USER_HOME$/Works/webdev/composer/vendor/guzzlehttp/promises/src/functions.php" timestamp="1585209585573" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Entity/CommentContentDO.php" timestamp="1585018358526" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Consumer/UserForbidSubscriber.php" timestamp="1585214166568" />
-      <file name="$USER_HOME$/Codes/PHP/spider/spam.php" timestamp="1585535396553">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="33" column="47" />
-        <mark key="." line="33" column="47" />
+      <file name="$USER_HOME$/Codes/PHP/spider/spam.php" timestamp="1585539228106">
+        <mark key="[" line="28" column="55" />
+        <mark key="]" line="28" column="55" />
+        <mark key="." line="28" column="55" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/multimedia/TranscodeApi.php" timestamp="1585105479963" />
       <file name="$USER_HOME$/Codes/PHP/spider/content_comment.csv" timestamp="1585536334084" />
@@ -428,10 +430,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$res['message']</text>
+        <text>var_dump($resContents);die;</text>
       </register>
       <register name="-" type="4">
-        <text>$res['message']</text>
+        <text>var_dump($resContents);die;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
