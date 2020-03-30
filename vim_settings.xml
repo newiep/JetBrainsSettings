@@ -301,11 +301,11 @@
         <mark key="." line="28" column="65" />
         <mark key="^" line="54" column="47" />
       </file>
-      <file name="$USER_HOME$/Codes/PHP/spider/audit.php" timestamp="1585552046136">
-        <mark key="[" line="20" column="41" />
-        <mark key="]" line="27" column="8" />
-        <mark key="." line="27" column="8" />
-        <mark key="^" line="27" column="8" />
+      <file name="$USER_HOME$/Codes/PHP/spider/audit.php" timestamp="1585552801456">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="4" />
+        <mark key="." line="29" column="4" />
+        <mark key="^" line="26" column="8" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/event/Conf.php" timestamp="1585202698360" />
       <file name="$USER_HOME$/Works/webdev/gonglve/mobile/htdocs/gonglve/appapi/guide/reply/add_reply.v1.php" timestamp="1585301914621" />
@@ -474,16 +474,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>if ($resContents['手机号风险'] == 'Y' || $resContents['黑库风险'] == 'Y') {
-        file_put_contents(
-            $outfile,
-            &quot;{$replyId},{$content['content']},{$resContents['手机号风险']},{$resContents['手机号']},{$resContents['黑库风险']},{$resContents['黑库']}&quot; . PHP_EOL,
-            FILE_APPEND
-        );
-    }</text>
+        <text>var_dump($resContents);die;</text>
       </register>
       <register name="-" type="4">
-        <text>reSubmit</text>
+        <text>var_dump($resContents);die;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
