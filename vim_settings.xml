@@ -15,6 +15,7 @@
         <mark key="." line="47" column="6" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/request/param/BaseParam.php" timestamp="1584949247858" />
+      <file name="$USER_HOME$/Works/webdev/wengs/base/Request.php" timestamp="1585723201589" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/operate.php" timestamp="1584947249692" />
       <file name="$USER_HOME$/Works/webdev/wenda/apps/wenda/proxy/Log.php" timestamp="1584931354183" />
       <file name="$USER_HOME$/Works/webdev/content-ranking/server/Lib/Gaea/Queue.php" timestamp="1585201797077" />
@@ -127,11 +128,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/wenda/apps/wenda/proxy/Base.php" timestamp="1584934639561" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/tag/suggest_conf.php" timestamp="1585120211008" />
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/detail/get_recommend_list.v2.php" timestamp="1585722090843">
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
-      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/detail/get_recommend_list.v2.php" timestamp="1585724354006" />
       <file name="$USER_HOME$/Works/webdev/shequ/apps/ugcaudit/proxy/business/WengsContent.php" timestamp="1585629109314" />
       <file name="$USER_HOME$/Works/webdev/sales-ugc/comment/control/CommentApi.php" timestamp="1585304010698" />
       <file name="$USER_HOME$/Works/webdev/shequ/apps/ugcaudit/facade/video/Api.php" timestamp="1585641235451" />
@@ -276,7 +273,11 @@
         <mark key="." line="355" column="95" />
       </file>
       <file name="$USER_HOME$/Works/webdev/show/model/show/state/Context.php" timestamp="1585629538090" />
-      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Advertisement.php" timestamp="1585722330588" />
+      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Advertisement.php" timestamp="1585724756029">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/SortManager.php" timestamp="1585557445182">
         <mark key="[" line="122" column="26" />
         <mark key="]" line="135" column="24" />
@@ -577,10 +578,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$url</text>
+        <text encoding="base64">Cgp1c2UgZGFyZW5cQXBwXEV4Y2VwdGlvblxFeGNlcHRpb247</text>
       </register>
       <register name="-" type="4">
-        <text>$url</text>
+        <text>$wengId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -588,51 +589,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvUHJveHlNZGQgTVByb3h5X01kZAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">eWRfNjgwODMwODQxOTQzOTYyNzUyNCzov5nkuKrmr5vlrannurjlpKrng6bpk7bvvIzlpKfljYrlpJzlj6vphpLmiJHvvIEj6JCM5a6g6YeR5q+bICPph5Hmr5vml7rotKIgI+iQjOWuoOaIkOeyvuS6hiAj5a6g54mp5oiQ57K+ICPni5cs5a6g54mp5aSn5ZCI6ZuGLDAsMAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">Cgp1c2UgZGFyZW5cQXBwXEV4Y2VwdGlvblxFeGNlcHRpb247</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Ci8vICAgIHZhcl9kdW1wKCRyZXNbJ2RhdGEnXVsnd2VuZ2lkJ10pO2RpZTs=</text>
+        <text encoding="base64">CiAgICAgICAgfQogICAgICAgIGlmICgkYWREYXRhKSB7</text>
       </register>
-      <register name="3" type="4">
-        <text>file_put_contents(
-        $outfile,
-        &quot;{$relateId},{$res['data']['wengid']},{$res['message']}&quot; . PHP_EOL,
-        FILE_APPEND
-    );</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkb1Byb3h5QWR2ZXJ0aXNlbWVudCA9IE1BcHA6OmNyZWF0ZU9iamVjdChNUHJveHlfQWR2ZXJ0aXNlbWVudDo6Y2xhc3MpOwo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CnZhcl9kdW1wKCRwYXJhbXMpO2RpZTs=</text>
+        <text encoding="base64">Ci8vICAgICAgICAgICAgICAgICAgICAgICAgJ2l0ZW1fbmFtZScgICA9PiAkYWRbJ3RpdGxlJ10s</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Ci8vICAgICAgICAgICAgJ2NvbnRlbnRzJyA9PiAn6KGX5aS06KGo5ryUJyw=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAnc3R5bGUnID0+ICdmbG93X2dlbmVyYWwnLAogICAgICAgICAgICAgICAgJ2RhdGEnICA9PiBhcnJheSgKICAgICAgICAgICAgICAgICAgICAnYnVzaW5lc3NfaXRlbScgPT4gYXJyYXkoCiAgICAgICAgICAgICAgICAgICAgICAgICdpdGVtX2lkJyAgICAgPT4gJGFkRGF0YVsnZXhfaW5mbyddWydpdGVtX2lkJ10sCi8vICAgICAgICAgICAgICAgICAgICAgICAgJ2l0ZW1fbmFtZScgICA9PiAkYWRbJ3RpdGxlJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICdpdGVtX3R5cGUnICAgPT4gJGFkRGF0YVsnZXhfaW5mbyddWydpdGVtX3R5cGUnXSwKICAgICAgICAgICAgICAgICAgICAgICAgJ21vZHVsZV9pZCcgICA9PiAnd2VuZ19kZXRhaWxfcmVjb21tZW5kX3RhZycsCiAgICAgICAgICAgICAgICAgICAgICAgICdtb2R1bGVfbmFtZScgPT4gJGFkRGF0YVsnZXhfaW5mbyddWydwcmpfbmFtZSddLAogICAgICAgICAgICAgICAgICAgICAgICAncG9zX2lkJyAgICAgID0+ICRhZERhdGFbJ2V4X2luZm8nXVsncG9zX2lkJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICdwcm1faWQnICAgICAgPT4gJGFkRGF0YVsnZXhfaW5mbyddWydwcm1faWQnXSwKICAgICAgICAgICAgICAgICAgICAgICAgJ2J1c2luZXNzX2lkJyA9PiAkYWREYXRhWydpZCddLAogICAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICAgJ2lkJyAgICAgICAgPT4gJGFkRGF0YVsnaWQnXSwKICAgICAgICAgICAgICAgICAgICAnanVtcF91cmwnICA9PiAkYWREYXRhWydqdW1wX3VybCddLAogICAgICAgICAgICAgICAgICAgICdpc19hZCcgICAgID0+ICRhZERhdGFbJ2lzX2FkJ10sCiAgICAgICAgICAgICAgICAgICAgJ3RpdGxlJyAgICAgPT4gJGFkRGF0YVsndGl0bGUnXSwKICAgICAgICAgICAgICAgICAgICAndHlwZScgICAgICA9PiAkYWREYXRhWyd0eXBlJ10sCiAgICAgICAgICAgICAgICAgICAgJ3Nob3dfbGlrZScgPT4gJGFkRGF0YVsnc2hvd19saWtlJ10sCiAgICAgICAgICAgICAgICAgICAgJ2ltYWdlJyAgICAgPT4gJGFkRGF0YVsnaW1hZ2UnXSwKICAgICAgICAgICAgICAgICAgICAnaXNfdmlkZW8nICA9PiAkYWREYXRhWydpc192aWRlbyddLAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApCiAgICAgICAgICAgICk7</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgWwogICAgICAgICAgICAnbmFtZScgPT4gJ3ZpZGVvJywKICAgICAgICAgICAgJ2NvbnRlbnRzJyA9PiBmb3BlbigkdmlkZW9GaWxlLCAncicpLAogICAgICAgIF0s</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBhcnJheSgnbWRkX2lkJyA9PiAkbWRkSWQsICd3ZW5nX2lkJyA9PiAkd2VuZ0lkKQ==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICB2YXJfZHVtcCgkZGF0YSk7ZGllOw==</text>
+        <text encoding="base64">CiAgICAgKiAKICAgICAqLw==</text>
       </register>
-      <register name="8" type="4">
-        <text>list($keyword, $videoId) = explode(';', $data[2], 2);
-    $keyword = array_pop(explode(&quot;_&quot;, $keyword, 2));
-    $relateId  = &quot;yd_{$data[1]}&quot;;
-    $videoFile = sprintf(&quot;%s/%s.mp4&quot;, $fileDir, $videoId);
-    if (!file_exists($videoFile)) {
-        continue;
-    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>list($keyword, $videoId) = explode(';', $data[2], 2);
-    $keyword = array_pop(explode(&quot;_&quot;, $keyword, 2));
-    $relateId  = &quot;yd_{$data[1]}&quot;;
-    $videoFile = sprintf(&quot;%s/%s.mp4&quot;, $fileDir, $videoId);
-    if (!file_exists($videoFile)) {
-        continue;
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">eWRfNjgwODMwODQxOTQzOTYyNzUyNCzov5nkuKrmr5vlrannurjlpKrng6bpk7bvvIzlpKfljYrlpJzlj6vphpLmiJHvvIEj6JCM5a6g6YeR5q+bICPph5Hmr5vml7rotKIgI+iQjOWuoOaIkOeyvuS6hiAj5a6g54mp5oiQ57K+ICPni5cs5a6g54mp5aSn5ZCI6ZuGLDAsMAo=</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
