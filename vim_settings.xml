@@ -194,7 +194,7 @@
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Lib/Event/AbstractEvent.php" timestamp="1585205446190">
         <mark key="[" line="7" column="43" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/spider.php" timestamp="1585705485960">
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/spider.php" timestamp="1585708654736">
         <mark key="[" line="286" column="42" />
         <mark key="]" line="286" column="42" />
         <mark key="^" line="92" column="26" />
@@ -344,7 +344,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/base/Permission.php" timestamp="1585120130171" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/proxy/Show.php" timestamp="1585188594674" />
       <file name="$USER_HOME$/Works/webdev/shequ/apps/ugcaudit/proxy/business/GuideArticleComment.php" timestamp="1585457603959" />
-      <file name="$USER_HOME$/Codes/PHP/spider/script/audit.php" timestamp="1585649193673">
+      <file name="$USER_HOME$/Codes/PHP/spider/script/audit.php" timestamp="1585707108697">
         <mark key="[" line="1" column="24" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/form/OpenModify.php" timestamp="1585705132381" />
@@ -366,6 +366,11 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/openapi/htdocs/api/siteminder/recive.php" timestamp="1585212404666" />
       <file name="$USER_HOME$/Works/webdev/openapi/htdocs/api/system/file/video_upload_callback.v3.php" timestamp="1585629816154" />
+      <file name="$USER_HOME$/Codes/PHP/spider/script/batch1.php" timestamp="1585708514983">
+        <mark key="[" line="42" column="37" />
+        <mark key="]" line="42" column="37" />
+        <mark key="." line="42" column="37" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/UserStatusManager.php" timestamp="1585214145502" />
       <file name="$USER_HOME$/Works/webdev/wengs/search/Conf.php" timestamp="1585532611882">
         <mark key="[" line="45" column="31" />
@@ -608,10 +613,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$params['etids']</text>
+        <text>die;</text>
       </register>
       <register name="-" type="4">
-        <text>$params['etids']</text>
+        <text>die;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -619,35 +624,51 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvUHJveHlNZGQgTVByb3h5X01kZAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdldGlkcycgICAgICAgPT4gTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkZm9ybWF0RGF0YSwgJ29wcl90b3BpY19pZHMnLCBbXSksCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ci8vICAgIHZhcl9kdW1wKCRyZXNbJ2RhdGEnXVsnd2VuZ2lkJ10pO2RpZTs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAnb3ByX3RvcGljX2lkcycgPT4gJHBhcmFtc1snZXRpZHMnXSw=</text>
+        <text>file_put_contents(
+        $outfile,
+        &quot;{$relateId},{$res['data']['wengid']},{$res['message']}&quot; . PHP_EOL,
+        FILE_APPEND
+    );</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CnZhcl9kdW1wKCRwYXJhbXMpO2RpZTs=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0RXRpZHMoKQogICAgewogICAgICAgIHJldHVybiBNVG9vbF9BcnJheTo6bUdldFZhbHVlKCR0aGlzLT5wYXJhbXMsICdldGlkcycsIFtdKTsKICAgIA==</text>
+        <text encoding="base64">Ci8vICAgICAgICAgICAgJ2NvbnRlbnRzJyA9PiAn6KGX5aS06KGo5ryUJyw=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXRpZHMgICA9ICRwYXJhbXNMb2FkZXItPmdldEV0aWRzKCk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgWwogICAgICAgICAgICAnbmFtZScgPT4gJ3ZpZGVvJywKICAgICAgICAgICAgJ2NvbnRlbnRzJyA9PiBmb3BlbigkdmlkZW9GaWxlLCAncicpLAogICAgICAgIF0s</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICB2YXJfZHVtcCgkZGF0YSk7ZGllOw==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZXRpZHM7Cg==</text>
+      <register name="7" type="4">
+        <text>list($keyword, $videoId) = explode(';', $data[2], 2);
+    $keyword = array_pop(explode(&quot;_&quot;, $keyword, 2));
+    $relateId  = &quot;yd_{$data[1]}&quot;;
+    $videoFile = sprintf(&quot;%s/%s.mp4&quot;, $fileDir, $videoId);
+    if (!file_exists($videoFile)) {
+        continue;
+    }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2V0aWRzJyAgICAgICA9PiAkdGhpcy0+ZXRpZHMsCg==</text>
+      <register name="8" type="4">
+        <text>list($keyword, $videoId) = explode(';', $data[2], 2);
+    $keyword = array_pop(explode(&quot;_&quot;, $keyword, 2));
+    $relateId  = &quot;yd_{$data[1]}&quot;;
+    $videoFile = sprintf(&quot;%s/%s.mp4&quot;, $fileDir, $videoId);
+    if (!file_exists($videoFile)) {
+        continue;
+    }</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">cmV0dXJuIFsKICAgICAgICAgICAgJ2lkJyA9PiAkcmVsYXRlSWQsCiAgICAgICAgXTs=</text>
+        <text encoding="base64">Ci8vJGZpbGVEaXIgPSBfX0RJUl9fIC4gIi9kYXRhL3ska2V5d29yZH0iOw==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
