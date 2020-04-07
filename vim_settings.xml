@@ -5,9 +5,9 @@
       <mark key="M" line="61" column="20" filename="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/get_import_assets_tabs.v1.php" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Works/webdev/movie-lib/controller/app/video/feeds/get_list.v1.php" timestamp="1585906880653" />
+      <file name="$USER_HOME$/Works/webdev/movie-lib/controller/app/video/feeds/get_list.v1.php" timestamp="1585912687701" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Weng.php" timestamp="1585822418330" />
-      <file name="/a.dummy" timestamp="1585894856954">
+      <file name="/a.dummy" timestamp="1585912323156">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wenda/apps/wenda/crontab/comment/SyncCommentService.php" timestamp="1584930119101" />
@@ -51,7 +51,7 @@
       <file name="$USER_HOME$/Works/webdev/composer/vendor/mfw/content-root/src/Util/Config/Config.php" timestamp="1585202672739" />
       <file name="$USER_HOME$/Works/webdev/mobile/www2011/include/mapi/message/item/Ww.php" timestamp="1585710151922" />
       <file name="$USER_HOME$/Works/webdev/qianxun/facade/review/Sync.php" timestamp="1585712391533" />
-      <file name="$USER_HOME$/Works/webdev/movie-lib/base/Mapi.php" timestamp="1585907648493">
+      <file name="$USER_HOME$/Works/webdev/movie-lib/base/Mapi.php" timestamp="1585912296566">
         <mark key="[" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Works/webdev/shequ/apps/ugcaudit/htdocs/service/Controller.php" timestamp="1585633203765" />
@@ -320,6 +320,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/composer/vendor/mfw/content-root/src/Base/Object/BeanTrait.php" timestamp="1585203245413" />
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/detail/WengDetail.php" timestamp="1585822658238" />
+      <file name="$USER_HOME$/Works/webdev/movie-lib/controller/app/video/list/get_movie_profile_info.v1.php" timestamp="1585912366024" />
       <file name="$USER_HOME$/Works/webdev/shequ/apps/ugcaudit/htdocswp/video/audit/submit.php" timestamp="1585633289155" />
       <file name="$USER_HOME$/Works/webdev/outdated/www2011/include/nosql/CFastRedisApi.php" timestamp="1585634154349" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/movie/Api.php" timestamp="1585188356440" />
@@ -458,6 +459,11 @@
         <mark key="[" line="16" column="50" />
         <mark key="]" line="29" column="18" />
         <mark key="." line="29" column="18" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/movie-lib/controller/app/video/feeds/get_poi_card_list.v1.php" timestamp="1585912437802">
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="22" column="35" />
+        <mark key="." line="22" column="35" />
       </file>
       <file name="$USER_HOME$/Works/webdev/shequ/apps/ugcaudit/htdocs/admin/videoaudit.php" timestamp="1585633136577" />
       <file name="$USER_HOME$/Works/webdev/outdated/www2011/conf/site/all.ini" timestamp="1585303345100" />
@@ -703,10 +709,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ovie_Play_V1</text>
+        <text>$iMovieId</text>
       </register>
       <register name="-" type="4">
-        <text>ovie_Play_V1</text>
+        <text>$iMovieId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -714,22 +720,25 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvUHJveHlNZGQgTVByb3h5X01kZAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAndHlwZV90ZXh0JyAgICAgPT4gIC8v5q2k5aSE5pyJ5Z2R77yMIOWuouaIt+err+a4suafk+S4uuagh+mimA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">JGlQcm9maWxlSWQgPSBcS29fV2ViX1JlcXVlc3Q6OklHZXQoJ3Byb2ZpbGVfaWQnKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiRwYXJhbSA9IFsKLy8gICAgJ2NsYXNzJyA9PiBNQXBwX0RhcmVuX0VuY291cmFnZVB1Ymxpc2hDcm9udGFiU3RyYXRlZ3k6OmNsYXNzLAovLyAgICAnY2xhc3MnID0+IE1BcHBfRGFyZW5fUmVtaW5kRGFyZW5Dcm9udGFiU3RyYXRlZ3k6OmNsYXNzLAovLyAgICAnY2xhc3MnID0+IE1BcHBfRGFyZW5fUmVtaW5kRXhwaXJlZENyb250YWJTdHJhdGVneTo6Y2xhc3MsCi8vICAgICdjbGFzcycgPT4gJ2NvbnRlbnRfcHJkXHNlcnZlclxSZWFjaFxNYW5hZ2VyXFdlbmdEYXJlblxEYXJlbldlbmdUaHJlZVRpbWVzUmF0ZWRGYXZFdmVudFN0cmF0ZWd5JywKLy8gICAgJ2NsYXNzJyA9PiAnY29udGVudF9wcmRcc2VydmVyXFJlYWNoXE1hbmFnZXJcV2VuZ0RhcmVuXERhcmVuV2VuZ0JhY2snLAovLyAgICAnY2xhc3MnICA9PiBcYXBwc1xjb250ZW50X3JhbmtpbmdcTUZhY2FkZV9TZXJ2aWNlX1JhbmtpbmdTZXJ2aWNlOjpjbGFzcywKLy8gICAgJ2NsYXNzJyAgPT4gXGNvbnRlbnRfcHJkXHNlcnZlclxSZWFjaFxNYW5hZ2VyXFdlbmdBY3Rpdml0eVxVc2VyUGVuZGFudEV4cGlyZTo6Y2xhc3MsCi8vICAgICdmdW5jJyAgID0+ICdkZWxheVNuYXBzaG90JywKICAgICdmdW5jJyAgID0+ICdydW4nLAovLyAgICAncGFyYW1zJyA9PiBbc2VyaWFsaXplKCRxdWVyeVRvcFBhcmFtKV0sCiAgICAncGFyYW1zJyA9PiBbXSwKXTs=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAndHlwZV90ZXh0JyAgICAgPT4gIC8v5q2k5aSE5pyJ5Z2R77yMIOWuouaIt+err+a4suafk+S4uuagh+mimA==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Ly8gICAgJ3BhcmFtcycgPT4gW10sCi8vICAgICdwYXJhbXMnID0+IFtbNzMwMTYxNTgsIDc4OTIzODI5XSwgMTI4MiwgWwovLyAgICAgICAgJ3RpdGxlJyA9PiBbCi8vICAgICAgICAgICAgJ3BhcmFtcycgPT4gWwovLy8vICAgICAgICAgICAgICAgICduYW1lJyA9PiAn6K+d6aKY54mb5Lq6JywKLy8gICAgICAgICAgICAgICAgJ25hbWUnID0+ICfor53popjlt6jkuronLAovLy8vICAgICAgICAgICAgICAgICduYW1lJyA9PiAn6K+d6aKY54uC5Lq6JywKLy8vLyAgICAgICAgICAgICAgICAnbmFtZScgPT4gJ+ivnemimOaWsOS6uicsCi8vICAgICAgICAgICAgXQovLyAgICAgICAgXSwKLy8gICAgICAgICd1cmwnID0+IFsKLy8gICAgICAgICAgICAndGV4dCcgPT4gJ2h0dHBzOi8vbS5tYWZlbmd3by5jbi9uYi9wdWJsaWMvc2hhcmVqdW1wLnBocD90eXBlPTIyOCZwYWdlX2lkPXRvcGljJTdDMTExMDAwMDAwNTUzODUwOTMyNyZ0YWJfaWQ9JywKLy8vLyAgICAgICAgICAgICd0ZXh0JyA9PiAnaHR0cHM6Ly9tLm1hZmVuZ3dvLmNuL25iL3B1YmxpYy9zaGFyZWp1bXAucGhwP3R5cGU9MjE1JnVzZXJfaWQ9NzMwMTYxNTgmdXNlcl9uYW1lPScsCi8vICAgICAgICBdLAovLyAgICBdXSw=</text>
+        <text encoding="base64">CiRwYXJhbSA9IFsKLy8gICAgJ2NsYXNzJyA9PiBNQXBwX0RhcmVuX0VuY291cmFnZVB1Ymxpc2hDcm9udGFiU3RyYXRlZ3k6OmNsYXNzLAovLyAgICAnY2xhc3MnID0+IE1BcHBfRGFyZW5fUmVtaW5kRGFyZW5Dcm9udGFiU3RyYXRlZ3k6OmNsYXNzLAovLyAgICAnY2xhc3MnID0+IE1BcHBfRGFyZW5fUmVtaW5kRXhwaXJlZENyb250YWJTdHJhdGVneTo6Y2xhc3MsCi8vICAgICdjbGFzcycgPT4gJ2NvbnRlbnRfcHJkXHNlcnZlclxSZWFjaFxNYW5hZ2VyXFdlbmdEYXJlblxEYXJlbldlbmdUaHJlZVRpbWVzUmF0ZWRGYXZFdmVudFN0cmF0ZWd5JywKLy8gICAgJ2NsYXNzJyA9PiAnY29udGVudF9wcmRcc2VydmVyXFJlYWNoXE1hbmFnZXJcV2VuZ0RhcmVuXERhcmVuV2VuZ0JhY2snLAovLyAgICAnY2xhc3MnICA9PiBcYXBwc1xjb250ZW50X3JhbmtpbmdcTUZhY2FkZV9TZXJ2aWNlX1JhbmtpbmdTZXJ2aWNlOjpjbGFzcywKLy8gICAgJ2NsYXNzJyAgPT4gXGNvbnRlbnRfcHJkXHNlcnZlclxSZWFjaFxNYW5hZ2VyXFdlbmdBY3Rpdml0eVxVc2VyUGVuZGFudEV4cGlyZTo6Y2xhc3MsCi8vICAgICdmdW5jJyAgID0+ICdkZWxheVNuYXBzaG90JywKICAgICdmdW5jJyAgID0+ICdydW4nLAovLyAgICAncGFyYW1zJyA9PiBbc2VyaWFsaXplKCRxdWVyeVRvcFBhcmFtKV0sCiAgICAncGFyYW1zJyA9PiBbXSwKXTs=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CmZ1bmN0aW9uIHRlc3QoJGEpIHsKICAgIHJldHVybiAkYTsKfQoKJHJlcyA9IGNhbGxfdXNlcl9mdW5jX2FycmF5KCdhcHBzXHdlbmdzXHRlc3QnLCBbMV0pOwoKZGQoJHJlcyk7</text>
+        <text encoding="base64">Ly8gICAgJ3BhcmFtcycgPT4gW10sCi8vICAgICdwYXJhbXMnID0+IFtbNzMwMTYxNTgsIDc4OTIzODI5XSwgMTI4MiwgWwovLyAgICAgICAgJ3RpdGxlJyA9PiBbCi8vICAgICAgICAgICAgJ3BhcmFtcycgPT4gWwovLy8vICAgICAgICAgICAgICAgICduYW1lJyA9PiAn6K+d6aKY54mb5Lq6JywKLy8gICAgICAgICAgICAgICAgJ25hbWUnID0+ICfor53popjlt6jkuronLAovLy8vICAgICAgICAgICAgICAgICduYW1lJyA9PiAn6K+d6aKY54uC5Lq6JywKLy8vLyAgICAgICAgICAgICAgICAnbmFtZScgPT4gJ+ivnemimOaWsOS6uicsCi8vICAgICAgICAgICAgXQovLyAgICAgICAgXSwKLy8gICAgICAgICd1cmwnID0+IFsKLy8gICAgICAgICAgICAndGV4dCcgPT4gJ2h0dHBzOi8vbS5tYWZlbmd3by5jbi9uYi9wdWJsaWMvc2hhcmVqdW1wLnBocD90eXBlPTIyOCZwYWdlX2lkPXRvcGljJTdDMTExMDAwMDAwNTUzODUwOTMyNyZ0YWJfaWQ9JywKLy8vLyAgICAgICAgICAgICd0ZXh0JyA9PiAnaHR0cHM6Ly9tLm1hZmVuZ3dvLmNuL25iL3B1YmxpYy9zaGFyZWp1bXAucGhwP3R5cGU9MjE1JnVzZXJfaWQ9NzMwMTYxNTgmdXNlcl9uYW1lPScsCi8vICAgICAgICBdLAovLyAgICBdXSw=</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">CmZ1bmN0aW9uIHRlc3QoJGEpIHsKICAgIHJldHVybiAkYTsKfQoKJHJlcyA9IGNhbGxfdXNlcl9mdW5jX2FycmF5KCdhcHBzXHdlbmdzXHRlc3QnLCBbMV0pOwoKZGQoJHJlcyk7</text>
+      </register>
+      <register name="6" type="4">
         <text>if ($checkResult['黑库风险'] == 'Y') {
             file_put_contents(
                 $outfile,
@@ -739,18 +748,15 @@
         }
         $ctime = $item['ctime'];</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICBcY29udGVudF9jb21tZW50XHNlcnZlclxDb25zdW1lclxVc2VyRm9yYmlkU3Vic2NyaWJlcjo6Ykxpc3RlblVzZXJTdGF0dXNDaGFuZ2U=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>$replyId = $item['reply_id'];
         $content = addcslashes(str_replace(',', '，', $item['content']), &quot;\t\n\r&quot;);</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAkaGl0cyA9ICRyZXNDb250ZW50c1snaGl0cyddOwogICAgJGxpc3QgPSBhcnJheV9tYXAoZnVuY3Rpb24oJGl0ZW0pIHsKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAncmVwbHlfaWQnID0+ICRpdGVtWydfc291cmNlJ11bJ3JlcGx5X2lkJ10sCiAgICAgICAgICAgICdjb250ZW50JyAgPT4gJGl0ZW1bJ19zb3VyY2UnXVsnY29udGVudCddLAogICAgICAgICAgICAnY3RpbWUnICAgPT4gJGl0ZW1bJ19zb3VyY2UnXVsnY3RpbWUnXSwKICAgICAgICBdOwogICAgfSwgJGhpdHNbJ2hpdHMnXSk7</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICB2YXJfZHVtcCgkY3RpbWUgLiAnIC0tLSAnLiRsaXN0Wyd0b3RhbCddKTs=</text>
+        <text encoding="base64">CiAgICAkaGl0cyA9ICRyZXNDb250ZW50c1snaGl0cyddOwogICAgJGxpc3QgPSBhcnJheV9tYXAoZnVuY3Rpb24oJGl0ZW0pIHsKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAncmVwbHlfaWQnID0+ICRpdGVtWydfc291cmNlJ11bJ3JlcGx5X2lkJ10sCiAgICAgICAgICAgICdjb250ZW50JyAgPT4gJGl0ZW1bJ19zb3VyY2UnXVsnY29udGVudCddLAogICAgICAgICAgICAnY3RpbWUnICAgPT4gJGl0ZW1bJ19zb3VyY2UnXVsnY3RpbWUnXSwKICAgICAgICBdOwogICAgfSwgJGhpdHNbJ2hpdHMnXSk7</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
