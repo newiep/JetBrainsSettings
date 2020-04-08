@@ -5,6 +5,7 @@
       <mark key="M" line="61" column="20" filename="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/get_import_assets_tabs.v1.php" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Works/webdev/video/qiniu/Token.php" timestamp="1586312215903" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Mdd.php" timestamp="1585822279367" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/AuditManager.php" timestamp="1585618342264" />
       <file name="$USER_HOME$/Works/webdev/infoflow/src/interface/facade/InfoflowBusinessData.php" timestamp="1586242496265" />
@@ -17,6 +18,7 @@
       <file name="$USER_HOME$/Works/webdev/user/apps/user/forbid/facade/Api.php" timestamp="1585899206081" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/common/SingletonTrait.php" timestamp="1586227312590" />
       <file name="$USER_HOME$/Works/webdev/composer/vendor/mfw/content-root/src/Util/Config/Config.php" timestamp="1585202672739" />
+      <file name="$USER_HOME$/Works/webdev/video/qiniu/TokenFactory.php" timestamp="1586311635317" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/tool/Log.php" timestamp="1586236960839" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/format/Danmu.php" timestamp="1586245610842" />
       <file name="$USER_HOME$/Works/webdev/ko/tool/HttpRequest.php" timestamp="1585211013946" />
@@ -38,7 +40,7 @@
       <file name="$USER_HOME$/Works/webdev/video/module/cdn/impl/Qiniu.php" timestamp="1586256530163" />
       <file name="$USER_HOME$/Works/webdev/poi/apps/poi/inner/facade/InfoApi.php" timestamp="1586227633641" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/FeedRecommend.php" timestamp="1585900891132" />
-      <file name="$USER_HOME$/Works/webdev/video/tool/Log.php" timestamp="1585634845723" />
+      <file name="$USER_HOME$/Works/webdev/video/tool/Log.php" timestamp="1586310942687" />
       <file name="$USER_HOME$/Works/webdev/content-activity/mobile/htdocs/activity_epidemic_wish.php" timestamp="1585193510376" />
       <file name="$USER_HOME$/Works/webdev/video/proxy/Audit.php" timestamp="1585642432120" />
       <file name="$USER_HOME$/Works/webdev/composer/vendor/mfw/content-root/src/Base/Object/Obj.php" timestamp="1586237331030" />
@@ -81,7 +83,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/form/PublishParameter.php" timestamp="1585736655080" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/detail/get_recommend_list.v1.php" timestamp="1585275614835" />
       <file name="$USER_HOME$/Works/webdev/show/mapi/Detail.php" timestamp="1586225820524" />
-      <file name="$USER_HOME$/Works/webdev/video/video/Temp.php" timestamp="1585633388992" />
+      <file name="$USER_HOME$/Works/webdev/video/video/Temp.php" timestamp="1586312575807" />
       <file name="$USER_HOME$/Works/webdev/guide/control/GonglveApi.php" timestamp="1585296797602" />
       <file name="$USER_HOME$/Works/webdev/rss/Container.php" timestamp="1586237989409" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/controller/app/video/list/get_movie_profile_info.v1.php" timestamp="1585912366024" />
@@ -92,6 +94,7 @@
       <file name="$USER_HOME$/Works/webdev/video/module/storage/impl/TencentSyncTask.php" timestamp="1586257522439" />
       <file name="$USER_HOME$/Works/webdev/wengs/base/Object.php" timestamp="1586227769993" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Home.php" timestamp="1585550075290" />
+      <file name="$USER_HOME$/Works/webdev/mobile/mobile_api/api/system/file/create_upload.v1.php" timestamp="1586312135658" />
       <file name="$USER_HOME$/Works/webdev/manual-script/202001/qianxun/user_check_v3.php" timestamp="1585884554455" />
       <file name="$USER_HOME$/Works/webdev/wenda/apps/wenda/comment/Api.php" timestamp="1584934148484" />
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/dataprovider/Weng.php" timestamp="1586242539004" />
@@ -110,6 +113,7 @@
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/DetailV1.php" timestamp="1586229322940" />
       <file name="$USER_HOME$/Works/webdev/video/script/test/gif.php" timestamp="1586257618106" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/format/Template.php" timestamp="1586227925729" />
+      <file name="$USER_HOME$/Works/webdev/video/common/Dao.php" timestamp="1586312461007" />
       <file name="$USER_HOME$/Works/webdev/wengs/base/controller/MApi.php" timestamp="1585907089582" />
       <file name="$USER_HOME$/Works/webdev/openapi/htdocs/api/siteminder/recive.php" timestamp="1585212404666" />
       <file name="$USER_HOME$/Works/webdev/video/module/processor/vendor/IGif.php" timestamp="1586257485245" />
@@ -170,6 +174,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/Tool.php" timestamp="1585726709148" />
       <file name="$USER_HOME$/Works/webdev/infoflow/src/interface/style/guide/WengV2.php" timestamp="1585889104138" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/InfoFlow.php" timestamp="1586243046085" />
+      <file name="$USER_HOME$/Works/webdev/video/video/Task.php" timestamp="1586312484942" />
       <file name="$USER_HOME$/Works/webdev/video/file/Trans.php" timestamp="1585642215017" />
       <file name="$USER_HOME$/Works/webdev/shequ/apps/ugcaudit/contentquery/Video.php" timestamp="1585635424820" />
       <file name="$USER_HOME$/Works/webdev/wengs/form/DalaoVideoPublish.php" timestamp="1585738731444" />
@@ -181,19 +186,20 @@
       <file name="$USER_HOME$/Works/webdev/wengs/facade/weng/UgcAuditApi.php" timestamp="1585740364632" />
       <file name="$USER_HOME$/Works/webdev/mobile/www2011/include/xauth/Facade.php" timestamp="1585457824791" />
       <file name="$USER_HOME$/Works/webdev/search/apps/search/facade/Util.php" timestamp="1585888457664" />
-      <file name="$USER_HOME$/Works/webdev/shequ/www2011/include/shequ/App.php" timestamp="1584947450520" />
+      <file name="$USER_HOME$/Works/webdev/shequ/www2011/include/shequ/App.php" timestamp="1586310429620" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Dao/TidbRepo.php" timestamp="1585202565902" />
       <file name="$USER_HOME$/Works/webdev/video/module/processor/response/builder/Gif.php" timestamp="1586256661632" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/Collection.php" timestamp="1585900943965" />
       <file name="$USER_HOME$/Works/webdev/show/model/show/RelatedBusiIds.php" timestamp="1586224096669" />
       <file name="$USER_HOME$/Works/webdev/video/module/processor/vendor/tencent/Gif.php" timestamp="1586256736638" />
       <file name="$USER_HOME$/Works/webdev/wenda/apps/wenda/proxy/Base.php" timestamp="1584934639561" />
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/hook.php" timestamp="1585907218961" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/hook.php" timestamp="1586310206723" />
       <file name="$USER_HOME$/Works/webdev/shequ/apps/ugcaudit/facade/video/Api.php" timestamp="1585641235451" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/format/Video.php" timestamp="1586226765734" />
       <file name="$USER_HOME$/Works/webdev/video/module/processor/dao/Task.php" timestamp="1586256581683" />
       <file name="$USER_HOME$/Works/webdev/wengs/style/Base.php" timestamp="1586237957335" />
       <file name="$USER_HOME$/Works/webdev/wengs/multimedia/TranscodeApi.php" timestamp="1585740230900" />
+      <file name="$USER_HOME$/Works/webdev/video/facade/file/UploadV3.php" timestamp="1586312324656" />
       <file name="$USER_HOME$/Works/webdev/wengs/Container.php" timestamp="1586237201403" />
       <file name="$USER_HOME$/Works/webdev/wengs/weng/ContentApi.php" timestamp="1585736594192" />
       <file name="$USER_HOME$/Works/webdev/content-root/src/Base/Object/Obj.php" timestamp="1585213926363" />
@@ -232,7 +238,7 @@
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/format/Dig.php" timestamp="1586226707550" />
       <file name="$USER_HOME$/Works/webdev/wengs/tool/Log.php" timestamp="1584931415427" />
       <file name="$USER_HOME$/Works/webdev/video/module/vendor/tencent/Mps.php" timestamp="1586256929375" />
-      <file name="$USER_HOME$/Works/webdev/video/tool/log/LongLog.php" timestamp="1585634627983" />
+      <file name="$USER_HOME$/Works/webdev/video/tool/log/LongLog.php" timestamp="1586310938709" />
       <file name="$USER_HOME$/Works/webdev/wengs/weng/ExtApi.php" timestamp="1585822459472" />
       <file name="$USER_HOME$/Works/webdev/qianxun/facade/review/action/Weng.php" timestamp="1585712546609" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/Mdd.php" timestamp="1586226450408" />
@@ -252,10 +258,11 @@
       <file name="$USER_HOME$/Works/webdev/wengs/form/OpenModify.php" timestamp="1585705132381" />
       <file name="$USER_HOME$/Works/webdev/wengs/ranking/spokesman/style/Flow.php" timestamp="1586237914872" />
       <file name="$USER_HOME$/Works/webdev/wengs/multimedia/Api.php" timestamp="1585739127452" />
-      <file name="$USER_HOME$/Works/webdev/video/file/Upload.php" timestamp="1585633891439" />
+      <file name="$USER_HOME$/Works/webdev/video/file/Upload.php" timestamp="1586312619393" />
       <file name="$USER_HOME$/Works/webdev/file/www2011/include/file/upload/job/Queue.php" timestamp="1585634023229" />
-      <file name="$USER_HOME$/Works/webdev/openapi/htdocs/api/system/file/video_upload_callback.v3.php" timestamp="1585629816154" />
+      <file name="$USER_HOME$/Works/webdev/openapi/htdocs/api/system/file/video_upload_callback.v3.php" timestamp="1586312320316" />
       <file name="$USER_HOME$/Works/webdev/wengs/base/Response.php" timestamp="1585907601757" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/topic.php" timestamp="1586310065123" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/UserStatusManager.php" timestamp="1585214145502" />
       <file name="$USER_HOME$/Works/webdev/mobile/apps/url/facade/POI.php" timestamp="1586245907474" />
       <file name="$USER_HOME$/Works/webdev/wengs/user/Permission.php" timestamp="1584947300089" />
