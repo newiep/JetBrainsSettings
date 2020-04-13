@@ -186,7 +186,7 @@
       <file name="$USER_HOME$/Works/webdev/infoflow/src/interface/facade/mdd/Api.php" timestamp="1585889389823" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/base/Run.php" timestamp="1585900784946" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/admin/format/Movie.php" timestamp="1586229092656" />
-      <file name="$USER_HOME$/Works/webdev/wengs/tool/Env.php" timestamp="1586752200867" />
+      <file name="$USER_HOME$/Works/webdev/wengs/tool/Env.php" timestamp="1586756795353" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Lib/Event/AbstractEvent.php" timestamp="1585205446190">
         <mark key="[" line="7" column="43" />
       </file>
@@ -298,10 +298,10 @@
         <mark key="." line="135" column="24" />
         <mark key="^" line="156" column="25" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1586752280597">
-        <mark key="[" line="229" column="42" />
-        <mark key="]" line="229" column="42" />
-        <mark key="." line="229" column="42" />
+      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1586756824651">
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="." line="229" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/video/module/storage/impl/QiniuSyncTask.php" timestamp="1586257517289" />
       <file name="$USER_HOME$/Works/webdev/video/script/test/antiLeechUrl.php" timestamp="1586257596999" />
@@ -402,7 +402,7 @@
         <mark key="]" line="14" column="82" />
         <mark key="." line="14" column="82" />
       </file>
-      <file name="/PHP Console" timestamp="1586752307388">
+      <file name="/PHP Console" timestamp="1586756837292">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/facade/multimedia/TranscodeApi.php" timestamp="1585737481894" />
@@ -522,8 +522,8 @@
       <file name="$USER_HOME$/Works/webdev/wengs/weng/Status.php" timestamp="1585736768528">
         <mark key="[" line="186" column="67" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/search/Api.php" timestamp="1586752456040">
-        <mark key="[" line="24" column="9" />
+      <file name="$USER_HOME$/Works/webdev/wengs/search/Api.php" timestamp="1586756888156">
+        <mark key="[" line="25" column="32" />
       </file>
       <file name="$USER_HOME$/Works/webdev/shequ/apps/ugcaudit/contentquery/AbstractContent.php" timestamp="1585635311623" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/ListManager.php" timestamp="1586510573743">
@@ -762,8 +762,8 @@
         <mark key="[" line="66" column="14" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/UserStatusManager.php" timestamp="1585214145502" />
-      <file name="$USER_HOME$/Works/webdev/wengs/search/Conf.php" timestamp="1586752299162">
-        <mark key="[" line="45" column="29" />
+      <file name="$USER_HOME$/Works/webdev/wengs/search/Conf.php" timestamp="1586756853273">
+        <mark key="[" line="43" column="5" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Lib/Gaea/Queue.php" timestamp="1585206784713">
         <mark key="[" line="17" column="0" />
@@ -999,7 +999,8 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$sEsType</text>
+        <text>$esConfig      = MSearch_Conf::aGetEsConf('wengs_index_new');
+dd($esConfig);</text>
       </register>
       <register name="-" type="4">
         <text>$sEsType</text>
@@ -1011,24 +1012,28 @@
         <text encoding="base64">ICAgICAgICAgICAgTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkYVNob3dQb3NJbmZvLCBbJ3BvaXMnXSwgW10pLAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CmRkKE1Ub29sX0Vudjo6YklzRGV2KCkpOw==</text>
+        <text>$esConfig      = MSearch_Conf::aGetEsConf('wengs_index_new');
+dd($esConfig);</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiR0b3RhbFdlbmdOdW0gPSAkb1dlbmdEYXRhQXBpLT5pR2V0VXNlcldlbmdOdW1WMigkdGhpcy0+b3duZXJJZCwgJHRoaXMtPmlzT3duZXIpOw==</text>
+        <text encoding="base64">CmRkKE1Ub29sX0Vudjo6YklzRGV2KCkpOw==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CiR0b3RhbFdlbmdOdW0gPSAkb1dlbmdEYXRhQXBpLT5pR2V0VXNlcldlbmdOdW1WMigkdGhpcy0+b3duZXJJZCwgJHRoaXMtPmlzT3duZXIpOw==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">CiRhRmxhZ3MgPSBNV2VuZ19TdGF0dXM6OmFHZXRWaWV3QWJsZSgkYklzT3duZXIpOwokYVNvcnQgID0gWydrZXknID0+ICd3ZW5naWQnLCAnZGVzYycgPT4gdHJ1ZV07Ci8qKgogKiBsaW1pdCDlj5YgNSDmmK/lm6DkuLrlu7bov5/kv67lpI0gYUdldE5vdFN5bmNWaWRlb1dlbmdJZHMg5pqC5pe25Y+W55qE5pivIDUg5p2hCiAqLwokdmlkZW9MaXN0ID0gJHRoaXMtPmFHZXRVc2VyVmlkZW9XZW5ncygkaVVpZCwgMCwgNSwgJGFGbGFncywgJGFTb3J0KTsKdmFyX2R1bXAoJHZpZGVvTGlzdCk7ZGllOw==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiRyZXMgPSBcYXBwc1xub3RlXE1Ub29sX0FycmF5OjptR2V0QXJyYXlWYWx1ZShbJ25hbWUnID0+IFsKICAgICdmaXJzdCcgPT4gJ2EnLAogICAgJ3NlY29uZCcgPT4gJ2InLApdXSwgJ25hbWUuZmlyc3QxJywgMCk7CmRkKCRyZXMpOw==</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>[
 [
 [
@@ -1044,17 +1049,14 @@
 [
 [</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>if (!is_array($array)) {
             echo __FILE__ . '---' . __FUNCTION__ . '---' . __LINE__;
             var_dump($array);die;
         }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+c3ViUGFnZSk7ZGllOwo=</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
