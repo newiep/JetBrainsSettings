@@ -176,12 +176,17 @@
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Log.php" timestamp="1586918963069" />
       <file name="$USER_HOME$/Works/webdev/video/avthumb/Operator.php" timestamp="1586335953526" />
       <file name="$USER_HOME$/Works/webdev/outdated/www2011/include/conf_dev.php" timestamp="1585910219660" />
+      <file name="$USER_HOME$/Works/webdev/note/mobile/htdocs/note/rest/note/detail/get_note_detail.v3.php" timestamp="1587096357806">
+        <mark key="[" line="234" column="27" />
+        <mark key="]" line="234" column="27" />
+        <mark key="." line="234" column="27" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/note/apps/note/tool/Array.php" timestamp="1587009375410">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/note/mobile/htdocs/note/rest/note/reply/get_reply_list.v2.php" timestamp="1587094880402">
+      <file name="$USER_HOME$/Works/webdev/note/mobile/htdocs/note/rest/note/reply/get_reply_list.v2.php" timestamp="1587095773458">
         <mark key="[" line="15" column="2" />
         <mark key="]" line="13" column="24" />
         <mark key="." line="13" column="24" />
@@ -258,7 +263,7 @@
       <file name="$USER_HOME$/Works/webdev/mobile/www2011/include/mapi/url/Mdd.php" timestamp="1586246028310" />
       <file name="$USER_HOME$/Works/webdev/video/module/MObject.php" timestamp="1586256690794" />
       <file name="$USER_HOME$/Works/webdev/wengs/form/Like.php" timestamp="1586412871590" />
-      <file name="$USER_HOME$/Works/webdev/note/apps/note/mapi/reply/new/List.php" timestamp="1587094814442">
+      <file name="$USER_HOME$/Works/webdev/note/apps/note/mapi/reply/new/List.php" timestamp="1587095768631">
         <mark key="[" line="89" column="68" />
         <mark key="]" line="96" column="37" />
         <mark key="." line="96" column="37" />
@@ -523,7 +528,7 @@
       <file name="$USER_HOME$/Works/webdev/manual-script/201905/wengs/userHiddenTag.php" timestamp="1586944644834" />
       <file name="$USER_HOME$/Works/webdev/shequ/apps/ugcaudit/htdocs/service/Controller.php" timestamp="1585633203765" />
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/Tool.php" timestamp="1585726709148" />
-      <file name="$USER_HOME$/Works/webdev/note/apps/note/facade/Info.php" timestamp="1587094858775">
+      <file name="$USER_HOME$/Works/webdev/note/apps/note/facade/Info.php" timestamp="1587096090702">
         <mark key="[" line="114" column="100" />
         <mark key="]" line="129" column="33" />
         <mark key="^" line="150" column="26" />
@@ -1083,10 +1088,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>publish.weng.sayhi.x</text>
+        <text>max(0, (int)$ginfo['reply'])</text>
       </register>
       <register name="-" type="4">
-        <text>publish.weng.sayhi.x</text>
+        <text>max(0, (int)$ginfo['reply'])</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
