@@ -185,6 +185,7 @@
       <file name="$USER_HOME$/Works/webdev/video/avthumb/processor/Hls.php" timestamp="1586336384714" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/mapi/reply/v2/ListTrait.php" timestamp="1586769392492" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/tag/suggest_conf.php" timestamp="1585120211008" />
+      <file name="$USER_HOME$/Works/webdev/video/module/processor/constants/TaskTypeEnum.php" timestamp="1587627781095" />
       <file name="$USER_HOME$/Works/webdev/shequ/apps/ugcaudit/proxy/business/WengsContent.php" timestamp="1585629109314" />
       <file name="$USER_HOME$/Works/webdev/video/qiniu/Conf.php" timestamp="1587452387596" />
       <file name="$USER_HOME$/Works/webdev/sales-ugc/comment/control/CommentApi.php" timestamp="1585304010698" />
@@ -471,7 +472,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="125" column="8" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/movie-lib/proxy/Poi.php" timestamp="1587625506211">
+      <file name="$USER_HOME$/Works/webdev/movie-lib/proxy/Poi.php" timestamp="1587627158795">
         <mark key="[" line="135" column="28" />
         <mark key="]" line="135" column="28" />
         <mark key="." line="135" column="28" />
@@ -836,7 +837,7 @@
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/Collection.php" timestamp="1585900943965" />
       <file name="$USER_HOME$/Works/webdev/show/model/show/RelatedBusiIds.php" timestamp="1587547228721" />
       <file name="$USER_HOME$/Works/webdev/note/www2011/template/note/pagelet/reply_list.tpl" timestamp="1587350523950" />
-      <file name="$USER_HOME$/Works/webdev/video/module/processor/vendor/tencent/Gif.php" timestamp="1587625445873" />
+      <file name="$USER_HOME$/Works/webdev/video/module/processor/vendor/tencent/Gif.php" timestamp="1587627702907" />
       <file name="$USER_HOME$/Works/webdev/tongji/apps/kafka/log/facade/logApi.php" timestamp="1587358755090" />
       <file name="$USER_HOME$/Works/webdev/wenda/apps/wenda/proxy/Base.php" timestamp="1584934639561" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/ugc/reply/IndexApi.php" timestamp="1586830339546" />
@@ -880,10 +881,10 @@
         <mark key="]" line="105" column="46" />
         <mark key="." line="105" column="46" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/format/PoiCardList.php" timestamp="1587625597991">
-        <mark key="[" line="129" column="13" />
-        <mark key="]" line="60" column="33" />
-        <mark key="." line="60" column="33" />
+      <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/format/PoiCardList.php" timestamp="1587627342913">
+        <mark key="[" line="111" column="25" />
+        <mark key="]" line="111" column="25" />
+        <mark key="." line="111" column="25" />
       </file>
       <file name="$USER_HOME$/Works/webdev/movie-lib/proxy/Hotel.php" timestamp="1587527248178">
         <mark key="[" line="33" column="13" />
@@ -922,7 +923,7 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/video/module/processor/dao/Dao.php" timestamp="1587621449595" />
+      <file name="$USER_HOME$/Works/webdev/video/module/processor/dao/Dao.php" timestamp="1587627753303" />
       <file name="$USER_HOME$/Works/webdev/video/proxy/File.php" timestamp="1586316716149" />
       <file name="$USER_HOME$/Works/webdev/wengs/base/Hook.php" timestamp="1585907198144" />
       <file name="$USER_HOME$/Works/webdev/mobile/mobile_api/htdocs/boot.php" timestamp="1586491446580" />
@@ -1068,7 +1069,7 @@
         <mark key="^" line="21" column="25" />
         <mark key="." line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/video/module/processor/manager/Gif.php" timestamp="1587624271146" />
+      <file name="$USER_HOME$/Works/webdev/video/module/processor/manager/Gif.php" timestamp="1587627806294" />
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/Recommend.php" timestamp="1587457706321">
         <mark key="[" line="277" column="28" />
         <mark key="]" line="277" column="28" />
@@ -1431,11 +1432,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>array_unique(</text>
       </register>
       <register name="-" type="4">
-        <text>20200423</text>
+        <text>array_unique(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
