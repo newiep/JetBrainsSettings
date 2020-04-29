@@ -64,7 +64,7 @@
       <file name="$USER_HOME$/Works/webdev/poi/apps/poi/facade/MessageSubscriber.php" timestamp="1586760275360">
         <mark key="[" line="37" column="5" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/movie-lib/tool/Log.php" timestamp="1586236960839" />
+      <file name="$USER_HOME$/Works/webdev/movie-lib/tool/Log.php" timestamp="1588128640251" />
       <file name="$USER_HOME$/Works/webdev/video/video/Callback.php" timestamp="1586332119147" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/format/Danmu.php" timestamp="1586245610842" />
       <file name="$USER_HOME$/Works/webdev/outdated/www2011/template/common/pager.tpl" timestamp="1587086386153" />
@@ -135,10 +135,10 @@
         <mark key="." line="89" column="57" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Mdd.php" timestamp="1587545904862" />
-      <file name="$USER_HOME$/Works/webdev/movie-lib/app/cron/DeleteByCtr.php" timestamp="1587974675641">
-        <mark key="[" line="39" column="82" />
-        <mark key="]" line="39" column="82" />
-        <mark key="." line="39" column="82" />
+      <file name="$USER_HOME$/Works/webdev/movie-lib/app/cron/DeleteByCtr.php" timestamp="1588128628256">
+        <mark key="[" line="31" column="64" />
+        <mark key="]" line="31" column="64" />
+        <mark key="." line="31" column="64" />
       </file>
       <file name="$USER_HOME$/Works/webdev/video/file/Callback.php" timestamp="1586332260701" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Entity/CommentContentDO.php" timestamp="1587350365861">
@@ -1008,6 +1008,7 @@
       <file name="$USER_HOME$/Works/webdev/mobile/www2011/include/mapi/url/Mdd.php" timestamp="1586246028310" />
       <file name="$USER_HOME$/Works/webdev/video/module/MObject.php" timestamp="1586256690794" />
       <file name="$USER_HOME$/Works/webdev/wengs/form/Like.php" timestamp="1586412871590" />
+      <file name="$USER_HOME$/Works/webdev/movie-lib/tool/LongLog.php" timestamp="1588128551291" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Mql.php" timestamp="1587967899742" />
       <file name="$USER_HOME$/Works/webdev/manual-script/202001/qianxun/user_check_v3.php" timestamp="1585884554455" />
       <file name="$USER_HOME$/Works/webdev/ko/mode/LimitRedis.php" timestamp="1587881676000" />
@@ -1527,7 +1528,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/weng/Api.php" timestamp="1587973795781" />
       <file name="$USER_HOME$/Works/webdev/guide/www/htdocs/detail.php" timestamp="1587362800699" />
       <file name="$USER_HOME$/Works/webdev/video/file/Audit.php" timestamp="1585734504341" />
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/publish/publish_weng.v1.php" timestamp="1588125240248">
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/publish/publish_weng.v1.php" timestamp="1588126637641">
         <mark key="[" line="13" column="12" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Config/production/mongodb.php" timestamp="1585202601803" />
@@ -1676,11 +1677,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$showIdList</text>
       </register>
       <register name="-" type="4">
-        <text>$topics</text>
+        <text>$showIdList</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -1688,37 +1689,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3BybUlkJyAgPT4gJGl0ZW1bJ3BybV9pZCddLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIE1Qcm94eV9Mb2c6Om9JbnN0YW5jZSgpLT52TG9nTW92aWVFdmVudCgncnVudGltZTpsb2c6djEnLCA7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICd7ZGF0ZTJ9JyA9PiAkZURhdGUsCiAgICAgICAgICAgICd7Y29uZDF9JyA9PiAnc3VtKHB1Ymxpc2hfbnVtKSA+MyBvciBzdW0oYWN0aW9uX251bSkgPiAxMDAnLAogICAgICAgICAgICAne2NvbmQyfScgPT4gJ3B2IGRlc2MsYWN0aW9uX251bSBkZXNjLHB1Ymxpc2hfbnVtIGRlc2MnLA==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAvL1RPRE8g55u05pKt5Y2h54mH54mI5o6nCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiRyZXMgPSBtYl9zdWJzdHIoJGt3LCAwLCAyKTsKJHJlczEgPSBtYl9zdWJzdHIoJGt3LCAyKTs=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>'亲子游', '自驾游', '户外露营地',
                 '公园郊游地',</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>'国内海岛VLOG', '国内小众海岛', '五一小长假', '五一去哪玩', '五一周边游',
                 '国内古镇攻略', '国内主题公园', '国内博物馆', '国内户外运动',</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAn5LqU5LiA6Ieq6am+5peF6KGMJywgJ+S6lOS4gOiHqumpvicsICc15pyI5Y675ZOq546pJywgJ+mcsuiQpScsICfph4fmkZgnLCAn5oi35aSW54On54OkJywKICAgICAgICAgICAgICAgICflkajmnKvoh6rpqb7muLgnLCAn6I2J5Y6f6Ieq6am+5ri4JywgJ+WRqOacq+eIrOWxsScsICflkajmnKvpnLLokKXlpb3ljrvlpIQnLCAn5bCP6ZW/5YGH5Y675ZOq546pJywKICAgICAgICAgICAgICAgICflsI/plb/lgYfmsJHlrr8nLCAn5Li76aKY5YWs5Zut5aW95Y675aSEJyw=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAqIEB2YXIgJG9Wb3RlU2VydmljZSBNUHJveHlfVm90ZVNlcnZpY2U=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">KSB7CiAgICAgICAgICAgICAgICAvL+iusOW9leaXpeW/lwogICAgICAgICAgICAgICAgTUxvZ19PcGVyYXRlOjpvSW5zdGFuY2UoKS0+aUFkZCgKICAgICAgICAgICAgICAgICAgICBNTG9nX09wZXJhdGU6OkJVU0lfTU9WSUUsCiAgICAgICAgICAgICAgICAgICAgJ2lBZG1pbkRlbGV0ZScsCiAgICAgICAgICAgICAgICAgICAgJHNob3dJZCwKICAgICAgICAgICAgICAgICAgICBbJ3dlbmdpZCcgPT4gJHdlbmdJZCwgJ3Nob3dfaWQnLCAkc2hvd0lkXSwKICAgICAgICAgICAgICAgICAgICAnY3RyIOi/h+S9juWIoOmZpCcKICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAn5LqU5LiA6Ieq6am+5peF6KGMJywgJ+S6lOS4gOiHqumpvicsICc15pyI5Y675ZOq546pJywgJ+mcsuiQpScsICfph4fmkZgnLCAn5oi35aSW54On54OkJywKICAgICAgICAgICAgICAgICflkajmnKvoh6rpqb7muLgnLCAn6I2J5Y6f6Ieq6am+5ri4JywgJ+WRqOacq+eIrOWxsScsICflkajmnKvpnLLokKXlpb3ljrvlpIQnLCAn5bCP6ZW/5YGH5Y675ZOq546pJywKICAgICAgICAgICAgICAgICflsI/plb/lgYfmsJHlrr8nLCAn5Li76aKY5YWs5Zut5aW95Y675aSEJyw=</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
