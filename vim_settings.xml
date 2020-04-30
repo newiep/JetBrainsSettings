@@ -245,6 +245,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/wenda/apps/wenda/comment/Api.php" timestamp="1584934148484" />
       <file name="$USER_HOME$/Works/webdev/mdd/www2011/include/mdd/base/Facade.php" timestamp="1588143916412" />
+      <file name="$USER_HOME$/Works/webdev/content-prd/server/Reach/Manager/WengDaren/DarenWengRatedFavEventStrategy.php" timestamp="1588236082692" />
       <file name="$USER_HOME$/Works/webdev/video/module/processor/request/option/ClipMediaInfo.php" timestamp="1588229157626">
         <mark key="[" line="6" column="3" />
       </file>
@@ -562,6 +563,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/video/proxy/File.php" timestamp="1587895827387" />
       <file name="$USER_HOME$/Works/webdev/wengs/base/Hook.php" timestamp="1585907198144" />
+      <file name="$USER_HOME$/Works/webdev/content-prd/server/Reach/Manager/WengDaren/UserContinuityDarenStrategy.php" timestamp="1588236269674" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/controller/app/video/detail/get_recommend_list.v1.php" timestamp="1585188755402" />
       <file name="$USER_HOME$/Works/webdev/mobile/www2011/include/mapi/search/data/es/PoiParalle.php" timestamp="1586403083783" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_note/reply/get_reply_list.v1.php" timestamp="1586514337797" />
@@ -944,6 +946,11 @@
         <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/msg/apps/msg/facade/kindApi.php" timestamp="1587120348795" />
+      <file name="$USER_HOME$/Works/webdev/content-prd/server/Reach/Manager/WengDaren/DarenWengBack.php" timestamp="1588235996614">
+        <mark key="[" line="121" column="45" />
+        <mark key="]" line="121" column="45" />
+        <mark key="." line="121" column="45" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Config/TidbConfig.php" timestamp="1587985069809" />
       <file name="$USER_HOME$/Works/webdev/composer/vendor/tencentcloud/tencentcloud-sdk-php/src/TencentCloud/Mps/V20190612/Models/EditMediaRequest.php" timestamp="1588231981070" />
       <file name="$USER_HOME$/Works/webdev/video/facade/busi/Movie.php" timestamp="1585734550360" />
@@ -1053,6 +1060,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/event/VideoPubTask.php" timestamp="1587882881411" />
       <file name="$USER_HOME$/Works/webdev/shequ/apps/ugcaudit/proxy/business/SalesComment.php" timestamp="1585301992496" />
       <file name="$USER_HOME$/Works/webdev/wengs/admin/Dalao.php" timestamp="1587381413679" />
+      <file name="$USER_HOME$/Works/webdev/content-prd/server/Reach/Manager/WengDaren/DarenWengMoreThreeTimesRatedFavEventStrategy.php" timestamp="1588236006025" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Query/IdMapQuery.php" timestamp="1587447837386" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/style/feed/PoiCardList.php" timestamp="1587521402582">
         <mark key="[" line="19" column="33" />
@@ -1215,6 +1223,11 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/content-prd/server/Reach/Manager/WengDaren/UserBeDarenStrategy.php" timestamp="1588236242371">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="26" />
+        <mark key="." line="25" column="26" />
       </file>
       <file name="$USER_HOME$/Works/webdev/shequ/apps/ugcaudit/facade/video/Api.php" timestamp="1585641235451" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/format/Video.php" timestamp="1586226765734" />
@@ -1610,11 +1623,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>https://imfw.cn/l/119775730</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>https://imfw.cn/l/119775730</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -1622,35 +1635,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3BybUlkJyAgPT4gJGl0ZW1bJ3BybV9pZCddLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuICJodHRwczovL20ubWFmZW5nd28uY24vbmIvcHVibGljL3NoYXJlanVtcC5waHA/dHlwZT01MCZ3ZW5naWQ9MTY0NDE4ODk3Mzk5Nzg1MCI7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">eyJGaWxlSW5mb3MiOlt7IklucHV0SW5mbyI6eyJUeXBlIjoiQ09TIiwiQ29zSW5wdXRJbmZvIjp7IkJ1Y2tldCI6InRlc3QtMTMwMTgwNDE3MiIsIlJlZ2lvbiI6ImFwLWNoZW5nZHUiLCJPYmplY3QiOiJcL3NcL00wMFwvNTJcLzQwXC9yQklJSGw2aVJmbUFTS0dhQUFkNFE0dkxoeWszNTg2Mjk4In19LCJTdGFydFRpbWVPZmZzZXQiOjEsIkVuZFRpbWVPZmZzZXQiOjN9XSwiT3V0cHV0U3RvcmFnZSI6eyJUeXBlIjoiQ09TIiwiQ29zT3V0cHV0U3RvcmFnZSI6eyJCdWNrZXQiOiJ0ZXN0LTEzMDE4MDQxNzIiLCJSZWdpb24iOiJhcC1jaGVuZ2R1In19LCJPdXRwdXRPYmplY3RQYXRoIjoiXC9zXC9NMDBcLzUyXC9GQVwvckJJSUhsNnFmeWlFRThBQ0FBQUFBRnVwZzFrMzI0MDYxOCJ9Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgdmFyX2R1bXAoJHRoaXMtPnJlcXVlc3RCb2R5LT50b0pzb25TdHJpbmcoKSk7ZGllOw==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ZGQoKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CmRkKDEpOw==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiRyZXMgPSBNTW9kdWxlX1V0aWxfRmlsZTo6U0ZkZnMyQ2xvdWQoTU1vZHVsZV9VdGlsX0ZpbGU6OmNyZWF0ZUZpbGVJZCgnJykpOw==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAtPnNldE9mZnNldFNldCgkb2Zmc2V0U2V0KQ==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">JG9mZnNldFNldCA9IFsyLCA0XTsK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgJA==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
