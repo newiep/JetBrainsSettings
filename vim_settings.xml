@@ -146,11 +146,11 @@
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="36" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/video/module/processor/vendor/tencent/MediaProcessor.php" timestamp="1588757767755">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="^" line="221" column="33" />
-        <mark key="." line="128" column="0" />
+      <file name="$USER_HOME$/Works/webdev/video/module/processor/vendor/tencent/MediaProcessor.php" timestamp="1588762186250">
+        <mark key="[" line="115" column="40" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="220" column="33" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/common/Dao.php" timestamp="1588732423648" />
       <file name="$USER_HOME$/Works/webdev/video/module/processor/manager/Gif.php" timestamp="1588752737284" />
@@ -304,8 +304,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIDsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -316,37 +316,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3BybUlkJyAgPT4gJGl0ZW1bJ3BybV9pZCddLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgLyoqCiAgICAgICAgICogQHZhciBNTW9kdWxlX1Byb2Nlc3Nvcl9SZXF1ZXN0X0NsaXBNZWRpYUluZm8gJG1lZGlhSW5mbwogICAgICAgICAqLw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgLyoqCiAgICAgICAgICogQHZhciBNTW9kdWxlX1Byb2Nlc3Nvcl9SZXF1ZXN0X0NsaXBNZWRpYUluZm8gJG1lZGlhSW5mbwogICAgICAgICAqLw==</text>
+      </register>
+      <register name="3" type="4">
         <text>MModule_Processor_Request_ClipMediaInfo::createFromArray([
     
 ]);</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGEgPSAxOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgJGEgPSAxOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBNQXBwOjokYXBwLT5yZXF1ZXN0LT5pc0FuZHJvaWQgJiYK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CgpjbGFzcyBBIGltcGxlbWVudHMgXEpzb25TZXJpYWxpemFibGUKewogICAgcHVibGljIGZ1bmN0aW9uIGpzb25TZXJpYWxpemUoKQogICAgewogICAgICAgIHJldHVybiBnZXRfb2JqZWN0X3ZhcnMoJHRoaXMpOwogICAgfQp9CgpjbGFzcyBCIGV4dGVuZHMgQSB7CiAgICBwcml2YXRlICRiMSA9IDE7CiAgICBwcm90ZWN0ZWQgJGIgPSBbXTsKCiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoKQogICAgewogICAgICAgIGZvcigkaSA9IDA7ICRpPDM7JGkrKykgewogICAgICAgICAgICAkdGhpcy0+YltdID0gbmV3IEMoKTsKICAgICAgICB9CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGpzb25TZXJpYWxpemUoKQogICAgewogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICdhJyA9PiAkdGhpcy0+YjEsCiAgICAgICAgICAgICdiJyA9PiAkdGhpcy0+YiwKICAgICAgICBdOwogICAgfQp9CgpjbGFzcyBDIGV4dGVuZHMgQSB7CiAgICBwcm90ZWN0ZWQgJGMxID0gMTsKCiAgICBwcm90ZWN0ZWQgJGMyID0gMjsKfQoKJGIgPSBuZXcgQigpOwoKJHJlcyA9IGpzb25fZW5jb2RlKCRiKTsKZGQoJHJlcyk7</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Cm5ldyBBZGRUb3BpYygp</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ25hbWUnID0+ICdsbmcnLAogICAgICAgICAgICAgICAgJ2NvbnRlbnRzJyA9PiAkZGF0YVsyXSwKICAgICAgICAgICAgXSw=</text>
+        <text encoding="base64">Cm5ldyBBZGRUb3BpYygp</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
