@@ -5,54 +5,19 @@
       <mark key="M" line="61" column="20" filename="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/get_import_assets_tabs.v1.php" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Works/webdev/video/module/processor/vendor/tencent/MediaProcessor.php" timestamp="1588838499808">
-        <mark key="[" line="61" column="5" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="244" column="33" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1589268748808">
+        <mark key="[" line="177" column="29" />
+        <mark key="]" line="177" column="4" />
+        <mark key="." line="177" column="4" />
+        <mark key="^" line="177" column="4" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/ReplyManager.php" timestamp="1588904247564">
-        <mark key="[" line="163" column="5" />
-        <mark key="]" line="274" column="8" />
-        <mark key="." line="274" column="8" />
-        <mark key="^" line="304" column="23" />
+      <file name="$USER_HOME$/Works/webdev/wengs/weng/SignLog.php" timestamp="1589269395201">
+        <mark key="[" line="116" column="8" />
+        <mark key="]" line="116" column="8" />
+        <mark key="." line="116" column="8" />
+        <mark key="^" line="74" column="9" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/video/module/processor/service/Snapshot.php" timestamp="1588752572626">
-        <mark key="[" line="34" column="10" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="9" column="5" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/Codes/PHP/spider/script/relation.php" timestamp="1588734911119">
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="19" />
-        <mark key="." line="16" column="20" />
-        <mark key="^" line="16" column="19" />
-      </file>
-      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/SortManager.php" timestamp="1588902484016">
-        <mark key="[" line="157" column="84" />
-        <mark key="]" line="157" column="31" />
-        <mark key="." line="157" column="31" />
-        <mark key="^" line="150" column="25" />
-      </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1589251732240">
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
-        <mark key="^" line="182" column="4" />
-      </file>
-      <file name="$USER_HOME$/Codes/PHP/spider/app/FacadeClient.php" timestamp="1588738525561">
-        <mark key="[" line="54" column="5" />
-        <mark key="]" line="54" column="5" />
-        <mark key="." line="54" column="5" />
-        <mark key="^" line="58" column="33" />
-      </file>
-      <file name="$USER_HOME$/Works/webdev/content-comment/server/Event/SpamCheckService.php" timestamp="1588931988858">
-        <mark key="[" line="48" column="26" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="18" column="0" />
-      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/weng/Daren.php" timestamp="1589267453383" />
       <file name="$USER_HOME$/Works/webdev/wengs/mock/Spider.php" timestamp="1589263368481">
         <mark key="[" line="695" column="24" />
         <mark key="]" line="804" column="9" />
@@ -60,26 +25,8 @@
         <mark key="^" line="804" column="9" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/get_import_assets_tabs.v1.php" timestamp="1589254174732" />
-      <file name="$USER_HOME$/Works/webdev/wengs/weng/Dao.php" timestamp="1589251271341">
+      <file name="$USER_HOME$/Works/webdev/wengs/weng/Dao.php" timestamp="1589266541783">
         <mark key="[" line="105" column="10" />
-      </file>
-      <file name="$USER_HOME$/Codes/PHP/spider/script/weng_reply_audit.php" timestamp="1588735024706">
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="23" column="8" />
-        <mark key="^" line="40" column="8" />
-        <mark key="." line="23" column="8" />
-      </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/weng/RelationBusiness.php" timestamp="1588737748758">
-        <mark key="[" line="208" column="5" />
-        <mark key="]" line="208" column="5" />
-        <mark key="." line="208" column="5" />
-        <mark key="^" line="208" column="5" />
-      </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/form/WengLbs.php" timestamp="1588835631002">
-        <mark key="[" line="156" column="60" />
-        <mark key="]" line="168" column="9" />
-        <mark key="^" line="168" column="9" />
-        <mark key="." line="168" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -206,10 +153,35 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'	免税店怎么买'</text>
+        <text>switch ($offsetType) {
+            //月，需按照年为周期
+            case self::OFFSET_TYPE_MONTH:
+                $currentMonth = date('n');
+                $baseMonth    = date('n', strtotime($baseDateTime));
+                return $currentMonth - $baseMonth;
+                break;
+
+            //周，须按照年为周期
+            //TODO 以周一为一周的开始，每年的最后一天和新年的第一天，获取值可能会相同。
+            //TODO 使用该类型需确认此处逻辑
+            case self::OFFSET_TYPE_WEEK:
+                $currentWeek = date('W');
+                $baseWeek    = date('W', strtotime($baseDateTime));
+                return $currentWeek - $baseWeek;
+                break;
+
+            //天， 须按照月为周期
+            case self::OFFSET_TYPE_DAY:
+                $currentDay = date('j');
+                $baseDay    = date('j', strtotime($baseDateTime));
+                return $currentDay - $baseDay;
+                break;
+            default:
+                throw new \Ko_Exception('不支持的 offset type');
+        }</text>
       </register>
       <register name="-" type="4">
-        <text>'	免税店怎么买'</text>
+        <text>$data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -218,34 +190,59 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3BybUlkJyAgPT4gJGl0ZW1bJ3BybV9pZCddLAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CmZ1bmN0aW9uIHNpZ24oJG9mZnNldCwgJGIpIHsKICAgIHJldHVybiAoKDEgPDwgMSkgfCAkYik7Cn0=</text>
+        <text>switch ($offsetType) {
+            //月，需按照年为周期
+            case self::OFFSET_TYPE_MONTH:
+                $currentMonth = date('n');
+                $baseMonth    = date('n', strtotime($baseDateTime));
+                return $currentMonth - $baseMonth;
+                break;
+
+            //周，须按照年为周期
+            //TODO 以周一为一周的开始，每年的最后一天和新年的第一天，获取值可能会相同。
+            //TODO 使用该类型需确认此处逻辑
+            case self::OFFSET_TYPE_WEEK:
+                $currentWeek = date('W');
+                $baseWeek    = date('W', strtotime($baseDateTime));
+                return $currentWeek - $baseWeek;
+                break;
+
+            //天， 须按照月为周期
+            case self::OFFSET_TYPE_DAY:
+                $currentDay = date('j');
+                $baseDay    = date('j', strtotime($baseDateTime));
+                return $currentDay - $baseDay;
+                break;
+            default:
+                throw new \Ko_Exception('不支持的 offset type');
+        }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiRiID0gMSA8PCAxIHwgJGI7</text>
+        <text encoding="base64">CiAgICAgICAgICAgIC0+b0FuZCgnYmFzZV9kYXRldGltZSA9ID8nLCAkYmFzZURhdGVUaW1lKTs=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgokZHQxID0gbmV3IFxEYXRlVGltZSgiMjAxOS0xMi0yOSAxMjowMDowMCIpOwpkZCgkZHQxLT5mb3JtYXQoJ1cnKSk7Ci8vJGR0MiA9IG5ldyBcRGF0ZVRpbWUoIjIwMjAtMDUtMTIgMTI6MDA6MDAiKTsKJGR0MiA9IG5ldyBcRGF0ZVRpbWUoIjIwMjAtMDItMjAgMTI6MDA6MDAiKTsKCgokaW50ZXJ2YWwgPSAkZHQxLT5kaWZmKCRkdDIpOwovL3Zhcl9kdW1wKCRpbnRlcnZhbC0+Zm9ybWF0KCIlYSBkYXlzIikpOwp2YXJfZHVtcCgkaW50ZXJ2YWwtPmZvcm1hdCgiJW0gbW9udGhzIikpOwovL3Zhcl9kdW1wKCRpbnRlcnZhbC0+Zm9ybWF0KCIlYSBkYXlzIikpOwpkaWU7Cgo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">TUFwcDo6JGFwcC0+bG9nLT5ydW50aW1lKCdkZWJ1Z19saXZlX2NhcmQnLCBbCiAgICAgICAgICAgICdtZGRfaWQnID0+ICR0aGlzLT53ZW5nSW5mb1snbWRkaWQnXSwKICAgICAgICAgICAgJ2NhcmQnICAgPT4gJGxpdmVEYXRhLAogICAgICAgIF0pOw==</text>
+        <text encoding="base64">CiAgICAgKiAKICAgICAqIEBwYXJhbSAkdWlkCiAgICAgKiBAcGFyYW0gJHR5cGUKICAgICAqIEBwYXJhbSBzdHJpbmcgJGJhc2VEYXRlVGltZQogICAgICogQHBhcmFtIGludCAkb2Zmc2V0VHlwZQogICAgICov</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ21kZF9pZCcgPT4gJGlNZGRJZCwK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBjb25zdCBPRkZTRVRfVFlQRV9NT05USCA9IDE7Ly/lgY/np7vph4/orqHnrpfljZXkvY3vvJrmnIgKICAgIGNvbnN0IE9GRlNFVF9UWVBFX1dFRUsgPSAyOyAvL+WBj+enu+mHj+iuoeeul+WNleS9je+8muWRqAogICAgY29uc3QgT0ZGU0VUX1RZUEVfREFZID0gMzsgIC8v5YGP56e76YeP6K6h566X5Y2V5L2N77ya5aSpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0VGFzaygkdGFza0lkKQogICAgewogICAgICAgIC8vIFRPRE86IEltcGxlbWVudCBnZXRUYXNrKCkgbWV0aG9kLgogICAgfQo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0VGFzaygkdGFza0lkKQogICAgewogICAgICAgIC8vIFRPRE86IEltcGxlbWVudCBnZXRUYXNrKCkgbWV0aG9kLgogICAgfQo=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIOWinuWKoOeUqOaIt+i+vuS6uuS7u+WKoeWujOaIkOaYjue7hgogICAgICogQHBhcmFtICR1aWQKICAgICAqIEBwYXJhbSAkdHlwZQogICAgICogQHBhcmFtIHN0cmluZyAkYmFzZURhdGVUaW1lCiAgICAgKiBAcGFyYW0gaW50ICRvZmZzZXRUeXBlCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBhZGRTaWduTG9nKCR1aWQsICR0eXBlLCAkYmFzZURhdGVUaW1lID0gJycsICRvZmZzZXRUeXBlID0gc2VsZjo6T0ZGU0VUX1RZUEVfTU9OVEgpCiAgICB7CgogICAgfQoKICAgIHByaXZhdGUgZnVuY3Rpb24gY2FsY3VsYXRlT2Zmc2V0KCRiYXNlRGF0ZVRpbWUsICRvZmZzZXRUeXBlKQogICAgewogICAgICAgIHN3aXRjaCAoJG9mZnNldFR5cGUpIHsKICAgICAgICAgICAgLy/mnIjvvIzpnIDmjInnhaflubTkuLrlkajmnJ8KICAgICAgICAgICAgY2FzZSBzZWxmOjpPRkZTRVRfVFlQRV9NT05USDoKICAgICAgICAgICAgICAgICRjdXJyZW50TW9udGggPSBkYXRlKCduJyk7CiAgICAgICAgICAgICAgICAkYmFzZU1vbnRoICAgID0gZGF0ZSgnbicsIHN0cnRvdGltZSgkYmFzZURhdGVUaW1lKSk7CiAgICAgICAgICAgICAgICByZXR1cm4gJGN1cnJlbnRNb250aCAtICRiYXNlTW9udGg7CiAgICAgICAgICAgICAgICBicmVhazsKCiAgICAgICAgICAgIC8v5ZGo77yM6aG75oyJ54Wn5bm05Li65ZGo5pyfCiAgICAgICAgICAgIGNhc2Ugc2VsZjo6T0ZGU0VUX1RZUEVfV0VFSzoKICAgICAgICAgICAgICAgICRjdXJyZW50V2VlayA9IGRhdGUoJ1cnKTsKICAgICAgICAgICAgICAgICRiYXNlV2VlayAgICA9IGRhdGUoJ1cnLCBzdHJ0b3RpbWUoJGJhc2VEYXRlVGltZSkpOwogICAgICAgICAgICAgICAgcmV0dXJuICRjdXJyZW50V2VlayAtICRiYXNlV2VlazsKICAgICAgICAgICAgICAgIGJyZWFrOwoKICAgICAgICAgICAgLy/lpKnvvIwg6aG75oyJ54Wn5pyI5Li65ZGo5pyfCiAgICAgICAgICAgIGNhc2Ugc2VsZjo6T0ZGU0VUX1RZUEVfREFZOgogICAgICAgICAgICAgICAgJGN1cnJlbnREYXkgPSBkYXRlKCdqJyk7CiAgICAgICAgICAgICAgICAkYmFzZURheSAgICA9IGRhdGUoJ2onLCBzdHJ0b3RpbWUoJGJhc2VEYXRlVGltZSkpOwogICAgICAgICAgICAgICAgcmV0dXJuICRjdXJyZW50RGF5IC0gJGJhc2VEYXk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgIHRocm93IG5ldyBcS29fRXhjZXB0aW9uKCfkuI3mlK/mjIHnmoQgb2Zmc2V0IHR5cGUnKTsKICAgICAgICB9CiAgICB9</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZ2lmUGF0aCAgID0gIi8iIC4gc3Vic3RyKCRnaWZGaWxlSWQsIDAsIC1zdHJsZW4oIi4iIC4gc3RhdGljOjpHSUZfRVhUKSk7ZGQK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gYUdldCgkdWlkLCAkaWRUeXBlID0gc2VsZjo6SURfVFlQRV9EQVJFTikKICAgIHsKICAgICAgICAkb3B0aW9uID0gbmV3IFxLb19Ub29sX1NRTCgpOwogICAgICAgICRvcHRpb24tPm9XaGVyZSgndWlkID0gPycsICR1aWQpLT5vQW5kKCd0eXBlID0gPycsICRpZFR5cGUpOwogICAgICAgICRhTGlzdCA9ICR0aGlzLT5kYXJlbkRhby0+YUdldExpc3QoJG9wdGlvbik7CiAgICAgICAgcmV0dXJuIHJlc2V0KCRhTGlzdCk7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGFHZXRVc2VyTm90RXhwaXJlKCRleHBpcmVUaW1lID0gJycsICRpZFR5cGUgPSBzZWxmOjpJRF9UWVBFX0RBUkVOKQogICAgewogICAgICAgICRleHBpcmVUaW1lID0gJGV4cGlyZVRpbWUgPzogZGF0ZSgnWS1tLWQgSDppOnMnKTsKICAgICAgICAkb3B0aW9uICAgICA9IG5ldyBcS29fVG9vbF9TUUwoKTsKICAgICAgICAkb3B0aW9uLT5vU2VsZWN0KCd1aWQnKS0+b1doZXJlKCdleHBpcmUgPj0gPycsICRleHBpcmVUaW1lKS0+b0FuZCgndHlwZSA9ID8nLCAkaWRUeXBlKTsKICAgICAgICAkcmVzID0gJHRoaXMtPmRhcmVuRGFvLT5hR2V0TGlzdCgkb3B0aW9uKTsKICAgICAgICByZXR1cm4gJHJlczsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gYUdldEV4cGlyZVVzZXIoJGV4cGlyZVRpbWUgPSAnJywgJGlkVHlwZSA9IHNlbGY6OklEX1RZUEVfREFSRU4pCiAgICB7CiAgICAgICAgJGV4cGlyZVRpbWUgPSAkZXhwaXJlVGltZSA/OiBkYXRlKCdZLW0tZCBIOmk6cycpOwogICAgICAgICRvcHRpb24gICAgID0gbmV3IFxLb19Ub29sX1NRTCgpOwogICAgICAgICRvcHRpb24tPm9TZWxlY3QoJ3VpZCcpLT5vV2hlcmUoJ2V4cGlyZSA8ID8nLCAkZXhwaXJlVGltZSktPm9BbmQoJ3R5cGUgPSA/JywgJGlkVHlwZSk7CiAgICAgICAgJHJlcyA9ICR0aGlzLT5kYXJlbkRhby0+YUdldExpc3QoJG9wdGlvbik7CiAgICAgICAgcmV0dXJuICRyZXM7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGJTeW5jKCR1aWQsICRleHBpcmUsICRpZFR5cGUgPSBzZWxmOjpJRF9UWVBFX0RBUkVOKQogICAgewogICAgICAgIGlmICghTVRvb2xfVGltZTo6YlZhbGlkYXRlKCRleHBpcmUpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBcS29fRXhjZXB0aW9uKCflj4LmlbDmoLzlvI/pnZ7ms5XvvJpleHBpcmUnKTsKICAgICAgICB9CiAgICAgICAgJGRhdGEgPSBbCiAgICAgICAgICAgICd1aWQnICAgICAgICAgICA9PiAkdWlkLAogICAgICAgICAgICAnZXhwaXJlJyAgICAgICAgPT4gJGV4cGlyZSwKICAgICAgICAgICAgJ3R5cGUnICAgICAgICAgID0+ICRpZFR5cGUsCiAgICAgICAgICAgICdpc19jb250aW51b3VzJyA9PiAxLAogICAgICAgIF07CiAgICAgICAgaWYgKCRkYXJlbkluZm8gPSAkdGhpcy0+YUdldCgkdWlkLCAkaWRUeXBlKSkgewogICAgICAgICAgICAvL+i+vuS6uui6q+S7veaYr+WQpui/nue7rQogICAgICAgICAgICAkZGF0YVsnaXNfY29udGludW91cyddID0gKHN0cnRvdGltZSgkZGFyZW5JbmZvWydleHBpcmUnXSkgPiB0aW1lKCkpID8gMSA6IDA7CgogICAgICAgICAgICByZXR1cm4gKGJvb2wpJHRoaXMtPmRhcmVuRGFvLT5pVXBkYXRlKCRkYXJlbkluZm9bJ2lkJ10sICRkYXRhKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAkYVJlc3VsdCA9ICR0aGlzLT5kYXJlbkRhby0+YUluc2VydCgkZGF0YSk7CiAgICAgICAgICAgIHJldHVybiAoYm9vbCkkYVJlc3VsdFsnYWZmZWN0ZWRyb3dzJ107CiAgICAgICAgfQogICAgfQoKICAgIC8v6I635Y+W6Lqr5Lu954q25oCBCiAgICBwdWJsaWMgZnVuY3Rpb24gaUdldElkZW50aWZ5VHlwZSgkdWlkLCAkaWRUeXBlID0gc2VsZjo6SURfVFlQRV9EQVJFTikKICAgIHsKICAgICAgICBpZiAoISRpbmZvID0gJHRoaXMtPmFHZXQoJHVpZCwgJGlkVHlwZSkpIHsKICAgICAgICAgICAgcmV0dXJuIHNlbGY6OlRZUEVfTk9UX09CVEFJTjsKICAgICAgICB9CiAgICAgICAgJGV4cGlyZSA9IE1Ub29sX0FycmF5OjptR2V0VmFsdWUoJGluZm8sIFsnZXhwaXJlJ10sICcnKTsKICAgICAgICByZXR1cm4gc3RydG90aW1lKCRleHBpcmUpIDwgdGltZSgpID8gc2VsZjo6VFlQRV9FWFBJUkVEIDogc2VsZjo6VFlQRV9BQ1RJVkU7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGlHZXRVc2VyUmFua2luZygkdWlkLCAkaWRUeXBlID0gc2VsZjo6SURfVFlQRV9EQVJFTikKICAgIHsKICAgICAgICBpZiAoISRpbmZvID0gJHRoaXMtPmFHZXQoJHVpZCwgJGlkVHlwZSkpIHsKICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgfQogICAgICAgICRvcHRpb24gPSBuZXcgXEtvX1Rvb2xfU1FMKCk7CiAgICAgICAgJG9wdGlvbi0+b1NlbGVjdCgnY291bnQoaWQpIGFzIG51bScpLT5vV2hlcmUoJ2lkIDw9ID8nLCAkaW5mb1snaWQnXSktPm9BbmQoJ3R5cGUgPSA/JywgJGlkVHlwZSktPm9MaW1pdCgxKTsKICAgICAgICAkcmVzID0gJHRoaXMtPmRhcmVuRGFvLT5hR2V0TGlzdCgkb3B0aW9uKTsKICAgICAgICByZXR1cm4gTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkcmVzLCBbMCwgJ251bSddLCAwKTsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
