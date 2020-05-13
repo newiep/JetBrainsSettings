@@ -5,17 +5,37 @@
       <mark key="M" line="61" column="20" filename="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/get_import_assets_tabs.v1.php" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1589335422441">
-        <mark key="[" line="180" column="33" />
+      <file name="$USER_HOME$/Works/webdev/wengs/daren/impl/Weng.php" timestamp="1589337616966">
+        <mark key="[" line="23" column="56" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/daren/Service.php" timestamp="1589337330891" />
+      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Home.php" timestamp="1589338612232">
+        <mark key="[" line="269" column="0" />
+        <mark key="]" line="269" column="0" />
+        <mark key="." line="269" column="0" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1589336947850">
+        <mark key="[" line="182" column="39" />
         <mark key="]" line="176" column="0" />
         <mark key="." line="176" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/weng/SignLog.php" timestamp="1589335525416">
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Works/webdev/wengs/daren/event/Operate.php" timestamp="1589338019682" />
+      <file name="$USER_HOME$/Works/webdev/wengs/daren/impl/Video.php" timestamp="1589337979698">
+        <mark key="[" line="36" column="5" />
+        <mark key="]" line="36" column="5" />
+        <mark key="." line="36" column="5" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/weng/Daren.php" timestamp="1589267453383" />
+      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Video.php" timestamp="1589339407561">
+        <mark key="[" line="290" column="0" />
+        <mark key="]" line="310" column="31" />
+        <mark key="." line="310" column="31" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/weng/SignLog.php" timestamp="1589339417864">
+        <mark key="[" line="119" column="31" />
+        <mark key="]" line="119" column="31" />
+        <mark key="." line="119" column="31" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/weng/Daren.php" timestamp="1589337693637" />
       <file name="$USER_HOME$/Works/webdev/wengs/mock/Spider.php" timestamp="1589263368481">
         <mark key="[" line="695" column="24" />
         <mark key="]" line="804" column="9" />
@@ -23,12 +43,14 @@
         <mark key="^" line="804" column="9" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/get_import_assets_tabs.v1.php" timestamp="1589254174732" />
-      <file name="$USER_HOME$/Works/webdev/wengs/weng/Dao.php" timestamp="1589266541783">
-        <mark key="[" line="105" column="10" />
+      <file name="$USER_HOME$/Works/webdev/wengs/weng/Dao.php" timestamp="1589336613330">
+        <mark key="[" line="106" column="14" />
       </file>
-      <file name="/PHP Console" timestamp="1589335489840">
+      <file name="/PHP Console" timestamp="1589336956301">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/daren/Api.php" timestamp="1589338267503" />
+      <file name="$USER_HOME$/Works/webdev/wengs/event/WengDaren.php" timestamp="1589338141117" />
     </filemarks>
     <jumps>
       <jump line="125" column="35" filename="$USER_HOME$/Works/webdev/wengs/facade/inner/Rss.php" />
@@ -154,10 +176,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ci8vJHJlcyA9ICgoNDA5NSA+PiAxMi0xKSAmIDEpOwovL2RkKCRyZXMpOwoK</text>
+        <text>iGetIdentifyType</text>
       </register>
       <register name="-" type="4">
-        <text>, $baseDateTime = null, $endDateTime = null</text>
+        <text>iGetIdentifyType</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -166,34 +188,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3BybUlkJyAgPT4gJGl0ZW1bJ3BybV9pZCddLAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Ci8vJHJlcyA9ICgoNDA5NSA+PiAxMi0xKSAmIDEpOwovL2RkKCRyZXMpOwoK</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGJJc1ZpZGVvRGFyZW4oJGlVaWQpCiAgICB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">cmV0dXJuIFsKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ3NpZ25lZF9iaXRtYXAnID0+IDcsCiAgICAgICAgICAgICAgICAnYmFzZV9kYXRldGltZScgPT4gJzIwMjAtMDEtMDEnLAogICAgICAgICAgICAgICAgJ29mZnNldF90eXBlJyAgID0+IDEsCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIFsKLy8gICAgICAgICAgICAgICAgJ3NpZ25lZF9iaXRtYXAnID0+IDIwNDcsCiAgICAgICAgICAgICAgICAnc2lnbmVkX2JpdG1hcCcgPT4gNDA5NSwKICAgICAgICAgICAgICAgICdiYXNlX2RhdGV0aW1lJyA9PiAnMjAxOS0wMS0wMScsCiAgICAgICAgICAgICAgICAnb2Zmc2V0X3R5cGUnICAgPT4gMSwKICAgICAgICAgICAgXSwKICAgICAgICBdOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTUFwcDo6JGFwcC0+Y2FjaGUtPmdldEZ1bmNDYWNoZShbc2VsZjo6Y2xhc3MsICdiVXNlckhhc1RhZyddLCBbJHVpZCwgODMzNjk5XSwgMzAwKTsgLy84MzM2OTkgOiDop4bpopHovr7kuroK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBudWxsICRiYXNlRGF0ZVRpbWUKICAgICAqIEBwYXJhbSBudWxsICRlbmREYXRlVGltZQo=</text>
+      <register name="4" type="4">
+        <text>* 取消视频达人身份
+     * @param $uid
+     * @return bool
+     */</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CmRkKCg0MDk1ID4+IDExKSk7Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGdldFZpZGVvRGFyZW5UYWcoKQogICAgewogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICdpZCcgICA9PiA4MzM2OTksCiAgICAgICAgICAgICduYW1lJyA9PiAn6KeG6aKR6L6+5Lq65a6Y5pa56K6k6K+BJywKICAgICAgICBdOwogICAgfQ==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiRyZXMgPSAoKDIwNDcgPj4gMTApICYgMSk7CmRkKDEgPDwgMCk7</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZGQoODE5MSA+PiAxMik7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgLy/lvZPliY3nrJTorrDovr7kurrouqvku73mmK/orr7lrprnmoTov4fmnJ/ml7bpl7Q=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiRhID0gZGVjYmluKDgxOTEpOwpkZCgkYSk7</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
