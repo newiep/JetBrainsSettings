@@ -86,7 +86,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/weng/Status.php" timestamp="1589354755824" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/DetailV1.php" timestamp="1589438973877" />
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/pcre/pcre.php" timestamp="1589787258580" />
-      <file name="$USER_HOME$/Works/webdev/wengs/daren/impl/Video.php" timestamp="1589445958466">
+      <file name="$USER_HOME$/Works/webdev/wengs/daren/impl/Video.php" timestamp="1589793828190">
         <mark key="[" line="97" column="75" />
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
@@ -104,7 +104,7 @@
       <file name="$USER_HOME$/Works/webdev/message/model/Producer.php" timestamp="1589349969945" />
       <file name="$USER_HOME$/Works/webdev/outdated/www2011/conf/site/all.ini" timestamp="1589438357130" />
       <file name="$USER_HOME$/Works/webdev/wengs/base/User.php" timestamp="1589359153880" />
-      <file name="$USER_HOME$/Works/webdev/wengs/daren/event/VideoTalent.php" timestamp="1589766575752">
+      <file name="$USER_HOME$/Works/webdev/wengs/daren/event/VideoTalent.php" timestamp="1589793956193">
         <mark key="[" line="17" column="26" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/weng/SignLog.php" timestamp="1589769105645">
@@ -153,13 +153,19 @@
       <file name="$USER_HOME$/Works/webdev/wengs/weng/Dao.php" timestamp="1589445925019">
         <mark key="[" line="108" column="30" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/event/Conf.php" timestamp="1589354771391" />
+      <file name="$USER_HOME$/Works/webdev/wengs/event/Conf.php" timestamp="1589794253303">
+        <mark key="[" line="51" column="37" />
+        <mark key="]" line="51" column="37" />
+        <mark key="." line="51" column="37" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/movie-lib/tool/FuncCall.php" timestamp="1589355452092" />
       <file name="$USER_HOME$/Works/webdev/message/rabbitmq/Producer.php" timestamp="1589348831311" />
+      <file name="$USER_HOME$/Works/webdev/wengs/event/RecordScoreOperate.php" timestamp="1589794125962" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Log.php" timestamp="1589355490408" />
       <file name="$USER_HOME$/Works/webdev/ko/web/Route.php" timestamp="1589437191709" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/manager/Collection.php" timestamp="1589783820133" />
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/User.php" timestamp="1589439256879" />
+      <file name="$USER_HOME$/Works/webdev/wengs/event/RatingAddHoney.php" timestamp="1589794117827" />
       <file name="$USER_HOME$/Works/webdev/wengs/form/ModifyParameter.php" timestamp="1589349457337" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/spider.php" timestamp="1589788193761" />
       <file name="$USER_HOME$/Works/webdev/wengs/base/controller/WebRoute.php" timestamp="1589359094474" />
@@ -182,6 +188,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/message/facade/message/Api.php" timestamp="1589349944742" />
       <file name="$USER_HOME$/Works/webdev/show/facade/movie/api/FlowTop.php" timestamp="1589442130734" />
+      <file name="$USER_HOME$/Works/webdev/wengs/event/Dispatcher.php" timestamp="1589794198737" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/WengDaren.php" timestamp="1589423682740">
         <mark key="[" line="51" column="24" />
         <mark key="]" line="48" column="24" />
@@ -315,11 +322,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>publish</text>
       </register>
       <register name="-" type="4">
-        <text>请先登陆</text>
+        <text>publish</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
