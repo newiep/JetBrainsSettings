@@ -19,9 +19,9 @@
       <file name="$USER_HOME$/Works/webdev/wengs/ranking/spokesman/style/RankingList.php" timestamp="1589873273189" />
       <file name="$USER_HOME$/Works/webdev/qianxun/facade/aggregate/AggregatePageApi.php" timestamp="1589884646853" />
       <file name="$USER_HOME$/Works/webdev/wengs/open/Info.php" timestamp="1589874020901" />
-      <file name="$USER_HOME$/Works/webdev/movie-lib/controller/mobile/talent.php" timestamp="1590025153827">
+      <file name="$USER_HOME$/Works/webdev/movie-lib/controller/mobile/talent.php" timestamp="1590027576817">
         <mark key="'" line="31" column="4" />
-        <mark key="[" line="127" column="66" />
+        <mark key="[" line="159" column="0" />
         <mark key="]" line="159" column="0" />
         <mark key="." line="159" column="0" />
       </file>
@@ -37,6 +37,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/event/LaborDayHoney.php" timestamp="1589876988282" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/Queue.php" timestamp="1589883391042" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Qianxun.php" timestamp="1589883303576" />
+      <file name="$USER_HOME$/Works/webdev/wengs/log/Kafka.php" timestamp="1590028841251" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/tag.php" timestamp="1589883285988">
         <mark key="[" line="223" column="16" />
         <mark key="]" line="223" column="16" />
@@ -59,7 +60,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/topic.php" timestamp="1589883626716" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/AwardHoneyOperate.php" timestamp="1589877492745" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/Recommend.php" timestamp="1589873604025" />
-      <file name="$USER_HOME$/Works/webdev/wengs/daren/event/VideoTalent.php" timestamp="1589873164110">
+      <file name="$USER_HOME$/Works/webdev/wengs/daren/event/VideoTalent.php" timestamp="1590028094871">
         <mark key="[" line="69" column="9" />
         <mark key="]" line="65" column="59" />
         <mark key="." line="65" column="59" />
@@ -79,6 +80,7 @@
       <file name="$USER_HOME$/Works/webdev/movie-lib/controller/mobile/Response.php" timestamp="1589789058216">
         <mark key="[" line="13" column="5" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/event/VideoPubTask.php" timestamp="1590028654586" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Lib/Event/Dispatcher.php" timestamp="1589869248913" />
       <file name="$USER_HOME$/Works/webdev/wengs/timeline/frozen/event/OperateChance.php" timestamp="1589870253374" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/controller/mobile/Route.php" timestamp="1589438795785">
@@ -87,11 +89,12 @@
       <file name="$USER_HOME$/Works/webdev/wengs/weng/Dao.php" timestamp="1589852121996">
         <mark key="[" line="108" column="30" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/event/Conf.php" timestamp="1589877012664">
+      <file name="$USER_HOME$/Works/webdev/wengs/event/Conf.php" timestamp="1590028658351">
         <mark key="[" line="51" column="59" />
         <mark key="]" line="51" column="59" />
         <mark key="." line="51" column="59" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/event/LogMediaInfo.php" timestamp="1590028678791" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/controller/app/video/detail/get_recommend_list.v1.php" timestamp="1589873410746" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Aggregate.php" timestamp="1589883613832" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/RatingAddHoney.php" timestamp="1589877061525" />
@@ -231,8 +234,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CmRkKDQgPDwgMSk7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICdqdW1wX3VybCcgID0+IE1Ub29sX0FycmF5OjptR2V0VmFsdWUoJHNob3csIFsnanVtcF91cmwnXSwgJycpLAo=</text>
       </register>
       <register name="-" type="4">
         <text>height</text>
@@ -243,37 +246,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3BybUlkJyAgPT4gJGl0ZW1bJ3BybV9pZCddLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CmRkKDQgPDwgMSk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICAgICdqdW1wX3VybCcgID0+IE1Ub29sX0FycmF5OjptR2V0VmFsdWUoJHNob3csIFsnanVtcF91cmwnXSwgJycpLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">CmRkKDQgPDwgMSk7</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Ly8gICAgICAgICdqdW1wX3VybCcgID0+IE1Ub29sX0FycmF5OjptR2V0VmFsdWUoJHNob3csIFsnanVtcF91cmwnXSwgJycpLAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICRhU2hvd3MgPSBNUHJveHlfU2hvdzo6b0luc3RhbmNlKCktPmFHZXRJbmZvKFsxNzMyMThdKTsKICAgICRzaG93ICAgPSByZXNldCgkYVNob3dzKTs=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgJ3Nob3dfaWQnID0+</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Ck1BcHA6OiRhcHAtPmRpc3BhdGNoZXItPnRyaWdnZXIoTUV2ZW50X0NvbmY6OkVWRU5UX05BTUVfQkVBTiwgW1sKICAgICd1aWQnICAgID0+IDEyMywKICAgICd3ZW5naWQnID0+IDEyMywKXV0pOwpkaWU7</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgLyoqIEB2YXIgJG9XZW5nRGF0YUFwaSBNV2VuZ19EYXRhQXBpICovCiAgICAgICAgJG9XZW5nRGF0YUFwaSA9IE1BcHA6OmNyZWF0ZU9iamVjdChNV2VuZ19EYXRhQXBpOjpjbGFzcyk7CiAgICAgICAgaWYgKCEkb1dlbmdEYXRhQXBpLT5iSXNWaWRlbygkd2VuZ0lkKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQ==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>) {
             return;
         }</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgJHRoaXMtPndlbmdFbnRpdHkgPSAkb1dlbmdEYXRhQXBpLT5hR2V0KCR3ZW5nSWQpOw==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgdmFyX2R1bXAoJHBhcmFtKTs=</text>
+        <text encoding="base64">CiAgICAgICAgJHRoaXMtPndlbmdFbnRpdHkgPSAkb1dlbmdEYXRhQXBpLT5hR2V0KCR3ZW5nSWQpOw==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
