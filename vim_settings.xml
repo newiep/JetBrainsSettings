@@ -8,6 +8,7 @@
       <file name="$USER_HOME$/Works/webdev/movie-lib/proxy/Mobile.php" timestamp="1589442140621">
         <mark key="[" line="150" column="22" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/detail/WengDetail.php" timestamp="1590397954350" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/movie/Daren.php" timestamp="1590387596949">
         <mark key="[" line="26" column="46" />
         <mark key="]" line="29" column="37" />
@@ -25,7 +26,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/weng/EssenceApi.php" timestamp="1590051139348" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/proxy/Log.php" timestamp="1590377188376" />
       <file name="$USER_HOME$/Works/webdev/wengs/ranking/spokesman/style/RankingList.php" timestamp="1589873273189" />
-      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Home.php" timestamp="1590111194650">
+      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Home.php" timestamp="1590398718671">
         <mark key="[" line="271" column="0" />
         <mark key="]" line="271" column="0" />
         <mark key="." line="271" column="0" />
@@ -92,6 +93,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/movie-lib/proxy/User.php" timestamp="1590030699589" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/topic.php" timestamp="1589883626716" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/Weng.php" timestamp="1590398234844" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/AwardHoneyOperate.php" timestamp="1589877492745" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Video.php" timestamp="1590394529473">
         <mark key="[" line="352" column="0" />
@@ -115,7 +117,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/note/apps/note/mapi/reply/v2/List.php" timestamp="1590371182138" />
       <file name="$USER_HOME$/Works/webdev/manual-script/202002/note/sync_history_comment.php" timestamp="1590379499010" />
-      <file name="$USER_HOME$/Works/webdev/wengs/weng/Daren.php" timestamp="1590394026188">
+      <file name="$USER_HOME$/Works/webdev/wengs/weng/Daren.php" timestamp="1590398766670">
         <mark key="[" line="64" column="54" />
       </file>
       <file name="$USER_HOME$/Works/webdev/user/apps/facade/user/Api.php" timestamp="1590030606828" />
@@ -132,6 +134,7 @@
         <mark key="]" line="29" column="28" />
         <mark key="." line="29" column="28" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Mdd.php" timestamp="1590397987476" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/app/cron/DeleteByCtr.php" timestamp="1590386850014" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/VideoPubTask.php" timestamp="1590028654586" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/tool/event/listeners/AfterPassReply.php" timestamp="1590372537211" />
@@ -195,11 +198,11 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/event/Dispatcher.php" timestamp="1589869122510" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/SyncReplyManager.php" timestamp="1590374150929" />
-      <file name="$USER_HOME$/Works/webdev/wengs/app/VideoDaren.php" timestamp="1590395973387">
-        <mark key="[" line="128" column="79" />
-        <mark key="]" line="128" column="79" />
-        <mark key="^" line="142" column="4" />
-        <mark key="." line="128" column="79" />
+      <file name="$USER_HOME$/Works/webdev/wengs/app/VideoDaren.php" timestamp="1590399121369">
+        <mark key="[" line="151" column="23" />
+        <mark key="]" line="151" column="23" />
+        <mark key="^" line="90" column="0" />
+        <mark key="." line="151" column="23" />
       </file>
       <file name="$USER_HOME$/Works/webdev/movie-lib/app/cron/VideoDaren.php" timestamp="1590393636263" />
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/Assets.php" timestamp="1590394518441" />
@@ -335,10 +338,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$darenInfo['uid']</text>
+        <text>，达人任务进度监控提醒</text>
       </register>
       <register name="-" type="4">
-        <text>$darenInfo['uid']</text>
+        <text>，达人任务进度监控提醒</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
