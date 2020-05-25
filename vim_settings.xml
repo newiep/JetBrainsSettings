@@ -5,8 +5,14 @@
       <mark key="M" line="61" column="20" filename="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/get_import_assets_tabs.v1.php" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Works/webdev/movie-lib/movie/Daren.php" timestamp="1590387596949">
+        <mark key="[" line="26" column="46" />
+        <mark key="]" line="29" column="37" />
+        <mark key="." line="29" column="37" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/event/AfterAudit.php" timestamp="1589869993130" />
       <file name="$USER_HOME$/Works/webdev/wengs/weng/IndexApi.php" timestamp="1590051144227" />
+      <file name="$USER_HOME$/Works/webdev/wengs/app/daren/CancelIsSpamDarenStrategy.php" timestamp="1590386696778" />
       <file name="$USER_HOME$/Works/webdev/wengs/daren/Service.php" timestamp="1590119565635">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="23" />
@@ -16,19 +22,42 @@
       <file name="$USER_HOME$/Works/webdev/wengs/weng/EssenceApi.php" timestamp="1590051139348" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/proxy/Log.php" timestamp="1590377188376" />
       <file name="$USER_HOME$/Works/webdev/wengs/ranking/spokesman/style/RankingList.php" timestamp="1589873273189" />
+      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Home.php" timestamp="1590111194650">
+        <mark key="[" line="271" column="0" />
+        <mark key="]" line="271" column="0" />
+        <mark key="." line="271" column="0" />
+        <mark key="^" line="269" column="66" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/ReplyManager.php" timestamp="1590374241940" />
       <file name="$USER_HOME$/Works/webdev/qianxun/facade/aggregate/AggregatePageApi.php" timestamp="1589884646853" />
+      <file name="$USER_HOME$/Works/webdev/wengs/app/WengDaren.php" timestamp="1590386737865" />
       <file name="$USER_HOME$/Works/webdev/wengs/open/Info.php" timestamp="1589874020901" />
       <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/enum/comment/Status.php" timestamp="1590375393201" />
       <file name="$USER_HOME$/Works/webdev/manual-script/202001/note/sync_history_comment.php" timestamp="1590379398495" />
+      <file name="$USER_HOME$/Works/webdev/movie-lib/controller/mobile/talent.php" timestamp="1590386549695">
+        <mark key="'" line="31" column="4" />
+        <mark key="[" line="116" column="72" />
+        <mark key="]" line="23" column="67" />
+        <mark key="." line="23" column="67" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/format/User.php" timestamp="1590030749940" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/ShowDetail.php" timestamp="1589875012901" />
+      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1590388349852">
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="179" column="46" />
+        <mark key="." line="179" column="46" />
+        <mark key="^" line="179" column="5" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/movie-lib/manager/Daren.php" timestamp="1590387576314">
+        <mark key="[" line="19" column="50" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/daren/event/Operate.php" timestamp="1589870103651" />
       <file name="$USER_HOME$/Works/webdev/wengs/admin/Operate.php" timestamp="1590120058504" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/controller/app/video/detail/get_movie_detail.v1.php" timestamp="1589874834448" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/LaborDayHoney.php" timestamp="1589876988282" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/Queue.php" timestamp="1589883391042" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Dao/CommentRepo.php" timestamp="1590373935747" />
+      <file name="$USER_HOME$/Works/webdev/ko/dao/Factory.php" timestamp="1590386607533" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/ugc/reply/Status.php" timestamp="1590371563356" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Audit/Handler.php" timestamp="1590373879677" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Qianxun.php" timestamp="1589883303576" />
@@ -45,7 +74,7 @@
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/DetailV1.php" timestamp="1589874726260" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/FeedRecommend.php" timestamp="1589884869910" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/tool/event/listeners/LogForDeleteReply.php" timestamp="1590377079820" />
-      <file name="$USER_HOME$/Works/webdev/wengs/app/Ranking.php" timestamp="1590379140387" />
+      <file name="$USER_HOME$/Works/webdev/wengs/app/Ranking.php" timestamp="1590387478569" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/weng/UgcAuditApi.php" timestamp="1589875485671" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Lib/Event/Listener.php" timestamp="1589869233395" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/controller/app/video/detail/get_video_info.v1.php" timestamp="1589874712588" />
@@ -58,25 +87,56 @@
       <file name="$USER_HOME$/Works/webdev/movie-lib/proxy/User.php" timestamp="1590030699589" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/topic.php" timestamp="1589883626716" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/AwardHoneyOperate.php" timestamp="1589877492745" />
+      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Video.php" timestamp="1590388139981">
+        <mark key="[" line="353" column="35" />
+        <mark key="]" line="302" column="8" />
+        <mark key="." line="302" column="8" />
+        <mark key="^" line="339" column="74" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/Recommend.php" timestamp="1589873604025" />
+      <file name="$USER_HOME$/Works/webdev/wengs/daren/event/VideoTalent.php" timestamp="1590119754016">
+        <mark key="[" line="56" column="34" />
+        <mark key="]" line="56" column="34" />
+        <mark key="." line="56" column="34" />
+        <mark key="^" line="63" column="44" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/note/apps/note/ugc/reply/IndexApi.php" timestamp="1590373599885" />
+      <file name="$USER_HOME$/Works/webdev/wengs/weng/SignLog.php" timestamp="1590386452788">
+        <mark key="[" line="77" column="43" />
+        <mark key="]" line="52" column="30" />
+        <mark key="." line="52" column="30" />
+        <mark key="^" line="52" column="30" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/note/apps/note/mapi/reply/v2/List.php" timestamp="1590371182138" />
       <file name="$USER_HOME$/Works/webdev/manual-script/202002/note/sync_history_comment.php" timestamp="1590379499010" />
+      <file name="$USER_HOME$/Works/webdev/wengs/weng/Daren.php" timestamp="1590386731966">
+        <mark key="[" line="64" column="54" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/user/apps/facade/user/Api.php" timestamp="1590030606828" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/format/Video.php" timestamp="1589874786063" />
       <file name="$USER_HOME$/Works/webdev/wengs/form/Publish.php" timestamp="1590050031010" />
-      <file name="$USER_HOME$/Works/webdev/manual-script/202005/note/sync_comment_status.php" timestamp="1590381615953">
+      <file name="$USER_HOME$/Works/webdev/movie-lib/proxy/Weng.php" timestamp="1590051958259">
+        <mark key="[" line="425" column="105" />
+        <mark key="]" line="405" column="11" />
+        <mark key="^" line="417" column="60" />
+        <mark key="." line="405" column="11" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/manual-script/202005/note/sync_comment_status.php" timestamp="1590385683478">
         <mark key="[" line="29" column="28" />
         <mark key="]" line="29" column="28" />
         <mark key="." line="29" column="28" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/movie-lib/app/cron/DeleteByCtr.php" timestamp="1590377267582" />
+      <file name="$USER_HOME$/Works/webdev/movie-lib/app/cron/DeleteByCtr.php" timestamp="1590386850014" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/VideoPubTask.php" timestamp="1590028654586" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/tool/event/listeners/AfterPassReply.php" timestamp="1590372537211" />
+      <file name="$USER_HOME$/Works/webdev/ko/busi/Func.php" timestamp="1590386459486" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Lib/Event/Dispatcher.php" timestamp="1589869248913" />
       <file name="$USER_HOME$/Works/webdev/wengs/timeline/frozen/event/OperateChance.php" timestamp="1589870253374" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/daren.php" timestamp="1590030632555" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/StatusManager.php" timestamp="1590374248641" />
+      <file name="$USER_HOME$/Works/webdev/wengs/weng/Dao.php" timestamp="1590386507601">
+        <mark key="[" line="108" column="30" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/event/Conf.php" timestamp="1590118565315">
         <mark key="[" line="51" column="59" />
         <mark key="]" line="51" column="59" />
@@ -102,22 +162,40 @@
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/User.php" timestamp="1590030517550" />
       <file name="$USER_HOME$/Works/webdev/user/www2011/include/user/Facade.php" timestamp="1590030807801" />
       <file name="$USER_HOME$/Works/webdev/wengs/ranking/spokesman/service/Ranking.php" timestamp="1590378122341" />
+      <file name="$USER_HOME$/Works/webdev/movie-lib/movie/Dao.php" timestamp="1590386908974">
+        <mark key="[" line="107" column="24" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Mobile.php" timestamp="1590113202222">
+        <mark key="[" line="390" column="105" />
+        <mark key="]" line="390" column="105" />
+        <mark key="." line="390" column="105" />
+        <mark key="^" line="390" column="53" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/show/facade/movie/Detail.php" timestamp="1589874869903" />
       <file name="$USER_HOME$/Works/webdev/wengs/Conf.php" timestamp="1590053556778" />
       <file name="$USER_HOME$/Works/webdev/wengs/open/Conf.php" timestamp="1590049506800" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/spokesman.php" timestamp="1589873250455" />
-      <file name="$USER_HOME$/Works/webdev/wengs/daren/Api.php" timestamp="1590115355255">
+      <file name="$USER_HOME$/Works/webdev/wengs/daren/Api.php" timestamp="1590387678088">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/event/Dispatcher.php" timestamp="1589869122510" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/SyncReplyManager.php" timestamp="1590374150929" />
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/Assets.php" timestamp="1590117949095" />
+      <file name="$USER_HOME$/Works/webdev/wengs/app/VideoDaren.php" timestamp="1590386808699">
+        <mark key="[" line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/movie-lib/app/cron/VideoDaren.php" timestamp="1590388340973">
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="27" column="37" />
+        <mark key="." line="27" column="37" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/Assets.php" timestamp="1590388070753" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/tool/event/listeners/NotifyAuditForDeleteReply.php" timestamp="1590379268366" />
       <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/service/SyncReplyService.php" timestamp="1590372361777" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/tool/event/events/AfterDeleteReply.php" timestamp="1590381478198" />
       <file name="$USER_HOME$/Works/webdev/file/www2011/include/file/url/Facade.php" timestamp="1590030618072" />
+      <file name="$USER_HOME$/Works/webdev/ko/tool/Object.php" timestamp="1590386477262" />
       <file name="$USER_HOME$/Works/webdev/show/mapi/format/Show.php" timestamp="1589873391591" />
     </filemarks>
     <jumps>
@@ -244,10 +322,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHVzbGVlcCgxMDAwICogMTAwKTs=</text>
+        <text>$startTime, $endTime</text>
       </register>
       <register name="-" type="4">
-        <text>$startId</text>
+        <text>$startTime, $endTime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
