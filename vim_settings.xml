@@ -40,17 +40,17 @@
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/format/User.php" timestamp="1590030749940" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/ShowDetail.php" timestamp="1589875012901" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/SortManager.php" timestamp="1590390160047" />
-      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1590389258115">
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
-        <mark key="^" line="179" column="5" />
+      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1590394929162">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="^" line="180" column="5" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/movie-lib/manager/Daren.php" timestamp="1590387576314">
         <mark key="[" line="19" column="50" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/daren/event/Operate.php" timestamp="1589870103651" />
-      <file name="$USER_HOME$/Works/webdev/wengs/admin/Operate.php" timestamp="1590120058504" />
+      <file name="$USER_HOME$/Works/webdev/wengs/admin/Operate.php" timestamp="1590395165669" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/controller/app/video/detail/get_movie_detail.v1.php" timestamp="1589874834448" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/LaborDayHoney.php" timestamp="1589876988282" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/Queue.php" timestamp="1589883391042" />
@@ -75,8 +75,8 @@
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/DetailV1.php" timestamp="1589874726260" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/FeedRecommend.php" timestamp="1589884869910" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/tool/event/listeners/LogForDeleteReply.php" timestamp="1590377079820" />
-      <file name="$USER_HOME$/Works/webdev/wengs/app/Ranking.php" timestamp="1590389532393" />
-      <file name="$USER_HOME$/Works/webdev/wengs/facade/weng/UgcAuditApi.php" timestamp="1590391462529" />
+      <file name="$USER_HOME$/Works/webdev/wengs/app/Ranking.php" timestamp="1590394815031" />
+      <file name="$USER_HOME$/Works/webdev/wengs/facade/weng/UgcAuditApi.php" timestamp="1590393224147" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Lib/Event/Listener.php" timestamp="1589869233395" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/controller/app/video/detail/get_video_info.v1.php" timestamp="1589874712588" />
       <file name="$USER_HOME$/Works/webdev/tongji/apps/onedata/facade/logApi.php" timestamp="1590376945465" />
@@ -85,13 +85,18 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/movie-lib/facade/busi/Weng.php" timestamp="1590393579382">
+        <mark key="[" line="247" column="60" />
+        <mark key="]" line="247" column="60" />
+        <mark key="." line="247" column="60" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/movie-lib/proxy/User.php" timestamp="1590030699589" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/topic.php" timestamp="1589883626716" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/AwardHoneyOperate.php" timestamp="1589877492745" />
-      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Video.php" timestamp="1590389353288">
-        <mark key="[" line="353" column="35" />
-        <mark key="]" line="302" column="8" />
-        <mark key="." line="302" column="8" />
+      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Video.php" timestamp="1590394529473">
+        <mark key="[" line="352" column="0" />
+        <mark key="]" line="352" column="0" />
+        <mark key="." line="352" column="0" />
         <mark key="^" line="339" column="74" />
       </file>
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/Recommend.php" timestamp="1589873604025" />
@@ -110,7 +115,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/note/apps/note/mapi/reply/v2/List.php" timestamp="1590371182138" />
       <file name="$USER_HOME$/Works/webdev/manual-script/202002/note/sync_history_comment.php" timestamp="1590379499010" />
-      <file name="$USER_HOME$/Works/webdev/wengs/weng/Daren.php" timestamp="1590386731966">
+      <file name="$USER_HOME$/Works/webdev/wengs/weng/Daren.php" timestamp="1590394026188">
         <mark key="[" line="64" column="54" />
       </file>
       <file name="$USER_HOME$/Works/webdev/user/apps/facade/user/Api.php" timestamp="1590030606828" />
@@ -161,7 +166,7 @@
       <file name="$USER_HOME$/Works/webdev/tongji/apps/onedata/log/facade/logApi.php" timestamp="1590377068412" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Aggregate.php" timestamp="1589883613832" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/RatingAddHoney.php" timestamp="1589877061525" />
-      <file name="/PHP Console" timestamp="1590389278225">
+      <file name="/PHP Console" timestamp="1590394897194">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/note/apps/note/tool/event/listeners/AfterPublishReply.php" timestamp="1590381543242" />
@@ -183,22 +188,21 @@
       <file name="$USER_HOME$/Works/webdev/wengs/Conf.php" timestamp="1590053556778" />
       <file name="$USER_HOME$/Works/webdev/wengs/open/Conf.php" timestamp="1590049506800" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/spokesman.php" timestamp="1589873250455" />
-      <file name="$USER_HOME$/Works/webdev/wengs/daren/Api.php" timestamp="1590387678088">
+      <file name="$USER_HOME$/Works/webdev/wengs/daren/Api.php" timestamp="1590394546044">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/event/Dispatcher.php" timestamp="1589869122510" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/SyncReplyManager.php" timestamp="1590374150929" />
-      <file name="$USER_HOME$/Works/webdev/wengs/app/VideoDaren.php" timestamp="1590386808699">
-        <mark key="[" line="6" column="3" />
+      <file name="$USER_HOME$/Works/webdev/wengs/app/VideoDaren.php" timestamp="1590395973387">
+        <mark key="[" line="128" column="79" />
+        <mark key="]" line="128" column="79" />
+        <mark key="^" line="142" column="4" />
+        <mark key="." line="128" column="79" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/movie-lib/app/cron/VideoDaren.php" timestamp="1590390110035">
-        <mark key="[" line="51" column="10" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/Assets.php" timestamp="1590388070753" />
+      <file name="$USER_HOME$/Works/webdev/movie-lib/app/cron/VideoDaren.php" timestamp="1590393636263" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/Assets.php" timestamp="1590394518441" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/tool/event/listeners/NotifyAuditForDeleteReply.php" timestamp="1590379268366" />
       <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/service/SyncReplyService.php" timestamp="1590372361777" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/tool/event/events/AfterDeleteReply.php" timestamp="1590381478198" />
@@ -331,10 +335,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgLyoqIEB2YXIgTVByb3h5X05vdGljZSAkb05vdGljZSAqLwogICAgICAgICRvTm90aWNlID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1Qcm94eV9Ob3RpY2U6OmNsYXNzKTs=</text>
+        <text>$darenInfo['uid']</text>
       </register>
       <register name="-" type="4">
-        <text>$charset</text>
+        <text>$darenInfo['uid']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -342,36 +346,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3BybUlkJyAgPT4gJGl0ZW1bJ3BybV9pZCddLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgLyoqIEB2YXIgTVByb3h5X05vdGljZSAkb05vdGljZSAqLwogICAgICAgICRvTm90aWNlID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1Qcm94eV9Ob3RpY2U6OmNsYXNzKTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgJGJSZXQgICAgPSAkb05vdGljZS0+c2VuZE1haWwoJHRpdGxlLCAkY29udGVudCwgJHJlY2VpdmVyLCAkYXR0YWNobWVudCk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHVzbGVlcCgxMDAwICogMTAwKTs=</text>
+        <text encoding="base64">JGlUb3RhbEdvb2ROdW0gICAgICA9IHNlbGY6OmlHZXRVc2VyRXNzZWNlVmlkZW9OdW0oCiAgICAgICAgICAgICAgICAkZGFyZW5JbmZvWyd1aWQnXSwgJHN0YXJ0RGF0ZSwgJGVuZERhdGUsIFtNQWRtaW5fT3BlcmF0ZTo6T1RZUEVfR09PRF0KICAgICAgICAgICAgKTsKICAgICAgICAgICAgJGlUb3RhbFJlY29tbWVuZE51bSA9IHNlbGY6OmlHZXRVc2VyRXNzZWNlVmlkZW9OdW0oCiAgICAgICAgICAgICAgICAkZGFyZW5JbmZvWyd1aWQnXSwgJHN0YXJ0RGF0ZSwgJGVuZERhdGUsIFtNQWRtaW5fT3BlcmF0ZTo6T1RZUEVfUkVDT01NRU5EXQogICAgICAgICAgICApOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICRpVG90YWxWaWRlb051bSA9ICRvQXNzZXRzQXBpLT5pR2V0VXNlclZpZGVvTnVtQnlUaW1lUmFuZ2UoCiAgICAgICAgICAgICAgICAkdXNlckFwcGx5WydtdGltZSddLCBkYXRlKCdZLW0tZCcsIHN0cnRvdGltZSgiKzEgZGF5cyIpKQogICAgICAgICAgICApOw==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICd0eXBlJyAgICAgPT4gJGlUeXBlLAogICAgICAgICAgICAnb2xkX3R5cGUnID0+ICRpT2xkVHlwZSw=</text>
+        <text encoding="base64">LyoqCiAgICAgICAgICAgICAqIEB2YXIgJG9Bc3NldHNBcGkgTU1hcGlfQXNzZXRzCiAgICAgICAgICAgICAqLwogICAgICAgICAgICAkb0Fzc2V0c0FwaSAgICAgICAgID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1NYXBpX0Fzc2V0czo6Y2xhc3MsIFsKICAgICAgICAgICAgICAgICdjb25mJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgJ3VpZCcgPT4gJGRhcmVuSW5mb1sndWlkJ10sCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICBdKTs=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBcYXBwc1x1cmxcTUZhY2FkZV9TaG93OjpGRUVEU19UWVBFX05FV19XRU5HX0RFVEFJTAogICAgICAgICAgICA=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICRpVG90YWxSZWNvbW1lbmROdW0gPSAkb0Fzc2V0c0FwaS0+aUdldFVzZXJFc3NlY2VWaWRlb051bUJ5VGltZVJhbmdlKAogICAgICAgICAgICAgICAgJHN0YXJ0RGF0ZSwgJGVuZERhdGUsIFtNQWRtaW5fT3BlcmF0ZTo6T1RZUEVfUkVDT01NRU5EXSwgTU9wZW5fQ29uZjo6U0hPV19NT0RFX0hPTUUKICAgICAgICAgICAgKTs=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBNQXBwOjokYXBwLT5jYWNoZS0+Z2V0RnVuY0NhY2hlKFtzZWxmOjpjbGFzcywgJ2JVc2VySGFzVGFnJ10sIFskdWlkLCA4MzM2OTldLCAzMDApOyAvLzgzMzY5OSA6IOinhumikei+vuS6ugo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICRpVG90YWxHb29kTnVtICAgICAgPSAkb0Fzc2V0c0FwaS0+aUdldFVzZXJFc3NlY2VWaWRlb051bUJ5VGltZVJhbmdlKAogICAgICAgICAgICAgICAgJHN0YXJ0RGF0ZSwgJGVuZERhdGUsIFtNQWRtaW5fT3BlcmF0ZTo6T1RZUEVfR09PRF0sIE1PcGVuX0NvbmY6OlNIT1dfTU9ERV9IT01FCiAgICAgICAgICAgICk7</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIC0+b0FuZCgnZmxhZyBpbiAoPyknLCBNV2VuZ19TdGF0dXM6OmFHZXRMaXN0VmlldygpKQ==</text>
       </register>
-      <register name="9" type="4">
-        <text>json_encode($data);
-        var_dump($data);die;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZGQoJHN0YXJ0RGF0ZSk7ZGllOwo=</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
