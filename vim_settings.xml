@@ -198,11 +198,10 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/event/Dispatcher.php" timestamp="1589869122510" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/SyncReplyManager.php" timestamp="1590374150929" />
-      <file name="$USER_HOME$/Works/webdev/wengs/app/VideoDaren.php" timestamp="1590399121369">
-        <mark key="[" line="151" column="23" />
-        <mark key="]" line="151" column="23" />
-        <mark key="^" line="90" column="0" />
-        <mark key="." line="151" column="23" />
+      <file name="$USER_HOME$/Works/webdev/wengs/app/VideoDaren.php" timestamp="1590400024330">
+        <mark key="[" line="169" column="71" />
+        <mark key="]" line="169" column="0" />
+        <mark key="." line="169" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/movie-lib/app/cron/VideoDaren.php" timestamp="1590393636263" />
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/Assets.php" timestamp="1590394518441" />
@@ -337,8 +336,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>，达人任务进度监控提醒</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkY3N2Q29udGVudCA9ICfnlKjmiLdJRCznlKjmiLfnirbmgIEs5b6u5L+h5Y+3LOaJi+acuuWPtyzlrozmiJDnirbmgIEs5oC76KeG6aKR5pWwLOaAu+S8mOi0qOaVsOmHjyzmgLvnsr7ljY7mlbDph48nIC4gUEhQX0VPTDsK</text>
       </register>
       <register name="-" type="4">
         <text>，达人任务进度监控提醒</text>
@@ -350,34 +349,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3BybUlkJyAgPT4gJGl0ZW1bJ3BybV9pZCddLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY3N2Q29udGVudCA9ICfnlKjmiLdJRCznlKjmiLfnirbmgIEs5b6u5L+h5Y+3LOaJi+acuuWPtyzlrozmiJDnirbmgIEs5oC76KeG6aKR5pWwLOaAu+S8mOi0qOaVsOmHjyzmgLvnsr7ljY7mlbDph48nIC4gUEhQX0VPTDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">JGlUb3RhbEdvb2ROdW0gICAgICA9IHNlbGY6OmlHZXRVc2VyRXNzZWNlVmlkZW9OdW0oCiAgICAgICAgICAgICAgICAkZGFyZW5JbmZvWyd1aWQnXSwgJHN0YXJ0RGF0ZSwgJGVuZERhdGUsIFtNQWRtaW5fT3BlcmF0ZTo6T1RZUEVfR09PRF0KICAgICAgICAgICAgKTsKICAgICAgICAgICAgJGlUb3RhbFJlY29tbWVuZE51bSA9IHNlbGY6OmlHZXRVc2VyRXNzZWNlVmlkZW9OdW0oCiAgICAgICAgICAgICAgICAkZGFyZW5JbmZvWyd1aWQnXSwgJHN0YXJ0RGF0ZSwgJGVuZERhdGUsIFtNQWRtaW5fT3BlcmF0ZTo6T1RZUEVfUkVDT01NRU5EXQogICAgICAgICAgICApOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICRpVG90YWxWaWRlb051bSA9ICRvQXNzZXRzQXBpLT5pR2V0VXNlclZpZGVvTnVtQnlUaW1lUmFuZ2UoCiAgICAgICAgICAgICAgICAkdXNlckFwcGx5WydtdGltZSddLCBkYXRlKCdZLW0tZCcsIHN0cnRvdGltZSgiKzEgZGF5cyIpKQogICAgICAgICAgICApOw==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">LyoqCiAgICAgICAgICAgICAqIEB2YXIgJG9Bc3NldHNBcGkgTU1hcGlfQXNzZXRzCiAgICAgICAgICAgICAqLwogICAgICAgICAgICAkb0Fzc2V0c0FwaSAgICAgICAgID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1NYXBpX0Fzc2V0czo6Y2xhc3MsIFsKICAgICAgICAgICAgICAgICdjb25mJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgJ3VpZCcgPT4gJGRhcmVuSW5mb1sndWlkJ10sCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICBdKTs=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICRpVG90YWxSZWNvbW1lbmROdW0gPSAkb0Fzc2V0c0FwaS0+aUdldFVzZXJFc3NlY2VWaWRlb051bUJ5VGltZVJhbmdlKAogICAgICAgICAgICAgICAgJHN0YXJ0RGF0ZSwgJGVuZERhdGUsIFtNQWRtaW5fT3BlcmF0ZTo6T1RZUEVfUkVDT01NRU5EXSwgTU9wZW5fQ29uZjo6U0hPV19NT0RFX0hPTUUKICAgICAgICAgICAgKTs=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICRpVG90YWxHb29kTnVtICAgICAgPSAkb0Fzc2V0c0FwaS0+aUdldFVzZXJFc3NlY2VWaWRlb051bUJ5VGltZVJhbmdlKAogICAgICAgICAgICAgICAgJHN0YXJ0RGF0ZSwgJGVuZERhdGUsIFtNQWRtaW5fT3BlcmF0ZTo6T1RZUEVfR09PRF0sIE1PcGVuX0NvbmY6OlNIT1dfTU9ERV9IT01FCiAgICAgICAgICAgICk7</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIC0+b0FuZCgnZmxhZyBpbiAoPyknLCBNV2VuZ19TdGF0dXM6OmFHZXRMaXN0VmlldygpKQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZGQoJHN0YXJ0RGF0ZSk7ZGllOwo=</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
