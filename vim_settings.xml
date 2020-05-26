@@ -6,6 +6,9 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/Audit.php" timestamp="1590403280168" />
+      <file name="/a.dummy" timestamp="1590459816022">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/movie-lib/proxy/Mobile.php" timestamp="1589442140621">
         <mark key="[" line="150" column="22" />
       </file>
@@ -25,6 +28,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Meta.php" timestamp="1590405042320" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/tool/LongLog.php" timestamp="1590457981684" />
+      <file name="$USER_HOME$/Works/webdev/note/apps/note/facade/inner/CommentService.php" timestamp="1590459878878" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/Movie.php" timestamp="1589874704883" />
       <file name="$USER_HOME$/Works/webdev/wengs/weng/EssenceApi.php" timestamp="1590051139348" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/proxy/Log.php" timestamp="1590377188376" />
@@ -35,7 +39,7 @@
         <mark key="." line="271" column="0" />
         <mark key="^" line="269" column="66" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/ReplyManager.php" timestamp="1590405121333" />
+      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/ReplyManager.php" timestamp="1590460466149" />
       <file name="$USER_HOME$/Works/webdev/qianxun/facade/aggregate/AggregatePageApi.php" timestamp="1589884646853" />
       <file name="$USER_HOME$/Works/webdev/wengs/app/WengDaren.php" timestamp="1590386737865" />
       <file name="$USER_HOME$/Works/webdev/wengs/open/Info.php" timestamp="1589874020901" />
@@ -54,17 +58,21 @@
       <file name="$USER_HOME$/Works/webdev/movie-lib/manager/Daren.php" timestamp="1590387576314">
         <mark key="[" line="19" column="50" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/content-comment/server/Query/ReplyStatement.php" timestamp="1590460413727" />
       <file name="$USER_HOME$/Works/webdev/wengs/daren/event/Operate.php" timestamp="1589870103651" />
       <file name="$USER_HOME$/Works/webdev/wengs/admin/Operate.php" timestamp="1590395165669" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/controller/app/video/detail/get_movie_detail.v1.php" timestamp="1589874834448" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/LaborDayHoney.php" timestamp="1589876988282" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/Queue.php" timestamp="1589883391042" />
-      <file name="$USER_HOME$/Works/webdev/content-comment/server/Dao/CommentRepo.php" timestamp="1590373935747" />
+      <file name="$USER_HOME$/Works/webdev/content-comment/server/Dao/CommentRepo.php" timestamp="1590460608290">
+        <mark key="[" line="100" column="30" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/ko/dao/Factory.php" timestamp="1590386607533" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/ugc/reply/Status.php" timestamp="1590371563356" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Audit/Handler.php" timestamp="1590373879677" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Qianxun.php" timestamp="1589883303576" />
       <file name="$USER_HOME$/Works/webdev/wengs/log/Kafka.php" timestamp="1590048509014" />
+      <file name="$USER_HOME$/Works/webdev/content-comment/server/Factory/BizReplyEntityFactory.php" timestamp="1590459581522" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/tag.php" timestamp="1589883285988">
         <mark key="[" line="223" column="16" />
         <mark key="]" line="223" column="16" />
@@ -134,7 +142,7 @@
         <mark key="." line="405" column="11" />
       </file>
       <file name="$USER_HOME$/Works/webdev/movie-lib/proxy/Log.php" timestamp="1590457988980" />
-      <file name="$USER_HOME$/Works/webdev/manual-script/202005/note/sync_comment_status.php" timestamp="1590405099223">
+      <file name="$USER_HOME$/Works/webdev/manual-script/202005/note/sync_comment_status.php" timestamp="1590460045827">
         <mark key="[" line="29" column="28" />
         <mark key="]" line="29" column="28" />
         <mark key="." line="29" column="28" />
@@ -142,7 +150,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Mdd.php" timestamp="1590397987476" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/app/cron/DeleteByCtr.php" timestamp="1590457958455" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/VideoPubTask.php" timestamp="1590028654586" />
-      <file name="$USER_HOME$/Works/webdev/content-comment/server/Query/StatusStatement.php" timestamp="1590402791888" />
+      <file name="$USER_HOME$/Works/webdev/content-comment/server/Query/StatusStatement.php" timestamp="1590460374837" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/tool/event/listeners/AfterPassReply.php" timestamp="1590372537211" />
       <file name="$USER_HOME$/Works/webdev/ko/busi/Func.php" timestamp="1590386459486" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Lib/Event/Dispatcher.php" timestamp="1589869248913" />
@@ -151,7 +159,7 @@
       <file name="$USER_HOME$/Works/webdev/movie-lib/controller/mobile/Route.php" timestamp="1589438795785">
         <mark key="[" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/StatusManager.php" timestamp="1590402746753" />
+      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/StatusManager.php" timestamp="1590460475722" />
       <file name="$USER_HOME$/Works/webdev/wengs/weng/Dao.php" timestamp="1590386507601">
         <mark key="[" line="108" column="30" />
       </file>
@@ -163,6 +171,9 @@
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Query/ListCondition.php" timestamp="1590390141586" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/ugc/reply/Dao.php" timestamp="1590379689989" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/LogMediaInfo.php" timestamp="1590042297424" />
+      <file name="$USER_HOME$/Works/webdev/wengs/test1.php" timestamp="1590459414368">
+        <mark key="[" line="36" column="25" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/show/facade/inner/VideoMaterial.php" timestamp="1590377289483" />
       <file name="$USER_HOME$/Works/webdev/note/mobile/htdocs/note/rest/note/reply/get_reply_list.v2.php" timestamp="1590371174340" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/ugc/reply/Api.php" timestamp="1590381500312">
@@ -175,7 +186,7 @@
       <file name="$USER_HOME$/Works/webdev/tongji/apps/onedata/log/facade/logApi.php" timestamp="1590377068412" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Aggregate.php" timestamp="1589883613832" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/RatingAddHoney.php" timestamp="1589877061525" />
-      <file name="/PHP Console" timestamp="1590405397371">
+      <file name="/PHP Console" timestamp="1590459487548">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/note/apps/note/tool/event/listeners/AfterPublishReply.php" timestamp="1590381543242" />
@@ -203,7 +214,7 @@
         <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/event/Dispatcher.php" timestamp="1589869122510" />
-      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/SyncReplyManager.php" timestamp="1590405126415" />
+      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/SyncReplyManager.php" timestamp="1590460456695" />
       <file name="$USER_HOME$/Works/webdev/wengs/app/VideoDaren.php" timestamp="1590400024330">
         <mark key="[" line="169" column="71" />
         <mark key="]" line="169" column="0" />
@@ -212,8 +223,10 @@
       <file name="$USER_HOME$/Works/webdev/movie-lib/app/cron/VideoDaren.php" timestamp="1590393636263" />
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/Assets.php" timestamp="1590394518441" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/tool/event/listeners/NotifyAuditForDeleteReply.php" timestamp="1590379268366" />
-      <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/service/SyncReplyService.php" timestamp="1590405408702">
-        <mark key="[" line="78" column="5" />
+      <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/service/SyncReplyService.php" timestamp="1590460625844">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/note/apps/note/tool/event/events/AfterDeleteReply.php" timestamp="1590381478198" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Notice.php" timestamp="1590389505083" />
@@ -344,8 +357,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CmZ1bmN0aW9uIGEoKQp7CiAgYigpOwp9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlcnJvcl9yZXBvcnRpbmcoMCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>，达人任务进度监控提醒</text>
@@ -356,35 +369,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3BybUlkJyAgPT4gJGl0ZW1bJ3BybV9pZCddLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CmZ1bmN0aW9uIGEoKQp7CiAgYigpOwp9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBlcnJvcl9yZXBvcnRpbmcoMCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CmZ1bmN0aW9uIGEoKQp7CiAgYigpOwp9</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CmZvcigkaT0wOyRpPCAyMDAwOyRpKyspIHsKICAgIGluY2x1ZGUgIldhcm5pbmcucGhwIjsKfQoKZGllOw==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkY3N2Q29udGVudCA9ICfnlKjmiLdJRCznlKjmiLfnirbmgIEs5b6u5L+h5Y+3LOaJi+acuuWPtyzlrozmiJDnirbmgIEs5oC76KeG6aKR5pWwLOaAu+S8mOi0qOaVsOmHjyzmgLvnsr7ljY7mlbDph48nIC4gUEhQX0VPTDsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">JGlUb3RhbEdvb2ROdW0gICAgICA9IHNlbGY6OmlHZXRVc2VyRXNzZWNlVmlkZW9OdW0oCiAgICAgICAgICAgICAgICAkZGFyZW5JbmZvWyd1aWQnXSwgJHN0YXJ0RGF0ZSwgJGVuZERhdGUsIFtNQWRtaW5fT3BlcmF0ZTo6T1RZUEVfR09PRF0KICAgICAgICAgICAgKTsKICAgICAgICAgICAgJGlUb3RhbFJlY29tbWVuZE51bSA9IHNlbGY6OmlHZXRVc2VyRXNzZWNlVmlkZW9OdW0oCiAgICAgICAgICAgICAgICAkZGFyZW5JbmZvWyd1aWQnXSwgJHN0YXJ0RGF0ZSwgJGVuZERhdGUsIFtNQWRtaW5fT3BlcmF0ZTo6T1RZUEVfUkVDT01NRU5EXQogICAgICAgICAgICApOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICRpVG90YWxWaWRlb051bSA9ICRvQXNzZXRzQXBpLT5pR2V0VXNlclZpZGVvTnVtQnlUaW1lUmFuZ2UoCiAgICAgICAgICAgICAgICAkdXNlckFwcGx5WydtdGltZSddLCBkYXRlKCdZLW0tZCcsIHN0cnRvdGltZSgiKzEgZGF5cyIpKQogICAgICAgICAgICApOw==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LyoqCiAgICAgICAgICAgICAqIEB2YXIgJG9Bc3NldHNBcGkgTU1hcGlfQXNzZXRzCiAgICAgICAgICAgICAqLwogICAgICAgICAgICAkb0Fzc2V0c0FwaSAgICAgICAgID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1NYXBpX0Fzc2V0czo6Y2xhc3MsIFsKICAgICAgICAgICAgICAgICdjb25mJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgJ3VpZCcgPT4gJGRhcmVuSW5mb1sndWlkJ10sCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICBdKTs=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICRpVG90YWxSZWNvbW1lbmROdW0gPSAkb0Fzc2V0c0FwaS0+aUdldFVzZXJFc3NlY2VWaWRlb051bUJ5VGltZVJhbmdlKAogICAgICAgICAgICAgICAgJHN0YXJ0RGF0ZSwgJGVuZERhdGUsIFtNQWRtaW5fT3BlcmF0ZTo6T1RZUEVfUkVDT01NRU5EXSwgTU9wZW5fQ29uZjo6U0hPV19NT0RFX0hPTUUKICAgICAgICAgICAgKTs=</text>
+        <text encoding="base64">LyoqCiAgICAgICAgICAgICAqIEB2YXIgJG9Bc3NldHNBcGkgTU1hcGlfQXNzZXRzCiAgICAgICAgICAgICAqLwogICAgICAgICAgICAkb0Fzc2V0c0FwaSAgICAgICAgID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1NYXBpX0Fzc2V0czo6Y2xhc3MsIFsKICAgICAgICAgICAgICAgICdjb25mJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgJ3VpZCcgPT4gJGRhcmVuSW5mb1sndWlkJ10sCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICBdKTs=</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
