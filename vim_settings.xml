@@ -43,10 +43,10 @@
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/Reply.php" timestamp="1590485338797" />
       <file name="$USER_HOME$/Works/webdev/wengs/app/WengDaren.php" timestamp="1590386737865" />
       <file name="$USER_HOME$/Works/webdev/wengs/open/Info.php" timestamp="1589874020901" />
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/WengTag.php" timestamp="1590658584356">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/WengTag.php" timestamp="1590660842990">
+        <mark key="[" line="62" column="26" />
+        <mark key="]" line="62" column="26" />
+        <mark key="." line="62" column="26" />
       </file>
       <file name="$USER_HOME$/Works/webdev/movie-lib/proxy/Mql.php" timestamp="1590463928440" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/tool/Log.php" timestamp="1590567730353" />
@@ -84,7 +84,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/facade/weng/UgcAuditApi.php" timestamp="1590485187958" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/controller/app/video/detail/get_video_info.v1.php" timestamp="1589874712588" />
       <file name="$USER_HOME$/Works/webdev/tongji/apps/onedata/facade/logApi.php" timestamp="1590376945465" />
-      <file name="$USER_HOME$/Works/webdev/wengs/event/AfterWengTag.php" timestamp="1590658745254">
+      <file name="$USER_HOME$/Works/webdev/wengs/event/AfterWengTag.php" timestamp="1590660439067">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -322,8 +322,8 @@
       <file name="$USER_HOME$/Works/webdev/movie-lib/controller/mobile/Route.php" timestamp="1589438795785">
         <mark key="[" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/event/Conf.php" timestamp="1590656899589">
-        <mark key="[" line="30" column="26" />
+      <file name="$USER_HOME$/Works/webdev/wengs/event/Conf.php" timestamp="1590660444810">
+        <mark key="[" line="95" column="0" />
         <mark key="]" line="53" column="59" />
         <mark key="." line="53" column="59" />
       </file>
@@ -502,11 +502,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>MEvent_NoviceTask::ACTION_PUB</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPnR5cGU=</text>
+        <text>MEvent_NoviceTask::ACTION_PUB</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
