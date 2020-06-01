@@ -109,7 +109,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/facade/weng/UgcAuditApi.php" timestamp="1590485187958" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/controller/app/video/detail/get_video_info.v1.php" timestamp="1589874712588" />
       <file name="$USER_HOME$/Works/webdev/tongji/apps/onedata/facade/logApi.php" timestamp="1590376945465" />
-      <file name="$USER_HOME$/Works/webdev/wengs/event/AfterWengTag.php" timestamp="1590979088323">
+      <file name="$USER_HOME$/Works/webdev/wengs/event/AfterWengTag.php" timestamp="1590980179169">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -144,7 +144,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/user/apps/facade/user/Api.php" timestamp="1590030606828" />
       <file name="$USER_HOME$/Works/webdev/shequ/apps/ugcaudit/facade/video/Api.php" timestamp="1590483093103" />
-      <file name="$USER_HOME$/Works/webdev/wengs/mock/Spider.php" timestamp="1590720739036">
+      <file name="$USER_HOME$/Works/webdev/wengs/mock/Spider.php" timestamp="1590980109751">
         <mark key="[" line="790" column="35" />
         <mark key="]" line="778" column="44" />
         <mark key="." line="778" column="44" />
@@ -245,6 +245,11 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/movie-lib/tool/LongLog.php" timestamp="1590457981684" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/Movie.php" timestamp="1589874704883" />
+      <file name="$USER_HOME$/Codes/PHP/spider/script/tag_weng.php" timestamp="1590980107316">
+        <mark key="[" line="20" column="113" />
+        <mark key="]" line="20" column="113" />
+        <mark key="." line="20" column="113" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/show/facade/movie/Common.php" timestamp="1590733425181" />
       <file name="$USER_HOME$/Works/webdev/show/facade/inner/IdSwitch.php" timestamp="1590733155825" />
       <file name="$USER_HOME$/Works/webdev/note/apps/note/proxy/Log.php" timestamp="1590377188376" />
@@ -276,7 +281,7 @@
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/format/User.php" timestamp="1590030749940" />
       <file name="$USER_HOME$/Works/webdev/show/model/show/state/Context.php" timestamp="1590545978951" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/SortManager.php" timestamp="1590390160047" />
-      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1590979112840">
+      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1590979966748">
         <mark key="[" line="178" column="0" />
         <mark key="]" line="178" column="0" />
         <mark key="." line="178" column="498" />
@@ -311,8 +316,8 @@
       <file name="$USER_HOME$/Works/webdev/note/apps/note/tool/event/listeners/LogForDeleteReply.php" timestamp="1590377079820" />
       <file name="$USER_HOME$/Works/webdev/wengs/app/Ranking.php" timestamp="1590474023437" />
       <file name="$USER_HOME$/Works/webdev/content-prd/server/Reach/Manager/WengActivity/UserSendActivityMsg.php" timestamp="1590461589318" />
-      <file name="$USER_HOME$/Codes/PHP/spider/script/import_talent.php" timestamp="1590718207297">
-        <mark key="[" line="15" column="0" />
+      <file name="$USER_HOME$/Codes/PHP/spider/script/import_talent.php" timestamp="1590979833279">
+        <mark key="[" line="15" column="59" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
@@ -567,10 +572,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
