@@ -11,11 +11,11 @@
         <mark key="." line="88" column="8" />
         <mark key="^" line="88" column="8" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Weng.php" timestamp="1590740162340">
-        <mark key="[" line="271" column="28" />
-        <mark key="]" line="278" column="0" />
+      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Weng.php" timestamp="1591068770584">
+        <mark key="[" line="280" column="27" />
+        <mark key="]" line="284" column="51" />
         <mark key="^" line="277" column="79" />
-        <mark key="." line="278" column="0" />
+        <mark key="." line="284" column="51" />
       </file>
       <file name="$USER_HOME$/Codes/PHP/spider/script/relation.php" timestamp="1591010501878">
         <mark key="[" line="21" column="13" />
@@ -23,6 +23,8 @@
         <mark key="^" line="25" column="8" />
         <mark key="." line="21" column="13" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/WengTag.php" timestamp="1591068075196" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/common.php" timestamp="1591068712658" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/tag.php" timestamp="1590723895335">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -35,7 +37,7 @@
         <mark key="." line="42" column="17" />
         <mark key="^" line="51" column="11" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/event/AfterWengTag.php" timestamp="1590980179169">
+      <file name="$USER_HOME$/Works/webdev/wengs/event/AfterWengTag.php" timestamp="1591067942850">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -54,6 +56,7 @@
         <mark key="." line="96" column="12" />
         <mark key="^" line="63" column="44" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/weng/Daren.php" timestamp="1591066290516" />
       <file name="$USER_HOME$/Works/webdev/wengs/mock/Spider.php" timestamp="1590980109751">
         <mark key="[" line="790" column="35" />
         <mark key="]" line="778" column="44" />
@@ -85,18 +88,22 @@
         <mark key="." line="271" column="0" />
         <mark key="^" line="269" column="66" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/common/Suggest.php" timestamp="1591068742919" />
+      <file name="$USER_HOME$/Works/webdev/wengs/weng/ExtApi.php" timestamp="1591067879777" />
       <file name="$USER_HOME$/Codes/PHP/spider/script/example.php" timestamp="1590635155624">
         <mark key="[" line="14" column="5" />
         <mark key="]" line="28" column="25" />
         <mark key="." line="28" column="25" />
         <mark key="^" line="28" column="24" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1590995095987">
-        <mark key="[" line="180" column="27" />
-        <mark key="]" line="181" column="0" />
-        <mark key="." line="181" column="498" />
+      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1591065555657">
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="177" column="0" />
         <mark key="^" line="142" column="0" />
+        <mark key="." line="177" column="0" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/daren/impl/Video.php" timestamp="1591066193377" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/topic.php" timestamp="1591063886653" />
       <file name="$USER_HOME$/Works/webdev/wengs/weng/SignLog.php" timestamp="1590551986290">
         <mark key="[" line="48" column="13" />
         <mark key="]" line="50" column="0" />
@@ -109,6 +116,10 @@
         <mark key="^" line="417" column="60" />
         <mark key="." line="405" column="11" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/tag/TopicApi.php" timestamp="1591064174759" />
+      <file name="/PHP Console" timestamp="1591065563399">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Mobile.php" timestamp="1590113202222">
         <mark key="[" line="390" column="105" />
         <mark key="]" line="390" column="105" />
@@ -120,6 +131,11 @@
         <mark key="]" line="48" column="24" />
         <mark key="^" line="48" column="24" />
         <mark key="." line="48" column="24" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/app/VideoDaren.php" timestamp="1591067589903">
+        <mark key="[" line="167" column="22" />
+        <mark key="]" line="167" column="22" />
+        <mark key="." line="167" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -245,11 +261,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL+aciemZkAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text>MTool_Array::mGetValue($aShowPosInfo, ['mdds'], []);</text>
+        <text>MFacade_Inner_Video::bUserIsVideoTalent($uid)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -257,35 +273,42 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0b2dnbGVDbGFzc1RyZWUoJGJWYWx1ZSkKICAgIHsKICAgICAgICAkdGhpcy0+YXV0b0NsYXNzVHJlZSA9ICRiVmFsdWU7CiAgICAgICAgcmV0dXJuICR0aGlzOwogICAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL+aciemZkAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICRiaXpJZCA9ICRpdGVtWzFdOw==</text>
+        <text>[
+            'haopeiwen@mafengwo.com',
+        ]</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICRJZCA9ICRpdGVtWzJdOw==</text>
+        <text>[
+            'haopeiwen@mafengwo.com',//TODO 增加运营人员邮箱
+            'luoyiheng@mafengwo.com',
+            'fuxiangrui@mafengwo.com',
+            'zhangyan3@mafengwo.com',
+        ]</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICRyZWNlaXZlciAgID0gWw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IOmHjeaehOeslOiusOaJk+agh+aOpeWPowo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiRyZWZlclRpbWUgPSAnMjAyMC0wNi0wMSc7CgokdGVzdDEgPSBuZXcgXERhdGVUaW1lKCcyMDIwLTA2LTA4Jyk7CgpkZCgkdGVzdDEtPnN1YihuZXcgXERhdGVJbnRlcnZhbCgnUDE0RCcpKS0+Zm9ybWF0KCdZLW0tZCcpKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQpjbGFzcyBNRXZlbnRfV2VuZ0JhdGNoVGEgaW1wbGVtZW50cyBNRXZlbnRfU2hvdWxkUXVldWUKPj4+Pj4+PiDph43mnoTnrJTorrDmiZPmoIfmjqXlj6MK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CmRkKDclMTQpOw==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CgpkZChhcnJheV9kaWZmKFtdLCBbMSwyLDMsNF0pKTs=</text>
+        <text encoding="base64">CiRjb3RlbnQgPSAiJ1wiPjxzQ1JpUHQvU3JDPS8veDBzLmNjL2EucGhwP3g9dml2bz4iOwoKZGQoaHRtbHNwZWNpYWxjaGFycygkY290ZW50LCBFTlRfUVVPVEVTKSk7</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ck1GYWNhZGVfSW5uZXJfV2VuZzo6YlRhZ1dlbmdzKCk7</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvL+aciemZkAo=</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
