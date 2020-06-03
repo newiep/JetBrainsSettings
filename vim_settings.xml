@@ -29,11 +29,11 @@
         <mark key="." line="271" column="0" />
         <mark key="^" line="269" column="66" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/finite-callbacks.php" timestamp="1591179346903">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="91" column="38" />
-        <mark key="^" line="91" column="38" />
-        <mark key="." line="91" column="38" />
+      <file name="$USER_HOME$/Works/webdev/wengs/finite-callbacks.php" timestamp="1591180388801">
+        <mark key="[" line="79" column="14" />
+        <mark key="]" line="79" column="14" />
+        <mark key="^" line="97" column="38" />
+        <mark key="." line="79" column="14" />
       </file>
       <file name="$USER_HOME$/Codes/PHP/spider/script/relation.php" timestamp="1591079111930">
         <mark key="[" line="21" column="13" />
@@ -150,7 +150,7 @@
         <mark key="." line="28" column="108" />
       </file>
       <file name="$USER_HOME$/Works/webdev/tongji/apps/kafka/facade/logApi.php" timestamp="1591147931711" />
-      <file name="/PHP Console" timestamp="1591179165603">
+      <file name="/PHP Console" timestamp="1591180324326">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/composer/vendor/symfony/event-dispatcher/EventDispatcherInterface.php" timestamp="1591169826101" />
@@ -178,7 +178,7 @@
         <mark key="." line="59" column="6" />
       </file>
       <file name="$USER_HOME$/Works/webdev/show/proxy/Queue.php" timestamp="1591148669447" />
-      <file name="$USER_HOME$/Works/webdev/composer/vendor/yohang/finite/src/Finite/Loader/ArrayLoader.php" timestamp="1591177605925" />
+      <file name="$USER_HOME$/Works/webdev/composer/vendor/yohang/finite/src/Finite/Loader/ArrayLoader.php" timestamp="1591180509588" />
       <file name="$USER_HOME$/Works/webdev/composer/vendor/yohang/finite/src/Finite/Event/CallbackHandler.php" timestamp="1591177149325" />
     </filemarks>
     <jumps>
@@ -305,7 +305,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>echo</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGFycmF5KAogICAgICAgICAgICAgICAgJ2Zyb20nID0+ICctcHJvcG9zZWQnLAogICAgICAgICAgICAgICAgJ2RvJyAgID0+IFskZG9jdW1lbnQsICd0ZXN0J10sCiAgICAgICAgICAgICks</text>
       </register>
       <register name="-" type="4">
         <text>echo</text>
@@ -316,35 +316,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0b2dnbGVDbGFzc1RyZWUoJGJWYWx1ZSkKICAgIHsKICAgICAgICAkdGhpcy0+YXV0b0NsYXNzVHJlZSA9ICRiVmFsdWU7CiAgICAgICAgcmV0dXJuICR0aGlzOwogICAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">cmV0cmlldmUK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGFycmF5KAogICAgICAgICAgICAgICAgJ2Zyb20nID0+ICctcHJvcG9zZWQnLAogICAgICAgICAgICAgICAgJ2RvJyAgID0+IFskZG9jdW1lbnQsICd0ZXN0J10sCiAgICAgICAgICAgICks</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gYm9vbChmYWxzZSkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gKEZpbml0ZVxTdGF0ZWZ1bEludGVyZmFjZSAkZG9jdW1lbnQsIFxGaW5pdGVcRXZlbnRcVHJhbnNpdGlvbkV2ZW50ICRlKSB7CiAgICAgICAgICAgICAgICAgICAgZWNobyAnQXBwbHlpbmcgdHJhbnNpdGlvbiAnIC4gJGUtPmdldFRyYW5zaXRpb24oKS0+Z2V0TmFtZSgpLCAiXG4iOwogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiRzdGFydElkID0gJGFyZ3ZbMV07CiRlbmRJZCAgID0gJGFyZ3ZbMl07CmlmIChpc19udWxsKCRzdGFydElkKSB8fCBpc19udWxsKCRlbmRJZCkpIHsKICAgIGVjaG8gInN0YXJ0IGVuZCByZXBseSBpZCBpcyBlbXB0eSI7ZXhpdDsKfQokb1JlcGx5ID0gbmV3IE1VZ2NfUmVwbHlfQXBpKCk7CiRvUHJveHlDb21tZW50ID0gbmV3IE1Qcm94eV9Db21tZW50U2VydmljZSgpOwp0cnkgewogICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAkb09wdGlvbiA9IG5ldyBcS29fVG9vbF9TUUwoKTsKICAgICAgICAkb09wdGlvbi0+b1NlbGVjdCgncmlkLCBpaWQnKTsKICAgICAgICAkb09wdGlvbi0+b1doZXJlKCdyaWQgPiA/JywgJHN0YXJ0SWQpOwogICAgICAgICRvT3B0aW9uLT5vQW5kKCdkZWwgPSA/JywgMSk7CiAgICAgICAgJG9PcHRpb24tPm9MaW1pdCgyMDAwKTsKICAgICAgICAkZGF0YSA9ICRvUmVwbHktPnJlcGx5RGFvLT5hR2V0TGlzdCgkb09wdGlvbik7CiAgICAgICAgaWYgKCEkZGF0YSkgewogICAgICAgICAgICBjb250aW51ZTsKICAgICAgICB9CiAgICAgICAgZm9yZWFjaCAoJGRhdGEgYXMgJGRhdHVtKSB7CiAgICAgICAgICAgICRpaWQgPSAkZGF0dW1bJ2lpZCddOwogICAgICAgICAgICAkcmlkID0gJGRhdHVtWydyaWQnXTsKICAgICAgICAgICAgaWYgKCEkaWlkIHx8ICEkcmlkKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICAkb1Byb3h5Q29tbWVudC0+c3luUmVwbHlTdGF0dXMoJGlpZCwgJHJpZCwgMzApOwogICAgICAgICAgICAkc3RhcnRJZCA9ICRyaWQ7CiAgICAgICAgfQogICAgICAgIGlmICgkc3RhcnRJZCA+ICRlbmRJZCkgewogICAgICAgICAgICBicmVhazsKICAgICAgICB9Ci8vICAgICAgICBcYXBwc1xNRmFjYWRlX0xvZ19BcGk6OmRsb2coJ25vdGVfc3luY19jb21tZW50X3NlcnZpY2UnLCBbJHN0YXJ0SWRdKTsKICAgIH0KfSBjYXRjaCAoXEV4Y2VwdGlvbiAkZSkgewogICAgZWNobyAgJGUtPmdldE1lc3NhZ2UoKTsKfQo=</text>
+        <text>function (\Finite\Event\TransitionEvent $e) {
+    echo 'This is a pre transition', &quot;\n&quot;;
+}</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgZXhpc3QoKTs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">cmV0cmlldmUK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgZm9yZWFjaCAoJHdlbmdJZHMgYXMgJGRhdGEpIHs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gYm9vbChmYWxzZSkK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiBb</text>
+        <text encoding="base64">CiRzdGFydElkID0gJGFyZ3ZbMV07CiRlbmRJZCAgID0gJGFyZ3ZbMl07CmlmIChpc19udWxsKCRzdGFydElkKSB8fCBpc19udWxsKCRlbmRJZCkpIHsKICAgIGVjaG8gInN0YXJ0IGVuZCByZXBseSBpZCBpcyBlbXB0eSI7ZXhpdDsKfQokb1JlcGx5ID0gbmV3IE1VZ2NfUmVwbHlfQXBpKCk7CiRvUHJveHlDb21tZW50ID0gbmV3IE1Qcm94eV9Db21tZW50U2VydmljZSgpOwp0cnkgewogICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAkb09wdGlvbiA9IG5ldyBcS29fVG9vbF9TUUwoKTsKICAgICAgICAkb09wdGlvbi0+b1NlbGVjdCgncmlkLCBpaWQnKTsKICAgICAgICAkb09wdGlvbi0+b1doZXJlKCdyaWQgPiA/JywgJHN0YXJ0SWQpOwogICAgICAgICRvT3B0aW9uLT5vQW5kKCdkZWwgPSA/JywgMSk7CiAgICAgICAgJG9PcHRpb24tPm9MaW1pdCgyMDAwKTsKICAgICAgICAkZGF0YSA9ICRvUmVwbHktPnJlcGx5RGFvLT5hR2V0TGlzdCgkb09wdGlvbik7CiAgICAgICAgaWYgKCEkZGF0YSkgewogICAgICAgICAgICBjb250aW51ZTsKICAgICAgICB9CiAgICAgICAgZm9yZWFjaCAoJGRhdGEgYXMgJGRhdHVtKSB7CiAgICAgICAgICAgICRpaWQgPSAkZGF0dW1bJ2lpZCddOwogICAgICAgICAgICAkcmlkID0gJGRhdHVtWydyaWQnXTsKICAgICAgICAgICAgaWYgKCEkaWlkIHx8ICEkcmlkKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICAkb1Byb3h5Q29tbWVudC0+c3luUmVwbHlTdGF0dXMoJGlpZCwgJHJpZCwgMzApOwogICAgICAgICAgICAkc3RhcnRJZCA9ICRyaWQ7CiAgICAgICAgfQogICAgICAgIGlmICgkc3RhcnRJZCA+ICRlbmRJZCkgewogICAgICAgICAgICBicmVhazsKICAgICAgICB9Ci8vICAgICAgICBcYXBwc1xNRmFjYWRlX0xvZ19BcGk6OmRsb2coJ25vdGVfc3luY19jb21tZW50X3NlcnZpY2UnLCBbJHN0YXJ0SWRdKTsKICAgIH0KfSBjYXRjaCAoXEV4Y2VwdGlvbiAkZSkgewogICAgZWNobyAgJGUtPmdldE1lc3NhZ2UoKTsKfQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgZXhpc3QoKTs=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHZhcl9kdW1wKCRjb250ZW50KTtkaWU7</text>
+        <text encoding="base64">CiAgICAgICAgZm9yZWFjaCAoJHdlbmdJZHMgYXMgJGRhdGEpIHs=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICRyZXMgPSAkdGhpcy0+Y2FsbEZhY2FkZSgnYXBwc1x1Z2NhdWRpdFxNRmFjYWRlX1ZpZGVvX0FwaScsICdhZGQnLCBbWwogICAgICAgICAgICAgICAgJ3ZpZGVvaWQnICAgPT4gJHZpZGVvSWQsCiAgICAgICAgICAgICAgICAndWlkJyAgICAgICA9PiAkdWlkLAogICAgICAgICAgICAgICAgJ3NvdXJjZScgICAgPT4gJHNvdXJjZSwKICAgICAgICAgICAgICAgICdidXNpX3R5cGUnID0+ICRiaXNpVHlwZSwKICAgICAgICAgICAgXV0pOwogICAgICAgICAgICB2YXJfZHVtcChzcHJpbnRmKCclcywlcywlcywlcycsICR2aWRlb0lkLCAkdWlkLCRzb3VyY2UsICRiaXNpVHlwZSkpOw==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiBb</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
