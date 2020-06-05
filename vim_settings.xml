@@ -33,6 +33,7 @@
         <mark key="^" line="142" column="0" />
         <mark key="." line="177" column="0" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/admin/Operate.php" timestamp="1591338121280" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Video.php" timestamp="1591326590303" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Lib/Mongo/Client.php" timestamp="1591240399003" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Dao/CommentRepo.php" timestamp="1591238314706" />
@@ -80,7 +81,7 @@
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Lib/State/ConfigLoader.php" timestamp="1591266622585">
         <mark key="[" line="15" column="26" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/test1.php" timestamp="1591329284080">
+      <file name="$USER_HOME$/Works/webdev/wengs/test1.php" timestamp="1591337589300">
         <mark key="[" line="43" column="17" />
         <mark key="]" line="43" column="17" />
         <mark key="." line="43" column="17" />
@@ -96,7 +97,7 @@
         <mark key="." line="68" column="24" />
       </file>
       <file name="$USER_HOME$/Works/webdev/tongji/apps/kafka/facade/logApi.php" timestamp="1591258794561" />
-      <file name="/PHP Console" timestamp="1591329271314">
+      <file name="/PHP Console" timestamp="1591337604701">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/spider.php" timestamp="1591326739424" />
@@ -234,10 +235,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>@listener\s*\((type=(.*?),?|transition=(.*?),?|graph=(.*?),?)\)</text>
+        <text>@listener(type=test, transition=draft,graph=default)</text>
       </register>
       <register name="-" type="4">
-        <text>@listener\s*\((type=(.*?),?|transition=(.*?),?|graph=(.*?),?)\)</text>
+        <text>@listener(type=test, transition=draft,graph=default)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
