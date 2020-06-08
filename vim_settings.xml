@@ -110,9 +110,15 @@
       <file name="$USER_HOME$/Works/webdev/composer/vendor/mfw/content-root/src/Base/Object/AnnotationTrait.php" timestamp="1591598926405" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/facade/busi/Common.php" timestamp="1591148329743" />
       <file name="$USER_HOME$/Works/webdev/outdated/www2011/conf/site/all.ini" timestamp="1591353193028" />
+      <file name="$USER_HOME$/Works/webdev/wengs/daren/event/VideoTalent.php" timestamp="1591602745918">
+        <mark key="[" line="96" column="32" />
+        <mark key="]" line="96" column="12" />
+        <mark key="." line="96" column="12" />
+        <mark key="^" line="63" column="44" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/composer/vendor/mfw/content-root/src/Base/Layer/Layer.php" timestamp="1591598945664" />
-      <file name="$USER_HOME$/Works/webdev/wengs/mock/Spider.php" timestamp="1591324995176">
-        <mark key="[" line="791" column="50" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mock/Spider.php" timestamp="1591600787382">
+        <mark key="[" line="839" column="82" />
         <mark key="]" line="797" column="9" />
         <mark key="." line="797" column="9" />
         <mark key="^" line="797" column="9" />
@@ -177,6 +183,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/spider.php" timestamp="1591326739424" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/admin/almighty_weng_list.v1.php" timestamp="1591600720650" />
       <file name="$USER_HOME$/Works/webdev/composer/vendor/symfony/event-dispatcher/EventDispatcherInterface.php" timestamp="1591237597066" />
       <file name="$USER_HOME$/Works/webdev/composer/vendor/symfony/property-access/PropertyAccessor.php" timestamp="1591175569092" />
       <file name="$USER_HOME$/Works/webdev/wengs/weng/Api.php" timestamp="1591583083701" />
@@ -192,13 +199,14 @@
       <file name="$USER_HOME$/Works/webdev/wengs/open/Search.php" timestamp="1591339132418" />
       <file name="$USER_HOME$/Works/webdev/message/facade/message/Api.php" timestamp="1591350932583" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/style/feed/HotelListItem.php" timestamp="1591340112275" />
+      <file name="$USER_HOME$/Works/webdev/wengs/daren/Api.php" timestamp="1591602681936" />
       <file name="$USER_HOME$/Works/webdev/ko/tool/Safe.php" timestamp="1591354582541" />
       <file name="$USER_HOME$/Works/webdev/composer/vendor/mfw/content-root/src/Base/Manager/AbstractManager.php" timestamp="1591598895520" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Config/TidbConfig.php" timestamp="1591598353995" />
-      <file name="$USER_HOME$/Works/webdev/wengs/app/VideoDaren.php" timestamp="1591585683136">
-        <mark key="[" line="167" column="22" />
-        <mark key="]" line="167" column="22" />
-        <mark key="." line="167" column="22" />
+      <file name="$USER_HOME$/Works/webdev/wengs/app/VideoDaren.php" timestamp="1591602906901">
+        <mark key="[" line="223" column="16" />
+        <mark key="]" line="223" column="16" />
+        <mark key="." line="223" column="16" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/service/ReplyService.php" timestamp="1591599707508" />
       <file name="$USER_HOME$/Works/webdev/show/proxy/Queue.php" timestamp="1591148669447" />
@@ -329,10 +337,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$replyId</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text>$replyId</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -341,34 +349,38 @@
         <text encoding="base64">ICAgIGFic3RyYWN0IHByb3RlY3RlZCBmdW5jdGlvbiBnZXRUcmFuc2l0aW9ucygpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICRzdGF0dXNTdGF0ZW1lbnQgPSAkdGhpcy0+YnVpbGRTdGF0ZW1lbnQoCiAgICAgICAgICAgICAgICAkcGFyYW0sCiAgICAgICAgICAgICAgICBNRmFjYWRlX0VudW1fQ29tbWVudF9TdGF0dXM6OkNBTl9ERUxFVEUKICAgICAgICAgICAgKTsKICAgICAgICAgICAgcmV0dXJuIHN0YXRpYzo6Z2V0QmVhbkNvbW1lbnRSZXBvKCktPnVwZGF0ZVJlcGx5KCRzdGF0dXNTdGF0ZW1lbnQpOw==</text>
+        <text encoding="base64">LyoqCiAgICAgICAgICogCiAgICAgICAgICovCiAgICAgICAg</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICRzdGF0dXNTdGF0ZW1lbnQgPSAkdGhpcy0+YnVpbGRTdGF0ZW1lbnQoCiAgICAgICAgICAgICAgICAkcGFyYW0sCiAgICAgICAgICAgICAgICBNRmFjYWRlX0VudW1fQ29tbWVudF9TdGF0dXM6OkNBTl9ISURFCiAgICAgICAgICAgICk7CgogICAgICAgICAgICByZXR1cm4gc3RhdGljOjpnZXRCZWFuQ29tbWVudFJlcG8oKS0+dXBkYXRlUmVwbHkoJHN0YXR1c1N0YXRlbWVudCk7</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAvL+OAkOinhumikei+vuS6uuWujOaIkOS7u+WKoeOAkQ==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CnVzZSBjb250ZW50X2NvbW1lbnRcc2VydmVyXExpYlxTdGF0ZVxNYWNoaW5lOwo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>//2020.03.23 新增优质视频过滤名单（非爬虫马甲号）
+        $newVestUIds = [
+            83588564 ,86552915 ,38317245 ,47881509 ,60742196
+            ,34538835 ,73790542 ,60799632 ,34756803 ,34120436
+        ];</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CgpcY29udGVudF9jb21tZW50XHNlcnZlclxNYWNoaW5lc1xTdGF0dXNNYWNoaW5lOjppbml0KCk7</text>
+        <text encoding="base64">CiAgICAgICAgICAgICRzdGF0dXNTdGF0ZW1lbnQgPSAkdGhpcy0+YnVpbGRTdGF0ZW1lbnQoCiAgICAgICAgICAgICAgICAkcGFyYW0sCiAgICAgICAgICAgICAgICBNRmFjYWRlX0VudW1fQ29tbWVudF9TdGF0dXM6OkNBTl9ERUxFVEUKICAgICAgICAgICAgKTsKICAgICAgICAgICAgcmV0dXJuIHN0YXRpYzo6Z2V0QmVhbkNvbW1lbnRSZXBvKCktPnVwZGF0ZVJlcGx5KCRzdGF0dXNTdGF0ZW1lbnQpOw==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiRjb21tZW50RE8gID0gc3RhdGljOjpnZXRCZWFuQ29tbWVudFJlcG8oKS0+ZmluZEJ5UmVwbHlJZCgkcGFyYW0tPmdldFJlcGx5SWQoKSk7</text>
+        <text encoding="base64">CiAgICAgICAgICAgICRzdGF0dXNTdGF0ZW1lbnQgPSAkdGhpcy0+YnVpbGRTdGF0ZW1lbnQoCiAgICAgICAgICAgICAgICAkcGFyYW0sCiAgICAgICAgICAgICAgICBNRmFjYWRlX0VudW1fQ29tbWVudF9TdGF0dXM6OkNBTl9ISURFCiAgICAgICAgICAgICk7CgogICAgICAgICAgICByZXR1cm4gc3RhdGljOjpnZXRCZWFuQ29tbWVudFJlcG8oKS0+dXBkYXRlUmVwbHkoJHN0YXR1c1N0YXRlbWVudCk7</text>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
+        <text encoding="base64">CnVzZSBjb250ZW50X2NvbW1lbnRcc2VydmVyXExpYlxTdGF0ZVxNYWNoaW5lOwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdE1hY2hpbmUoKQogICAgewogICAgICAgICRyZXBseUlkID0gOTAwMDAwMDAwMDI1NjMwMjk7CiAgICAgICAgJGNvbW1lbnRETyAgPSBzdGF0aWM6OmdldEJlYW5Db21tZW50UmVwbygpLT5maW5kQnlSZXBseUlkKCRyZXBseUlkKTsKCiAgICAgICAgJG9iaiA9IG5ldyBcY29udGVudF9jb21tZW50XHNlcnZlclxMaWJcU3RhdGVcU3RhdGVmdWxIYW5kbGVyKCRjb21tZW50RE8pOwoKICAgICAgICAkc3RhdHVzTWFjaGluZSA9IFxjb250ZW50X2NvbW1lbnRcc2VydmVyXE1hY2hpbmVzXFN0YXR1c01hY2hpbmU6OmluaXQoKTsKICAgICAgICAkc3RhdHVzTWFjaGluZS0+dHJhbnNTdGF0ZU5hbWUoJGNvbW1lbnRETy0+Z2V0U3RhdHVzKCkpCiAgICB9</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgJHN0YXR1c05hbWVWYWx1ZU1hcCA9IGFycmF5X2ZsaXAoUmVwbHlTdGF0dXNFbnVtOjpTVEFUVVNfVkFMVUVfTkFNRV9NQVApOw==</text>
+        <text encoding="base64">CgpcY29udGVudF9jb21tZW50XHNlcnZlclxNYWNoaW5lc1xTdGF0dXNNYWNoaW5lOjppbml0KCk7</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
