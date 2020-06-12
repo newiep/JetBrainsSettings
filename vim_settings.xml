@@ -43,7 +43,6 @@
         <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/guide/lib/Safe.php" timestamp="1591874700745">
-        <mark key="[" line="15" column="20" />
         <mark key="]" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
@@ -59,7 +58,7 @@
       <file name="$USER_HOME$/Works/webdev/content-root/src/Util/Log/Logger.php" timestamp="1591258736679" />
       <file name="$USER_HOME$/Works/webdev/qianxun/admin/htdocs/api/auth.php" timestamp="1591758987431" />
       <file name="$USER_HOME$/Works/webdev/outdated/www2011/include/common/Log.php" timestamp="1591758095837" />
-      <file name="$USER_HOME$/Works/webdev/movie-lib/controller/app/video/feeds/get_attached_poi_list.v1.php" timestamp="1591339564989" />
+      <file name="$USER_HOME$/Works/webdev/movie-lib/controller/app/video/feeds/get_attached_poi_list.v1.php" timestamp="1591925091201" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Machines/StatusMachine.php" timestamp="1591599851407">
         <mark key="[" line="157" column="35" />
         <mark key="]" line="199" column="4" />
@@ -133,12 +132,14 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/composer/vendor/yohang/finite/src/Finite/Event/Callback/CallbackBuilder.php" timestamp="1591237881364" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Query/StatusStatement.php" timestamp="1591587919911" />
-      <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/format/PoiCardList.php" timestamp="1591839372459">
-        <mark key="[" line="27" column="72" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Works/webdev/hotel/apps/hotel/hotel/facade/Config.php" timestamp="1591926233499" />
+      <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/format/PoiCardList.php" timestamp="1591926622769">
+        <mark key="[" line="185" column="56" />
+        <mark key="]" line="185" column="56" />
+        <mark key="." line="185" column="56" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Entity/CommentDO.php" timestamp="1591175292206" />
+      <file name="$USER_HOME$/Works/webdev/movie-lib/proxy/Hotel.php" timestamp="1591925697139" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/StatusManager.php" timestamp="1591612105181">
         <mark key="[" line="44" column="30" />
         <mark key="]" line="44" column="30" />
@@ -245,6 +246,7 @@
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Dao/CommentRepo.php" timestamp="1591693220102">
         <mark key="[" line="101" column="0" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/hotel/apps/hotel/hotel/facade/BaseApi.php" timestamp="1591926063398" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Dao/IdMapRepo.php" timestamp="1591689941633">
         <mark key="[" line="94" column="9" />
         <mark key="]" line="94" column="9" />
@@ -257,6 +259,7 @@
         <mark key="]" line="35" column="4" />
         <mark key="." line="35" column="4" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/movie-lib/proxy/Poi.php" timestamp="1591926278731" />
       <file name="$USER_HOME$/Works/webdev/outdated/www2011/htdocs_admin/casjump.php" timestamp="1591754923445" />
       <file name="$USER_HOME$/Works/webdev/outdated/www2011/htdocs/entrance.php" timestamp="1591760103753" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Lib/State/StatefulHandler.php" timestamp="1591598425090">
@@ -364,6 +367,7 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/weng/Api.php" timestamp="1591583083701" />
       <file name="$USER_HOME$/Works/webdev/composer/vendor/symfony/options-resolver/OptionsResolver.php" timestamp="1591321578134" />
+      <file name="$USER_HOME$/Works/webdev/hotel/apps/hotel/hotel/controller/BaseApi.php" timestamp="1591926090666" />
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php" timestamp="1591761391672" />
       <file name="$USER_HOME$/Works/webdev/composer/vendor/symfony/property-access/PropertyAccess.php" timestamp="1591175531547" />
       <file name="$USER_HOME$/Works/webdev/composer/vendor/yohang/finite/src/Finite/Event/Callback/CallbackBuilderFactory.php" timestamp="1591167436365" />
@@ -522,10 +526,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBcYXBwc1xNRmFjYWRlX0xvZ19BcGk6OmRsb2coJ2RlYnVnX2NzcmYnLCBbCiAgICAgICAgJ3JlZmVyJyA9PiAkcmVmZXJlciwKICAgICAgICAnaG9zdCcgID0+IFxLb19XZWJfUmVxdWVzdDo6U0h0dHBIb3N0KCksCiAgICBdKTs=</text>
+        <text>$aPoi['poiid']</text>
       </register>
       <register name="-" type="4">
-        <text>\Ko_Web_Request::SHttpReferer()</text>
+        <text>$aPoi['poiid']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -534,35 +538,35 @@
         <text encoding="base64">ICAgIGFic3RyYWN0IHByb3RlY3RlZCBmdW5jdGlvbiBnZXRUcmFuc2l0aW9ucygpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICBcYXBwc1xNRmFjYWRlX0xvZ19BcGk6OmRsb2coJ2RlYnVnX2NzcmYnLCBbCiAgICAgICAgJ3JlZmVyJyA9PiAkcmVmZXJlciwKICAgICAgICAnaG9zdCcgID0+IFxLb19XZWJfUmVxdWVzdDo6U0h0dHBIb3N0KCksCiAgICBdKTs=</text>
+        <text encoding="base64">aWYgKCRhUG9pWydmbGFnJ10gPT0gTVByb3h5X1BvaTo6RkxBR19NRVJHRUQpIHsKICAgICAgICAgICAgICAgICRqdW1wVXJsID0gJG9Qcm94eU1vYmlsZS0+c0dldFBvaURldGFpbEp1bXBVcmwoJGFQb2lbJ21lcmdlX2lkJ10sICRhUG9pWyd0eXBlX2lkJ10pOwogICAgICAgICAgICB9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CgpwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGJDaGVjaygkYUFsbG93UmVmRG9tYWluID0gW10pCns=</text>
+        <text encoding="base64">CiAgICBcYXBwc1xNRmFjYWRlX0xvZ19BcGk6OmRsb2coJ2RlYnVnX2NzcmYnLCBbCiAgICAgICAgJ3JlZmVyJyA9PiAkcmVmZXJlciwKICAgICAgICAnaG9zdCcgID0+IFxLb19XZWJfUmVxdWVzdDo6U0h0dHBIb3N0KCksCiAgICBdKTs=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CgokdGVzdDEgPSBuZXcgXERhdGVUaW1lKCcyMDIwLTA2LTA4Jyk7CmRkKCR0ZXN0MS0+Zm9ybWF0KCdOJykpOwpkZCgkdGVzdDEtPnN1YihuZXcgXERhdGVJbnRlcnZhbCgnUDE0RCcpKS0+Zm9ybWF0KCdZLW0tZCcpKTsKCiRpbnRlcnZhbCA9ICR0ZXN0MS0+ZGlmZihuZXcgXERhdGVUaW1lKCRyZWZlclRpbWUpKTsKZWNobyAkaW50ZXJ2YWwtPmZvcm1hdCgnJWEgZGF5cycpO2RpZTsKCg==</text>
+        <text encoding="base64">CgpwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGJDaGVjaygkYUFsbG93UmVmRG9tYWluID0gW10pCns=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CgokYSA9IFsxLCAyLDNdOwpkZChhcnJheV9zbGljZSgkYSwgMCwgMSkpOwoKJHJlZmVyVGltZSA9ICcyMDIwLTA2LTAxJzs=</text>
+        <text encoding="base64">CgokdGVzdDEgPSBuZXcgXERhdGVUaW1lKCcyMDIwLTA2LTA4Jyk7CmRkKCR0ZXN0MS0+Zm9ybWF0KCdOJykpOwpkZCgkdGVzdDEtPnN1YihuZXcgXERhdGVJbnRlcnZhbCgnUDE0RCcpKS0+Zm9ybWF0KCdZLW0tZCcpKTsKCiRpbnRlcnZhbCA9ICR0ZXN0MS0+ZGlmZihuZXcgXERhdGVUaW1lKCRyZWZlclRpbWUpKTsKZWNobyAkaW50ZXJ2YWwtPmZvcm1hdCgnJWEgZGF5cycpO2RpZTsKCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CmRkKGFycmF5X3VuaXF1ZShhcnJheV9tZXJnZShbMiwzXSwgWzEsIDJdKSkpOwokYXJyID1bCiAgICAxID0+IFtdLAogICAgMiA9PiBbJ2lkJyA9PiAyXSwKXTsKZGQoYXJyYXlfZmlsdGVyKCRhcnIpKTs=</text>
+        <text encoding="base64">CgokYSA9IFsxLCAyLDNdOwpkZChhcnJheV9zbGljZSgkYSwgMCwgMSkpOwoKJHJlZmVyVGltZSA9ICcyMDIwLTA2LTAxJzs=</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">CmRkKGFycmF5X3VuaXF1ZShhcnJheV9tZXJnZShbMiwzXSwgWzEsIDJdKSkpOwokYXJyID1bCiAgICAxID0+IFtdLAogICAgMiA9PiBbJ2lkJyA9PiAyXSwKXTsKZGQoYXJyYXlfZmlsdGVyKCRhcnIpKTs=</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgaWYgKGVtcHR5KCRhUG9zdEFsbG93UmVmRG9tYWluKSkgewogICAgICAgICAgICBsaXN0KCRob3N0LCAkcG9ydCkgPSBleHBsb2RlKCc6JywgS29fV2ViX1JlcXVlc3Q6OlNIdHRwSG9zdCgpLCAyKTsKICAgICAgICAgICAgaWYgKCRyZWZpbmZvWydob3N0J10gIT09ICRob3N0KSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBpZiAoIXNlbGY6Ol9CQ2hlY2tEb21haW5zKCRyZWZpbmZvWydob3N0J10sICRhUG9zdEFsbG93UmVmRG9tYWluKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBcS29fCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>header('Access-Control-Allow-Origin: https://cas.mafengwo.cn');
     header('Access-Control-Allow-Credentials: true');</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgS29fV2ViX1JlcXVlc3Q6OlNIdHRwWEZvcndhcmRlZFByb3RvKCkuJzovLycuJGFSZWZlcmVyWydob3N0Jw==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
