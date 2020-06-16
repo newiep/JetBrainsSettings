@@ -91,24 +91,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/Message.php" timestamp="1592190811786">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Codes/PHP/spider/script/video_audit.php" timestamp="1592273346597">
+        <mark key="[" line="79" column="9" />
+        <mark key="^" line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/Codes/PHP/spider/script/video_audit.php" timestamp="1592216837099">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="108" column="25" />
-        <mark key="." line="56" column="0" />
-      </file>
+      <file name="$USER_HOME$/Works/webdev/video/file/TransFenyu.php" timestamp="1592273935884" />
       <file name="$USER_HOME$/Works/webdev/wengs/daren/event/VideoTalent.php" timestamp="1592200436564">
         <mark key="[" line="96" column="32" />
         <mark key="]" line="96" column="12" />
         <mark key="." line="96" column="12" />
         <mark key="^" line="63" column="44" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/video/video/Info.php" timestamp="1592215010110" />
+      <file name="$USER_HOME$/Works/webdev/video/video/Info.php" timestamp="1592273817343" />
       <file name="$USER_HOME$/Works/webdev/wengs/mock/Spider.php" timestamp="1592216124600">
         <mark key="[" line="795" column="57" />
         <mark key="]" line="814" column="0" />
@@ -120,10 +114,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/script/script/video_audit.php" timestamp="1592216973483">
-        <mark key="[" line="35" column="83" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Works/webdev/wengs/script/script/video_audit.php" timestamp="1592274179966">
+        <mark key="[" line="78" column="9" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+        <mark key="^" line="105" column="12" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/event/Conf.php" timestamp="1592191765162">
         <mark key="[" line="52" column="0" />
@@ -135,12 +130,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1592190170773">
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="184" column="34" />
-        <mark key="." line="184" column="34" />
-        <mark key="^" line="187" column="6" />
-      </file>
+      <file name="$USER_HOME$/Works/webdev/video/avthumb/Operator.php" timestamp="1592273985548" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/LaborDayHoney.php" timestamp="1592191022218">
         <mark key="[" line="18" column="47" />
         <mark key="]" line="18" column="3" />
@@ -297,11 +287,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>视频数据有误</text>
       </register>
       <register name="-" type="4">
-        <text>var_dump($aItems);die;</text>
+        <text>视频数据有误</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -310,34 +300,34 @@
         <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvU2lnbkxvZyBNV2VuZ19TaWduTG9nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>var_dump($iVideoId);die;</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+d3JpdGVGaWxlKCRmaWxlUGF0aCwgJGNvbnRlbnQpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBcYXBwc1x3ZW5nc1xNV2VuZ19BcGk6Ogo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">JG9wZXJhdGVJbmZvID0gJHRoaXMtPmNhbGxGYWNhZGUoJ2FwcHNcd2VuZ3NcTUFkbWluX09wZXJhdGUnLCAnYUdldCcsIFskd2VuZ0lkXSwgZmFsc2UpOwogICAgICAgICAgICBpZiAoJG9wZXJhdGVJbmZvWydmbGFnJ10gIT0gODApIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICgkb3BlcmF0ZUluZm9bJ3ZpZGVvX2F1ZGl0J10gPT0gMSkgewogICAgICAgICAgICAgICAgJHRoaXMtPmNhbGxGYWNhZGUoJ2FwcHNcd2VuZ3NcTU1BcGlfQXVkaXQnLCAncmVTdWJtaXQnLCBbJHdlbmdJZF0sIGZhbHNlKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAkaVZpZGVvSWQgPSAkdGhpcy0+Y2FsbEZhY2FkZSgnYXBwc1x3ZW5nc1xNTXVsdGltZWRpYV9BcGknLCAnaUdldFZpZGVvSWRCeVdlbmdpZCcsIFskd2VuZ0lkXSwgZmFsc2UpOwoKICAgICAgICAgICAgaWYgKCEkaVZpZGVvSWQpIHsKICAgICAgICAgICAgICAgICRhSXRlbXMgPSAkdGhpcy0+Y2FsbEZhY2FkZSgnYXBwc1x3ZW5nc1xNV2VuZ19Db250ZW50QXBpJywgJ2FHZXRJdGVtcycsIFskd2VuZ0lkXSwgZmFsc2UpOwogICAgICAgICAgICAgICAgaWYgKCEkYUl0ZW1zWzBdWydyZXNvdXJjZSddKSB7CiAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmNhbGxGYWNhZGUoCiAgICAgICAgICAgICAgICAgICAgICAgICdhcHBzXHdlbmdzXE1XZW5nX0FwaScsCiAgICAgICAgICAgICAgICAgICAgICAgICdpQWRtaW5EZWxldGUnLAogICAgICAgICAgICAgICAgICAgICAgICBbJHdlbmdJZCwwLCfop4bpopHmlbDmja7mnInor68nLDEsZmFsc2UsNzg5MjM4MjldLAogICAgICAgICAgICAgICAgICAgICAgICBmYWxzZQogICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICAgICAgJHRoaXMtPnJlY29yZExvZyhzcHJpbnRmKCIlcywlcywlcyIsICR3ZW5nSWQsIDAsICdyZXNvdXJjZSBpcyBlbXB0eScpLCAkZmFpbEZpbGVQYXRoKTsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICR0aGlzLT5jYWxsRmFjYWRlKCdhcHBzXHdlbmdzXE1NdWx0aW1lZGlhX0FwaScsICd2U2VuZFRvQXVkaXQnLCBbJGFJdGVtc10sIGZhbHNlKTsKICAgICAgICAgICAgICAgICRpVmlkZW9JZCA9ICR0aGlzLT5jYWxsRmFjYWRlKCdhcHBzXHdlbmdzXE1NdWx0aW1lZGlhX0FwaScsICdpR2V0VmlkZW9JZEJ5V2VuZ2lkJywgWyR3ZW5nSWRdLCBmYWxzZSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCEkaVZpZGVvSWQpIHsKICAgICAgICAgICAgICAgICR0aGlzLT5yZWNvcmRMb2coc3ByaW50ZigiJXMsJXMsJXMiLCAkd2VuZ0lkLCAwLCAnbm90IHZpZGVvIGlkJyksICRmYWlsRmlsZVBhdGgpOwogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgJGFWaWRlbyA9ICR0aGlzLT5jYWxsRmFjYWRlKCdhcHBzXHZpZGVvXE1WaWRlb19JbmZvJywgJ2FHZXQnLCBbJGlWaWRlb0lkXSwgZmFsc2UpOwogICAgICAgICAgICBpZiAoISRhVmlkZW8pIHsKICAgICAgICAgICAgICAgICR0aGlzLT5jYWxsRmFjYWRlKAogICAgICAgICAgICAgICAgICAgICdhcHBzXHdlbmdzXE1Qcm94eV9WaWRlbycsCiAgICAgICAgICAgICAgICAgICAgJ2lQdWJsaXNoU3luYycsCiAgICAgICAgICAgICAgICAgICAgWyRpVmlkZW9JZCwgJGFWaWRlb1sndWlkJ10sICRhVmlkZW9bJ3NvdXJjZSddLCAkYVZpZGVvWydidXNpX3R5cGUnXV0sCiAgICAgICAgICAgICAgICAgICAgZmFsc2UKICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCEkYVZpZGVvIHx8ICRhVmlkZW9bJ2F1ZGl0X2ZsYWcnXSA9PSAwKSB7CiAgICAgICAgICAgICAgICAkdGhpcy0+Y2FsbEZhY2FkZSgnYXBwc1x3ZW5nc1xNTUFwaV9BdWRpdCcsICdyZVN1Ym1pdCcsIFskd2VuZ0lkXSwgZmFsc2UpOwogICAgICAgICAgICAgICAgJHRoaXMtPmNhbGxGYWNhZGUoCiAgICAgICAgICAgICAgICAgICAgJ2FwcHNcdmlkZW9cTVByb3h5X0F1ZGl0JywKICAgICAgICAgICAgICAgICAgICAnaUF1ZGl0JywKICAgICAgICAgICAgICAgICAgICBbJGlWaWRlb0lkLCAkYVZpZGVvWyd1aWQnXSwgJGFWaWRlb1snc291cmNlJ10sICRhVmlkZW9bJ2J1c2lfdHlwZSddXSwKICAgICAgICAgICAgICAgICAgICBmYWxzZQogICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICgkYVZpZGVvWydhdWRpdF9mbGFnJ10gPT0gMSAmJiAkYVZpZGVvWydmbGFnJ10gPT0gMjEpIHsKICAgICAgICAgICAgICAgIC8v5Zue6LCD56yU6K6wCiAgICAgICAgICAgICAgICAkdGhpcy0+Y2FsbEZhY2FkZSgKICAgICAgICAgICAgICAgICAgICAnYXBwc1x3ZW5nc1xNTXVsdGltZWRpYV9UcmFuc2NvZGVBcGknLAogICAgICAgICAgICAgICAgICAgICdpVmlkZW9DYWxsQmFjaycsCiAgICAgICAgICAgICAgICAgICAgWyR3ZW5nSWQsICRpVmlkZW9JZCwgM10sCiAgICAgICAgICAgICAgICAgICAgZmFsc2UKICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICAkdGhpcy0+cmVjb3JkTG9nKHNwcmludGYoIiVzLCVzLCVzIiwgJHdlbmdJZCwgJGlWaWRlb0lkLCAn5pyq6K+G5Yir5aSx6LSl57G75Z6LJyksICRmYWlsRmlsZVBhdGgpOw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmNhbGxGYWNhZGUoJ2FwcHNcd2VuZ3NcTU1BcGlfQXVkaXQnLCAncmVTdWJtaXQnLCBbJHdlbmdJZF0sIGZhbHNlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICwK</text>
+        <text>var_dump($iVideoId);die;</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgJHdlbmdJZCA9ICcxNjY4NzE5NTU5MDQyNzg4Jzs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBcYXBwc1x3ZW5nc1xNV2VuZ19BcGk6Ogo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHZhcl9kdW1wKCRkYXRhKTtkaWU7</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkaVZpZGVvSWQpO2RpZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
