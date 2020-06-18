@@ -98,11 +98,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1592449038226">
-        <mark key="[" line="191" column="7" />
-        <mark key="]" line="191" column="8" />
-        <mark key="." line="191" column="7" />
-        <mark key="^" line="191" column="8" />
+      <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1592450594748">
+        <mark key="[" line="184" column="1" />
+        <mark key="]" line="193" column="0" />
+        <mark key="^" line="195" column="8" />
+        <mark key="." line="193" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/ko/tool/HttpRequest.php" timestamp="1592392558836" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/InfoFlow.php" timestamp="1592388761392" />
@@ -135,7 +135,7 @@
       <file name="$USER_HOME$/Works/webdev/codehook/conf/pathmap.php" timestamp="1592387699644" />
       <file name="$USER_HOME$/Works/webdev/wengs/cz.json" timestamp="1592447205009" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Recommend.php" timestamp="1592392661551" />
-      <file name="$USER_HOME$/Works/webdev/wengs/form/DelayLike.php" timestamp="1592448855360" />
+      <file name="$USER_HOME$/Works/webdev/wengs/form/DelayLike.php" timestamp="1592450269852" />
     </filemarks>
     <jumps>
       <jump line="454" column="0" filename="$USER_HOME$/Works/webdev/wengs/test.php" />
@@ -262,8 +262,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>$startTime</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>$startTime</text>
@@ -275,35 +275,38 @@
         <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvU2lnbkxvZyBNV2VuZ19TaWduTG9nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JHNUb3BpY05hbWUgPSAn5rip5pqW5Yas5pelLOWdoOWFpea3seiTnSc7CmlmICghJGFUb3BpY05hbWVzID0gZXhwbG9kZSgiLCIsICRzVG9waWNOYW1lKSkgewogICAgcmV0dXJuIFtdOwp9Ci8qKgogKiBAdmFyICRvVGFnQXBpIE1UYWdfSXRlbQogKi8KJG9UYWdBcGkgPSBNQXBwOjpjcmVhdGVPYmplY3QoTVRhZ19JdGVtOjpjbGFzcyk7CiRhVGFnTGlzdCA9ICRvVGFnQXBpLT5hR2V0VGFnc0J5TmFtZXMoJGFUb3BpY05hbWVzKTsKJHJlcyA9IGFycmF5X2NvbHVtbigkYVRhZ0xpc3QsICdpZCcpOwpkZCgkcmVzKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKHNwcmludGYoIuesrCVz5qyh5bCd6K+VIiwgJGkrKykpOwo=</text>
+      <register name="2" type="4">
+        <text>public  function ()
+    {
+        
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyX2R1bXAoc3RydG90aW1lKCcyMDIwLTA2LTE4IDEwOjMwJykpOwo=</text>
+        <text encoding="base64">JHNUb3BpY05hbWUgPSAn5rip5pqW5Yas5pelLOWdoOWFpea3seiTnSc7CmlmICghJGFUb3BpY05hbWVzID0gZXhwbG9kZSgiLCIsICRzVG9waWNOYW1lKSkgewogICAgcmV0dXJuIFtdOwp9Ci8qKgogKiBAdmFyICRvVGFnQXBpIE1UYWdfSXRlbQogKi8KJG9UYWdBcGkgPSBNQXBwOjpjcmVhdGVPYmplY3QoTVRhZ19JdGVtOjpjbGFzcyk7CiRhVGFnTGlzdCA9ICRvVGFnQXBpLT5hR2V0VGFnc0J5TmFtZXMoJGFUb3BpY05hbWVzKTsKJHJlcyA9IGFycmF5X2NvbHVtbigkYVRhZ0xpc3QsICdpZCcpOwpkZCgkcmVzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKHNwcmludGYoIuesrCVz5qyh5bCd6K+VIiwgJGkrKykpOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">dmFyX2R1bXAoc3RydG90aW1lKCcyMDIwLTA2LTE4IDEwOjMwJykpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text>$res = date('Y-m-d H:i:s', 1592476201);
 var_dump($res);die;</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">dmFyX2R1bXAoZmlsZV9nZXRfY29udGVudHMoJG91dHB1dCkpO2RpZTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">MQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text>var_dump(file_get_contents($output));die;</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PD9waHAKcmVxdWlyZV9vbmNlIF9fRElSX18gLiAiL3JlcXVlc3QucGhwIjsKCiRvdXRwdXQgPSBfX0RJUl9fIC4gIi9udW0iOwokY2xpZW50ID0gbmV3IEh0dHBSZXF1ZXN0KCk7CiRjbGllbnQtPnZTZXRDb29raWVzKFsnZGlubmVyX3Nlc3Npb24nID0+ICdpT0dWckREWktyeFl3SVVqM1Q2YnN2U2RsSE9xelVza1FlTUljaWZHJ10pOwokaSA9IDE7CndoaWxlICh0cnVlKSB7CiAgICB2YXJfZHVtcChzcHJpbnRmKCLnrKwlc+asoeWwneivlSIsICRpKyspKTsKICAgIGlmIChmaWxlX2V4aXN0cygkb3V0cHV0KSAmJiBmaWxlX2dldF9jb250ZW50cygkb3V0cHV0KSkgewogICAgICAgIGJyZWFrOwogICAgfQoKLy8gICAgJHJlcyA9ICRjbGllbnQtPmdldCgnaHR0cHM6Ly9kaW5uZXItd29yay5tYWZlbmd3by5jbi9zaG93Jyk7CiAgICAkcmVzID0gJGNsaWVudC0+cG9zdCgnaHR0cHM6Ly9kaW5uZXItd29yay5tYWZlbmd3by5jbi9nZXRudW0nKTsKICAgICRyZXMgPSBqc29uX2RlY29kZSgkcmVzLCB0cnVlKTsKICAgIGlmICgkcmVzWydjb2RlJ10gPT0gMjAwKSB7CiAgICAgICAgZmlsZV9wdXRfY29udGVudHMoJG91dHB1dCwgJHJlc1snZGF0YSddKTsKICAgIH0KfQplY2hvICJjb21wbGV0ZSI7Cg==</text>
+        <text encoding="base64">MQo=</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
