@@ -95,6 +95,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Weng.php" timestamp="1592547836300" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/operate.php" timestamp="1592547809038" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/File.php" timestamp="1592546344208" />
+      <file name="$USER_HOME$/Works/webdev/qianxun/facade/aggregate/AggregatePageApi.php" timestamp="1592554676439" />
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/dataprovider/Weng.php" timestamp="1592550273433" />
       <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1592551237776">
         <mark key="[" line="179" column="0" />
@@ -109,7 +110,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/tag.php" timestamp="1592552373891" />
       <file name="$USER_HOME$/Works/webdev/wengs/multimedia/Api.php" timestamp="1592547448473" />
       <file name="$USER_HOME$/Works/webdev/file/www2011/include/file/meta/Facade.php" timestamp="1592546382681" />
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/topic.php" timestamp="1592552472948">
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/topic.php" timestamp="1592554664351">
         <mark key="[" line="68" column="95" />
         <mark key="]" line="63" column="52" />
         <mark key="." line="63" column="52" />
@@ -131,14 +132,10 @@
         <mark key="]" line="32" column="44" />
         <mark key="." line="32" column="44" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Aggregate.php" timestamp="1592553940534">
-        <mark key="[" line="36" column="46" />
-      </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/spider.php" timestamp="1592536636521">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="^" line="238" column="34" />
-        <mark key="." line="75" column="0" />
+      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Aggregate.php" timestamp="1592554728233">
+        <mark key="[" line="40" column="90" />
+        <mark key="]" line="40" column="90" />
+        <mark key="." line="40" column="90" />
       </file>
     </filemarks>
     <jumps>
@@ -267,12 +264,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>) {
-            throw new \Ko_Exception('话题已存在');
-        }</text>
+        <text>$creatorId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TUFwcDo6JGFwcC0+dXNlci0+aWQ=</text>
+        <text>$creatorId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
