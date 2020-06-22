@@ -91,37 +91,41 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Works/webdev/wengs/app/sche.php" timestamp="1592794435728" />
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/Recommend.php" timestamp="1592797445904">
-        <mark key="[" line="154" column="76" />
-        <mark key="]" line="131" column="8" />
-        <mark key="." line="131" column="8" />
-      </file>
-      <file name="$USER_HOME$/Works/webdev/rss/controller/wxapp/Detail.php" timestamp="1592798260482" />
-      <file name="$USER_HOME$/Works/webdev/wengs/weng/Report.php" timestamp="1592796009449" />
-      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Video.php" timestamp="1592797476330">
-        <mark key="[" line="508" column="12" />
-        <mark key="]" line="513" column="0" />
-        <mark key="." line="513" column="0" />
-      </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/detail/WengDetail.php" timestamp="1592796464988" />
-      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/InfoFlow.php" timestamp="1592806930991" />
-      <file name="$USER_HOME$/Works/webdev/rss/mapi/tag/RecommendV1.php" timestamp="1592798141298" />
-      <file name="$USER_HOME$/Works/webdev/wengs/app/Report.php" timestamp="1592801303763" />
-      <file name="$USER_HOME$/Works/webdev/video/facade/video/Gif.php" timestamp="1592796865447" />
-      <file name="$USER_HOME$/Works/webdev/wengs/event/DragonBoatHoney.php" timestamp="1592807643738" />
-      <file name="$USER_HOME$/Works/webdev/manual-script/201903/weng/gen_weekly_report.php" timestamp="1592796088610" />
-      <file name="$USER_HOME$/Works/webdev/wengs/multimedia/FormatTool.php" timestamp="1592806905953" />
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/dataprovider/DetailRecommend.php" timestamp="1592796692276" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/admin/set_cover_page.v2.php" timestamp="1592809745719" />
       <file name="$USER_HOME$/Works/webdev/rss/router/Factory.php" timestamp="1592798189272" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/format/PoiCardList.php" timestamp="1592806711950">
         <mark key="[" line="81" column="10" />
         <mark key="]" line="29" column="65" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/rss/router/Topic.php" timestamp="1592798098356" />
+      <file name="$USER_HOME$/Works/webdev/wengs/weng/ContentApi.php" timestamp="1592809904031" />
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/dataprovider/Weng.php" timestamp="1592806957819" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/wxapp/Detail.php" timestamp="1592796813498" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/Recommend.php" timestamp="1592797445904">
+        <mark key="[" line="154" column="76" />
+        <mark key="]" line="131" column="8" />
+        <mark key="." line="131" column="8" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/rss/controller/wxapp/Detail.php" timestamp="1592798260482" />
+      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Video.php" timestamp="1592797476330">
+        <mark key="[" line="508" column="12" />
+        <mark key="]" line="513" column="0" />
+        <mark key="." line="513" column="0" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/InfoFlow.php" timestamp="1592806930991" />
+      <file name="$USER_HOME$/Works/webdev/rss/mapi/tag/RecommendV1.php" timestamp="1592798141298" />
+      <file name="$USER_HOME$/Works/webdev/wengs/app/Report.php" timestamp="1592801303763" />
+      <file name="$USER_HOME$/Works/webdev/video/facade/video/Gif.php" timestamp="1592796865447" />
+      <file name="$USER_HOME$/Works/webdev/wengs/event/DragonBoatHoney.php" timestamp="1592809324515" />
+      <file name="$USER_HOME$/Works/webdev/wengs/multimedia/FormatTool.php" timestamp="1592806905953" />
+      <file name="$USER_HOME$/Works/webdev/wengs/weng/Meta.php" timestamp="1592809929383" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/Cover.php" timestamp="1592809909158">
+        <mark key="[" line="46" column="33" />
+        <mark key="]" line="36" column="8" />
+        <mark key="." line="36" column="8" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/rss/router/Topic.php" timestamp="1592798098356" />
+      <file name="$USER_HOME$/Works/webdev/wengs/app/VideoDaren.php" timestamp="1592810193873" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/detailv2.php" timestamp="1592796775958" />
     </filemarks>
     <jumps>
@@ -249,11 +253,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkYVNob3dQb3NJbmZvLCBbJ3BvaV9vcCddLCBbXSkK</text>
+      <register name="&quot;" type="4">
+        <text>$oProxyFile</text>
       </register>
       <register name="-" type="4">
-        <text>$oRelationTravel</text>
+        <text>$oProxyFile</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -262,36 +266,36 @@
         <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvU2lnbkxvZyBNV2VuZ19TaWduTG9nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkYVNob3dQb3NJbmZvLCBbJ3BvaV9vcCddLCBbXSkK</text>
+        <text encoding="base64">CiAgICAvLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkYVNob3dQb3NJbmZvLCBbJ3BvaV9vcCddLCBbXSkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">WwogICAgICAgICAgICAnY29kZScgICAgPT4gMCwKICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICdzdWNjZXNzJywKICAgICAgICBd</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">WwogICAgICAgICAgICAnZXhwZXJpbWVudF9jb3ZlcicgID0+IFsKICAgICAgICAgICAgICAgICd0eXBlJyAgICAgICAgICA9PiBNTXVsdGltZWRpYV9BcGk6OlRZUEVfV0VOR19ERUZBVUxULAogICAgICAgICAgICAgICAgJ3Jlc291cmNlJyAgICAgID0+ICRzQ292ZXIsCiAgICAgICAgICAgICAgICAncmVzb3VyY2VfbWV0YScgPT4gJGFDb3Zlck1ldGEsCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICdleHBlcmltZW50X3N0YXR1cycgPT4gMCwKICAgICAgICBdKTs=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Ly/lj4zlsIHpnaLlrp7pqoznirbmgIEKICAgIGNvbnN0IEVYUF9TVEFUVVNfUFJPQ0VTU0lORyA9IDA7IC8v5a6e6aqM6L+b6KGM5LitCiAgICBjb25zdCBFWFBfU1RBVFVTX1VTRV9ORVcgPSAxOyAgICAvL+S9v+eUqOaWsOWwgemdogogICAgY29uc3QgRVhQX1NUQVRVU19VU0VfT0xEID0gMjsgICAgLy/kvb/nlKjml6flsIHpnaIK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>[
                 'cover'
             ]</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvQ29udGVudEFwaSBNV2VuZ19Db250ZW50QXBpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
