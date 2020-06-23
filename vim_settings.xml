@@ -93,10 +93,14 @@
     <filemarks>
       <file name="$USER_HOME$/Works/webdev/wengs/base/Request.php" timestamp="1592893319600" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/detail/get_detail.v2.php" timestamp="1592892433104" />
-      <file name="$USER_HOME$/Works/webdev/wengs/open/Info.php" timestamp="1592879853118" />
+      <file name="$USER_HOME$/Works/webdev/wengs/open/Info.php" timestamp="1592896513322" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/open/Info.php" timestamp="1592879856620" />
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/dataprovider/Weng.php" timestamp="1592892185148">
-        <mark key="[" line="162" column="25" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/dataprovider/Weng.php" timestamp="1592896679339">
+        <mark key="'" line="189" column="52" />
+        <mark key="[" line="168" column="12" />
+        <mark key="]" line="168" column="12" />
+        <mark key="^" line="193" column="26" />
+        <mark key="." line="168" column="12" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1592894378219">
         <mark key="[" line="178" column="9" />
@@ -105,28 +109,31 @@
         <mark key="^" line="183" column="9" />
       </file>
       <file name="$USER_HOME$/Works/webdev/qianxun/facade/Conf.php" timestamp="1592894703083" />
-      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/InfoFlow.php" timestamp="1592894876435">
-        <mark key="[" line="84" column="23" />
+      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/InfoFlow.php" timestamp="1592894969094">
+        <mark key="[" line="90" column="77" />
         <mark key="]" line="84" column="74" />
         <mark key="." line="84" column="74" />
       </file>
       <file name="/PHP Console" timestamp="1592893763763">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/multimedia/FormatTool.php" timestamp="1592877981654" />
+      <file name="$USER_HOME$/Works/webdev/wengs/multimedia/FormatTool.php" timestamp="1592895488396" />
       <file name="$USER_HOME$/Works/webdev/infoflow/src/interface/source/lbs/Weng.php" timestamp="1592877864700" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Qianxun.php" timestamp="1592894678752" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/dataprovider/Recommend.php" timestamp="1592894764415" />
       <file name="$USER_HOME$/Works/webdev/wengs/open/Base.php" timestamp="1592879876364" />
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/Mdd.php" timestamp="1592892035641" />
       <file name="$USER_HOME$/Works/webdev/infoflow/src/interface/facade/NewFlowApi.php" timestamp="1592878648982" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/Cover.php" timestamp="1592896196004">
+        <mark key="[" line="47" column="56" />
+        <mark key="]" line="63" column="31" />
+        <mark key="." line="63" column="31" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/Conf.php" timestamp="1592879164248" />
       <file name="$USER_HOME$/Works/webdev/wengs/open/Conf.php" timestamp="1592879885698" />
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/EditorPoi.php" timestamp="1592877767396" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/detail.php" timestamp="1592892076437" />
     </filemarks>
     <jumps>
-      <jump line="454" column="0" filename="$USER_HOME$/Works/webdev/wengs/test.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Works/webdev/wengs/controller/admin/debug.php" />
       <jump line="142" column="8" filename="$USER_HOME$/Works/webdev/wengs/controller/admin/debug.php" />
       <jump line="1028" column="28" filename="$USER_HOME$/Works/webdev/wengs/controller/admin/debug.php" />
@@ -226,6 +233,7 @@
       <jump line="12" column="7" filename="$USER_HOME$/Works/webdev/qianxun/event/Conf.php" />
       <jump line="77" column="29" filename="$USER_HOME$/Works/webdev/wengs/mapi/WengTag.php" />
       <jump line="73" column="4" filename="$USER_HOME$/Works/webdev/wengs/mapi/WengTag.php" />
+      <jump line="181" column="52" filename="$USER_HOME$/Works/webdev/wengs/mapi/dataprovider/Weng.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -251,10 +259,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIAogICAgICAgIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>D4%3ABB%3AC8%3A34%3AEB%3A6D</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -262,35 +270,41 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvU2lnbkxvZyBNV2VuZ19TaWduTG9nCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIAogICAgICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvQ29udGVudEFwaSBNV2VuZ19Db250ZW50QXBpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiRhID0gJ2FiJzsKCiRyZXMgPSAoJGEgJiAxKSA9PSAxOwpkZCgkcmVzKTs=</text>
+        <text encoding="base64">ICAgICAgICAkb0NvbnRlbnRBcGkgPSBNQXBwOjpjcmVhdGVPYmplY3QoTVdlbmdfQ29udGVudEFwaTo6Y2xhc3MpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Nob3dfbW9kZScgPT4gJycsCg==</text>
+      <register name="3" type="4">
+        <text>if ($bSortMedia) {
+                $sorts = [];
+                foreach ($aWeng['items'] as $i) {
+                    $sorts[] = MTool_Array::mGetValue($i, 'sort', 0);
+                }
+                array_multisort($sorts, SORT_DESC, array_keys($aWeng['items']), SORT_ASC, $aWeng['items']);
+            }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRkYXRhID0ganNvbl9kZWNvZGUoZmlsZV9nZXRfY29udGVudHMoInBocDovL2lucHV0IiksIHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvQ29udGVudEFwaSBNV2VuZ19Db250ZW50QXBpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkb0NvbnRlbnRBcGkgPSBNQXBwOjpjcmVhdGVPYmplY3QoTVdlbmdfQ29udGVudEFwaTo6Y2xhc3MpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiRyZXMgPSBcYXBwc1x3ZW5nc1xNTWFwaV9Db3Zlcjo6Z2V0Q292ZXJSYW5kb20oMTY2ODQ3NjA0MTQzNjIzOSk7CmRkKCRyZXMpOw==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICAvLwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">aWYgKCEoJGFNZWRpYXMgPSAkdGhpcy0+YUZvcm1hdE1lZGlhcygkYVdlbmdbJ2l0ZW1zJ10sICRvRm9yYW10VG9vbCkpKSB7CiAgICAgICAgICAgICAgICBNQXBwOjokYXBwLT5sb2ctPnJ1bnRpbWUoImVtcHR5Om1lZGlhIiwgJGFXZW5nKTsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkYVNob3dQb3NJbmZvLCBbJ3BvaV9vcCddLCBbXSkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">aWYgKCRjb3ZlciA9IE1Ub29sX0FycmF5OjptR2V0VmFsdWUoJGFXZW5nLCAnY292ZXInKSkgewogICAgICAgICAgICAgICAgJGZsYWcgICAgID0gJG9Db250ZW50QXBpLT5iVXNlV2F0ZXJNYXJrKCRhV2VuZ1snd2VuZ2lkJ10pID8KICAgICAgICAgICAgICAgICAgICBNTXVsdGlNZWRpYV9Gb3JtYXRUb29sOjpGTEFHX1VTRV9XQVRFUl9NQVJLIDogMDsKICAgICAgICAgICAgICAgICRjb3ZlckltZyA9ICRvRm9yYW10VG9vbC0+YUdldE1lZGlhRGF0YSgkY292ZXIsIE1NdWx0aU1lZGlhX0Zvcm1hdFRvb2w6OkRFRkFVTFRfU0laRVMsICRmbGFnKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICRjb3ZlckltZyA9ICRpc1ZpZGVvID8gTVRvb2xfQXJyYXk6Om1HZXRWYWx1ZSgkYU1lZGlhLCAnZGF0YS50aHVtYm5haWwnLCBbXSkgOiAkYU1lZGlhWydkYXRhJ107CiAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIAogICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
