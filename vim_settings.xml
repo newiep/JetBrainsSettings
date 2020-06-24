@@ -92,50 +92,61 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/detail/WengDetail.php" timestamp="1592992044869" />
+      <file name="$USER_HOME$/Works/webdev/wengs/flow/node/WengFlowV2.php" timestamp="1592996763764" />
+      <file name="$USER_HOME$/Works/webdev/wengs/open/Info.php" timestamp="1592996260101" />
       <file name="$USER_HOME$/Works/webdev/wengs/script/script/video_audit.php" timestamp="1592984383550">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="^" line="35" column="11" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/facade/open/Info.php" timestamp="1592994875317" />
+      <file name="$USER_HOME$/Works/webdev/wengs/flow/list/Open.php" timestamp="1592997254024">
+        <mark key="[" line="16" column="44" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="45" column="61" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/InfoFlow.php" timestamp="1592992807403">
         <mark key="[" line="90" column="77" />
         <mark key="]" line="84" column="74" />
         <mark key="." line="84" column="74" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/multimedia/FormatTool.php" timestamp="1592969530399" />
-      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Qianxun.php" timestamp="1592980688034" />
-      <file name="$USER_HOME$/Works/webdev/wengs/multimedia/Api.php" timestamp="1592970420420" />
+      <file name="$USER_HOME$/Works/webdev/wengs/flow/node/open/WengFlowItem.php" timestamp="1592995734791">
+        <mark key="[" line="10" column="1" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/weng/Cover.php" timestamp="1592993660114">
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/Weng.php" timestamp="1592987267047">
         <mark key="[" line="497" column="9" />
       </file>
       <file name="$USER_HOME$/Works/webdev/video/video/Info.php" timestamp="1592983979124" />
-      <file name="$USER_HOME$/Works/webdev/wengs/multimedia/TranscodeApi.php" timestamp="1592970330569" />
-      <file name="$USER_HOME$/Works/webdev/wengs/multimedia/Audit.php" timestamp="1592969502585" />
+      <file name="$USER_HOME$/Works/webdev/wengs/style/Base.php" timestamp="1592995482347">
+        <mark key="[" line="11" column="5" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/cover.php" timestamp="1592993647492">
+        <mark key="[" line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/format/PoiCardList.php" timestamp="1592992841417">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/qianxun/facade/interface/PackInterfaceApi.php" timestamp="1592985180168" />
-      <file name="$USER_HOME$/Works/webdev/wengs/script/script/cover.php" timestamp="1592970576233">
-        <mark key="[" line="38" column="21" />
-        <mark key="]" line="38" column="80" />
-        <mark key="^" line="38" column="80" />
-        <mark key="." line="38" column="79" />
+      <file name="$USER_HOME$/Works/webdev/wengs/flow/node/MovieFlow.php" timestamp="1592995543630" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/Cover.php" timestamp="1592993952366">
+        <mark key="[" line="47" column="56" />
+        <mark key="]" line="63" column="31" />
+        <mark key="." line="63" column="31" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/spider.php" timestamp="1592970445510">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="^" line="238" column="34" />
-        <mark key="." line="75" column="0" />
-      </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Show.php" timestamp="1592978272596" />
       <file name="$USER_HOME$/Works/webdev/wengs/Conf.php" timestamp="1592991759186" />
-      <file name="$USER_HOME$/Works/webdev/show/open/Info.php" timestamp="1592971051219" />
-      <file name="$USER_HOME$/Works/webdev/wengs/multimedia/VideoThumb.php" timestamp="1592970319085" />
-      <file name="$USER_HOME$/Works/webdev/wengs/flow/list/Recommend.php" timestamp="1592980654736" />
-      <file name="$USER_HOME$/Works/webdev/wengs/form/PublishParameter.php" timestamp="1592969397329" />
+      <file name="$USER_HOME$/Works/webdev/wengs/flow/BaseList.php" timestamp="1592997045905">
+        <mark key="[" line="43" column="15" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/flow/list/Recommend.php" timestamp="1592996820767" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Works/webdev/wengs/controller/admin/debug.php" />
@@ -263,10 +274,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>var_dump($operateInfo);die;</text>
+        <text>$item['id']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -275,35 +286,34 @@
         <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvU2lnbkxvZyBNV2VuZ19TaWduTG9nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>break; //2020-06-24 修改逻辑，只展示一个POI 卡片。
-                   //为何不只取一个poi id, 是因为 poi 有可能不存在（或合并状态），导致没有poi 卡片展示</text>
+        <text encoding="base64">LyoqCiAgICAgICAgICogQHZhciAkb0RhdGFBcGkgTVdlbmdfRGF0YUFwaQogICAgICAgICAqLwogICAgICAgICRvRGF0YUFwaSAgPSBNQXBwOjpjcmVhdGVPYmplY3QoTVdlbmdfRGF0YUFwaTo6Y2xhc3MpOwogICAgICAgICRhV2VuZ0xpc3QgPSAkb0RhdGFBcGktPmFHZXRzKGFycmF5X3VuaXF1ZSgkdGhpcy0+d2VuZ01hcEtleXMpKTsKICAgICAgICByZXR1cm4gYXJyYXlfY29sdW1uKCRhV2VuZ0xpc3QsIG51bGwsICd3ZW5naWQnKTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkYVdlbmdJZHMgPSBhcnJheV91bmlxdWUoJHRoaXMtPndlbmdNYXBLZXlzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkYVdlbmdNYXAgPSBbXTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvUHJveHlSZWNvbW1lbmQgTVByb3h5X1JlY29tbWVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkb1Byb3h5UmVjb21tZW5kID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1Qcm94eV9SZWNvbW1lbmQ6OmNsYXNzKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgZm9yZWFjaCAoJGFXZW5nSWRzIGFzICR3ZW5nSWQpIHsKICAgICAgICAgICAgJGZvcm1hdFRvb2wgPSBNQXBwOjpjcmVhdGVPYmplY3QoTU11bHRpTWVkaWFfRm9ybWF0VG9vbDo6Y2xhc3MsIFsndXNlV2VicCcgPT4gJHRoaXMtPnVzZVdlYnBdKTsKICAgICAgICAgICAgLyoqKiBAdmFyIE1PcGVuX0luZm8gJGVudGl0eSAqLwogICAgICAgICAgICAkZW50aXR5ID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1PcGVuX0luZm86OmNsYXNzLCBbCiAgICAgICAgICAgICAgICAnaWQnICAgICAgID0+ICR3ZW5nSWQsCiAgICAgICAgICAgICAgICAnY29uZicgICAgID0+IFsKICAgICAgICAgICAgICAgICAgICAnc3R5bGUnICAgICAgICAgPT4gTU9wZW5fQ29uZjo6U1RZTEVfV0VOR19GTE9XX0lURU0sCiAgICAgICAgICAgICAgICAgICAgJ2Zvcm1hdF90b29sJyAgID0+ICRmb3JtYXRUb29sLAogICAgICAgICAgICAgICAgICAgICdzaG93X21vZGUnICAgICA9PiBNT3Blbl9Db25mOjpTSE9XX01PREVfTElTVCwKICAgICAgICAgICAgICAgICAgICAndXNlX3NtZScgICAgICAgPT4gJHRoaXMtPnVzZVNtZSwKICAgICAgICAgICAgICAgICAgICAnc2hvd190YWdfbGlzdCcgPT4gJHRoaXMtPnNob3dUYWdMaXN0LAogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICdsb2dpblVpZCcgPT4gJHRoaXMtPmxvZ2luVWlkLAogICAgICAgICAgICBdKTsKICAgICAgICAgICAgaWYgKCRpdGVtID0gJGVudGl0eS0+Z2V0SW5mbygpKSB7CiAgICAgICAgICAgICAgICAkYVdlbmdNYXBbJHdlbmdJZF0gPSAkaXRlbTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gJGFXZW5nTWFwOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkYVdlbmdJbmZvICAgICAgID0gJG9EYXRhQXBpLT5hR2V0KCR0aGlzLT53ZW5nSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpbmRleCcgID0+ICRpbmRleCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkaSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcm1JZCcgID0+ICRpdGVtWydwcm1faWQnXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQG1ldGhvZCB2b2lkIGxhenlMb2FkU2hvd01hcCguLi4gJGl0ZW0pCiAqIEBtZXRob2QgYXJyYXkgcmVhZEF0dHJTaG93TWFwKGFycmF5ICRrZXlzKQogKiBAbWV0aG9kIHZvaWQgbGF6eUxvYWRXZW5nTWFwKC4uLiAkaXRlbSkKICogQG1ldGhvZCBhcnJheSByZWFkQXR0cldlbmdNYXAoYXJyYXkgJGtleXMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
