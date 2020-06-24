@@ -92,11 +92,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Weng.php" timestamp="1592900463145" />
-      <file name="$USER_HOME$/Works/webdev/wengs/script/script/fixedIdMap.php" timestamp="1592912091665">
-        <mark key="[" line="50" column="44" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="50" column="44" />
+      <file name="$USER_HOME$/Works/webdev/wengs/script/script/fixedIdMap.php" timestamp="1592963496852">
+        <mark key="[" line="45" column="25" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="22" column="94" />
+        <mark key="^" line="16" column="1" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/base/Request.php" timestamp="1592893319600" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/operate.php" timestamp="1592900446392" />
@@ -265,8 +265,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgkYml6VHlwZSAuICcgLCDnsbvlnovkuI3mlK/mjIEnLiBQSFBfRU9MKTsK</text>
+      <register name="&quot;" type="4">
+        <text>90000005887757757 ,90000005827365002 ,90000005884085413 ,90000005884116609
+,90000005884116633 ,90000005884116591 ,90000004519109342 ,90000005884097137 ,90000005884097135
+,90000005887799932 ,90000005892353977 ,90000005892550430 ,90000005892556466 ,90000005827506511
+,90000005884112507 ,90000005884112556 ,90000005884112437 ,90000005887796336 ,90000005899683071</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -277,25 +280,31 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvU2lnbkxvZyBNV2VuZ19TaWduTG9nCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgkYml6VHlwZSAuICcgLCDnsbvlnovkuI3mlK/mjIEnLiBQSFBfRU9MKTsK</text>
+      <register name="1" type="4">
+        <text>90000005887757757 ,90000005827365002 ,90000005884085413 ,90000005884116609
+,90000005884116633 ,90000005884116591 ,90000004519109342 ,90000005884097137 ,90000005884097135
+,90000005887799932 ,90000005892353977 ,90000005892550430 ,90000005892556466 ,90000005827506511
+,90000005884112507 ,90000005884112556 ,90000005884112437 ,90000005887796336 ,90000005899683071</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgkYml6VHlwZSAuICcgLCDnsbvlnovkuI3mlK/mjIEnLiBQSFBfRU9MKTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGlkKTtkaWU7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgdmFyX2R1bXAoMSk7ZGllOw==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvQ29udGVudEFwaSBNV2VuZ19Db250ZW50QXBpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAkb0NvbnRlbnRBcGkgPSBNQXBwOjpjcmVhdGVPYmplY3QoTVdlbmdfQ29udGVudEFwaTo6Y2xhc3MpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>if ($bSortMedia) {
                 $sorts = [];
                 foreach ($aWeng['items'] as $i) {
@@ -304,14 +313,11 @@
                 array_multisort($sorts, SORT_DESC, array_keys($aWeng['items']), SORT_ASC, $aWeng['items']);
             }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvQ29udGVudEFwaSBNV2VuZ19Db250ZW50QXBpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkb0NvbnRlbnRBcGkgPSBNQXBwOjpjcmVhdGVPYmplY3QoTVdlbmdfQ29udGVudEFwaTo6Y2xhc3MpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkb0NvbnRlbnRBcGkgPSBNQXBwOjpjcmVhdGVPYmplY3QoTVdlbmdfQ29udGVudEFwaTo6Y2xhc3MpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
