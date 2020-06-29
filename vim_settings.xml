@@ -97,14 +97,16 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/mobile/mobile_api/api/user/profile/get_list.v1.php" timestamp="1593409591361" />
-      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Home.php" timestamp="1593413814078">
+      <file name="$USER_HOME$/Works/webdev/mobile/mobile_api/api/user/profile/get_list.v1.php" timestamp="1593420592388">
+        <mark key="[" line="212" column="104" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Home.php" timestamp="1593420716925">
         <mark key="[" line="327" column="55" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/script/script/example.php" timestamp="1593419347665">
-        <mark key="[" line="34" column="80" />
-        <mark key="]" line="48" column="13" />
-        <mark key="." line="48" column="13" />
+      <file name="$USER_HOME$/Works/webdev/wengs/script/script/example.php" timestamp="1593420427539">
+        <mark key="[" line="55" column="76" />
+        <mark key="]" line="55" column="76" />
+        <mark key="." line="55" column="76" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/dataprovider/Banner.php" timestamp="1593412621073" />
       <file name="$USER_HOME$/Works/webdev/wxapp/rest/matrix/user/collectv2.php" timestamp="1593409627485" />
@@ -113,14 +115,7 @@
         <mark key="]" line="55" column="33" />
         <mark key="." line="55" column="33" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/facade/open/Info.php" timestamp="1593414474628" />
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/dataprovider/Weng.php" timestamp="1593402089591">
-        <mark key="'" line="189" column="52" />
-        <mark key="[" line="194" column="23" />
-        <mark key="]" line="168" column="12" />
-        <mark key="^" line="193" column="26" />
-        <mark key="." line="168" column="12" />
-      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/facade/open/Info.php" timestamp="1593420751684" />
       <file name="$USER_HOME$/Works/webdev/ko/data/RedisK.php" timestamp="1593410618632" />
       <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1593414413294">
         <mark key="[" line="179" column="22" />
@@ -132,7 +127,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/homepage/get_weng_list.v3.php" timestamp="1593412502398" />
       <file name="$USER_HOME$/Works/webdev/content-ranking/server/Manager/RankingManager.php" timestamp="1593412103699" />
       <file name="$USER_HOME$/Works/webdev/wengs/weng/DataApi.php" timestamp="1593410369218" />
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/MineWeng.php" timestamp="1593414731121">
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/MineWeng.php" timestamp="1593420789919">
         <mark key="[" line="188" column="9" />
         <mark key="]" line="192" column="94" />
         <mark key="^" line="245" column="34" />
@@ -142,6 +137,7 @@
       <file name="/PHP Console" timestamp="1593414386172">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/open/Conf.php" timestamp="1593420788223" />
       <file name="$USER_HOME$/Works/webdev/content-ranking/server/Manager/ScoreDetailManager.php" timestamp="1593411560252" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/homepage/get_wengs.v1.php" timestamp="1593412424769" />
     </filemarks>
@@ -271,10 +267,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, $wengIdsList['list']</text>
+        <text>['test1','test2']</text>
       </register>
       <register name="-" type="4">
-        <text>, $wengIdsList['list']</text>
+        <text>['test1','test2']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
