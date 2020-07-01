@@ -91,57 +91,53 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Works/webdev/wengs/test1.php" timestamp="1593586822149">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="10" column="32" />
-        <mark key="." line="10" column="32" />
+      <file name="$USER_HOME$/Works/webdev/wengs/test1.php" timestamp="1593595674236">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="34" />
+        <mark key="." line="10" column="34" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/mock/machine/Interaction.php" timestamp="1593585223287">
         <mark key="[" line="14" column="39" />
         <mark key="]" line="14" column="33" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="/a.dummy" timestamp="1593585403654">
+      <file name="/a.dummy" timestamp="1593592722677">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/admin/Operate.php" timestamp="1593589603196" />
+      <file name="$USER_HOME$/Works/webdev/wengs/admin/Operate.php" timestamp="1593592968994" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/Queue.php" timestamp="1593584952184" />
       <file name="$USER_HOME$/Works/webdev/wengs/event/AfterAudit.php" timestamp="1593585042692" />
-      <file name="/PHP Console" timestamp="1593586941589">
+      <file name="$USER_HOME$/Works/webdev/ko/tool/Str.php" timestamp="1593593775890" />
+      <file name="/PHP Console" timestamp="1593593696297">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/tests/tool/sme/data.json" timestamp="1593587612030" />
-      <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Home.php" timestamp="1593583658245">
-        <mark key="[" line="450" column="27" />
-        <mark key="]" line="455" column="64" />
-        <mark key="^" line="455" column="64" />
-        <mark key="." line="455" column="63" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mock/machine/MockPv.php" timestamp="1593595793217">
+        <mark key="[" line="28" column="11" />
+        <mark key="]" line="28" column="11" />
+        <mark key="." line="28" column="11" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/mapi/Like.php" timestamp="1593589605766" />
-      <file name="$USER_HOME$/Works/webdev/wengs/script/script/example.php" timestamp="1593588325229">
-        <mark key="[" line="34" column="96" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Works/webdev/wengs/script/script/example.php" timestamp="1593595828577">
+        <mark key="[" line="59" column="22" />
+        <mark key="]" line="56" column="14" />
+        <mark key="." line="56" column="13" />
+        <mark key="^" line="56" column="14" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/mock/MachineInteraction.php" timestamp="1593591009871">
-        <mark key="[" line="29" column="76" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mock/MachineInteraction.php" timestamp="1593595153069">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/tool/Sme.php" timestamp="1593587826440" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/group/Api.php" timestamp="1593585069846" />
-      <file name="$USER_HOME$/Works/webdev/show/facade/inner/Home.php" timestamp="1593583105308">
-        <mark key="[" line="98" column="25" />
-        <mark key="]" line="100" column="65" />
-        <mark key="." line="100" column="65" />
-      </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/mock/machine/Like.php" timestamp="1593589506642">
+      <file name="$USER_HOME$/Works/webdev/wengs/mock/machine/Like.php" timestamp="1593592716517">
         <mark key="[" line="16" column="49" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/admin/admin_like.v1.php" timestamp="1593585116187" />
-      <file name="$USER_HOME$/Works/webdev/wengs/weng/Counter.php" timestamp="1593589333503">
+      <file name="$USER_HOME$/Works/webdev/wengs/weng/Counter.php" timestamp="1593592873299">
         <mark key="[" line="42" column="22" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/form/DelayLike.php" timestamp="1593585959450" />
@@ -277,11 +273,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzbGVlcCgkZGVsYXlTZWMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>var_dump($data[0]);die;</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -290,34 +286,38 @@
         <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvU2lnbkxvZyBNV2VuZ19TaWduTG9nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzbGVlcCgkZGVsYXlTZWMpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICRkYXRhID0gJ3Rlc3QnLisrJGk7</text>
+        <text>protected $bizId;
+
+    protected $endTime;
+
+    protected $total;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">JHRoaXMtPnNldEJyYW5wdWIoJ3BlaXdlbicpOwovLyAgICAgICAgJHJlcyA9JHRoaXMtPmNhbGxGYWNhZGUoJ2FwcHNcd2VuZ3NcTUV2ZW50X0JlYXV0eVNjZW5lcycsICdhZGRDb3Vwb24nLCBbWyd0ZXN0MScsJ3Rlc3QyJ11dKTsKICAgICAgICAkcmVzID0kdGhpcy0+Y2FsbEZhY2FkZSgnYXBwc1x3ZW5nc1xNRXZlbnRfQmVhdXR5U2NlbmVzJywgJ2dldENvdXBvbicsIFtdKTsKICAgICAgICB2YXJfZHVtcCgkcmVzKTtkaWU7</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkcmF0ZTsK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgdmFyX2R1bXAoJG51bSk7</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkYml6SWQgLiAnIC0tICcgLiBkYXRlKCdZLW0tZCBIOmk6cycpKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbnVtKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzbGVlcCgkZGVsYXlTZWMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJkZWxheSB0aW1lOiAiLiAkZGVsYXlTZWMgLiAnIC0tLS0gJzsK</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
