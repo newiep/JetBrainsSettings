@@ -107,7 +107,11 @@
       <file name="$USER_HOME$/Works/webdev/wengs/facade/inner/Video.php" timestamp="1594118915815" />
       <file name="$USER_HOME$/Works/webdev/show/proxy/MovieLib.php" timestamp="1594118163544" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Entity/CommentContentDO.php" timestamp="1594179073989" />
-      <file name="$USER_HOME$/Works/webdev/search/www2011/include/Elastica/Client.php" timestamp="1594106687341" />
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/detail/get_detail.v4.php" timestamp="1594192359586">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/request/param/ReplyParam.php" timestamp="1594173474852" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Poi.php" timestamp="1594177225704">
         <mark key="[" line="145" column="54" />
@@ -239,11 +243,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CgoKJHV1aWQgPSAnM0FFNEI5MjktQkNGNS00RUVBLTg4MjYtODFCNTU2Qjg2NkU0JzsKJGxhc3RDaGFyYWN0ZXIgPSBzdWJzdHIoJHV1aWQsIC0xKTsKJGJVc2VOZXdDb3ZlciAgPSB0cnVlICYmIChvcmQoJGxhc3RDaGFyYWN0ZXIpICYgMSkgPT0gMTsKZGQoJGJVc2VOZXdDb3Zlcik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(bool)$sIsShowNearWengs</text>
       </register>
       <register name="-" type="4">
-        <text>'mfwStorage15/M00/2B/9A/CoUBGV4hiXuAYDYMAAAZNaUDrto16.jpeg'</text>
+        <text>(bool)$sIsShowNearWengs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
