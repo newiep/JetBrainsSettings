@@ -102,8 +102,10 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/search/Api.php" timestamp="1594620777163" />
       <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/enum/comment/UserStatus.php" timestamp="1594377752104" />
-      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Poi.php" timestamp="1594624888658">
-        <mark key="[" line="100" column="69" />
+      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Poi.php" timestamp="1594626672120">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/ko/data/RedisK.php" timestamp="1594614622696" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Dao/CommentRepo.php" timestamp="1594623688001" />
@@ -250,7 +252,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjpGTEFHX0hJRERFTiAgICAgICA9PiAn6ZqQ6JePJywK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBNQXBwOjokYXBwLT5sb2ctPmRsb2coJ2RlYnVnX3BvaV9jYWxsJywgWydpZCcgPT4gJGlQb2lJZF0pOwo=</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -262,7 +264,7 @@
         <text encoding="base64">ICAgICAgICAgKiBAdmFyICRvU2lnbkxvZyBNV2VuZ19TaWduTG9nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjpGTEFHX0hJRERFTiAgICAgICA9PiAn6ZqQ6JePJywK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBNQXBwOjokYXBwLT5sb2ctPmRsb2coJ2RlYnVnX3BvaV9jYWxsJywgWydpZCcgPT4gJGlQb2lJZF0pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -270,7 +272,10 @@
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmOjpGTEFHX0hJRERFTiAgICAgICA9PiAn6ZqQ6JePJywK</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmOjpGTEFHX0hJRERFTiAgICAgICA9PiAn6ZqQ6JePJywK</text>
+      </register>
+      <register name="4" type="4">
         <text>1662186364671491
 	,1642569636249577
 	,1630325523101608
@@ -282,23 +287,20 @@
 	,1640398764396603
 	,1641907589560864</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Ly8gICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">JHJlcyA9JHRoaXMtPmNhbGxGYWNhZGUoJ2FwcHNcd2VuZ3NcTU1BcGlfTWluZVdlbmcnLCAnYWRkVG9wV2VuZycsIFsxNjI5NzAxNjU0MjI3NjAyXSwgZmFsc2UpOwovLyAgICAgICAgJHJlcyA9JHRoaXMtPmNhbGxGYWNhZGUoJ2FwcHNcd2VuZ3NcTU1BcGlfTWluZVdlbmcnLCAnZ2V0VG9wV2VuZ0xpc3QnLCBbNzg5MjM4MjldLCBmYWxzZSk7Ci8vICAgICAgICB2YXJfZHVtcCgkcmVzKTs=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0QnJhbnB1YigncGVpd2VuJyk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICoK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICoK</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
