@@ -91,17 +91,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Works/webdev/wengs/script/script/example.php" timestamp="1594782984664">
-        <mark key="[" line="81" column="100" />
-        <mark key="]" line="81" column="90" />
-        <mark key="^" line="71" column="5" />
-        <mark key="." line="81" column="90" />
-      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/app/sche.php" timestamp="1594809134800" />
+      <file name="$USER_HOME$/Works/webdev/msg/www2011/include/message/privateFacade.php" timestamp="1594867336733" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/Message.php" timestamp="1594867132944" />
       <file name="$USER_HOME$/Works/webdev/wengs/script/app/FacadeClient.php" timestamp="1594783358929">
         <mark key="[" line="107" column="26" />
         <mark key="]" line="107" column="26" />
         <mark key="." line="107" column="26" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/app/index.php" timestamp="1594806027846" />
+      <file name="$USER_HOME$/Works/webdev/wengs/event/DragonBoatHoney.php" timestamp="1594868430347" />
+      <file name="$USER_HOME$/Works/webdev/msg/apps/facade/msg/privateApi.php" timestamp="1594866642126" />
+      <file name="$USER_HOME$/Works/webdev/wengs/message/Conf.php" timestamp="1594867107183" />
+      <file name="$USER_HOME$/Works/webdev/wengs/script/script/example.php" timestamp="1594868292694">
+        <mark key="[" line="36" column="67" />
+        <mark key="]" line="82" column="90" />
+        <mark key="^" line="72" column="5" />
+        <mark key="." line="82" column="90" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/event/BeautyScenes.php" timestamp="1594868132326">
+        <mark key="[" line="104" column="62" />
+        <mark key="]" line="104" column="62" />
+        <mark key="." line="104" column="62" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/script/script/safe.php" timestamp="1594796286208">
         <mark key="[" line="41" column="18" />
@@ -109,22 +120,9 @@
         <mark key="." line="41" column="18" />
         <mark key="^" line="41" column="1" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/content-comment/server/test.php" timestamp="1594782401904">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/app/index.php" timestamp="1594806027846" />
-      <file name="$USER_HOME$/Works/webdev/wengs/multimedia/FormatTool.php" timestamp="1594720122664">
-        <mark key="[" line="349" column="9" />
-        <mark key="]" line="286" column="27" />
-        <mark key="." line="286" column="27" />
-      </file>
-      <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/ShowDetail.php" timestamp="1594719538017">
-        <mark key="[" line="182" column="31" />
-        <mark key="]" line="182" column="31" />
-        <mark key="." line="182" column="31" />
-      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/proxy/Msg.php" timestamp="1594867067508" />
+      <file name="$USER_HOME$/Works/webdev/wengs/event/Conf.php" timestamp="1594865415242" />
+      <file name="$USER_HOME$/Works/webdev/msg/www2011/include/message/privateApi.php" timestamp="1594866658546" />
     </filemarks>
     <jumps>
       <jump line="88" column="12" filename="$USER_HOME$/Works/webdev/wengs/proxy/Poi.php" />
@@ -252,14 +250,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1672165044471445 ,1672165452308026 ,1672164779543821 ,1672174796493886
-,1672174808659849 ,1672175245610120 ,1672175520359685 ,1672175729471100 ,1672175787612832 ,1672184552295335
-,1672184241029895 ,1672184808002670 ,1672184936719164 ,1672183208974585 ,1672176109454930 ,1672184166108986
-,1672184157649022 ,1672184177182206 ,1672184188659174 ,1672184180871942 ,1672173189494500 ,1672136223294052
-,1672185071773569 ,1672125465001041</text>
+        <text>aWengInfo['uid']</text>
       </register>
       <register name="-" type="4">
-        <text>78923829</text>
+        <text>aWengInfo['uid']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
