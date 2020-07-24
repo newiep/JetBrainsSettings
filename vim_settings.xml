@@ -97,12 +97,13 @@
         <mark key="[" line="275" column="68" />
       </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/enum/comment/Status.php" timestamp="1595579570457" />
-      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/SortManager.php" timestamp="1595577524689" />
+      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/SortManager.php" timestamp="1595582248390" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Video.php" timestamp="1595500729208" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/admin/Tag.php" timestamp="1595501928360" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/tag.php" timestamp="1595500725733" />
       <file name="$USER_HOME$/Works/webdev/show/service/Tag.php" timestamp="1595500934794" />
       <file name="$USER_HOME$/Works/webdev/movie-lib/proxy/Show.php" timestamp="1595501932909" />
+      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/ListManager.php" timestamp="1595581911637" />
       <file name="$USER_HOME$/Works/webdev/wengs/script/script/safe.php" timestamp="1595559517384">
         <mark key="[" line="41" column="18" />
         <mark key="]" line="41" column="18" />
@@ -118,7 +119,11 @@
         <mark key="^" line="54" column="45" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/content-comment/server/Query/ListCondition.php" timestamp="1595579564564" />
+      <file name="$USER_HOME$/Works/webdev/content-comment/server/Query/ListCondition.php" timestamp="1595581427901">
+        <mark key="[" line="50" column="37" />
+        <mark key="]" line="50" column="37" />
+        <mark key="." line="50" column="37" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/event/MetaUpdate.php" timestamp="1595499861848" />
       <file name="$USER_HOME$/Works/webdev/show/proxy/ContentTag.php" timestamp="1595500655060" />
     </filemarks>
@@ -247,11 +252,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$bizId, $bizType, $loginUid = 0</text>
       </register>
       <register name="-" type="4">
-        <text>78923829, 5,</text>
+        <text>$bizId, $bizType, $loginUid = 0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
