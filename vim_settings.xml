@@ -93,8 +93,15 @@
     <filemarks>
       <file name="$USER_HOME$/Works/webdev/composer/vendor/mfw/content-root/src/Base/Dao/PdoRepository.php" timestamp="1595817454488" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/AuditManager.php" timestamp="1595818133959" />
-      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/ReplyManager.php" timestamp="1595818497109">
-        <mark key="[" line="116" column="11" />
+      <file name="$USER_HOME$/Works/webdev/wengs/script/script/fixedIdMap.php" timestamp="1595821044351">
+        <mark key="[" line="30" column="10" />
+        <mark key="]" line="30" column="10" />
+        <mark key="." line="30" column="10" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/ReplyManager.php" timestamp="1595821492471">
+        <mark key="[" line="314" column="0" />
+        <mark key="]" line="314" column="0" />
+        <mark key="." line="314" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/script/script/example.php" timestamp="1595819596573">
         <mark key="[" line="33" column="27" />
@@ -108,14 +115,10 @@
         <mark key="^" line="178" column="7" />
         <mark key="." line="178" column="6" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/content-comment/server/Query/ReplyStatement.php" timestamp="1595816437688">
-        <mark key="[" line="51" column="12" />
-        <mark key="]" line="51" column="12" />
-        <mark key="." line="51" column="12" />
-      </file>
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Dao/CommentRepo.php" timestamp="1595817479650" />
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Audit/Handler.php" timestamp="1595818129914" />
       <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/service/ReplyAuditService.php" timestamp="1595818111263" />
+      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/ListManager.php" timestamp="1595821351350" />
       <file name="$USER_HOME$/Works/webdev/shequ/apps/ugcaudit/proxy/business/ContentComment.php" timestamp="1595818107113" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Comment.php" timestamp="1595817283798" />
       <file name="$USER_HOME$/Works/webdev/composer/vendor/mfw/content-root/src/Base/Dao/AbstractRepository.php" timestamp="1595817106394" />
@@ -133,17 +136,16 @@
       <file name="$USER_HOME$/Works/webdev/content-comment/server/Dao/CommentIdMapRepo.php" timestamp="1595817500560">
         <mark key="[" line="46" column="5" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/content-root/src/Base/Dao/AbstractRepository.php" timestamp="1595816206108" />
       <file name="/PHP Console" timestamp="1595818701745">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/SyncReplyManager.php" timestamp="1595818392231">
-        <mark key="[" line="112" column="14" />
+      <file name="$USER_HOME$/Works/webdev/content-comment/server/Manager/SyncReplyManager.php" timestamp="1595821490775">
+        <mark key="[" line="266" column="5" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/service/SyncReplyService.php" timestamp="1595819768933">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Works/webdev/content-comment/client/facade/service/SyncReplyService.php" timestamp="1595821499142">
+        <mark key="[" line="152" column="51" />
+        <mark key="]" line="152" column="51" />
+        <mark key="." line="152" column="51" />
       </file>
     </filemarks>
     <jumps>
@@ -271,11 +273,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIGNvbnRlbnRfY29tbWVudFxzZXJ2ZXJcUXVlcnlcU3RhdHVzU3RhdGVtZW50Owo=</text>
+      <register name="&quot;" type="4">
+        <text>$bizId, $bizType, $bizReplyId</text>
       </register>
       <register name="-" type="4">
-        <text>peiwen</text>
+        <text>$bizId, $bizType, $bizReplyId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -284,34 +286,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+Y2FsbEZhY2FkZSgnYXBwc1x3ZW5nc1xNTXVsdGltZWRpYV9BcGknLCAnaVNldFNvcnROdW0nLCBbJHdlbmdJZCwgJGl0ZW1bJ21pZCddLCAxXSwgZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIGNvbnRlbnRfY29tbWVudFxzZXJ2ZXJcUXVlcnlcU3RhdHVzU3RhdGVtZW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">dXNlIGNvbnRlbnRfY29tbWVudFxzZXJ2ZXJcUXVlcnlcU3RhdHVzU3RhdGVtZW50Owo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmFsc2UK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgU3RhdHVzU3RhdGVtZW50OjpuZXdJbnN0YW5jZSgpCiAgICAgICAgICAgIC0+c2V0Qml6VHlwZSgkcGFyYW0tPmdldEJpelR5cGUoKSkKICAgICAgICAgICAgLT5zZXRCaXpJZCgkcGFyYW0tPmdldEJpeklkKCkpCiAgICAgICAgICAgIC0+c2V0UmVwbHlJZCgkcGFyYW0tPmdldFJlcGx5SWQoKSkKICAgICAgICAgICAgLT5zZXRTdGF0dXNMaW1pdCgkc3RhdHVzTGltaXQpCiAgICAgICAgICAgIC0+c2V0U3RhdHVzKCRwYXJhbS0+Z2V0U3RhdHVzKCkpOw==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">aWYgKCEkcGFyYW0tPmdldFJlcGx5SWQoKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">dXNlIGFwcHNcbm90ZVxNUHJveHlfQ29tbWVudFNlcnZpY2U7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ClxhcHBzXHdlbmdzXE1BcHBfV2VuZ0NvdmVyOjpydW4oKTs=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gc3luYygpCiAgICB7CiAgICAgICAgZm9yZWFjaCAoJHRoaXMtPmNzdlJlYWRlcigiL1VzZXJzL3BlaXdlbmhhby9zeW5jMS5jc3YiKSBhcyAkZGF0YSkgewogICAgICAgICAgICBpZiAoIWlzX251bWVyaWMoJGRhdGFbMF0pKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICAkd2VuZ2lkID0gJGRhdGFbMF07CgogICAgICAgICAgICAkcmVzID0kdGhpcy0+Y2FsbEZhY2FkZSgKICAgICAgICAgICAgICAgICdcYXBwc1x3ZW5nc1xNQWRtaW5fT3BlcmF0ZScsICdiU3luY09wZXJhdGUnLCBbJHdlbmdpZF0sIGZhbHNlCiAgICAgICAgICAgICk7CiAgICAgICAgICAgIHZhcl9kdW1wKCR3ZW5naWQpOwogICAgICAgIH0KICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
