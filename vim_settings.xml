@@ -92,7 +92,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Works/webdev/qianxun/facade/meta/dto/ContentInfoDto.php" timestamp="1596010386603" />
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/detail/WengDetail.php" timestamp="1596021531443" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/detail/WengDetail.php" timestamp="1596080207543">
+        <mark key="[" line="1223" column="39" />
+        <mark key="]" line="1225" column="27" />
+        <mark key="." line="1225" column="27" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/movie-lib/proxy/Mobile.php" timestamp="1596022053850" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Meta.php" timestamp="1596019210459" />
       <file name="$USER_HOME$/Works/webdev/mobile/www2011/include/mapi/Request.php" timestamp="1596021930592">
@@ -102,7 +106,7 @@
       <file name="$USER_HOME$/Works/webdev/wengs/weng/DataApi.php" timestamp="1596011222969" />
       <file name="$USER_HOME$/Works/webdev/mobile/apps/mobile/facade/RequestApi.php" timestamp="1596021944902" />
       <file name="$USER_HOME$/Works/webdev/wengs/facade/service/meta/WengContentService.php" timestamp="1596019031228" />
-      <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/ShowDetail.php" timestamp="1596022055536">
+      <file name="$USER_HOME$/Works/webdev/movie-lib/mapi/ShowDetail.php" timestamp="1596079417419">
         <mark key="[" line="134" column="40" />
         <mark key="]" line="134" column="40" />
         <mark key="." line="134" column="40" />
@@ -251,10 +255,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>bVersionGTE</text>
+        <text encoding="base64">JHRoaXMtPmFHZXRPd25lckluZm8oKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>bVersionGTE</text>
+        <text encoding="base64">JHRoaXMtPmFHZXRPd25lckluZm8oKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
