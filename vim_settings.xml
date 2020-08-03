@@ -92,11 +92,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Works/webdev/wengs/common/Dao.php" timestamp="1596424515791" />
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/detail/WengDetail.php" timestamp="1596434905645">
-        <mark key="[" line="1240" column="0" />
-        <mark key="]" line="1240" column="0" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/detail/WengDetail.php" timestamp="1596451881536">
+        <mark key="[" line="1250" column="55" />
         <mark key="^" line="1226" column="8" />
-        <mark key="." line="1240" column="0" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/app/Notify.php" timestamp="1596424660720" />
       <file name="$USER_HOME$/Works/webdev/ko/data/RedisK.php" timestamp="1596423696794" />
@@ -105,7 +103,6 @@
         <mark key="]" line="182" column="0" />
         <mark key="." line="182" column="0" />
       </file>
-      <file name="$USER_HOME$/Works/webdev/wengs/app/WengCover.php" timestamp="1596164266383" />
       <file name="$USER_HOME$/Works/webdev/wengs/app/Honey.php" timestamp="1596185301753">
         <mark key="[" line="205" column="44" />
       </file>
@@ -119,15 +116,15 @@
       <file name="$USER_HOME$/Works/webdev/wengs/admin/ManualTouch.php" timestamp="1596424629221" />
       <file name="$USER_HOME$/Works/webdev/wengs/message/ManualTouchPass.php" timestamp="1596424702185" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/detail/get_detail.v4.php" timestamp="1596420576385" />
-      <file name="$USER_HOME$/Works/webdev/wengs/mapi/User.php" timestamp="1596450232219">
-        <mark key="[" line="305" column="34" />
-        <mark key="]" line="297" column="8" />
-        <mark key="." line="297" column="8" />
-        <mark key="^" line="324" column="65" />
+      <file name="$USER_HOME$/Works/webdev/wengs/mapi/User.php" timestamp="1596451980945">
+        <mark key="[" line="295" column="0" />
+        <mark key="]" line="295" column="0" />
+        <mark key="." line="295" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1596424311583">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/spider.php" timestamp="1596451576479" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/User.php" timestamp="1596434894066" />
       <file name="$USER_HOME$/Works/webdev/wengs/Conf.php" timestamp="1596422677518" />
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/Order.php" timestamp="1596164997979">
@@ -268,13 +265,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>if ($iUid == 1) {
-            
-        }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkaXNTaG93ID0gJGlVaWQgPT0gOTA1NjQ1MzggPyAxIDogMDsK</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text encoding="base64">ID09IE1NYXBpX1VzZXI6OkNIQVJBQ1RFUl9UQUxFTlQgPyAnI0ZGRkRGMycgOiAnI0Y2RjdGOSc=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -282,37 +277,35 @@
       <register name="0" type="2">
         <text encoding="base64">S0NvbW1vbl9Mb2c6OmRsb2coJ2RlYnVnX2Zvcm1hdF9yZXN1bHQnLCAkZmVlZE1vZHVsZSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>if ($iUid == 1) {
-            
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkaXNTaG93ID0gJGlVaWQgPT0gOTA1NjQ1MzggPyAxIDogMDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc3R5bGUnICAgICAgICAgICAgPT4gJ3dyaXRpbmcnLCAndGl0bGUnID0+ICcnLCAndGl0bGVfY29sb3InID0+ICcjRkZGRkZGJywKICAgICAgICAgICAgICAgICAgICAnYmFja2dyb3VuZF9jb2xvcicgPT4gJyNmZjUwNDQnLCAnZm9udF9zaXplJyA9PiAnMTEnLAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiB1c2VyX2NoYXJhY3Rlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiRyZXMgPSB0ZXN0KDEyMzEyMzExMik7CmRkKCRyZXMpOw==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgICdjb25zdWx0YXRpb24nICAgPT4gWwogICAgICAgICAgICAgICAgJ2lzX3Nob3cnICAgID0+ICRpc1Nob3csCiAgICAgICAgICAgICAgICAnanVtcF91cmwnICAgPT4gJGltVXJsLAogICAgICAgICAgICBdLAo9PT09PT09</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">cmV0dXJuIHNwcmludGYoIiUuMWbkuIciLCBmbG9vcigkaU51bWJlci8xMDAwKS8xMCk7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JHJlZGlzQ2xpZW50ID0gTVRvb2xfUmVkaXM6Om9DbGllbnQoKTsKZGQoJHJlZGlzQ2xpZW50LT52SEdldEFsbCgidGVzdDoxIikpOwokcmVzID0gJHJlZGlzQ2xpZW50LT5iSE1TZXQoJ3Rlc3Q6MScsIFsKICAgICd1aWQnICAgICAgICAgID0+IDEsCiAgICAnaGVscF9udW1iZXJzJyA9PiAxMDAwLAovLyAgICAndGFncycgICAgICAgICA9PiBbJ+eDreaDheWlveWuoicsICfmtLvlnLDlm74nLCAn5bi46am75LqR5Y2XJywgJ+S4k+S4muiAkOW/g+acjeWKoScsICfluLjpqbvkupHljZcnXSwKXSk7CmRkKCRyZXMpOw==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAgICAgICAgICdjb25zdWx0YXRpb24nICAgPT4gWwogICAgICAgICAgICAgICAgJ2lzX3Nob3cnICAgID0+IDAsCiAgICAgICAgICAgICAgICAnanVtcF91cmwnICAgPT4gJycsCiAgICAgICAgICAgIF0sCj09PT09PT0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGlOdW1iZXIgPCAxMDAwMDAwMCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">J2NvbnN1bHRhdGlvbicgICA9PiBbCiAgICAgICAgICAgICAgICAnaXNfc2hvdycgICAgPT4gJGlzU2hvdywKICAgICAgICAgICAgICAgICdqdW1wX3VybCcgICA9PiAkaW1VcmwsCiAgICAgICAgICAgIF0s</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
