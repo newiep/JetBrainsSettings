@@ -99,8 +99,12 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/app/Notify.php" timestamp="1596424660720" />
       <file name="$USER_HOME$/Works/webdev/wengs/controller/admin/operate.php" timestamp="1596508282794" />
+      <file name="$USER_HOME$/Works/webdev/wengs/admin/user/Mdd.php" timestamp="1596513316356">
+        <mark key="[" line="120" column="28" />
+        <mark key="]" line="120" column="29" />
+        <mark key="." line="120" column="29" />
+      </file>
       <file name="$USER_HOME$/Works/webdev/wengs/form/Modify.php" timestamp="1596454598343" />
-      <file name="$USER_HOME$/Works/webdev/ko/data/RedisK.php" timestamp="1596423696794" />
       <file name="$USER_HOME$/Works/webdev/wengs/test.php" timestamp="1596424317164">
         <mark key="[" line="182" column="0" />
         <mark key="]" line="182" column="0" />
@@ -113,7 +117,6 @@
         <mark key="." line="34" column="87" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/base/controller/Admin.php" timestamp="1596508294573" />
-      <file name="$USER_HOME$/Works/webdev/rss/tool/Math.php" timestamp="1596424179744" />
       <file name="$USER_HOME$/Works/webdev/wengs/user/Permission.php" timestamp="1596508308403" />
       <file name="$USER_HOME$/Works/webdev/wengs/form/Publish.php" timestamp="1596506524032">
         <mark key="[" line="790" column="96" />
@@ -130,6 +133,11 @@
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/mobile/spider.php" timestamp="1596511031649">
         <mark key="[" line="27" column="12" />
+      </file>
+      <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_exp/admin/almighty_weng_list.v1.php" timestamp="1596513459392">
+        <mark key="[" line="707" column="31" />
+        <mark key="]" line="707" column="31" />
+        <mark key="." line="707" column="31" />
       </file>
       <file name="$USER_HOME$/Works/webdev/wengs/proxy/User.php" timestamp="1596434894066" />
     </filemarks>
@@ -259,10 +267,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>[MAdmin_Operate::OTYPE_GOOD, MAdmin_Operate::OTYPE_RECOMMEND]</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>[MAdmin_Operate::OTYPE_GOOD, MAdmin_Operate::OTYPE_RECOMMEND]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
