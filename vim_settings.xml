@@ -31,6 +31,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/script/title_watch.csv" timestamp="1612015261322" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/open/Info.php" timestamp="1575553662456">
         <mark key="[" line="304" column="28" />
         <mark key="]" line="304" column="28" />
@@ -51,7 +52,6 @@
         <mark key="]" line="164" column="0" />
         <mark key="." line="164" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/script/upload_fail.csv" timestamp="1608644654189" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/wengs.php" timestamp="1577544136182">
         <mark key="[" line="34" column="15" />
         <mark key="]" line="34" column="15" />
@@ -103,11 +103,7 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/facade/open/Search.php" timestamp="1575808575948">
         <mark key="[" line="21" column="98" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/script/script/upload_video.php" timestamp="1608645578979">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/script/script/upload_video.php" timestamp="1612014624784" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/app/Ranking.php" timestamp="1578798394402">
         <mark key="[" line="157" column="94" />
         <mark key="]" line="164" column="62" />
@@ -118,6 +114,8 @@
         <mark key="]" line="672" column="4" />
         <mark key="." line="672" column="4" />
       </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/proxy/Qianxun.php" timestamp="1612014144816" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/script/script/spam_user.php" timestamp="1612011241971" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/inner/wengs.php" timestamp="1577544249309">
         <mark key="[" line="30" column="16" />
       </file>
@@ -125,6 +123,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/script/script/safe.php" timestamp="1612015442957">
+        <mark key="[" line="101" column="78" />
+        <mark key="]" line="113" column="0" />
+        <mark key="^" line="112" column="33" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/rss/mapi/tag/RecommendV1.php" timestamp="1577971820937">
         <mark key="[" line="395" column="0" />
@@ -141,6 +145,7 @@
         <mark key="]" line="33" column="23" />
         <mark key="." line="33" column="23" />
       </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/script/app/FacadeClient.php" timestamp="1612011376894" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/mine.php" timestamp="1575804050904">
         <mark key="[" line="31" column="12" />
         <mark key="]" line="31" column="12" />
@@ -297,10 +302,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkc291cmNlID0gIjU0Mjc2MDIrMDEs6IuX55aG5Zyj5rC05YmR5rKz5rip5rOJLOWbveWGheeogOacieeahOawoeehq+a4qeazieacieiLl+S5oeWco+awtOeahOe+juiqiSzliZHmsrPmuKnms4ksLDU0Mjc2MDIiOwogICAgICAgICRyZXMgPSBleHBsb2RlKCcsJywgJHNvdXJjZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPmNzdlJlYWRlcigiL1VzZXJzL3BlaXdlbi9tb3ZpZXskaW5kZXh9LmNzdiIp</text>
+        <text>var_dump($outTitle);die;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -309,36 +314,38 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2ljb24nICAgPT4gJ21md1N0b3JhZ2UxNS9NMDAvQjAvQ0IvQ29VQkdWM0x5MlNBT0V2akFBQjJoLVJsTDBvNjg1LnBuZycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkc291cmNlID0gIjU0Mjc2MDIrMDEs6IuX55aG5Zyj5rC05YmR5rKz5rip5rOJLOWbveWGheeogOacieeahOawoeehq+a4qeazieacieiLl+S5oeWco+awtOeahOe+juiqiSzliZHmsrPmuKnms4ksLDU0Mjc2MDIiOwogICAgICAgICRyZXMgPSBleHBsb2RlKCcsJywgJHNvdXJjZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoIChbJHJlc10gYXMgJHJvdykgewo=</text>
+      <register name="2" type="4">
+        <text>if (mt_rand(0, 10) == 1) {
+                    var_dump($wengId);
+                }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZvcmVhY2ggKCR0aGlzLT5jc3ZSZWFkZXIoIi9Vc2Vycy9wZWl3ZW4vbW92aWV7JGluZGV4fS5jc3YiKSBhcyAkcm93KSB7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiAoJHJlc1sndGl0bGUnXSkgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzKTsK</text>
+      <register name="4" type="4">
+        <text>$glNum   = 0;
+                $mddNum  = 0;
+                $cihui   = '';</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHJlc3VsdCk7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZ2wgPSAkaGFzZ2wgPyAn5ZCr5pS755WlJyA6ICfkuI3lkKsnCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">JGFkZE9uZSA9ICRhQnVtYmxlYmVlRGF0YVsnd2VuZGFfbGlzdCddID8gMSA6IDA7CgogICAgICAgICAgICAkcXVlc3Rpb25MaXN0ID0gJHRoaXMtPmNhbGxGYWNhZGUoCiAgICAgICAgICAgICAgICAnXGFwcHNcd2VuZGFcTUZhY2FkZV9NREQnLAogICAgICAgICAgICAgICAgJ2dldFFhQnlQb2lJZCcsCiAgICAgICAgICAgICAgICBbJHBvaUlkLCAwLCAzXSwKICAgICAgICAgICAgICAgIHRydWUKICAgICAgICAgICAgKTsKICAgICAgICAgICAgJHFhQ291bnQgPSBpc3NldCgkcXVlc3Rpb25MaXN0WydsaXN0J10pID8gY291bnQoJHF1ZXN0aW9uTGlzdFsnbGlzdCddKSA6IDA7CiAgICAgICAgICAgICRjb3VudCA9ICRxYUNvdW50ICsgJGFkZE9uZTsKICAgICAgICAgICAgJGNvdW50ID0gJGNvdW50ID49IDMgPyAzIDogJGNvdW50Ow==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkc3BsaXRDbGllbnQgPSBuZXcgXEd1enpsZUh0dHBcQ2xpZW50KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXGFwcHNcd2VuZGFcTUZhY2FkZV9tZGRfUG9pTWF0Y2hRdWVzdGlvbjo6Z2V0UXVlc3Rpb25CeVBvaUZvclRvbmdqaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT53cml0ZUZpbGUoIiIpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>$aAllQids = array_merge($aHeadQids, (array)$aMatchQids);
-        $result['total'] = count($aMatchQids) + $iCountHeadQids;
-        $result['qids'] = $aAllQids;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyX2R1bXAoJGNpaHVpKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JGlDb3VudEhlYWRRaWRzID0gY291bnQoJGFIZWFkUWlkcyk7CgogICAgICAgIGlmICgkaUNvdW50SGVhZFFpZHMgPj0gJG1heFNpemUpIHsKICAgICAgICAgICAgJHJlc3VsdFsncWlkcyddICA9ICRhSGVhZFFpZHM7CiAgICAgICAgICAgICRyZXN1bHRbJ3RvdGFsJ10gPSAkaUNvdW50SGVhZFFpZHM7IC8vVE9ETyDmkJzntKLmj5DkvpvnmoTmlrDmjqXlj6Pml6Dms5Xojrflj5bmqKHns4rljLnphY3nmoTmgLvmlbAKICAgICAgICAgICAgcmV0dXJuICRyZXN1bHQ7CiAgICAgICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCR3ZW5nSWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
