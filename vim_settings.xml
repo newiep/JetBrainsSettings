@@ -124,11 +124,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/script/script/safe.php" timestamp="1612015442957">
-        <mark key="[" line="101" column="78" />
-        <mark key="]" line="113" column="0" />
-        <mark key="^" line="112" column="33" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/script/script/safe.php" timestamp="1612055152855">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="^" line="126" column="0" />
+        <mark key="." line="140" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/rss/mapi/tag/RecommendV1.php" timestamp="1577971820937">
         <mark key="[" line="395" column="0" />
@@ -302,10 +302,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRyZXMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>var_dump($outTitle);die;</text>
+        <text>//var_dump($splitArr);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -314,38 +314,38 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2ljb24nICAgPT4gJ21md1N0b3JhZ2UxNS9NMDAvQjAvQ0IvQ29VQkdWM0x5MlNBT0V2akFBQjJoLVJsTDBvNjg1LnBuZycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRyZXMpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRpdGVtKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChhcnJheV9pbnRlcnNlY3QoWzRdLCBbMSwgMiwgM10pKTsKICAgICAgICBkaWU7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="4">
         <text>if (mt_rand(0, 10) == 1) {
                     var_dump($wengId);
                 }</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiAoJHJlc1sndGl0bGUnXSkgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>$glNum   = 0;
                 $mddNum  = 0;
                 $cihui   = '';</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZ2wgPSAkaGFzZ2wgPyAn5ZCr5pS755WlJyA6ICfkuI3lkKsnCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc3BsaXRDbGllbnQgPSBuZXcgXEd1enpsZUh0dHBcQ2xpZW50KCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT53cml0ZUZpbGUoIiIpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyX2R1bXAoJGNpaHVpKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCR3ZW5nSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkc3BsaXRDbGllbnQgPSBuZXcgXEd1enpsZUh0dHBcQ2xpZW50KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
