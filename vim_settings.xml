@@ -43,14 +43,20 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/content-comment/server/Manager/ListManager.php" timestamp="1575119147349">
         <mark key="[" line="75" column="28" />
       </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/script/format_vote.csv" timestamp="1621150144800">
+        <mark key="[" line="36" column="26" />
+      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wenda/apps/wenda/answer/Api.php" timestamp="1619799724336">
         <mark key="[" line="297" column="5" />
       </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/shequ/apps/shequ/facade/Vote.php" timestamp="1621150082373" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/shequ/apps/shequ/proxy/VoteMicroService.php" timestamp="1621150437955" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/script/upload_result1.csv" timestamp="1615509800066">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/shequ/apps/shequ/vote/OptionService.php" timestamp="1621149949878" />
       <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1594517077585">
         <mark key="[" line="3" column="22" />
       </file>
@@ -66,7 +72,7 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/search/www2011/include/Elastica/Search.php" timestamp="1575556627327">
         <mark key="[" line="457" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1619797716029">
+      <file name="/Dummy.txt" timestamp="1621149950826">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/facade/open/Search.php" timestamp="1575808575948">
@@ -75,20 +81,19 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/wenda/apps/wenda/expert/service/Api.php" timestamp="1613909168960">
         <mark key="[" line="434" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/script/script/upload_video.php" timestamp="1615987618363">
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/script/script/upload_video.php" timestamp="1621148020565">
         <mark key="[" line="18" column="10" />
         <mark key="]" line="18" column="10" />
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/wenda/apps/wenda/mdd/PoiApi.php" timestamp="1619798368930" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/daren/impl/Weng.php" timestamp="1613909039145">
         <mark key="[" line="61" column="63" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/inner/wengs.php" timestamp="1577544249309">
         <mark key="[" line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/wenda/apps/wenda/facade/mdd/Poi.php" timestamp="1619798244649" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/weng/DataApi.php" timestamp="1621149140164" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/weng/Daren.php" timestamp="1613908875938">
         <mark key="[" line="26" column="33" />
       </file>
@@ -97,7 +102,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/wenda/apps/wenda/facade/question/Api.php" timestamp="1619798547289" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/script/script/vote.php" timestamp="1621152240517">
+        <mark key="'" line="108" column="40" />
+        <mark key="[" line="137" column="12" />
+        <mark key="]" line="137" column="12" />
+        <mark key="." line="137" column="12" />
+      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/app/sche.php" timestamp="1578799897856">
         <mark key="[" line="92" column="64" />
       </file>
@@ -109,7 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="6" filename="$USER_HOME$/Works/wengs/mapi/detail/WengDetail.php" />
       <jump line="246" column="30" filename="$USER_HOME$/Works/wengs/controller/mobile/mine/task.php" />
       <jump line="15" column="7" filename="$USER_HOME$/Works/wengs/abtest/no1/data/A2" />
       <jump line="152" column="0" filename="$USER_HOME$/Works/wengs/test.php" />
@@ -209,6 +218,7 @@
       <jump line="9" column="0" filename="$USER_HOME$/Code/Work/mafengwo/wengs/controller/admin/debug.php" />
       <jump line="11" column="18" filename="$USER_HOME$/Code/Work/mafengwo/wengs/script/title_watch.csv" />
       <jump line="38" column="0" filename="$USER_HOME$/Code/Work/mafengwo/wengs/test1.php" />
+      <jump line="76" column="40" filename="$USER_HOME$/Code/Work/mafengwo/wengs/script/script/vote.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -226,11 +236,13 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">MCw2OTQzMTE1MizmrKLkuZDosLcK</text>
+      <register name="&quot;" type="4">
+        <text>if (!$res['list']) {
+                break;
+            }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$data[1]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -238,136 +250,41 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdXJpID0gJF9TRVJWRVJbJ0hUVFBfSE9TVCddIC4gJF9TRVJWRVJbJ1JFUVVFU1RfVVJJJ107Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">MCw2OTQzMTE1MizmrKLkuZDosLcK</text>
+      <register name="1" type="4">
+        <text>if (!$res['list']) {
+                break;
+            }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgJHJlcyA9ICR0aGlzLT5jYWxsRmFjYWRlKAogICAgICAgICAgICAnXGFwcHNcc2hlcXVcTUZhY2FkZV9Wb3RlJywKICAgICAgICAgICAgJ3NldFVwVXNlck9wdGlvbicsIFskdWlkLCBzZWxmOjpWT1RFX0lELCBbXV0sIGZhbHNlKTsKICAgICAgICB2YXJfZHVtcCgkcmVzKTtkaWU7</text>
       </register>
       <register name="3" type="4">
-        <text>1692944810963111,90900276,大雁顶
-1692944876474626,6327169,黄联土林
-1692944938358610,8080772,兰英大峡谷
-1692944997730375,7652955,漳平永福樱花园
-1692945054544773,70053308,六祖故里旅游度假区
-1692945113579653,5945381,白石崖
-1692945171739811,5428955,鱼凫国都温泉
-1692945220472442,34132468,观音山
-1692945278972178,33647000,心越温泉
-1692945336951872,71648576,桃花谷
-1692945387569380,5427789,临沂茶山滑雪场
-1692945436167326,5503701,流坑古村
-1692945483545353,91376852,不老屯天文台
-1692945590512227,6931235,悬空寺
-1692945648058290,6327127,日月湾海门游览区
-1692945683237298,91061928,瓜草地风景区
-1692945718155811,5438327,铜铃山森林公园
-1692945754987976,33661532,翁基布朗族老寨
-1692945791339754,8546166,尖峰岭天池
-1692945832452891,9956,笔架山公园
-1692945871478175,2646982,大瓦山
-1692945903061952,33638408,五皇山国家地质公园
-1692945933490412,3001955,月色风情小镇
-1692946013488397,5374621,俄贤岭风景区
-1692946096012941,4248,桃源仙谷自然风景区
-1692946169704095,5427211,广州南粤苑
-1692946249031059,90833856,库拉岗日雪山
-1692946325712369,1868169,始祖山风景区
-1692946404109069,66495120,北迹露营地(1号营地)
-1692946480832872,6329307,广州湖心岛旅游风景区
-1692946562372708,16349385,七星岭野外滑雪场
-1692946645948971,102906984,石牙顶天坑
-1692946723718710,91916660,铜官窑
-1692946803726659,71492300,悬崖村
-1692946891272369,5072239,九峰镇
-1692946967313051,74028904,邛崃夹关古镇
-1692947084934277,3957235,径山古道
-1692947159514924,88065620,金水湖景区
-1692947253074744,33534560,霞云岭山水人家
-1692947351857380,33637900,界头镇·油菜花海
-1692947435054325,7032049,妫河森林公园
-1692947508231716,29385930,谷山村
-1692947586255185,7232,蟹岛度假村
-1692947659573988,92111016,山头坪
-1692947744485515,7007297,虎牙大峡谷
-1692947820736472,5069286,天鹿湖森林公园
-1692947902497273,75119596,隆文老村风车山
-1692948000190520,7560839,五邑侨乡新会南坦葵林
-1692948080054914,33663960,石阡古温泉
-1692948179291404,5427260,格萨拉生态旅游区
-1692948292048178,5424070,万泉河
-1692948351784166,33634568,卓思道温泉
-1692948457694244,9890454,海寿岛
-1692948569152276,5376633,吊罗山
-1692948627901051,92295144,建发山外山温泉度假区
-1692948706541496,7054850,大雁山风景区
-1692948742944313,6327127,日月湾海门游览区
-1692948790156358,91061928,瓜草地风景区
-1692948838186689,5438327,铜铃山森林公园
-1692948873170415,33661532,翁基布朗族老寨
-1692948918679158,8546166,尖峰岭天池
-1692948956925188,9956,笔架山公园
-1692949001644793,2646982,大瓦山
-1692949039149197,33638408,五皇山国家地质公园
-1692949071636561,3001955,月色风情小镇
-1692949158876137,5374621,俄贤岭风景区
-1692949243002740,4248,桃源仙谷自然风景区
-1692949332656786,5427211,广州南粤苑
-1692949418297377,90833856,库拉岗日雪山
-1692949507729999,1868169,始祖山风景区
-1692949584687375,66495120,北迹露营地(1号营地)
-1692949657303836,6329307,广州湖心岛旅游风景区
-1692949734541915,16349385,七星岭野外滑雪场
-1692949811570498,102906984,石牙顶天坑
-1692949898602798,91916660,铜官窑
-1692949993950449,71492300,悬崖村
-1692950067433943,5072239,九峰镇
-1692950151231635,74028904,邛崃夹关古镇
-1692950255651026,3957235,径山古道
-1692950332427380,88065620,金水湖景区
-1692950419227861,33534560,霞云岭山水人家
-1692950512150036,33637900,界头镇·油菜花海
-1692950587750975,7032049,妫河森林公园
-1692950666003780,29385930,谷山村
-1692950757699897,7232,蟹岛度假村
-1692950843199953,92111016,山头坪
-1692950920232369,7007297,虎牙大峡谷
-1692950931140471,5069286,天鹿湖森林公园
-1692951002946542,75119596,隆文老村风车山
-1692951078834266,7560839,五邑侨乡新会南坦葵林
-1692951157298148,33663960,石阡古温泉
-1692951201010989,5427260,格萨拉生态旅游区
-1692951296939573,5424070,万泉河
-1692951342293522,33634568,卓思道温泉
-1692951428610592,9890454,海寿岛
-1692951518759212,5376633,吊罗山
-1692951549720269,92295144,建发山外山温泉度假区
-1692951617413489,7054850,大雁山风景区
-1692985260114777,33604912,林阳寺
-1692985302642091,7329,石花洞</text>
+        <text encoding="base64">JHJlcyA9ICR0aGlzLT5jYWxsRmFjYWRlKAogICAgICAgICAgICAnXGFwcHNcc2hlcXVcTUZhY2FkZV9Wb3RlJywKICAgICAgICAgICAgJ3NldFVwVXNlck9wdGlvbicsIFs3ODkyMzgyOSwgc2VsZjo6Vk9URV9JRCwgW11dLCBmYWxzZSk7CiAgICAgICAgdmFyX2R1bXAoJHJlcyk7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MCw3ODM2NjEwMCzms6LmtarosLcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNhdGVNYXBbJGRhdGFbMl1dID0gJGRhdGFbNF07Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">MCwzNDg2MzQwMCzlh6Tlh7Dlsq0K</text>
+      <register name="5" type="4">
+        <text>if (!$option['optionId']) {
+                    var_dump($option);
+                }
+                var_dump($option['optionId']);</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">MCwzMzYwNTcwNCzlpKfpvpnmuZbmma/ljLoK</text>
+      <register name="6" type="4">
+        <text encoding="base64">aWYgKGNvdW50KCRyZXNbJ2xpc3QnXSkgPCA1MCkgewogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlcyA9ICR0aGlzLT5jYWxsRmFjYWRlKAogICAgICAgICAgICAgICAgJ1xhcHBzXHNoZXF1XE1GYWNhZGVfVm90ZScsCiAgICAgICAgICAgICAgICAnZ2V0TGlzdEJ5Q2lkT3JVaWQnLCBbc2VsZjo6Vk9URV9JRCwgJHBhZ2UsIDEwMF0sIGZhbHNlKTsKICAgICAgICAgICAgZm9yZWFjaCAoJHJlc1snbGlzdCddIGFzICRvcHRpb24pIHsKICAgICAgICAgICAgICAgIGlmIChpc3NldCgkY2F0ZU1hcFskb3B0aW9uWydjb250ZW50J11dKSkgewogICAgICAgICAgICAgICAgICAgICRjYXRlZ29yeSA9ICRjYXRlTWFwWyRvcHRpb25bJ2NvbnRlbnQnXV07CiAgICAgICAgICAgICAgICAgICAgJHJlcyA9ICR0aGlzLT5jYWxsRmFjYWRlKAogICAgICAgICAgICAgICAgICAgICAgICAnXGFwcHNcc2hlcXVcTUZhY2FkZV9Wb3RlJywKICAgICAgICAgICAgICAgICAgICAgICAgJ3VwZGF0ZU9wdGlvbicsIFskb3B0aW9uWydvcHRpb25JZCddLCAkY2F0ZWdvcnldLCB0cnVlKTsKICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkcmVzKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">aWYgKGNvdW50KCRyZXNbJ2xpc3QnXSkgPCAxMDApIHsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgICAgICRwYWdlKys7</text>
       </register>
       <register name="9" type="4">
-        <text>0,78366100,波浪谷
-0,34863400,凤凰岭
-0,33605704,大龙湖景区</text>
+        <text>$page = 1;
+        while (true) {</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
