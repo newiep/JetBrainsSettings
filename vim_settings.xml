@@ -67,10 +67,10 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/weng/Daren.php" timestamp="1613908875938">
         <mark key="[" line="26" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/weng/NoteImgTool.php" timestamp="1651114612248">
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="23" />
-        <mark key="." line="23" column="23" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/weng/NoteImgTool.php" timestamp="1651114983811">
+        <mark key="[" line="107" column="24" />
+        <mark key="]" line="107" column="24" />
+        <mark key="." line="107" column="24" />
         <mark key="^" line="23" column="23" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/app/sche.php" timestamp="1578799897856">
@@ -293,11 +293,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+d3JpdGVUZW1wbGF0ZUNJbmZvKCRwaG90b3NbNF0sICRwaG90b3NbNV0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>curAddIndex</text>
       </register>
       <register name="-" type="4">
-        <text>isTemplateC</text>
+        <text>curAddIndex</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -305,37 +305,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+d3JpdGVUZW1wbGF0ZUNJbmZvKCRwaG90b3NbMV0sICRwaG90b3NbMl0pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+d3JpdGVUZW1wbGF0ZUNJbmZvKCRwaG90b3NbNF0sICRwaG90b3NbNV0pOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">JHN1Ykxpc3QgPSBBcnJheUxpc3Q8UmVjb3JkZXJJbWFnZU1vZGVsPigpLmFwcGx5IHsKICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChpbmRleCBpbiAxLi5udW0pIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuYWRkKHBob3Rvc1toYXNBZGRlZEluZGV4ICsgaW5kZXhdKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGluZGV4ID09IDYpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm5AYXBwbHkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>if ($index == 6) {
+                            
+                        }</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+d3JpdGVUZW1wbGF0ZUNJbmZvKCRwaG90b3NbNF0sICRwaG90b3NbNV0pOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHBob3RvcyA9IFskcGhvdG9zWzRdLCAkcGhvdG9zWzVdXTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">QXJyYXlMaXN0IDwgUmVjb3JkZXJJbWFnZU1vZGVsPigpIC4gYXBwbHkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcyAuIGFkZChwaG90b3NbNF0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcyAuIGFkZChwaG90b3NbNV0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>else{
 
                 }</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">cHJpdmF0ZSBmdW5jdGlvbiBpc1RlbXBsYXRlQigkcDEsICRwMiwgJHAzKQogICAgewogICAgICAgIHJldHVybiB0cnVlOwogICAgfQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiRzID0gPDw8SlNPTgp7IjIwMjIwNDIyMTUiOiAiNTYiLAoiMjAyMjA0MjIxNiI6ICIxIiwKIjIwMjIwNDIyMTciOiAiNTYiLAoiMjAyMjA0MjIxOCI6ICI3MyIsCiIyMDIyMDQyMjE5IjogIjMxIiwKIjIwMjIwNDIyMjAiOiAiMTQiLAoiMjAyMjA0MjIyMSI6ICI0NSIsCiIyMDIyMDQyMjIyIjogIjcwIiwKIjIwMjIwNDIyMjMiOiAiNzMiLAoiMjAyMjA0MjMwNyI6ICI2MiIsCiIyMDIyMDQyMzA4IjogIjczIiwKIjIwMjIwNDIzMDkiOiAiMjMiLAoiMjAyMjA0MjMxMCI6ICIzNyIsCiIyMDIyMDQyMzExIjogIjEyIiwKIjIwMjIwNDIzMTIiOiAiMzEiLAoiMjAyMjA0MjMxMyI6ICI4IiwKIjIwMjIwNDIzMTQiOiAiOSIsCiIyMDIyMDQyMzE1IjogIjciLAoiMjAyMjA0MjMxNiI6ICIxMCIsCiIyMDIyMDQyMzE3IjogIjAiLAoiMjAyMjA0MjMxOCI6ICI1NCIsCiIyMDIyMDQyMzE5IjogIjc5IiwKIjIwMjIwNDIzMjAiOiAiMiIsCiIyMDIyMDQyMzIxIjogIjYiLAoiMjAyMjA0MjMyMiI6ICI4NyIsCiIyMDIyMDQyMzIzIjogIjMiLAoiMjAyMjA0MjQwNyI6ICI1MCIsCiIyMDIyMDQyNDA4IjogIjI4IiwKIjIwMjIwNDI0MDkiOiAiNCIsCiIyMDIyMDQyNDEwIjogIjM0IiwKIjIwMjIwNDI0MTEiOiAiMiIsCiIyMDIyMDQyNDEyIjogIjM2IiwKIjIwMjIwNDI0MTMiOiAiMjgiLAoiMjAyMjA0MjQxNCI6ICIzNyIsCiIyMDIyMDQyNDE1IjogIjU3IiwKIjIwMjIwNDI0MTYiOiAiNTIiLAoiMjAyMjA0MjQxNyI6ICIxMDMiLAoiMjAyMjA0MjQxOCI6ICIzMyIsCiIyMDIyMDQyNDE5IjogIjEwMyIsCiIyMDIyMDQyNDIwIjogIjYyIiwKIjIwMjIwNDI0MjEiOiAiMyIsCiIyMDIyMDQyNDIyIjogIjczIiwKIjIwMjIwNDI0MjMiOiAiMTEiLAoiMjAyMjA0MjUwNyI6ICIxMDciLAoiMjAyMjA0MjUwOCI6ICI2MyIsCiIyMDIyMDQyNTA5IjogIjQ2IiwKIjIwMjIwNDI1MTAiOiAiNDIiLAoiMjAyMjA0MjUxMSI6ICIxMDgiLAoiMjAyMjA0MjUxMiI6ICI3MCIsCiIyMDIyMDQyNTEzIjogIjExMSIsCiIyMDIyMDQyNTE0IjogIjExIiwKIjIwMjIwNDI1MTUiOiAiNDQiLAoiMjAyMjA0MjUxNiI6ICIxMjUiLAoiMjAyMjA0MjUxNyI6ICIyMyIsCiIyMDIyMDQyNTE4IjogIjE5OSIsCiIyMDIyMDQyNTE5IjogIjExNyIsCiIyMDIyMDQyNTIwIjogIjE5MiIsCiIyMDIyMDQyNTIxIjogIjAiLAoiMjAyMjA0MjUyMiI6ICIxNzAiLAoiMjAyMjA0MjUyMyI6ICIyNTAifQpKU09OOwokcmVzID0ganNvbl9kZWNvZGUoJHMsIHRydWUpOwplY2hvIGFycmF5X3N1bSgkcmVzKTs=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiRudW1iZXJzID0gcmFuZ2UoMSwgMjApOwpzaHVmZmxlKCRudW1iZXJzKTsKZm9yZWFjaCAoJG51bWJlcnMgYXMgJG51bWJlcikgewogICAgZWNobyAiJG51bWJlciAiOwp9CnZhcl9kdW1wKCRudW1iZXJzKTsKCiRsaW1pdGVyID0gTUFwcDo6Y3JlYXRlT2JqZWN0KE1UaW1lbGluZV9DYWxlbmRhcjIwMjFfU2VydmljZV9MaW1pdGVyOjpjbGFzcyk7CiRyZXMgPSAkbGltaXRlci0+ZmluaXNoKDE0MTg5MTM5LCAnbGlrZV9mb2N1c19ub3RlJyk7CnZhcl9kdW1wKCRyZXMpOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
