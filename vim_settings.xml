@@ -75,7 +75,7 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/script/format_vote.csv" timestamp="1621150144800">
         <mark key="[" line="36" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1652078576172">
+      <file name="/Dummy.txt" timestamp="1652082166848">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wenda/apps/wenda/facade/msgApi.php" timestamp="1651981202480" />
@@ -84,6 +84,11 @@
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wenda/apps/wenda/crontab/InviteUserLoop.php" timestamp="1651980190346" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wenda/apps/wenda/msg/Api.php" timestamp="1651980909972" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/test1.php" timestamp="1652082274286">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="20" column="5" />
+        <mark key="." line="20" column="5" />
+      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wenda/apps/wenda/facade/msgConst.php" timestamp="1651980865262" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/mapi/UserBadge.php" timestamp="1575804012149">
         <mark key="[" line="60" column="5" />
@@ -130,7 +135,7 @@
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wxapp/rest/weng/index.php" timestamp="1652076373168" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wenda/apps/wenda/invite/message/ABTest.php" timestamp="1651980984396" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/outdated/www2011/include/safe/CSRFApi.php" timestamp="1652077722212" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/outdated/www2011/include/safe/CSRFApi.php" timestamp="1652082398081" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/app/ultron/Task.php" timestamp="1626530211893">
         <mark key="[" line="61" column="45" />
       </file>
@@ -157,7 +162,7 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/search/Conf.php" timestamp="1651130540758">
         <mark key="[" line="35" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/outdated/www2011/htdocs/qrcode.php" timestamp="1652079626191">
+      <file name="$USER_HOME$/Code/Work/mafengwo/outdated/www2011/htdocs/qrcode.php" timestamp="1652082495451">
         <mark key="[" line="22" column="2" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="9" column="17" />
@@ -282,11 +287,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICB2YXJfZHVtcChzdWJzdHIoJHVybEluZm9bJ2hvc3QnXSwgJHBvcykp</text>
       </register>
       <register name="-" type="4">
-        <text>$iType</text>
+        <text>var_dump($pos);die;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -294,37 +299,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKCR0aGlzLT5nZXRJbWdSYXRpbygkcDEpID4gMSAmJiAkdGhpcy0+Z2V0SW1nUmF0aW8oJHAyKSA+IDEpIHx8Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICB2YXJfZHVtcChzdWJzdHIoJHVybEluZm9bJ2hvc3QnXSwgJHBvcykp</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="4">
         <text>if ($isValidate) {
         break;
     }</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAkb3B0aW9uLT5vU2VsZWN0KCdjb3VudCgqKSBhcyBudW0nKTsKICAgICRhUmVzID0gJHRoaXMtPm9wZXJhdGVEYW8tPmFHZXRMaXN0KCRvcHRpb24pOw==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAkb3B0aW9uLT5vQW5kKCdmbGFnIGluICg/KScsICRhRmxhZ3MpOw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICRvcHRpb24tPm9BbmQoJ3VpZCA9ID8nLCAkaVVpZCk7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiRvcGVyYXRlTW9kZQ==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gbm90ZV9jb250ZW50IHdoZXJlIGlpZCBpbiAoCiAgc2VsZWN0IGlkIGZyb20gZ19pbmZvIHdoZXJlIGN0aW1lID4gJyVzJyBhbmQgY3RpbWUgPCAnJXMnIGFuZCBkZWwgPSAwCiAgKSBhbmQgIHNvdXJjZSBpbiAoMyw0KSBhbmQgdmlkZW9pZCA+IDA7</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
