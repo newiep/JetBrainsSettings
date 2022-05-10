@@ -79,7 +79,7 @@
         <mark key="[" line="36" column="26" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wxapp/api/Push.php" timestamp="1652097372472" />
-      <file name="/Dummy.txt" timestamp="1652098340185">
+      <file name="/Dummy.txt" timestamp="1652146839632">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wenda/apps/wenda/facade/msgApi.php" timestamp="1651981202480" />
@@ -108,6 +108,11 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/wenda/apps/wenda/user/QaInviteApi.php" timestamp="1651981223877" />
       <file name="$USER_HOME$/Code/Work/mafengwo/outdated/www2011/include/qrcode/Facade.php" timestamp="1652077139972" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wenda/apps/wenda/facade/user/QaInviteApi.php" timestamp="1651981213401" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/outdated/www2011/include/safe/UrlChecker.php" timestamp="1652147108269">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/outdated/www2011/include/CConnect.php" timestamp="1652098213185" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/form/Reply.php" timestamp="1652077046977" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/wxapp/Detail.php" timestamp="1650606936372">
@@ -120,7 +125,13 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/wxapp/rest/weng/Publish.php" timestamp="1652076106577" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/script/script/character.php" timestamp="1652078586309" />
       <file name="$USER_HOME$/Code/Work/mafengwo/mobile/mobile/htdocs/nb/pps/base.php" timestamp="1652085350349" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/outdated/www2011/htdocs/connect_share.php" timestamp="1652098322503" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/outdated/www2011/htdocs/connect_share.php" timestamp="1652147309177">
+        <mark key="[" line="37" column="27" />
+        <mark key="]" line="37" column="27" />
+        <mark key="^" line="50" column="25" />
+        <mark key="." line="37" column="27" />
+      </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/mobile/www2011/include/mapi/util/Helper.php" timestamp="1652146934975" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/inner/wengs.php" timestamp="1577544249309">
         <mark key="[" line="30" column="16" />
       </file>
@@ -167,11 +178,10 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/search/Conf.php" timestamp="1651130540758">
         <mark key="[" line="35" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/outdated/www2011/htdocs/qrcode.php" timestamp="1652082495451">
-        <mark key="[" line="22" column="2" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="9" column="17" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/outdated/www2011/htdocs/qrcode.php" timestamp="1652147095844">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -293,10 +303,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICB2YXJfZHVtcChzdWJzdHIoJHVybEluZm9bJ2hvc3QnXSwgJHBvcykp</text>
+        <text encoding="base64">CiAgICAgICAgJHNoYXJlX2xpbmsgPSAnaHR0cDovL3d3dy5tYWZlbmd3by5jbic7</text>
       </register>
       <register name="-" type="4">
-        <text>var_dump($pos);die;</text>
+        <text>$share_link</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -305,36 +315,54 @@
         <text encoding="base64">ICAgICAgICAgICAgKCR0aGlzLT5nZXRJbWdSYXRpbygkcDEpID4gMSAmJiAkdGhpcy0+Z2V0SW1nUmF0aW8oJHAyKSA+IDEpIHx8Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICB2YXJfZHVtcChzdWJzdHIoJHVybEluZm9bJ2hvc3QnXSwgJHBvcykp</text>
+        <text encoding="base64">CiAgICAgICAgJHNoYXJlX2xpbmsgPSAnaHR0cDovL3d3dy5tYWZlbmd3by5jbic7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">KSB7CiAgICAgICAgJHNoYXJlX2xpbmsgPSA=</text>
       </register>
       <register name="3" type="4">
+        <text>$whiteList = [
+    'mafengwo.cn', 'imfw.cn',
+];
+$urlInfo = parse_url($sText);
+foreach ($whiteList as $url) {
+    $pos = strrpos($urlInfo['host'], $url);
+    if ($pos === false) {
+        continue;
+    }
+    if (substr($urlInfo['host'], $pos) != $url) {
+        continue;
+    }
+    $isValidate = true;
+}
+//漏洞修复，不在域名白名单报错
+if (!$isValidate) {
+    Ko_Web_Route::V404();
+    exit;
+}</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkc2hhcmVfbGluayA9ICdodHRwOi8vd3d3Lm1hZmVuZ3dvLmNuJzsK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICBjb25zdCBTQUxUID0gJzJlYTY0MWFiNWU3Y2E2ZTlmOTdmMTAzMTQwMWU3NTljJzsKICAgIGNvbnN0IEZPUk1fUEFSQU1fTkFNRSA9ICdfX2N0a19fJzsKCiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIHNHZW5Ub2tlbigkc0FwcCA9ICcnKSB7CiAgICAgICAgJHNBcHAgPSBtZDUoJHNBcHAuIl8iLnRpbWUoKSk7CiAgICAgICAgJHNUb2tlbiA9IG1kNShzZWxmOjpTQUxULidfJy4kc0FwcC4nXycuc2Vzc2lvbl9pZCgpKS4iXyIuJHNBcHA7CiAgICAgICAgcmV0dXJuICRzVG9rZW47CiAgICB9CiAgICAKICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gYkNoZWNrRm9ybVRva2VuKCkgewogICAgICAgICRzVG9rZW4gPSAkX1BPU1Rbc2VsZjo6Rk9STV9QQVJBTV9OQU1FXTsKICAgICAgICByZXR1cm4gc2VsZjo6YkNoZWNrVG9rZW4oJHNUb2tlbik7CiAgICB9CgogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBiQ2hlY2tUb2tlbigkc1Rva2VuKSB7CiAgICAgICAgJGJWYWxpZCA9IGZhbHNlOwogICAgICAgIGlmKCFlbXB0eSgkc1Rva2VuKSkgewogICAgICAgICAgICBsaXN0KCRzVG9rZW5Db3JlLCAkc0FwcCkgPSBleHBsb2RlKCdfJywgJHNUb2tlbik7CiAgICAgICAgICAgIGlmKCRzVG9rZW5Db3JlID09IG1kNShzZWxmOjpTQUxULidfJy4kc0FwcC4nXycuc2Vzc2lvbl9pZCgpKSkgewogICAgICAgICAgICAgICAgJGJWYWxpZCA9IHRydWU7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuICRiVmFsaWQ7CiAgICB9</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICB2YXJfZHVtcChzdWJzdHIoJHVybEluZm9bJ2hvc3QnXSwgJHBvcykp</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="4">
         <text>if ($isValidate) {
         break;
     }</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAkb3B0aW9uLT5vU2VsZWN0KCdjb3VudCgqKSBhcyBudW0nKTsKICAgICRhUmVzID0gJHRoaXMtPm9wZXJhdGVEYW8tPmFHZXRMaXN0KCRvcHRpb24pOw==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAkb3B0aW9uLT5vQW5kKCdmbGFnIGluICg/KScsICRhRmxhZ3MpOw==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICRvcHRpb24tPm9BbmQoJ3VpZCA9ID8nLCAkaVVpZCk7Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiRvcGVyYXRlTW9kZQ==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
