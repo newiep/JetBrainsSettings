@@ -13,6 +13,7 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/wenda/apps/wenda/answer/Api.php" timestamp="1619799724336">
         <mark key="[" line="297" column="5" />
       </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/flow/node/open/BaseNode.php" timestamp="1652324649133" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/mapi/Tool.php" timestamp="1652178377481" />
       <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1594517077585">
         <mark key="[" line="3" column="22" />
@@ -75,7 +76,7 @@
         <mark key="[" line="19" column="39" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/content-prd/client/facade/reach/service/FeishuService.php" timestamp="1651913874289" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/mobile/mobile/htdocs/nb/webapi/officialguide/og.php" timestamp="1652253338364" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/mobile/mobile/htdocs/nb/webapi/officialguide/og.php" timestamp="1652322258201" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wenda/apps/wenda/event/AnswerForCalendar.php" timestamp="1637471566657">
         <mark key="[" line="22" column="8" />
       </file>
@@ -165,7 +166,7 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/wenda/apps/wenda/user/QaInviteApi.php" timestamp="1651981223877" />
       <file name="$USER_HOME$/Code/Work/mafengwo/outdated/www2011/include/qrcode/Facade.php" timestamp="1652077139972" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wenda/apps/wenda/facade/user/QaInviteApi.php" timestamp="1651981213401" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/guide/facade/InfoFlow.php" timestamp="1652174904620">
+      <file name="$USER_HOME$/Code/Work/mafengwo/guide/facade/InfoFlow.php" timestamp="1652323328216">
         <mark key="[" line="24" column="14" />
         <mark key="]" line="16" column="73" />
         <mark key="." line="16" column="73" />
@@ -246,10 +247,11 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/app/ultron/Task.php" timestamp="1652238611149">
         <mark key="[" line="61" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/mobile/mobile/htdocs/nb/webapi/officialguide/book.php" timestamp="1652320931070">
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="14" column="38" />
-        <mark key="." line="14" column="38" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/mobile/mobile/htdocs/nb/webapi/officialguide/book.php" timestamp="1652324531115">
+        <mark key="[" line="81" column="14" />
+        <mark key="]" line="81" column="14" />
+        <mark key="^" line="14" column="5" />
+        <mark key="." line="81" column="14" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/content/unit/Typography.php" timestamp="1651821451556">
         <mark key="[" line="12" column="1" />
@@ -269,7 +271,7 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/rss/mapi/WengFlowItem.php" timestamp="1574598737222">
         <mark key="[" line="23" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/facade/inner/InfoFlow.php" timestamp="1652320917086" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/facade/inner/InfoFlow.php" timestamp="1652324585733" />
       <file name="$USER_HOME$/Code/Work/mafengwo/offcialguide/admin/htdocs/api/officialguide.php" timestamp="1652153010245" />
       <file name="$USER_HOME$/Code/Work/mafengwo/gonglve/www2011/include/guide/article/customization/Api.php" timestamp="1652171606907" />
       <file name="$USER_HOME$/Code/Work/mafengwo/guide/control/GuideOverviewApi.php" timestamp="1652258364577" />
@@ -421,10 +423,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>boundary</text>
+        <text>: []</text>
       </register>
       <register name="-" type="4">
-        <text>boundary</text>
+        <text>: []</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -433,45 +435,40 @@
         <text encoding="base64">ICAgICAgICAgICAgKCR0aGlzLT5nZXRJbWdSYXRpbygkcDEpID4gMSAmJiAkdGhpcy0+Z2V0SW1nUmF0aW8oJHAyKSA+IDEpIHx8Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiR0eXBlID0gbmV3IE1Db250ZW50X1VuaXRfVHlwb2dyYXBoeSgpOwokbWFwID0gPDw8SlNPTgp7IjE3MDI2NDIxNDIiOnsiZyI6eyJvIjoiMCIsInMiOiIyIiwiciI6IjIuMDI3MDI3MDI3MDI3In0sInQiOiJpIiwiYyI6MTcwMjY0MjE0MX0sIjE3MDI2NDIxNDgiOnsiZyI6eyJvIjoiMiIsInMiOiI0IiwiciI6IjIuMDI3MDI3MDI3MDI3In0sInQiOiJpIiwiYyI6MTcwMjY0MjE0N30sIjE3MDI2NDIxNDAiOnsidCI6ImkiLCJjIjoxNzAyNjQyMTM5fSwiMTcwMjY0MjE0NCI6eyJ0IjoiaSIsImMiOjE3MDI2NDIxNDN9LCIxNzAyNzgyMjg5Ijp7ImMiOiIiLCJzbiI6Ilx1NjU4N1x1NWI1N1x1NmJiNVx1ODQzZCIsInN0IjoidDEiLCJ0IjoicyJ9LCIxNzAyNjQyMTQ2Ijp7ImciOnsibyI6IjAiLCJzIjoiMiIsInIiOiIzLjA5OTE3MzU1MzcxOSJ9LCJ0IjoiaSIsImMiOjE3MDI2NDIxNDV9LCIxNzAyNjQyMTU4Ijp7ImciOnsibyI6IjIiLCJzIjoiMiIsInIiOiIzLjA5OTE3MzU1MzcxOSJ9LCJ0IjoiaSIsImMiOjE3MDI2NDIxNTd9LCIxNzAyNjQyMTM4Ijp7ImciOnsibyI6IjQiLCJzIjoiMiIsInIiOiIzLjA5OTE3MzU1MzcxOSJ9LCJ0IjoiaSIsImMiOjE3MDI2NDIxMzd9fQpKU09OOwoKJG1hcCA9IGpzb25fZGVjb2RlKCRtYXAsIHRydWUpOwokcmVzID0gJHR5cGUtPnNldENvbnRlbnRNYXAoJG1hcCktPmNsZWFuKCk7CnZhcl9kdW1wKCRyZXMpOwo=</text>
+        <text encoding="base64">aWYgKCRzaG93WydtZGQnXSkgewogICAgICAgICAgICAkbWRkSW5mbyA9IFsKICAgICAgICAgICAgICAgICdpZCcgPT4gJHNob3dbJ21kZCddWzBdWydtZGRpZCddLAogICAgICAgICAgICAgICAgJ25hbWUnID0+ICRzaG93WydtZGQnXVswXVsnbmFtZSddLAogICAgICAgICAgICBdOwogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Ci8v5a6Y5pa55pS755Wl6aG15L+h5oGv5rWB5YiX6KGoCktvX1dlYl9Sb3V0ZTo6VkdldCgnZ2V0X3JlY29tbWVuZF9saXN0JywgZnVuY3Rpb24gKCkgewogICAgJHNKc29uRGF0YSA9IEtvX1dlYl9SZXF1ZXN0OjpTR2V0KCdqc29uZGF0YScpOwogICAgaWYgKCFlbXB0eSgkc0pzb25EYXRhKSkgewogICAgICAgICRhSnNvbkRhdGEgPSBqc29uX2RlY29kZSgkc0pzb25EYXRhLCB0cnVlKTsKICAgICAgICAkc1RhYklkID0gJGFKc29uRGF0YVsndGFiX2lkJ107CiAgICAgICAgJHNQYWdlSWQgPSAkYUpzb25EYXRhWydwYWdlX2lkJ107CiAgICAgICAgJGlPZmZzZXQgPSAkYUpzb25EYXRhWydib3VuZGFyeSddOwogICAgICAgICRpTGltaXQgPSAkYUpzb25EYXRhWydsaW1pdCddOwogICAgfSBlbHNlIHsKICAgICAgICAkc1RhYklkID0gaHRtbHNwZWNpYWxjaGFycyhcS29fV2ViX1JlcXVlc3Q6OlNHZXQoJ3RhYl9pZCcpLCBFTlRfUVVPVEVTKTsKICAgICAgICAkc1BhZ2VJZCA9IGh0bWxzcGVjaWFsY2hhcnMoXEtvX1dlYl9SZXF1ZXN0OjpTR2V0KCdwYWdlX2lkJyksIEVOVF9RVU9URVMpOwogICAgICAgICRpT2Zmc2V0ID0gaHRtbHNwZWNpYWxjaGFycyhcS29fV2ViX1JlcXVlc3Q6OlNHZXQoJ2JvdW5kYXJ5JyksIEVOVF9RVU9URVMpOwogICAgICAgICRpTGltaXQgPSBodG1sc3BlY2lhbGNoYXJzKFxLb19XZWJfUmVxdWVzdDo6U0dldCgnbGltaXQnKSwgRU5UX1FVT1RFUyk7CiAgICB9CgogICAgJGlPZmZzZXQgPSAhZW1wdHkoJGlPZmZzZXQpID8gJGlPZmZzZXQgOiAwOwogICAgJGlMaW1pdCA9ICFlbXB0eSgkaUxpbWl0KSA/ICRpTGltaXQgOiAxMDsKICAgIGxpc3QoJGlUb3RhbCwgJGFMaXN0KSA9CiAgICAgICAgXGFwcHNcb2ZmY2lhbGd1aWRlXE1GYWNhZGVfT2ZmaWNpYWxHdWlkZUFwaTo6YUdldEZsb3dEYXRhQnlUYWJJZCgkc1BhZ2VJZCwgJHNUYWJJZCwgJGlPZmZzZXQsICRpTGltaXQpOwogICAgJGFSZXMgPSBbCiAgICAgICAgJ2xpc3QnID0+ICRhTGlzdCwKICAgICAgICAncGFnZScgPT4gWwogICAgICAgICAgICAnbmV4dCcgPT4gJGlPZmZzZXQgKyAkaUxpbWl0IDwgJGlUb3RhbCwKICAgICAgICAgICAgJ25leHRfYm91bmRhcnknID0+ICRpT2Zmc2V0ICsgJGlMaW1pdAogICAgICAgIF0KICAgIF07CiAgICBlY2hvIGpzb25fZW5jb2RlKFsnY29kZScgPT4gMCwgJ21lc3NhZ2UnID0+ICdzdWNjZXNzJywgJ2RhdGEnID0+ICRhUmVzXSk7Cn0pOwoKLy/lrpjmlrnmlLvnlaXotKHnjK7ogIXlkI3ljZUKS29fV2ViX1JvdXRlOjpWR2V0KCdnZXRfY29udHJpYnV0b3JfbGlzdCcsIGZ1bmN0aW9uICgpIHsKICAgICRpT2Zmc2V0ICAgICAgPSBodG1sc3BlY2lhbGNoYXJzKFxLb19XZWJfUmVxdWVzdDo6U0dldCgnYm91bmRhcnknKSwgRU5UX1FVT1RFUyk7CiAgICAkaUxpbWl0ICAgICAgID0gaHRtbHNwZWNpYWxjaGFycyhcS29fV2ViX1JlcXVlc3Q6OlNHZXQoJ2xpbWl0JyksIEVOVF9RVU9URVMpOwogICAgJHBhZ2VJZCAgICAgICA9IFxLb19XZWJfUmVxdWVzdDo6U0dldCgncGFnZV9pZCcpOwogICAgJGNvbnRyaWJ1dG9ycyA9IFxhcHBzXG9mZmNpYWxndWlkZVxNRmFjYWRlX09mZmljaWFsR3VpZGVBcGk6OmFHZXRDb250cmlidXRvckxpc3RCeUNhY2hlKCRwYWdlSWQpOwogICAgJGZvcm1hdFVzZXJMaXN0ID0gW107CiAgICAkdXNlckluZm9NYXAgPSBcYXBwc1xiZWlqaXhpb25nXHVzZXJcTUZhY2FkZV9BcGk6OkFHZXRVc2VycygkY29udHJpYnV0b3JzWydsaXN0J10pOwogICAgZm9yZWFjaCAoJHVzZXJJbmZvTWFwIGFzICR1c2VySW5mbykgewogICAgICAgICRmb3JtYXRVc2VyTGlzdFtdID0gWwogICAgICAgICAgICAndWlkJyAgICAgID0+ICR1c2VySW5mb1snaWQnXSwKICAgICAgICAgICAgJ25hbWUnICAgICA9PiAkdXNlckluZm9bJ25hbWUnXSwKICAgICAgICAgICAgJ2xvZ28nICAgICA9PiAkdXNlckluZm9bJ2xvZ28nXSwKICAgICAgICAgICAgJ2p1bXBfdXJsJyA9PiAkdXNlckluZm9bJ2hvbWVfdXJsJ10sCiAgICAgICAgXTsKICAgIH0KCiAgICAkZGF0YSA9IFsKICAgICAgICAnbGlzdCcgPT4gJGZvcm1hdFVzZXJMaXN0LAogICAgICAgICdwYWdlJyA9PiBbCiAgICAgICAgICAgICduZXh0JyAgICAgICAgICA9PiBmYWxzZSwKICAgICAgICAgICAgJ25leHRfYm91bmRhcnknID0+ICRpTGltaXQsCiAgICAgICAgXQogICAgXTsKICAgIHJlc3BvbnNlKCRkYXRhKTsKfSk7CgovL+WumOaWueaUu+eVpei0oeeMruiAheWQjeWNlQpLb19XZWJfUm91dGU6OlZQb3N0KCdwcm9wb3NhbCcsIGZ1bmN0aW9uICgpIHsKICAgICRwaWQgPSBcS29fV2ViX1JlcXVlc3Q6OlNQb3N0KCdwaWQnKTsKICAgICR1aWQgPSBcS29fV2ViX1JlcXVlc3Q6OlNQb3N0KCd1aWQnKTsKICAgICRpc0FjY2VwdCA9IChib29sKVxLb19XZWJfUmVxdWVzdDo6U1Bvc3QoJ2FjY2VwdCcpOwogICAgJGNvbW1lbnQgPSBcS29fV2ViX1JlcXVlc3Q6OlNQb3N0KCdjb21tZW50Jyk7CiAgICAkbG9naW5VaWQgPSBcYXBwc1x1c2VyXE1GYWNhZGVfQXBpOjppTG9naW5VaWQoKTsKICAgICRwcm9wb3NhbERldGFpbCA9IFxhcHBzXG9mZmNpYWxndWlkZVxNRmFjYWRlX09mZmljaWFsR3VpZGVBcGk6OmdldFByb3Bvc2FsKCRwaWQpOwogICAgaWYgKCRwcm9wb3NhbERldGFpbFsnc3RhdHVzJ10gIT0gMCkgewogICAgICAgIHJlc3BvbnNlKFtdKTsKICAgIH0KICAgIGlmICgkaXNBY2NlcHQpIHsKICAgICAgICAkdG1wbElkID0gMjUxOwogICAgICAgICRzdGF0dXMgPSAxOwogICAgfSBlbHNlIHsKICAgICAgICAkdG1wbElkID0gMjUyOwogICAgICAgICRzdGF0dXMgPSAtMTsKICAgIH0KICAgIFxhcHBzXG9mZmNpYWxndWlkZVxNRmFjYWRlX09mZmljaWFsR3VpZGVBcGk6OnVwZGF0ZVByb3Bvc2FsKCRwaWQsIFsKICAgICAgICAnc3RhdHVzJyA9PiAkc3RhdHVzLAogICAgICAgICdhZG1pbl91aWQnPT4gJGxvZ2luVWlkLAogICAgXSk7CiAgICBcYXBwc1x3ZW5nc1xNRmFjYWRlX0lubmVyX0NvbnRlbnRQcmQ6OmlTZW5kU2VjcmV0TWVzc2FnZSgKICAgICAgICAkdWlkLCAxNTEsICR0bXBsSWQsIFsKICAgICAgICAgICAgJ3NvdXJjZScgID0+ICRwcm9wb3NhbERldGFpbFsnY29udGVudCddLAogICAgICAgICAgICAnY29tbWVudCcgPT4gJGNvbW1lbnQgPyAnPGJyPjxicj4nLiRjb21tZW50IDogJycKICAgICAgICBdCiAgICApOwoKICAgIHJlc3BvbnNlKFtdKTsKfSk7Cg==</text>
+        <text>if ($item['busi_type'] == \apps\qianxun\MFacade_Conf::BUSI_TYPE_WENG) {
+            $wengIds[] = $item['cid'];
+        }</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uICgpCiAgICB7CiAgICAgICAgCiAgICB9</text>
+        <text>if ($item['busi_type'] == \apps\qianxun\MFacade_Conf::BUSI_TYPE_WENG) {
+            $wengIds[] = $item['cid'];
+        }
+    }</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">J2hvcml6b250YWxfaW1hZ2UnID0+ICRhR3VpZGVQbGF5SW5mb1snaG9yaXpvbnRhbF9pbWFnZSddID86IG5ldyBcQXJyYXlPYmplY3QoKSwKICAgICAgICAgICAgICAgICd2ZXJ0aWNhbF9pbWFnZScgICA9PiAkYUd1aWRlUGxheUluZm9bJ3ZlcnRpY2FsX2ltYWdlJ10gPzogbmV3IFxBcnJheU9iamVjdCgpLA==</text>
+        <text encoding="base64">CiR0eXBlID0gbmV3IE1Db250ZW50X1VuaXRfVHlwb2dyYXBoeSgpOwokbWFwID0gPDw8SlNPTgp7IjE3MDI2NDIxNDIiOnsiZyI6eyJvIjoiMCIsInMiOiIyIiwiciI6IjIuMDI3MDI3MDI3MDI3In0sInQiOiJpIiwiYyI6MTcwMjY0MjE0MX0sIjE3MDI2NDIxNDgiOnsiZyI6eyJvIjoiMiIsInMiOiI0IiwiciI6IjIuMDI3MDI3MDI3MDI3In0sInQiOiJpIiwiYyI6MTcwMjY0MjE0N30sIjE3MDI2NDIxNDAiOnsidCI6ImkiLCJjIjoxNzAyNjQyMTM5fSwiMTcwMjY0MjE0NCI6eyJ0IjoiaSIsImMiOjE3MDI2NDIxNDN9LCIxNzAyNzgyMjg5Ijp7ImMiOiIiLCJzbiI6Ilx1NjU4N1x1NWI1N1x1NmJiNVx1ODQzZCIsInN0IjoidDEiLCJ0IjoicyJ9LCIxNzAyNjQyMTQ2Ijp7ImciOnsibyI6IjAiLCJzIjoiMiIsInIiOiIzLjA5OTE3MzU1MzcxOSJ9LCJ0IjoiaSIsImMiOjE3MDI2NDIxNDV9LCIxNzAyNjQyMTU4Ijp7ImciOnsibyI6IjIiLCJzIjoiMiIsInIiOiIzLjA5OTE3MzU1MzcxOSJ9LCJ0IjoiaSIsImMiOjE3MDI2NDIxNTd9LCIxNzAyNjQyMTM4Ijp7ImciOnsibyI6IjQiLCJzIjoiMiIsInIiOiIzLjA5OTE3MzU1MzcxOSJ9LCJ0IjoiaSIsImMiOjE3MDI2NDIxMzd9fQpKU09OOwoKJG1hcCA9IGpzb25fZGVjb2RlKCRtYXAsIHRydWUpOwokcmVzID0gJHR5cGUtPnNldENvbnRlbnRNYXAoJG1hcCktPmNsZWFuKCk7CnZhcl9kdW1wKCRyZXMpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">Ci8v5a6Y5pa55pS755Wl6aG15L+h5oGv5rWB5YiX6KGoCktvX1dlYl9Sb3V0ZTo6VkdldCgnZ2V0X3JlY29tbWVuZF9saXN0JywgZnVuY3Rpb24gKCkgewogICAgJHNKc29uRGF0YSA9IEtvX1dlYl9SZXF1ZXN0OjpTR2V0KCdqc29uZGF0YScpOwogICAgaWYgKCFlbXB0eSgkc0pzb25EYXRhKSkgewogICAgICAgICRhSnNvbkRhdGEgPSBqc29uX2RlY29kZSgkc0pzb25EYXRhLCB0cnVlKTsKICAgICAgICAkc1RhYklkID0gJGFKc29uRGF0YVsndGFiX2lkJ107CiAgICAgICAgJHNQYWdlSWQgPSAkYUpzb25EYXRhWydwYWdlX2lkJ107CiAgICAgICAgJGlPZmZzZXQgPSAkYUpzb25EYXRhWydib3VuZGFyeSddOwogICAgICAgICRpTGltaXQgPSAkYUpzb25EYXRhWydsaW1pdCddOwogICAgfSBlbHNlIHsKICAgICAgICAkc1RhYklkID0gaHRtbHNwZWNpYWxjaGFycyhcS29fV2ViX1JlcXVlc3Q6OlNHZXQoJ3RhYl9pZCcpLCBFTlRfUVVPVEVTKTsKICAgICAgICAkc1BhZ2VJZCA9IGh0bWxzcGVjaWFsY2hhcnMoXEtvX1dlYl9SZXF1ZXN0OjpTR2V0KCdwYWdlX2lkJyksIEVOVF9RVU9URVMpOwogICAgICAgICRpT2Zmc2V0ID0gaHRtbHNwZWNpYWxjaGFycyhcS29fV2ViX1JlcXVlc3Q6OlNHZXQoJ2JvdW5kYXJ5JyksIEVOVF9RVU9URVMpOwogICAgICAgICRpTGltaXQgPSBodG1sc3BlY2lhbGNoYXJzKFxLb19XZWJfUmVxdWVzdDo6U0dldCgnbGltaXQnKSwgRU5UX1FVT1RFUyk7CiAgICB9CgogICAgJGlPZmZzZXQgPSAhZW1wdHkoJGlPZmZzZXQpID8gJGlPZmZzZXQgOiAwOwogICAgJGlMaW1pdCA9ICFlbXB0eSgkaUxpbWl0KSA/ICRpTGltaXQgOiAxMDsKICAgIGxpc3QoJGlUb3RhbCwgJGFMaXN0KSA9CiAgICAgICAgXGFwcHNcb2ZmY2lhbGd1aWRlXE1GYWNhZGVfT2ZmaWNpYWxHdWlkZUFwaTo6YUdldEZsb3dEYXRhQnlUYWJJZCgkc1BhZ2VJZCwgJHNUYWJJZCwgJGlPZmZzZXQsICRpTGltaXQpOwogICAgJGFSZXMgPSBbCiAgICAgICAgJ2xpc3QnID0+ICRhTGlzdCwKICAgICAgICAncGFnZScgPT4gWwogICAgICAgICAgICAnbmV4dCcgPT4gJGlPZmZzZXQgKyAkaUxpbWl0IDwgJGlUb3RhbCwKICAgICAgICAgICAgJ25leHRfYm91bmRhcnknID0+ICRpT2Zmc2V0ICsgJGlMaW1pdAogICAgICAgIF0KICAgIF07CiAgICBlY2hvIGpzb25fZW5jb2RlKFsnY29kZScgPT4gMCwgJ21lc3NhZ2UnID0+ICdzdWNjZXNzJywgJ2RhdGEnID0+ICRhUmVzXSk7Cn0pOwoKLy/lrpjmlrnmlLvnlaXotKHnjK7ogIXlkI3ljZUKS29fV2ViX1JvdXRlOjpWR2V0KCdnZXRfY29udHJpYnV0b3JfbGlzdCcsIGZ1bmN0aW9uICgpIHsKICAgICRpT2Zmc2V0ICAgICAgPSBodG1sc3BlY2lhbGNoYXJzKFxLb19XZWJfUmVxdWVzdDo6U0dldCgnYm91bmRhcnknKSwgRU5UX1FVT1RFUyk7CiAgICAkaUxpbWl0ICAgICAgID0gaHRtbHNwZWNpYWxjaGFycyhcS29fV2ViX1JlcXVlc3Q6OlNHZXQoJ2xpbWl0JyksIEVOVF9RVU9URVMpOwogICAgJHBhZ2VJZCAgICAgICA9IFxLb19XZWJfUmVxdWVzdDo6U0dldCgncGFnZV9pZCcpOwogICAgJGNvbnRyaWJ1dG9ycyA9IFxhcHBzXG9mZmNpYWxndWlkZVxNRmFjYWRlX09mZmljaWFsR3VpZGVBcGk6OmFHZXRDb250cmlidXRvckxpc3RCeUNhY2hlKCRwYWdlSWQpOwogICAgJGZvcm1hdFVzZXJMaXN0ID0gW107CiAgICAkdXNlckluZm9NYXAgPSBcYXBwc1xiZWlqaXhpb25nXHVzZXJcTUZhY2FkZV9BcGk6OkFHZXRVc2VycygkY29udHJpYnV0b3JzWydsaXN0J10pOwogICAgZm9yZWFjaCAoJHVzZXJJbmZvTWFwIGFzICR1c2VySW5mbykgewogICAgICAgICRmb3JtYXRVc2VyTGlzdFtdID0gWwogICAgICAgICAgICAndWlkJyAgICAgID0+ICR1c2VySW5mb1snaWQnXSwKICAgICAgICAgICAgJ25hbWUnICAgICA9PiAkdXNlckluZm9bJ25hbWUnXSwKICAgICAgICAgICAgJ2xvZ28nICAgICA9PiAkdXNlckluZm9bJ2xvZ28nXSwKICAgICAgICAgICAgJ2p1bXBfdXJsJyA9PiAkdXNlckluZm9bJ2hvbWVfdXJsJ10sCiAgICAgICAgXTsKICAgIH0KCiAgICAkZGF0YSA9IFsKICAgICAgICAnbGlzdCcgPT4gJGZvcm1hdFVzZXJMaXN0LAogICAgICAgICdwYWdlJyA9PiBbCiAgICAgICAgICAgICduZXh0JyAgICAgICAgICA9PiBmYWxzZSwKICAgICAgICAgICAgJ25leHRfYm91bmRhcnknID0+ICRpTGltaXQsCiAgICAgICAgXQogICAgXTsKICAgIHJlc3BvbnNlKCRkYXRhKTsKfSk7CgovL+WumOaWueaUu+eVpei0oeeMruiAheWQjeWNlQpLb19XZWJfUm91dGU6OlZQb3N0KCdwcm9wb3NhbCcsIGZ1bmN0aW9uICgpIHsKICAgICRwaWQgPSBcS29fV2ViX1JlcXVlc3Q6OlNQb3N0KCdwaWQnKTsKICAgICR1aWQgPSBcS29fV2ViX1JlcXVlc3Q6OlNQb3N0KCd1aWQnKTsKICAgICRpc0FjY2VwdCA9IChib29sKVxLb19XZWJfUmVxdWVzdDo6U1Bvc3QoJ2FjY2VwdCcpOwogICAgJGNvbW1lbnQgPSBcS29fV2ViX1JlcXVlc3Q6OlNQb3N0KCdjb21tZW50Jyk7CiAgICAkbG9naW5VaWQgPSBcYXBwc1x1c2VyXE1GYWNhZGVfQXBpOjppTG9naW5VaWQoKTsKICAgICRwcm9wb3NhbERldGFpbCA9IFxhcHBzXG9mZmNpYWxndWlkZVxNRmFjYWRlX09mZmljaWFsR3VpZGVBcGk6OmdldFByb3Bvc2FsKCRwaWQpOwogICAgaWYgKCRwcm9wb3NhbERldGFpbFsnc3RhdHVzJ10gIT0gMCkgewogICAgICAgIHJlc3BvbnNlKFtdKTsKICAgIH0KICAgIGlmICgkaXNBY2NlcHQpIHsKICAgICAgICAkdG1wbElkID0gMjUxOwogICAgICAgICRzdGF0dXMgPSAxOwogICAgfSBlbHNlIHsKICAgICAgICAkdG1wbElkID0gMjUyOwogICAgICAgICRzdGF0dXMgPSAtMTsKICAgIH0KICAgIFxhcHBzXG9mZmNpYWxndWlkZVxNRmFjYWRlX09mZmljaWFsR3VpZGVBcGk6OnVwZGF0ZVByb3Bvc2FsKCRwaWQsIFsKICAgICAgICAnc3RhdHVzJyA9PiAkc3RhdHVzLAogICAgICAgICdhZG1pbl91aWQnPT4gJGxvZ2luVWlkLAogICAgXSk7CiAgICBcYXBwc1x3ZW5nc1xNRmFjYWRlX0lubmVyX0NvbnRlbnRQcmQ6OmlTZW5kU2VjcmV0TWVzc2FnZSgKICAgICAgICAkdWlkLCAxNTEsICR0bXBsSWQsIFsKICAgICAgICAgICAgJ3NvdXJjZScgID0+ICRwcm9wb3NhbERldGFpbFsnY29udGVudCddLAogICAgICAgICAgICAnY29tbWVudCcgPT4gJGNvbW1lbnQgPyAnPGJyPjxicj4nLiRjb21tZW50IDogJycKICAgICAgICBdCiAgICApOwoKICAgIHJlc3BvbnNlKFtdKTsKfSk7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>$aTabInfo      = [];
-            $aWendaInfo    = [];</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uICgpCiAgICB7CiAgICAgICAgCiAgICB9</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">J2dvb2RzX2l0ZW1zJyAgICAgID0+ICRhR3VpZGVQbGF5SW5mb1snZ29vZHNfaXRlbXMnXSA/OiBbXSwKICAgICAgICAgICAgICAgICdnb29kc19hbGJ1bScgICAgICA9PiAkYUd1aWRlUGxheUluZm9bJ2dvb2RzX2FsYnVtJ10gPzogW10sCiAgICAgICAgICAgICAgICAnY29sbGVjdGlvbl9pbmZvJyAgPT4gJGFHdWlkZVBsYXlJbmZvWydjb2xsZWN0aW9uJ10gPzogbmV3IFxBcnJheU9iamVjdCgpLA==</text>
+        <text encoding="base64">J2hvcml6b250YWxfaW1hZ2UnID0+ICRhR3VpZGVQbGF5SW5mb1snaG9yaXpvbnRhbF9pbWFnZSddID86IG5ldyBcQXJyYXlPYmplY3QoKSwKICAgICAgICAgICAgICAgICd2ZXJ0aWNhbF9pbWFnZScgICA9PiAkYUd1aWRlUGxheUluZm9bJ3ZlcnRpY2FsX2ltYWdlJ10gPzogbmV3IFxBcnJheU9iamVjdCgpLA==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">J3RhYnNfaW5mbycgICAgICAgID0+ICRhVGFiSW5mbywKICAgICAgICAgICAgICAgICd3ZW5kYScgICAgICAgICAgICA9PiAkYVdlbmRhSW5mbyA/OiBuZXcgXEFycmF5T2JqZWN0KCksCiAgICAgICAgICAgICAgICAnYnVzaW5lc3NfaXRlbScgICAgPT4gWydwb3NfaWQnICAgID0+ICJndWlkZV9wbGF5IiAuICcuYWdncmVnYXRlX3BhZ2UuYWdncmVnYXRlX3BhZ2UucGFnZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdwYWdlX25hbWUnID0+ICRhUGFnZUluZm9bJ3RpdGxlJ11dLA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="4">
-        <text>if ($sModulePrefix == MConf_OfficialGuideFormConf::MODULE_NEW_INFOFLOW) {
-                    $aTabInfo = $aModuleWithStyle;
-                } elseif ($sModulePrefix == MConf_OfficialGuideFormConf::MODULE_WANFA_GUIDE) {
-                    $aGuidePlayInfo = $aModuleWithStyle;
-                } elseif ($sModulePrefix == MConf_OfficialGuideFormConf::MODULE_WENDA) {
-                    $aWendaInfo = $aModuleWithStyle;
-                } else {
-                    if (!empty($aModuleWithStyle)) {
-                        $aModuleDetail[] = $aModuleWithStyle;
-                    }
-                }</text>
+        <text>$aTabInfo      = [];
+            $aWendaInfo    = [];</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
