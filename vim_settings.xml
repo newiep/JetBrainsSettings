@@ -11,13 +11,25 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/facade/inner/Mdd.php" timestamp="1590942475968">
         <mark key="[" line="202" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1651149137627">
+      <file name="/a.dummy" timestamp="1653295504980">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/video/module/migrate/po/Sync.php" timestamp="1653296216922">
+        <mark key="[" line="241" column="15" />
+        <mark key="]" line="241" column="15" />
+        <mark key="." line="241" column="15" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wenda/apps/wenda/answer/Api.php" timestamp="1619799724336">
         <mark key="[" line="297" column="5" />
       </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/video/module/migrate/TencentSyncerConsumer.php" timestamp="1653295216724" />
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/info/Api.php" timestamp="1653012690310" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/video/test.php" timestamp="1653296691842">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="15" column="8" />
+        <mark key="." line="18" column="4" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1594517077585">
         <mark key="[" line="3" column="22" />
       </file>
@@ -30,7 +42,9 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Exception/InvalidArgumentException.php" timestamp="1574593989844">
         <mark key="[" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/video/script/cron/tencent/syncer/TencentSyncerRetry.php" timestamp="1653121101228" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/video/script/cron/tencent/syncer/TencentSyncerRetry.php" timestamp="1653296792653">
+        <mark key="[" line="78" column="7" />
+      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/note/mobile/htdocs/note/rest/note/publish/publish_note.v1.php" timestamp="1653010215065" />
       <file name="$USER_HOME$/Code/Work/mafengwo/video/script/cron/hls/syncSourceFileByVideoId.php" timestamp="1653119363936" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wenda/apps/wenda/expert/service/Api.php" timestamp="1613909168960">
@@ -49,8 +63,18 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/daren/Service.php" timestamp="1613911056250">
         <mark key="[" line="48" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/video/module/migrate/TencentSyncer.php" timestamp="1653120883156" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/video/module/migrate/constants/SyncStatusEnum.php" timestamp="1653120995884" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/video/module/migrate/TencentSyncer.php" timestamp="1653296798698">
+        <mark key="[" line="159" column="35" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="31" />
+      </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/video/module/storage/impl/Tencent.php" timestamp="1653295267392" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/video/module/migrate/constants/SyncStatusEnum.php" timestamp="1653296766531">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/facade/inner/Mobile.php" timestamp="1652253537776">
         <mark key="[" line="47" column="5" />
       </file>
@@ -63,7 +87,7 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/content-image/proxy/Image.php" timestamp="1649819753743">
         <mark key="[" line="51" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/video/module/util/File.php" timestamp="1653015841775">
+      <file name="$USER_HOME$/Code/Work/mafengwo/video/module/util/File.php" timestamp="1653295901247">
         <mark key="[" line="102" column="26" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/video/file/HandleFenyu.php" timestamp="1653119334606" />
@@ -82,7 +106,9 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/Const.php" timestamp="1651830514746">
         <mark key="[" line="34" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/video/module/migrate/dao/Sync.php" timestamp="1653121118242" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/video/module/migrate/dao/Sync.php" timestamp="1653295409334">
+        <mark key="[" line="59" column="59" />
+      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/tool/event/events/AfterAdminPublishNote.php" timestamp="1653010843455" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/flow/node/open/FlowItem.php" timestamp="1651721587296">
         <mark key="[" line="52" column="52" />
@@ -295,11 +321,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>\apps\video\</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IFNUQVRVU19NQVhfVFJZX0RFTEVURSA9IDUxOy8vCg==</text>
       </register>
       <register name="-" type="4">
-        <text>\apps\video\</text>
+        <text>过期删除</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -307,35 +333,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKCR0aGlzLT5nZXRJbWdSYXRpbygkcDEpID4gMSAmJiAkdGhpcy0+Z2V0SW1nUmF0aW8oJHAyKSA+IDEpIHx8Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">JG9wdGlvbi0+b0FuZCgiY3RpbWUgPD0gPyIsIGRhdGUoIlktbS1kIEg6aTpzIiwgc3RydG90aW1lKCItNSBtaW51dGVzIikpKTsKICAgICRvcHRpb24tPm9PcmRlckJ5KCJpZCBkZXNjIik7IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IFNUQVRVU19NQVhfVFJZX0RFTEVURSA9IDUxOy8vCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdmcm9tJyAgID0+ICRpRnJvbSwK</text>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKCRzeW5jLT5nZXRUcnlOdW0oKSA+PSAzKSB7CiAgICAgICAgCiAgICB9IGVsc2UgewogICAgICAgICR0ZW5jZW50U3luY2VyLT5wdXNoVG9RdWV1ZSgkc3luYyk7CiAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YUFwaSA9IE1BcHA6OmNyZWF0ZU9iamVjdChNV2VuZ186OmNsYXNzKTsK</text>
+        <text encoding="base64">JG1pc3NlZFRhc2tOdW0gPSAkb3B0aW9uLT5pR2V0Rm91bmRSb3dzKCk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">JG9wdGlvbi0+b0FuZCgiY3RpbWUgPD0gPyIsIGRhdGUoIlktbS1kIEg6aTpzIiwgc3RydG90aW1lKCItNSBtaW51dGVzIikpKTsKJG9wdGlvbi0+b09yZGVyQnkoImlkIGRlc2MiKTsKJG9wdGlvbi0+b0xpbWl0KDUwMCk7CiRvcHRpb24tPm9DYWxjRm91bmRSb3dzKHRydWUpOw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsgCg==</text>
+        <text encoding="base64">ICAgICAgICAkc3luYy0+YWRkVHJ5TnVtKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc3luYy0+YWRkVHJ5TnVtKCR0YXNrKTsK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgTUFwcDo6JGFwcC0+bG9nLT5ydW50aW1lKCd3ZW5nX2ludmlzaWJsZV9jYWxsYmFjaycsICRraW5kS2V5KTsK</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0VHJ5TnVtKCkKICAgIHsKICAgICAgICAKICAgIH0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVhc29uID0gJyc7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">JG9wdGlvbi0+b0FuZCgiY3RpbWUgPD0gPyIsIGRhdGUoIlktbS1kIEg6aTpzIiwgc3RydG90aW1lKCItNSBtaW51dGVzIikpKTsKICAgICRvcHRpb24tPm9PcmRlckJ5KCJpZCBkZXNjIik7IA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdmcm9tJyAgID0+ICRpRnJvbSwK</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
