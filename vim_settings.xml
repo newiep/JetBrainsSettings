@@ -38,6 +38,7 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/script/script/audit_time.php" timestamp="1669190604435" />
       <file name="$USER_HOME$/Code/Work/mafengwo/rss/mapi/tag/DetailV1.php" timestamp="1669347900039" />
       <file name="$USER_HOME$/Code/Work/mafengwo/rss/api/Tag.php" timestamp="1669348022110" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/topic.php" timestamp="1669358718960" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/facade/tag/TopicApi.php" timestamp="1669348081039">
         <mark key="[" line="53" column="5" />
       </file>
@@ -70,11 +71,11 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/shequ/apps/ugcaudit/proxy/Log.php" timestamp="1669172646921" />
       <file name="$USER_HOME$/Code/Work/mafengwo/content-comment/server/Manager/ReplyManager.php" timestamp="1669202856297" />
       <file name="$USER_HOME$/Code/Work/mafengwo/content-comment/server/Lib/Mongo/Client.php" timestamp="1669271437191" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/service/NewArticleDetail.php" timestamp="1669351465610">
-        <mark key="[" line="60" column="13" />
-        <mark key="]" line="60" column="13" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/service/NewArticleDetail.php" timestamp="1669358758769">
+        <mark key="[" line="61" column="25" />
+        <mark key="]" line="67" column="35" />
         <mark key="^" line="49" column="74" />
-        <mark key="." line="60" column="13" />
+        <mark key="." line="67" column="35" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/service/article/WebRender.php" timestamp="1669345456340" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/proxy/Log.php" timestamp="1669262516838" />
@@ -324,10 +325,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICRsb2dvSW5mbyAgPSAkdG9waWNJbmZvWydjb3ZlciddID8gTVRvb2xfTWVkaWFGb3JtYXR0ZXI6Om9JbnN0YW5jZSgpLT5mb3JtYXQoCiAgICAgICAgICAgICAgICAkdG9waWNJbmZvWydjb3ZlciddLCBbTVRvb2xfTWVkaWFGb3JtYXR0ZXI6OklNQUdFX1NNQUxMXQogICAgICAgICAgICApOw==</text>
+        <text>MTool_Math::sTransDisplayNumber(</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>MTool_Math::sTransDisplayNumber(</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
