@@ -7,14 +7,16 @@
     <filemarks>
       <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/service/article/ReplyApi.php" timestamp="1669202568037" />
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/tool/mongo/Model.php" timestamp="1669273449492" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/aggregate/impl/Article.php" timestamp="1669370210488" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/aggregate/impl/Article.php" timestamp="1669372144288">
+        <mark key="[" line="84" column="50" />
+        <mark key="]" line="90" column="26" />
+        <mark key="." line="90" column="26" />
+        <mark key="^" line="90" column="26" />
+      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/itinerary/ItineraryApi.php" timestamp="1669195686084">
         <mark key="[" line="8" column="21" />
         <mark key="]" line="9" column="4" />
         <mark key="." line="9" column="4" />
-      </file>
-      <file name="/a.dummy" timestamp="1669262652460">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/ko/data/RedisK.php" timestamp="1669169156875">
         <mark key="[" line="1323" column="16" />
@@ -28,12 +30,14 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/form/PublishParameter.php" timestamp="1669288359466" />
       <file name="$USER_HOME$/Code/Work/mafengwo/rss/model/tag/Base.php" timestamp="1669347816493" />
       <file name="$USER_HOME$/Code/Work/mafengwo/content-comment/client/facade/enum/comment/BizType.php" timestamp="1669349791071" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/facade/RenderApi.php" timestamp="1669371032486" />
       <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/facade/ArticleApi.php" timestamp="1669369951134" />
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/mapi/list/MyNote.php" timestamp="1669173321199" />
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/info/Api.php" timestamp="1669270852883" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/htdocs_mobile/article.php" timestamp="1669370037047">
+      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/htdocs_mobile/article.php" timestamp="1669372452431">
         <mark key="[" line="21" column="80" />
       </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/group/apps/group/htdocs/mobile/article.php" timestamp="1669371029785" />
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/proxy/Mdd.php" timestamp="1669363494025">
         <mark key="[" line="139" column="8" />
       </file>
@@ -42,12 +46,10 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/rss/mapi/tag/DetailV1.php" timestamp="1669347900039" />
       <file name="$USER_HOME$/Code/Work/mafengwo/rss/api/Tag.php" timestamp="1669348022110" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/topic.php" timestamp="1669358718960" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/facade/tag/TopicApi.php" timestamp="1669348081039">
-        <mark key="[" line="53" column="5" />
-      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/content-image/facade/Status.php" timestamp="1669172390025">
         <mark key="[" line="25" column="5" />
       </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/aggregate/impl/Weng.php" timestamp="1669370720575" />
       <file name="$USER_HOME$/Code/Work/mafengwo/note/mobile/htdocs/note/rest/note/itinerary/get_mdd_tree.v1.php" timestamp="1669363079713">
         <mark key="[" line="16" column="40" />
         <mark key="]" line="22" column="27" />
@@ -65,6 +67,7 @@
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/config/QZ.php" timestamp="1669347117027" />
       <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/htdocs_mapi/feng_group/publish/publish_post.v1.php" timestamp="1669280400234" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/aggregate/render/Video.php" timestamp="1669371881549" />
       <file name="$USER_HOME$/Code/Work/mafengwo/note/mobile/htdocs/note/rest/note/itinerary/get_mdd_tree_city_list.v1.php" timestamp="1669190137718">
         <mark key="[" line="38" column="18" />
         <mark key="]" line="24" column="0" />
@@ -74,20 +77,17 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/shequ/apps/ugcaudit/proxy/Log.php" timestamp="1669172646921" />
       <file name="$USER_HOME$/Code/Work/mafengwo/content-comment/server/Manager/ReplyManager.php" timestamp="1669202856297" />
       <file name="$USER_HOME$/Code/Work/mafengwo/content-comment/server/Lib/Mongo/Client.php" timestamp="1669271437191" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/service/NewArticleDetail.php" timestamp="1669370217570">
+      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/service/NewArticleDetail.php" timestamp="1669372457001">
         <mark key="[" line="80" column="12" />
         <mark key="]" line="67" column="35" />
         <mark key="^" line="49" column="74" />
         <mark key="." line="67" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/service/article/WebRender.php" timestamp="1669345456340" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/service/article/WebRender.php" timestamp="1669371376888" />
       <file name="$USER_HOME$/Code/Work/mafengwo/mdd/apps/mdd/facade/parentsApi.php" timestamp="1669360955878" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/proxy/Log.php" timestamp="1669262516838" />
       <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/api/Comment.php" timestamp="1669351028239" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/activity/calendar_2021.php" timestamp="1669281081678" />
-      <file name="/fragment.php" timestamp="1669288917025">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/proxy/File.php" timestamp="1669260844578" />
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/info/Dao.php" timestamp="1669195777604">
         <mark key="[" line="4" column="11" />
@@ -107,12 +107,16 @@
         <mark key="]" line="65" column="58" />
         <mark key="." line="65" column="58" />
       </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/aggregate/render/Image.php" timestamp="1669372055021" />
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/Const.php" timestamp="1669271857945" />
       <file name="$USER_HOME$/Code/Work/mafengwo/content-prd/client/facade/view/AbstractRead.php" timestamp="1669280602268">
         <mark key="[" line="85" column="72" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/mapi/Like.php" timestamp="1669201279879">
         <mark key="[" line="154" column="54" />
+      </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/aggregate/impl/Show.php" timestamp="1669370661725">
+        <mark key="[" line="11" column="5" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/calendar2022/service/Config.php" timestamp="1669260988801">
         <mark key="[" line="84" column="13" />
@@ -129,9 +133,6 @@
         <mark key="." line="399" column="17" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/service/article/Dao.php" timestamp="1669369908876" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/flow/list/WengOpen.php" timestamp="1669098394211">
-        <mark key="[" line="50" column="5" />
-      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/form/WengLbs.php" timestamp="1669289379835" />
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/facade/User.php" timestamp="1669174446347" />
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/facade/Savebox.php" timestamp="1669189636473" />
@@ -147,11 +148,12 @@
         <mark key="[" line="1597" column="40" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/content-comment/server/Manager/SyncReplyManager.php" timestamp="1669202786357" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/api/User.php" timestamp="1669085451306">
-        <mark key="[" line="375" column="0" />
-      </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/qianxun/facade/Conf.php" timestamp="1669370646621" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/aggregate/render/Container.php" timestamp="1669371907389" />
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/facade/Info.php" timestamp="1669173484882" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/aggregate/Render.php" timestamp="1669370024075" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/aggregate/Render.php" timestamp="1669370655877">
+        <mark key="[" line="50" column="58" />
+      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/proxy/Mdd.php" timestamp="1669360647341" />
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/info/mongo/Savebox.php" timestamp="1669273132226" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/script/app/FacadeClient.php" timestamp="1669190730617" />
@@ -180,23 +182,18 @@
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/info/SaveboxApi.php" timestamp="1669272337167" />
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/facade/Const.php" timestamp="1669173605857" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/aggregate/render/Album.php" timestamp="1669356108671" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/aggregate/render/Album.php" timestamp="1669372188643">
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="26" column="15" />
+        <mark key="." line="26" column="15" />
+      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/proxy/Poi.php" timestamp="1669281306361" />
       <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/facade/GroupApi.php" timestamp="1669345468778" />
       <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/facade/ReplyApi.php" timestamp="1669202543579" />
-      <file name="/Dummy.txt" timestamp="1669351824223">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/test.php" timestamp="1669016777254">
-        <mark key="[" line="24" column="75" />
-      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/calendar2022/service/Gambler.php" timestamp="1669260686796">
         <mark key="[" line="77" column="43" />
         <mark key="]" line="77" column="43" />
         <mark key="." line="77" column="43" />
-      </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/content-image/facade/enum/Status.php" timestamp="1669090070922">
-        <mark key="[" line="14" column="49" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/activity/calendar_2022.php" timestamp="1669281223622">
         <mark key="[" line="339" column="5" />
@@ -332,10 +329,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Chain</text>
+        <text>empty(</text>
       </register>
       <register name="-" type="4">
-        <text>Chain</text>
+        <text>empty(</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
@@ -344,34 +341,34 @@
         <text encoding="base64">ICAgICAgICAgICAgKCR0aGlzLT5nZXRJbWdSYXRpbygkcDEpID4gMSAmJiAkdGhpcy0+Z2V0SW1nUmF0aW8oJHAyKSA+IDEpIHx8Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZvcm1hdENoYWluTWRkSW5mbwo=</text>
+        <text encoding="base64">ICAgICAgICAkdmlkZW8gICAgICA9IG51bGw7CiAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYXkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICRyZWFkeU1hcFskbWRkSWRd</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICdjb250ZW50JyA9PiAkY29udGVudCw=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiAoJHBhcmVudHNJbmZvWydzdGF0ZV9tZGRpZCddICYmICRwYXJlbnRzSW5mb1snc3RhdGVfbWRkaWQnXSAhPSAkbWRkSWQpIHsKICAgICAgICAgICAgICAgICAgICAkcmVhZHlNYXBbJG1kZElkXVtdID0gJHBhcmVudHNJbmZvWydwcm92aW5jZV9tZGRpZCddOwogICAgICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKCR2aWRlbykgewoKICAgICAgICB9</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkcGFyZW50c0luZm8gYXMgJCkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">JGFNZWRpYXNbXSA9IFsKICAgICAgICAgICAgJ3ZpZGVvX2NlbnNvcl9yZXQnID0+ICRhVmlkZW9DZW5zb3JNYXBbJHZpZGVvSXRlbVsncmVzb3VyY2UnXV0sCiAgICAgICAgICAgICd0eXBlJyAgICAgID0+IE1TZXJ2aWNlX0FydGljbGVfQXJ0aWNsZUFwaTo6TUVESUFfVFlQRV9WSURFTywKICAgICAgICAgICAgJ2RhdGEnICAgICAgPT4gWwogICAgICAgICAgICAgICAgJ3RodW1ibmFpbCcgPT4gWwogICAgICAgICAgICAgICAgICAgICd3aWR0aCcgPT4gJHZpZGVvSXRlbVsnbWV0YSddWyd3aWR0aCddLAogICAgICAgICAgICAgICAgICAgICdoZWlnaHQnID0+ICR2aWRlb0l0ZW1bJ21ldGEnXVsnaGVpZ2h0J10sCiAgICAgICAgICAgICAgICAgICAgJ3NpbWcnID0+ICRvRmlsZS0+U1pvb21HVEUoJGFJdGVtWyd0aHVtYiddLCA0MDAsIDQwMCksCiAgICAgICAgICAgICAgICAgICAgJ21pbWcnID0+ICRvRmlsZS0+U1pvb21HVEUoJGFJdGVtWyd0aHVtYiddLCA2MDAsIDYwMCksCiAgICAgICAgICAgICAgICAgICAgJ2JpbWcnID0+ICRvRmlsZS0+U1pvb21HVEUoJGFJdGVtWyd0aHVtYiddLCA3NTAsIDc1MCksCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgJ2hkX3VybCcgPT4gJGFWaWRlb1BsYXlJbmZvWydoZF91cmwnXSwKICAgICAgICAgICAgICAgICdtZF91cmwnID0+ICRhVmlkZW9QbGF5SW5mb1snbWRfdXJsJ10sCiAgICAgICAgICAgICAgICAnbGRfdXJsJyA9PiAkYVZpZGVvUGxheUluZm9bJ2xkX3VybCddLAogICAgICAgICAgICAgICAgJ2R1cmF0aW9uJyA9PiAkYVZpZGVvUGxheUluZm9bJ2R1cmF0aW9uJ10sCiAgICAgICAgICAgICAgICAnZmlsZXNpemUnID0+ICRhVmlkZW9QbGF5SW5mb1snZmlsZV9zaXplJ10sCiAgICAgICAgICAgIF0sCiAgICAgICAgXTs=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICRsb2dvSW5mbyAgPSAkdG9waWNJbmZvWydjb3ZlciddID8gTVRvb2xfTWVkaWFGb3JtYXR0ZXI6Om9JbnN0YW5jZSgpLT5mb3JtYXQoCiAgICAgICAgICAgICAgICAkdG9waWNJbmZvWydjb3ZlciddLCBbTVRvb2xfTWVkaWFGb3JtYXR0ZXI6OklNQUdFX1NNQUxMXQogICAgICAgICAgICApOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkYVZpZGVvQ2Vuc29yTWFwID0gc2VsZjo6YUdldFZpZGVvQ2Vuc29yUmV0KFskdmlkZW9JdGVtWydyZXNvdXJjZSddXSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgJGV4dEluZm8gPSBcYXBwc1xyc3NcTUZhY2FkZV9JbmZvOjpnZXRUb3BpY0luZm8oJGZpcnN0VG9waWNbJ3RleHQnXSk7</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgXGFwcHNcd2VuZ3NcTU1hcGlfV2VuZzo6YUdldFRvcGljQmVsb25nV2VuZygpOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGZvcm1hdENoYWluTWRkSW5mbwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgLyoqCiAgICAgICAgICogQHZhciAkb1dlbmdBcGkgTU1hcGlfV2VuZwogICAgICAgICAqLwogICAgICAgICRvV2VuZ0FwaSA9IE1BcHA6OmNyZWF0ZU9iamVjdChNTWFwaV9XZW5nOjpjbGFzcyk7CiAgICAgICAgcmV0dXJuIE1BcHA6OiRhcHAtPmNhY2hlLT5nZXRGdW5jQ2FjaGUoWyRvV2VuZ0FwaSwgJ2FHZXRUb3BpY0JlbG9uZ1dlbmcnXSwgWyR3ZW5nSWRdLCAzMCk7CiAgICAgICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyYXkK</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
