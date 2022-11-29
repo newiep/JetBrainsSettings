@@ -18,8 +18,13 @@
         <mark key="[" line="32" column="29" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/proxy/Video.php" timestamp="1669520639667" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Dao/DetailRepo.php" timestamp="1669712465001" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Dao/DetailRepo.php" timestamp="1669715653900" />
       <file name="$USER_HOME$/Code/Work/mafengwo/content-prd/client/facade/interaction/service/WengInteraction.php" timestamp="1669520814835" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Query/DetailQuery.php" timestamp="1669715721049">
+        <mark key="[" line="109" column="57" />
+        <mark key="]" line="109" column="57" />
+        <mark key="." line="109" column="57" />
+      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/movie-lib/proxy/ContentComment.php" timestamp="1669520113977" />
       <file name="$USER_HOME$/Code/Work/mafengwo/note/mobile/htdocs/note/rest/note/itinerary/get_draft.v1.php" timestamp="1669710644224">
         <mark key="[" line="8" column="19" />
@@ -78,8 +83,8 @@
         <mark key="." line="85" column="13" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/tool/Lbs.php" timestamp="1669602678639" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/calendar2022/service/Ranking.php" timestamp="1669712490332">
-        <mark key="[" line="39" column="36" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/calendar2022/service/Ranking.php" timestamp="1669715607300">
+        <mark key="[" line="39" column="32" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/proxy/Base.php" timestamp="1669608890371">
         <mark key="[" line="13" column="7" />
@@ -87,7 +92,9 @@
         <mark key="." line="11" column="4" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/tool/mongo/Client.php" timestamp="1669711247168" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Manager/RankingManager.php" timestamp="1669712074162" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Manager/RankingManager.php" timestamp="1669716290996">
+        <mark key="[" line="294" column="5" />
+      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/form/WengLbs.php" timestamp="1669604672394" />
       <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/client/facade/request/param/ScoreDetailParam.php" timestamp="1669713712319" />
       <file name="$USER_HOME$/Code/Work/mafengwo/content-prd/client/facade/interaction/service/InteractionService.php" timestamp="1669518879511" />
@@ -120,8 +127,9 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/proxy/Badge.php" timestamp="1669619218009">
         <mark key="[" line="14" column="6" />
       </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Manager/PeriodManager.php" timestamp="1669715627054" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/weng/Api.php" timestamp="1669520632067" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Manager/ScoreDetailManager.php" timestamp="1669712456792" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Manager/ScoreDetailManager.php" timestamp="1669716116589" />
       <file name="$USER_HOME$/Code/Work/mafengwo/note/mobile/htdocs/note/rest/note/itinerary/get_search_result_list.v1.php" timestamp="1669607531962">
         <mark key="[" line="97" column="30" />
         <mark key="]" line="97" column="30" />
@@ -150,12 +158,12 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/base/impl/ActionLimiter.php" timestamp="1669615922444" />
       <file name="$USER_HOME$/Code/Work/mafengwo/movie-lib/facade/busi/Common.php" timestamp="1669520661895" />
       <file name="$USER_HOME$/Code/Work/mafengwo/content-prd/client/facade/interaction/service/AbstractInteraction.php" timestamp="1669518930515" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/calendar2022/service/Gambler.php" timestamp="1669712368142">
-        <mark key="[" line="222" column="32" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/calendar2022/service/Gambler.php" timestamp="1669715329358">
+        <mark key="[" line="438" column="44" />
         <mark key="]" line="217" column="0" />
         <mark key="." line="217" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/activity/calendar_2022.php" timestamp="1669713510798">
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/activity/calendar_2022.php" timestamp="1669714760779">
         <mark key="[" line="499" column="109" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/content-image/facade/Uploader.php" timestamp="1669707112121" />
@@ -293,11 +301,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>$candidateId</text>
       </register>
       <register name="-" type="4">
-        <text>$aWhere</text>
+        <text>$candidateId</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
