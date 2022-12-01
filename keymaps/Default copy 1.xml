@@ -1,0 +1,14 @@
+<keymap version="1" name="Default copy 1" parent="Mac OS X 10.5+">
+  <action id="Console.TableResult.Reload" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Find" />
+  <action id="Refresh" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="Rerun" />
+  <action id="Vcs.Log.Refresh" />
+  <action id="hg4idea.QRefresh" />
+</keymap>
