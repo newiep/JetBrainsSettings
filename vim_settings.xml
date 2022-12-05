@@ -37,7 +37,7 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/aggregate/Conf.php" timestamp="1669815314128">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/api/Push.php" timestamp="1670208972646">
+      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/api/Push.php" timestamp="1670210038999">
         <mark key="[" line="291" column="7" />
         <mark key="]" line="2" column="9" />
         <mark key="." line="2" column="9" />
@@ -80,20 +80,20 @@
       <file name="/Dummy.txt" timestamp="1669980825958">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/calendar2022/service/Gambler.php" timestamp="1670208590419">
-        <mark key="[" line="120" column="46" />
-        <mark key="]" line="120" column="46" />
-        <mark key="." line="120" column="46" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/calendar2022/service/Gambler.php" timestamp="1670211732495">
+        <mark key="[" line="421" column="0" />
+        <mark key="]" line="421" column="0" />
+        <mark key="." line="421" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/service/group/MemberManager.php" timestamp="1669904955429">
         <mark key="[" line="196" column="16" />
         <mark key="]" line="196" column="16" />
         <mark key="." line="196" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/activity/calendar_2022.php" timestamp="1670208653405">
-        <mark key="[" line="75" column="19" />
-        <mark key="]" line="73" column="61" />
-        <mark key="." line="73" column="61" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/activity/calendar_2022.php" timestamp="1670211814743">
+        <mark key="[" line="79" column="59" />
+        <mark key="]" line="79" column="59" />
+        <mark key="." line="79" column="59" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/shequ_quanzi/service/article/ArticleApi.php" timestamp="1669904087242">
         <mark key="[" line="1707" column="41" />
@@ -104,8 +104,8 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/mobile/www2011/include/mapi/message/item/Note.php" timestamp="1669974102035">
         <mark key="[" line="198" column="53" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/calendar2022/service/Material.php" timestamp="1670208837084">
-        <mark key="[" line="25" column="25" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/calendar2022/service/Material.php" timestamp="1670211673100">
+        <mark key="[" line="131" column="40" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/calendar2022/service/Config.php" timestamp="1669947242858">
         <mark key="[" line="123" column="8" />
@@ -239,10 +239,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>from_uid</text>
+        <text encoding="base64">CiAgICAgICAgICAgICRyZXMgPSBNVGltZWxpbmVfQ2FsZW5kYXIyMDIyX1NlcnZpY2VfTWF0ZXJpYWw6OlBSSVpFX01BUFskcHJpemVJZF1bJ25hbWUnXQ==</text>
       </register>
       <register name="-" type="4">
-        <text>from_uid</text>
+        <text>$prizeId</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
@@ -251,35 +251,34 @@
         <text encoding="base64">ICAgICAgICAgICAgKCR0aGlzLT5nZXRJbWdSYXRpbygkcDEpID4gMSAmJiAkdGhpcy0+Z2V0SW1nUmF0aW8oJHAyKSA+IDEpIHx8Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">LT5vU2VsZWN0KCd1aWQnKQogICAgICAgICAgICA=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICRyZXMgPSBNVGltZWxpbmVfQ2FsZW5kYXIyMDIyX1NlcnZpY2VfTWF0ZXJpYWw6OlBSSVpFX01BUFskcHJpemVJZF1bJ25hbWUnXQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICA=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICRwcml6ZUlkID0gKGJvb2wpTUFwcDo6JGFwcC0+cmVxdWVzdC0+Z2V0UGFyYW1zKCdwcml6ZScpOw==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">JHRoaXMtPmxpbWl0ZXJTZXJ2aWNlLT5mcmVlKAogICAgICAgICAgICAgICAgJHVpZCwgTVRpbWVsaW5lX0NhbGVuZGFyMjAyMl9TZXJ2aWNlX0xpbWl0ZXI6OlRZUEVfUFJJWkVfQVZBVEFSCiAgICAgICAgICAgICk7CiAgICAgICAgICAgICR0aGlzLT5saW1pdGVyU2VydmljZS0+ZnJlZSgKICAgICAgICAgICAgICAgICR1aWQsIE1UaW1lbGluZV9DYWxlbmRhcjIwMjJfU2VydmljZV9MaW1pdGVyOjpUWVBFX1BSSVpFX01FREFMCiAgICAgICAgICAgICk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBjYWxlbmRhcjIwMjMK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ly/kuIDlpKnkuIDmrKEKICAgICAgICAgICAgJGFsbG93Qm9vc3QgPSA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKCR0aGlzLT5pc0dhbWVVc2VyKCRsb2dpblVpZCkpIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBwdWJsaWMKICAgIGZ1bmN0aW9uIGFkZFVucmVhZFByaXplKCRwcml6ZUlkKQo9PT09PT09</text>
       </register>
-      <register name="6" type="4">
-        <text>$rankingService = new MTimeline_Calendar2022_Service_Ranking();
-        $rankingService = new MTimeline_Calendar2022_Service_Ranking();</text>
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBjYWxlbmRhcjIwMjMK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICR0aGlzLT5hZGRVbnJlYWRQcml6ZSgkcHJpemVJZCk7</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLysxMDAg5Yy65YiG5Zyw5qCHCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBwdWJsaWMKICAgIGZ1bmN0aW9uIGFzc2lnblJld2FyZFRvVXNlcigkcmV3YXJkTGlzdCkKPT09PT09PQ==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdpY29uJyA9PiAkb1Byb3h5SW1nLT5zQ3JvcFN0cmV0Y2goJGJhZGdlSW5mb1snaW1nJ10sIDQ1MCwgNDUwKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIF07</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL1RPRE8g6K+75Y+W5YuL56ug5o6l5Y+j77yM6I635Y+W5L+h5oGvCg==</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
