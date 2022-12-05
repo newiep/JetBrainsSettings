@@ -4,11 +4,15 @@
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="Find" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="Refresh" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
   <action id="Rerun" />
   <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.UpdateProject" />
   <action id="hg4idea.QRefresh" />
 </keymap>
