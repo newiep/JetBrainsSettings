@@ -27,7 +27,7 @@
         <mark key="]" line="20" column="15" />
         <mark key="." line="20" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/proxy/LocalDB.php" timestamp="1670490779814" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/proxy/LocalDB.php" timestamp="1670492081333" />
       <file name="$USER_HOME$/Code/Work/mafengwo/note/mobile/htdocs/note/rest/note/itinerary/get_draft.v1.php" timestamp="1670243790930">
         <mark key="[" line="13" column="6" />
         <mark key="]" line="13" column="26" />
@@ -65,10 +65,10 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/wenda/apps/wenda/question/collectApi.php" timestamp="1670245798987" />
       <file name="$USER_HOME$/Code/Work/mafengwo/outdated/www2011/include/text/TravelNoteContentProcessor.php" timestamp="1670488885702" />
       <file name="$USER_HOME$/Code/Work/mafengwo/outdated/www2011/include/txt/Html.php" timestamp="1670488807827" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/mobile/mobile_api/api/widget/note/get_widget_note.v1.php" timestamp="1670486341440">
-        <mark key="[" line="69" column="5" />
-        <mark key="]" line="87" column="12" />
-        <mark key="." line="87" column="12" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/mobile/mobile_api/api/widget/note/get_widget_note.v1.php" timestamp="1670492348782">
+        <mark key="[" line="71" column="24" />
+        <mark key="]" line="71" column="24" />
+        <mark key="." line="71" column="24" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/mobile/www2011/include/mapi/Request.php" timestamp="1670486157176" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/facade/inner/Note.php" timestamp="1669880632388">
@@ -263,10 +263,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$mRowImg</text>
+        <text>strtolower(</text>
       </register>
       <register name="-" type="4">
-        <text>$mRowImg</text>
+        <text>strtolower(</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
