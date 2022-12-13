@@ -44,16 +44,8 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/Conf.php" timestamp="1670837221867" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/proxy/Queue.php" timestamp="1670816687726" />
       <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/client/facade/service/BoardService.php" timestamp="1670817847450" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/calendar2022/service/Gambler.php" timestamp="1670863171641">
-        <mark key="[" line="440" column="0" />
-        <mark key="]" line="440" column="0" />
-        <mark key="." line="440" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/activity/calendar_2022.php" timestamp="1670862570504">
-        <mark key="[" line="61" column="25" />
-        <mark key="]" line="61" column="25" />
-        <mark key="." line="61" column="25" />
-      </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/calendar2022/service/Gambler.php" timestamp="1670910661161" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/activity/calendar_2022.php" timestamp="1670910834738" />
       <file name="$USER_HOME$/Code/Work/mafengwo/content-ranking/server/Factory/Impl/DatePeriodCode.php" timestamp="1670861767458" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/app/Notify.php" timestamp="1670815501500" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/base/Conf.php" timestamp="1670818160062">
@@ -197,10 +189,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWYgKCRyZXMpIHsKICAgICAgICAgICAgICAgICRpbmNSZXMgPSBzdGF0aWM6OmdldEJlYW5SYW5raW5nTWFuYWdlcigpLT5pbmNyQnlTY29yZSgkZGV0YWlsRE8sICRwYXJhbS0+aXNSZXdyaXRlKCkpOwovLyAgICAgICAgICAgICAgICAvL+WPlua2iOW/q+eFpwovLyAgICAgICAgICAgICAgICAkdGhpcy0+ZG9TbmFwc2hvdFRhc2soJHBhcmFtLT5nZXRCb2FyZElkKCksICRwYXJhbS0+Z2V0UGVyaW9kQ29kZSgpKTsKICAgICAgICAgICAgfQ==</text>
+        <text>from_uid</text>
       </register>
       <register name="-" type="4">
-        <text>账号异常，暂时无法登入</text>
+        <text>from_uid</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
@@ -209,70 +201,35 @@
         <text encoding="base64">ICAgICAgICAgICAgKCR0aGlzLT5nZXRJbWdSYXRpbygkcDEpID4gMSAmJiAkdGhpcy0+Z2V0SW1nUmF0aW8oJHAyKSA+IDEpIHx8Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">aWYgKCRyZXMpIHsKICAgICAgICAgICAgICAgICRpbmNSZXMgPSBzdGF0aWM6OmdldEJlYW5SYW5raW5nTWFuYWdlcigpLT5pbmNyQnlTY29yZSgkZGV0YWlsRE8sICRwYXJhbS0+aXNSZXdyaXRlKCkpOwovLyAgICAgICAgICAgICAgICAvL+WPlua2iOW/q+eFpwovLyAgICAgICAgICAgICAgICAkdGhpcy0+ZG9TbmFwc2hvdFRhc2soJHBhcmFtLT5nZXRCb2FyZElkKCksICRwYXJhbS0+Z2V0UGVyaW9kQ29kZSgpKTsKICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">CiAgICBjb25zdCBHQU1FX1dISVRFX0xJU1QgPSAnJzs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKCRyZXMpIHsKICAgICAgICAgICAgICAgICRpbmNSZXMgPSBzdGF0aWM6OmdldEJlYW5SYW5raW5nTWFuYWdlcigpLT5pbmNyQnlTY29yZSgkZGV0YWlsRE8sICRwYXJhbS0+aXNSZXdyaXRlKCkpOwovLyAgICAgICAgICAgICAgICAvL+WPlua2iOW/q+eFpwovLyAgICAgICAgICAgICAgICAkdGhpcy0+ZG9TbmFwc2hvdFRhc2soJHBhcmFtLT5nZXRCb2FyZElkKCksICRwYXJhbS0+Z2V0UGVyaW9kQ29kZSgpKTsKICAgICAgICAgICAgfQ==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>//开发密钥 wtcq8e10
         //线上密钥 crqsxgm6</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgJGVuZCA9IHN0cnRvdGltZSgnMjAyMi0xMi0yNycpOw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB0b3AyM1VzZXJQcml6ZXMK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkcXVldWUgPSBuZXcgTVByb3h5X1F1ZXVlKCk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">dXNlIGFwcHNcbm90ZVxNUHJveHlfR2FlYTsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVkaXNIYW5kbGVyLT4K</text>
-      </register>
-      <register name="9" type="4">
-        <text>/**
-     * 提前排期，为了执行时没有等待
-     */
-    public function preSchedule()
-    {
-        $time = time() + 3600 + 60;
-        MApp_Ultron_Runner::schedule($time);
-    }
-
-    /**
-     * 制定任务排期
-     */
-    public function schedule()
-    {
-       MApp_Ultron_Runner::schedule();
-    }
-
-    /**
-     * 任务执行
-     */
-    public function execute()
-    {
-        //0分防止排期没有生成，临时sleep 5秒
-        if (date('i') == '00') {
-            sleep(5);
-        }
-        MApp_Ultron_Runner::run();
-    }
-
-    /**
-     * 清理过期、失败任务
-     */
-    public function clean()
-    {
-        MApp_Ultron_Runner::clean();
-    }</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
