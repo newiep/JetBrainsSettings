@@ -6,31 +6,7 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/get_import_assets_tabs.v1.php" timestamp="1693845773298" />
-      <file name="/Dummy.txt" timestamp="1693917979959">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/content-prd/client/facade/view/HiddenViewReAudit.php" timestamp="1693917876303" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/note/mobile/htdocs/note/rest/note/itinerary/get_itinerary_map_detail.v1.php" timestamp="1673938327399">
-        <mark key="[" line="59" column="34" />
-      </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/content-prd/client/facade/view/impl/Guide.php" timestamp="1693917857898" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/video/script/cron/tencent/task/AsyncRequestRetry.php" timestamp="1688657376693">
-        <mark key="[" line="21" column="18" />
-      </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/content-prd/client/facade/view/impl/Question.php" timestamp="1693917848784" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/shequ_activity/model/TTApi.php" timestamp="1680917042916">
-        <mark key="[" line="1112" column="45" />
-        <mark key="]" line="1100" column="72" />
-        <mark key="^" line="1105" column="9" />
-        <mark key="." line="1100" column="72" />
-      </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/content-comment/server/Event/MerchantAdCheck.php" timestamp="1688745265088">
-        <mark key="[" line="41" column="81" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="32" column="11" />
-      </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/advocate/service/Gambler.php" timestamp="1693846278877" />
       <file name="$USER_HOME$/Code/Work/mafengwo/guide/facade/AdminApi.php" timestamp="1693918006512" />
       <file name="$USER_HOME$/Code/Work/mafengwo/guide/facade/admin/SecAuditApi.php" timestamp="1693917942271" />
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/mapi/itinerary/DetailView.php" timestamp="1673938109106">
@@ -42,10 +18,28 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/j.php" timestamp="1694007312811" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/repository/LotteryLog.php" timestamp="1693846303413" />
+      <file name="/Dummy.txt" timestamp="1693917979959">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/base/impl/LotteryCounter.php" timestamp="1694007040866" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/content-prd/client/facade/view/HiddenViewReAudit.php" timestamp="1693917876303" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/note/mobile/htdocs/note/rest/note/itinerary/get_itinerary_map_detail.v1.php" timestamp="1673938327399">
+        <mark key="[" line="59" column="34" />
+      </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/content-prd/client/facade/view/impl/Guide.php" timestamp="1693917857898" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/video/script/cron/tencent/task/AsyncRequestRetry.php" timestamp="1688657376693">
+        <mark key="[" line="21" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/activity/advocate.php" timestamp="1694007254272" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/advocate/service/Gambler.php" timestamp="1694007294739">
+        <mark key="[" line="412" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/base/Conf.php" timestamp="1694006668394" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/calendar2022/service/Ranking.php" timestamp="1671872221051">
         <mark key="[" line="39" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/repository/LotteryLog.php" timestamp="1693846303413" />
     </filemarks>
     <jumps>
       <jump line="50" column="46" filename="$USER_HOME$/Works/webdev/wengs/app/Topic.php" />
@@ -165,11 +159,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JGxpc3QgPSBbXTsK</text>
+      <register name="&quot;" type="4">
+        <text>$prizeId</text>
       </register>
       <register name="-" type="4">
-        <text>$activeUidList</text>
+        <text>$prizeId</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
