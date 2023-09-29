@@ -6,11 +6,11 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/get_import_assets_tabs.v1.php" timestamp="1695917371748" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/light2023/service/Album.php" timestamp="1695978614179">
-        <mark key="[" line="106" column="56" />
-        <mark key="]" line="106" column="57" />
-        <mark key="^" line="106" column="57" />
-        <mark key="." line="106" column="57" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/light2023/service/Album.php" timestamp="1695987015693">
+        <mark key="[" line="40" column="16" />
+        <mark key="]" line="108" column="57" />
+        <mark key="^" line="108" column="57" />
+        <mark key="." line="108" column="57" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/rss/proxy/Aggregate.php" timestamp="1695978924469" />
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/mapi/itinerary/DetailView.php" timestamp="1673938109106">
@@ -39,7 +39,7 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/activity/advocate.php" timestamp="1694524675400">
         <mark key="[" line="51" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/light2023/service/Gambler.php" timestamp="1695982836138">
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/light2023/service/Gambler.php" timestamp="1695984017242">
         <mark key="[" line="124" column="46" />
         <mark key="]" line="134" column="72" />
         <mark key="." line="134" column="72" />
@@ -47,11 +47,14 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/advocate/service/Gambler.php" timestamp="1694530181111">
         <mark key="[" line="412" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/activity/light.php" timestamp="1695940058583">
-        <mark key="[" line="424" column="14" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/activity/light.php" timestamp="1695984998102">
+        <mark key="[" line="418" column="63" />
+        <mark key="]" line="420" column="0" />
+        <mark key="^" line="420" column="20" />
+        <mark key="." line="420" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/light2023/service/Material.php" timestamp="1695979060096" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/light2023/service/Limiter.php" timestamp="1695981748627" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/light2023/service/Limiter.php" timestamp="1695984253342" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/calendar2022/service/Ranking.php" timestamp="1671872221051">
         <mark key="[" line="39" column="32" />
       </file>
@@ -177,8 +180,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>已经 pick 过主张了</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>已经 pick 过主张了</text>
@@ -190,34 +193,39 @@
         <text encoding="base64">ICAgICAgICAgICAgKCR0aGlzLT5nZXRJbWdSYXRpbygkcDEpID4gMSAmJiAkdGhpcy0+Z2V0SW1nUmF0aW8oJHAyKSA+IDEpIHx8Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JGxpc3QgPSBbXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjpsb2dJbmZvKGFycmF5X21lcmdlKCRwYXJhbSwgJHJlc3BvbnNlWydkYXRhJ11bJ2hpdERldGFpbCddKSk7Cg==</text>
+      <register name="3" type="4">
+        <text>$albumList = MTool_MCache::mGetFuncCache(
+            MTimeline_Light2023_Service_Album::class,
+            'getAlbumList',
+            [$topicId, $offset, $limit, false],
+            60
+        );</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ+aJi+acuuWPt+mjjumZqScgPT4gJ04nLAogICAgICAgICAgICAgICAgJ+m7keW6k+mjjumZqScgID0+ICdOJywKICAgICAgICAgICAgICAgICflvq7kv6Hpo47pmaknICA9PiAnTicsCiAgICAgICAgICAgIF0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">JGxpc3QgPSBbXTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">JHJlc3BvbnNlID0ganNvbl9kZWNvZGUoJHJlc3BvbnNlLCB0cnVlKTsKICAgICAgICAgICAgaWYgKEpTT05fRVJST1JfTk9ORSAhPT0ganNvbl9sYXN0X2Vycm9yKCkpIHsKICAgICAgICAgICAgICAgIHNlbGY6OmxvZ1dhcm4oWwogICAgICAgICAgICAgICAgICAgICdyZXBseV9pZCcgPT4gJHBhcmFtWydyZXBseV9pZCddLAogICAgICAgICAgICAgICAgICAgICdlcnInICAgICAgPT4gJ2pzb25fZGVjb2RlIGVycm9yOiAnIC4ganNvbl9sYXN0X2Vycm9yX21zZygpLAogICAgICAgICAgICAgICAgXSk7CiAgICAgICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmOjpsb2dJbmZvKGFycmF5X21lcmdlKCRwYXJhbSwgJHJlc3BvbnNlWydkYXRhJ11bJ2hpdERldGFpbCddKSk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZXJyb3InID0+ICRlcnJvck1zZywK</text>
+      <register name="7" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ+aJi+acuuWPt+mjjumZqScgPT4gJ04nLAogICAgICAgICAgICAgICAgJ+m7keW6k+mjjumZqScgID0+ICdOJywKICAgICAgICAgICAgICAgICflvq7kv6Hpo47pmaknICA9PiAnTicsCiAgICAgICAgICAgIF0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICRjb29raWVKYXIgICA9IENvb2tpZUphcjo6ZnJvbUFycmF5KFsKICAgICAgICAgICAgICAgICdtc3J1bGUucmlza21nbXQubWNvbnRlbnQucHJvZHVjdCcgPT4gJ3YwLjAuMTY4JwogICAgICAgICAgICBdLCAnLm1jb250ZW50LnN2Yy5tZncnKTsKICAgICAgICAgICAgJGNsaWVudCAgICAgID0gbmV3IENsaWVudChbCiAgICAgICAgICAgICAgICAnYmFzZV91cmknID0+ICdodHRwOi8vcmlza21nbXQubWNvbnRlbnQuc3ZjLm1mdy9kcmFpbmFnZS9hbmFseXplJywKICAgICAgICAgICAgICAgICdjb29raWUnICAgPT4gJGNvb2tpZUphciwKICAgICAgICAgICAgXSk7CiAgICAgICAgICAgICRyZXNwb25zZSAgICA9ICRjbGllbnQtPnJlcXVlc3QoJ1BPU1QnLCAnJywgWwogICAgICAgICAgICAgICAgJ2pzb24nID0+IFsKICAgICAgICAgICAgICAgICAgICAnaWQnICAgICAgID0+ICRwYXJhbVsncmVwbHlfaWQnXSwKICAgICAgICAgICAgICAgICAgICAndWlkJyAgICAgID0+IChpbnQpJHBhcmFtWyd1aWQnXSwKICAgICAgICAgICAgICAgICAgICAndGV4dCcgICAgID0+IChzdHJpbmcpJHBhcmFtWydjb250ZW50J10sCiAgICAgICAgICAgICAgICAgICAgJ2JpeklkJyAgICA9PiAoc3RyaW5nKSRwYXJhbVsnYml6X2lkJ10sCiAgICAgICAgICAgICAgICAgICAgJ2JpelR5cGUnICA9PiAoaW50KSRwYXJhbVsnYml6X3R5cGUnXSwKICAgICAgICAgICAgICAgICAgICAnaXNBdXRob3InID0+ICRwYXJhbVsnaXNfYXV0aG9yJ10sCiAgICAgICAgICAgICAgICAgICAgJ3RleHRUeXBlJyA9PiAxLCAvLzE66K+E6K66CiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgIF0pOwogICAgICAgICAgICAkcmVzQ29udGVudHMgPSAkcmVzcG9uc2UtPmdldEJvZHkoKS0+Z2V0Q29udGVudHMoKTs=</text>
+        <text encoding="base64">JHJlc3BvbnNlID0ganNvbl9kZWNvZGUoJHJlc3BvbnNlLCB0cnVlKTsKICAgICAgICAgICAgaWYgKEpTT05fRVJST1JfTk9ORSAhPT0ganNvbl9sYXN0X2Vycm9yKCkpIHsKICAgICAgICAgICAgICAgIHNlbGY6OmxvZ1dhcm4oWwogICAgICAgICAgICAgICAgICAgICdyZXBseV9pZCcgPT4gJHBhcmFtWydyZXBseV9pZCddLAogICAgICAgICAgICAgICAgICAgICdlcnInICAgICAgPT4gJ2pzb25fZGVjb2RlIGVycm9yOiAnIC4ganNvbl9sYXN0X2Vycm9yX21zZygpLAogICAgICAgICAgICAgICAgXSk7CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
