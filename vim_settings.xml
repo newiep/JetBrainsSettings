@@ -6,12 +6,13 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/Works/webdev/wengs/controller/weng_note/publish/get_import_assets_tabs.v1.php" timestamp="1695917371748" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/light2023/service/Album.php" timestamp="1696038467165">
-        <mark key="[" line="40" column="16" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/light2023/service/Album.php" timestamp="1696040299433">
+        <mark key="[" line="113" column="22" />
         <mark key="]" line="108" column="57" />
         <mark key="^" line="108" column="57" />
         <mark key="." line="108" column="57" />
       </file>
+      <file name="$USER_HOME$/Code/Work/mafengwo/ko/data/RedisK.php" timestamp="1696039592100" />
       <file name="$USER_HOME$/Code/Work/mafengwo/rss/proxy/Aggregate.php" timestamp="1695978924469" />
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/mapi/itinerary/DetailView.php" timestamp="1673938109106">
         <mark key="[" line="177" column="55" />
@@ -47,11 +48,11 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/advocate/service/Gambler.php" timestamp="1694530181111">
         <mark key="[" line="412" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/activity/light.php" timestamp="1696038523007">
-        <mark key="[" line="438" column="55" />
-        <mark key="]" line="420" column="0" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/activity/light.php" timestamp="1696040134949">
+        <mark key="[" line="426" column="12" />
+        <mark key="]" line="426" column="12" />
         <mark key="^" line="420" column="20" />
-        <mark key="." line="420" column="0" />
+        <mark key="." line="426" column="12" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/light2023/service/Material.php" timestamp="1695979060096" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/light2023/service/Limiter.php" timestamp="1695984253342" />
@@ -180,11 +181,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$albumList</text>
       </register>
       <register name="-" type="4">
-        <text>已经 pick 过主张了</text>
+        <text>$albumList</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
