@@ -50,7 +50,7 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/content-activity/module/raffle/Storage.php" timestamp="1707024363037">
         <mark key="[" line="137" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/app/Activity.php" timestamp="1707022674421">
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/app/Activity.php" timestamp="1707031059108">
         <mark key="[" line="38" column="33" />
         <mark key="]" line="38" column="33" />
         <mark key="." line="38" column="33" />
@@ -60,10 +60,10 @@
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/info/SaveboxApi.php" timestamp="1706791997461" />
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/calendar2023/service/Material.php" timestamp="1707021383365" />
       <file name="$USER_HOME$/Code/Work/mafengwo/ko/dao/DBHandler.php" timestamp="1706785143207" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/activity/spring2024.php" timestamp="1707029540117">
-        <mark key="[" line="852" column="75" />
-        <mark key="]" line="1075" column="87" />
-        <mark key="." line="1075" column="87" />
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/controller/mobile/activity/spring2024.php" timestamp="1707030855534">
+        <mark key="[" line="197" column="32" />
+        <mark key="]" line="197" column="32" />
+        <mark key="." line="197" column="32" />
         <mark key="^" line="12" column="41" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/spring2024/service/Gambler.php" timestamp="1707029622058">
@@ -94,7 +94,8 @@
         <mark key="[" line="412" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/note/apps/note/info/Dao.php" timestamp="1706785233382" />
-      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/spring2024/push/CallbackUser.php" timestamp="1706864499025">
+      <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/spring2024/push/CallbackUser.php" timestamp="1707031138131">
+        <mark key="[" line="87" column="12" />
         <mark key="^" line="19" column="17" />
       </file>
       <file name="$USER_HOME$/Code/Work/mafengwo/wengs/timeline/calendar2022/service/Ranking.php" timestamp="1671872221051">
@@ -228,10 +229,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICIoeyRzaG93UHJpemVJZH0pIg==</text>
+        <text>$prizeId == 10 ? 1 : 2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICIoeyRzaG93UHJpemVJZH0pIg==</text>
+        <text>$prizeId == 10 ? 1 : 2</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
